@@ -1,0 +1,150 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2041195832679305218"
+      ]
+    },
+    "author_id": "2028430373458456576",
+    "conversation_id": "2041195841118200100",
+    "created_at": "2026-04-06T16:46:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-06T17:46:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2041195841118200100"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Fb5700h39g",
+          "end": 27,
+          "expanded_url": "https://x.com/o65518kuguagua/status/2041195841118200100/photo/1",
+          "media_key": "3_2041195832679305218",
+          "start": 4,
+          "url": "https://t.co/Fb5700h39g"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041195841118200100",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "哦哟呵 https://t.co/Fb5700h39g"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1792,
+        "media_key": "3_2041195832679305218",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFPIy4vbkAIaWhO.jpg",
+        "width": 828
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041195832679305218"
+          ]
+        },
+        "author_id": "2028430373458456576",
+        "conversation_id": "2041195841118200100",
+        "created_at": "2026-04-06T16:46:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T17:46:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041195841118200100"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Fb5700h39g",
+              "end": 27,
+              "expanded_url": "https://x.com/o65518kuguagua/status/2041195841118200100/photo/1",
+              "media_key": "3_2041195832679305218",
+              "start": 4,
+              "url": "https://t.co/Fb5700h39g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041195841118200100",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哦哟呵 https://t.co/Fb5700h39g"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-02T11:21:20.000Z",
+        "description": "哥控｜我需要很多周末o.O 这个是我的大分身@qiu_song60259\n锁推小号@Kuguadawang6677",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 22,
+                "username": "qiu_song60259"
+              },
+              {
+                "end": 57,
+                "start": 41,
+                "username": "Kuguadawang6677"
+              }
+            ]
+          }
+        },
+        "id": "2028430373458456576",
+        "location": "加载中……",
+        "name": "咩咩",
+        "pinned_tweet_id": "2035726523810861085",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028450466460241920/ceK3GGSB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 435,
+          "following_count": 330,
+          "like_count": 3580,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 1144
+        },
+        "username": "o65518kuguagua",
+        "verified": false
+      }
+    ]
+  }
+}

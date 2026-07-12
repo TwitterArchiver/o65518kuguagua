@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028430373458456576",
+    "conversation_id": "2028384857840324923",
+    "created_at": "2026-03-02T12:21:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-02T13:21:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028445477843165232"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1963870046708772864",
+          "start": 0,
+          "username": "Yuriovo_qaq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028445477843165232",
+    "in_reply_to_user_id": "1963870046708772864",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028384857840324923",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yuriovo_qaq 萌死了哎呀哎呀哎呀！！！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2028384848298291200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCZFRc6asAAq_v9.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028430373458456576",
+        "conversation_id": "2028384857840324923",
+        "created_at": "2026-03-02T12:21:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T13:21:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028445477843165232"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1963870046708772864",
+              "start": 0,
+              "username": "Yuriovo_qaq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028445477843165232",
+        "in_reply_to_user_id": "1963870046708772864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028384857840324923",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yuriovo_qaq 萌死了哎呀哎呀哎呀！！！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2028384848298291200"
+          ]
+        },
+        "author_id": "1963870046708772864",
+        "conversation_id": "2028384857840324923",
+        "created_at": "2026-03-02T08:20:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T09:20:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028384857840324923"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/reBYgzOAnI",
+              "end": 23,
+              "expanded_url": "https://x.com/Yuriovo_qaq/status/2028384857840324923/photo/1",
+              "media_key": "3_2028384848298291200",
+              "start": 0,
+              "url": "https://t.co/reBYgzOAnI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028384857840324923",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 85,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/reBYgzOAnI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-02T11:21:20.000Z",
+        "description": "我需要很多周末o.O",
+        "id": "2028430373458456576",
+        "name": "hello苦狗",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028430573468090368/iFfZsTDx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 5,
+          "like_count": 34,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 4
+        },
+        "username": "o65518kuguagua",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-05T07:41:29.000Z",
+        "description": "我仍然在无人问津的阴雨霉湿之地",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yuri52038",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yuri52038",
+                "start": 0,
+                "url": "https://t.co/2tAedjwwFG"
+              }
+            ]
+          }
+        },
+        "id": "1963870046708772864",
+        "name": "玉米大帝",
+        "pinned_tweet_id": "2002365009121140792",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025072079687790592/3F6l55KC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 575,
+          "following_count": 149,
+          "like_count": 2465,
+          "listed_count": 0,
+          "media_count": 650,
+          "tweet_count": 4315
+        },
+        "url": "https://t.co/2tAedjwwFG",
+        "username": "Yuriovo_qaq",
+        "verified": false
+      }
+    ]
+  }
+}

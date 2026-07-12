@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2036237350502801409"
+      ],
+      "media_source_tweet_id": [
+        "2036237434342826438"
+      ]
+    },
+    "author_id": "2028430373458456576",
+    "conversation_id": "2037392774790627803",
+    "created_at": "2026-03-27T04:54:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-27T05:54:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037392774790627803"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1506989001508814855",
+          "start": 3,
+          "username": "Buckjump2022"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Qd4EXPtDLV",
+          "end": 57,
+          "expanded_url": "https://x.com/Buckjump2022/status/2036237434342826438/video/1",
+          "media_key": "13_2036237350502801409",
+          "start": 34,
+          "url": "https://t.co/Qd4EXPtDLV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037392774790627803",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 588
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036237434342826438",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Buckjump2022: 不卑不亢真的是一种很可贵的能力 https://t.co/Qd4EXPtDLV"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 99428,
+        "height": 960,
+        "media_key": "13_2036237350502801409",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2036237350502801409/img/KvZ9XxqiMTDuiQZt.jpg",
+        "public_metrics": {
+          "view_count": 868977
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2036237350502801409/vid/avc1/320x426/SJfN87BAiZoKGfjB.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2036237350502801409/vid/avc1/480x640/t1mtbSuXdJuhcgTs.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2036237350502801409/vid/avc1/720x960/YuRpAG3GVoR7OLyl.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2036237350502801409/pl/1CLp7b_TlvExMpOH.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2036237350502801409"
+          ],
+          "media_source_tweet_id": [
+            "2036237434342826438"
+          ]
+        },
+        "author_id": "2028430373458456576",
+        "conversation_id": "2037392774790627803",
+        "created_at": "2026-03-27T04:54:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T05:54:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037392774790627803"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1506989001508814855",
+              "start": 3,
+              "username": "Buckjump2022"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Qd4EXPtDLV",
+              "end": 57,
+              "expanded_url": "https://x.com/Buckjump2022/status/2036237434342826438/video/1",
+              "media_key": "13_2036237350502801409",
+              "start": 34,
+              "url": "https://t.co/Qd4EXPtDLV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037392774790627803",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 588
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036237434342826438",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Buckjump2022: 不卑不亢真的是一种很可贵的能力 https://t.co/Qd4EXPtDLV"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2036237350502801409"
+          ]
+        },
+        "author_id": "1506989001508814855",
+        "conversation_id": "2036237434342826438",
+        "created_at": "2026-03-24T00:23:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T01:23:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036237434342826438"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Qd4EXPtDLV",
+              "end": 39,
+              "expanded_url": "https://x.com/Buckjump2022/status/2036237434342826438/video/1",
+              "media_key": "13_2036237350502801409",
+              "start": 16,
+              "url": "https://t.co/Qd4EXPtDLV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036237434342826438",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2372,
+          "impression_count": 1087367,
+          "like_count": 7906,
+          "quote_count": 26,
+          "reply_count": 259,
+          "retweet_count": 588
+        },
+        "reply_settings": "everyone",
+        "text": "不卑不亢真的是一种很可贵的能力 https://t.co/Qd4EXPtDLV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-02T11:21:20.000Z",
+        "description": "我需要很多周末o.O 这个是我的大分身@qiu_song60259",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 19,
+                "username": "qiu_song60259"
+              }
+            ]
+          }
+        },
+        "id": "2028430373458456576",
+        "location": "加载中……",
+        "name": "咩咩",
+        "pinned_tweet_id": "2035726523810861085",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028450466460241920/ceK3GGSB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 188,
+          "following_count": 248,
+          "like_count": 1792,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 547
+        },
+        "username": "o65518kuguagua",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-24T13:39:21.000Z",
+        "description": "科普📖生活小知识🧵🧶动物与自然🐒🐍🐥🐞",
+        "id": "1506989001508814855",
+        "location": "中国浙江",
+        "name": "人间仙居",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1624045149016797187/ssYGBHxk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29342,
+          "following_count": 19079,
+          "like_count": 86142,
+          "listed_count": 31,
+          "media_count": 3701,
+          "tweet_count": 23497
+        },
+        "username": "Buckjump2022",
+        "verified": false
+      }
+    ]
+  }
+}

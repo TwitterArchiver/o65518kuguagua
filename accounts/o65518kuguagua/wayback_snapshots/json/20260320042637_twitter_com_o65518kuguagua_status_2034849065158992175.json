@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028430373458456576",
+    "conversation_id": "2034849065158992175",
+    "created_at": "2026-03-20T04:26:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-20T05:26:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2034849065158992175"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/sakee1106/stat…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/sakee1106/status/2034313448704856324",
+          "start": 8,
+          "url": "https://t.co/DN0rJ0fiNI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034849065158992175",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034313448704856324",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我又很想她了。 https://t.co/DN0rJ0fiNI"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028430373458456576",
+        "conversation_id": "2034849065158992175",
+        "created_at": "2026-03-20T04:26:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-20T05:26:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034849065158992175"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/sakee1106/stat…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/sakee1106/status/2034313448704856324",
+              "start": 8,
+              "url": "https://t.co/DN0rJ0fiNI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034849065158992175",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034313448704856324",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我又很想她了。 https://t.co/DN0rJ0fiNI"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2026680668365991936",
+        "conversation_id": "2034313448704856324",
+        "created_at": "2026-03-18T16:58:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-18T17:58:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034313448704856324"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2034313448704856324",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 19993,
+          "like_count": 565,
+          "quote_count": 9,
+          "reply_count": 13,
+          "retweet_count": 57
+        },
+        "reply_settings": "everyone",
+        "text": "那种在一起不说话也不会尴尬的关系最好了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-02T11:21:20.000Z",
+        "description": "我需要很多周末o.O 这个是我的大分身@qiu_song60259",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 19,
+                "username": "qiu_song60259"
+              }
+            ]
+          }
+        },
+        "id": "2028430373458456576",
+        "location": "加载中……",
+        "name": "咩咩",
+        "pinned_tweet_id": "2033190831339778384",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028450466460241920/ceK3GGSB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 134,
+          "following_count": 131,
+          "like_count": 924,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 232
+        },
+        "username": "o65518kuguagua",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-25T15:28:30.000Z",
+        "description": "bye bye my blue",
+        "id": "2026680668365991936",
+        "name": "王宇昊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032106146149122053/BeT9WGKy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 419,
+          "following_count": 42,
+          "like_count": 2008,
+          "listed_count": 1,
+          "media_count": 51,
+          "tweet_count": 380
+        },
+        "username": "Sakee1106",
+        "verified": false
+      }
+    ]
+  }
+}

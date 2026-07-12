@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028430373458456576",
+    "conversation_id": "2065712403875307597",
+    "created_at": "2026-06-13T08:47:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T09:47:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065717651989745808"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1922542126820425730",
+          "start": 0,
+          "username": "Yeuhste"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065717651989745808",
+    "in_reply_to_user_id": "1922542126820425730",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065712403875307597",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yeuhste 妈妈"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 960,
+        "media_key": "3_2065710367276412928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKrgompaMAADHhM.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028430373458456576",
+        "conversation_id": "2065712403875307597",
+        "created_at": "2026-06-13T08:47:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T09:47:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065717651989745808"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1922542126820425730",
+              "start": 0,
+              "username": "Yeuhste"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065717651989745808",
+        "in_reply_to_user_id": "1922542126820425730",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065712403875307597",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yeuhste 妈妈"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065710367276412928"
+          ]
+        },
+        "author_id": "1922542126820425730",
+        "conversation_id": "2065712403875307597",
+        "created_at": "2026-06-13T08:26:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T09:26:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065712403875307597"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dcmUX9PtgB",
+              "end": 45,
+              "expanded_url": "https://x.com/Yeuhste/status/2065712403875307597/photo/1",
+              "media_key": "3_2065710367276412928",
+              "start": 22,
+              "url": "https://t.co/dcmUX9PtgB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065712403875307597",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 38,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你配见我吗 你配加我微信吗 你配和我说话吗 https://t.co/dcmUX9PtgB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-02T11:21:20.000Z",
+        "description": "只是想好好睡觉｜我的名字是瓜瓜｜心肝@imcutefate 最爱的闺闺@Lake_Verion",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 18,
+                "username": "imcutefate"
+              },
+              {
+                "end": 47,
+                "start": 35,
+                "username": "Lake_Verion"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E8%8B%A6%E7%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E8%8B%A6%E7%93%9C%E5%A4%A7%E7%8E%8B",
+                "start": 0,
+                "url": "https://t.co/CdcVmYa8EY"
+              }
+            ]
+          }
+        },
+        "id": "2028430373458456576",
+        "location": "加载中……   匿名→",
+        "name": "虎牙钉（我发不了帖子了只能一直转发回复）",
+        "pinned_tweet_id": "2063001104858648649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060344470910926856/fk6R2qB-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2087,
+          "following_count": 587,
+          "like_count": 8610,
+          "listed_count": 1,
+          "media_count": 139,
+          "tweet_count": 2485
+        },
+        "url": "https://t.co/CdcVmYa8EY",
+        "username": "o65518kuguagua",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-14T06:39:10.000Z",
+        "description": "上网就是来发疯的 🚪128",
+        "id": "1922542126820425730",
+        "name": "这反耳给了我一些古丽",
+        "pinned_tweet_id": "2063802889366302772",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004347745902149632/JgiWIhMT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1218,
+          "following_count": 250,
+          "like_count": 29065,
+          "listed_count": 0,
+          "media_count": 712,
+          "tweet_count": 10098
+        },
+        "username": "Yeuhste",
+        "verified": false
+      }
+    ]
+  }
+}

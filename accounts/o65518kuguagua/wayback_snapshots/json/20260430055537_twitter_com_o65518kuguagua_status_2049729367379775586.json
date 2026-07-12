@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028430373458456576",
+    "conversation_id": "2049705640730223082",
+    "created_at": "2026-04-30T05:55:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-30T06:55:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049729367379775586"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1812543033419993088",
+          "start": 0,
+          "username": "shangbuliaowang"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049729367379775586",
+    "in_reply_to_user_id": "1812543033419993088",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049705640730223082",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shangbuliaowang 笑死我了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1199,
+        "media_key": "3_2049705637546713088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHIEauQWYAA1EGr.jpg",
+        "width": 1290
+      },
+      {
+        "height": 1391,
+        "media_key": "3_2049705637542563840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHIEauPXEAA1Bgn.jpg",
+        "width": 1290
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028430373458456576",
+        "conversation_id": "2049705640730223082",
+        "created_at": "2026-04-30T05:55:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T06:55:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049729367379775586"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1812543033419993088",
+              "start": 0,
+              "username": "shangbuliaowang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049729367379775586",
+        "in_reply_to_user_id": "1812543033419993088",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049705640730223082",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shangbuliaowang 笑死我了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049705637546713088",
+            "3_2049705637542563840"
+          ]
+        },
+        "author_id": "1812543033419993088",
+        "conversation_id": "2049705640730223082",
+        "created_at": "2026-04-30T04:21:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T05:21:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049705640730223082"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gZkiWz7O7h",
+              "end": 25,
+              "expanded_url": "https://x.com/shangbuliaowang/status/2049705640730223082/photo/1",
+              "media_key": "3_2049705637546713088",
+              "start": 2,
+              "url": "https://t.co/gZkiWz7O7h"
+            },
+            {
+              "display_url": "pic.x.com/gZkiWz7O7h",
+              "end": 25,
+              "expanded_url": "https://x.com/shangbuliaowang/status/2049705640730223082/photo/1",
+              "media_key": "3_2049705637542563840",
+              "start": 2,
+              "url": "https://t.co/gZkiWz7O7h"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049705640730223082",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 233,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哎 https://t.co/gZkiWz7O7h"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-02T11:21:20.000Z",
+        "description": "我只是在自说自话｜哥控｜09美术生o.O ｜以后会用做这个号作为主号！这个是我的大分身@qiu_song60259\n锁推小号@Kuguadawang6677 嫌我吵的话你点一下那个屏蔽我就死掉了｜双取请随意谢谢你们愿意跟我玩",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 43,
+                "username": "qiu_song60259"
+              },
+              {
+                "end": 78,
+                "start": 62,
+                "username": "Kuguadawang6677"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E8%8B%A6%E7%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E8%8B%A6%E7%93%9C%E5%A4%A7%E7%8E%8B",
+                "start": 0,
+                "url": "https://t.co/CdcVmYa8EY"
+              }
+            ]
+          }
+        },
+        "id": "2028430373458456576",
+        "location": "加载中……   匿名→",
+        "name": "咩咩",
+        "pinned_tweet_id": "2047911866517659665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028450466460241920/ceK3GGSB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 620,
+          "following_count": 401,
+          "like_count": 5961,
+          "listed_count": 0,
+          "media_count": 77,
+          "tweet_count": 1694
+        },
+        "url": "https://t.co/CdcVmYa8EY",
+        "username": "o65518kuguagua",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-14T17:42:16.000Z",
+        "description": "有空再相爱吧",
+        "id": "1812543033419993088",
+        "location": "……",
+        "name": "上网2.0",
+        "pinned_tweet_id": "1813499188140736686",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042001913290321922/Oem_QrO1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3090,
+          "following_count": 189,
+          "like_count": 3593,
+          "listed_count": 4,
+          "media_count": 387,
+          "tweet_count": 1214
+        },
+        "username": "shangbuliaowang",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,296 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2068561826896605184"
+      ],
+      "media_source_tweet_id": [
+        "2068561839391432872"
+      ]
+    },
+    "author_id": "2028430373458456576",
+    "conversation_id": "2068853682146590887",
+    "created_at": "2026-06-22T00:28:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T01:28:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068853682146590887"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1758324617838788608",
+          "start": 3,
+          "username": "axzamyzed"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/3doonFqoCI",
+          "end": 38,
+          "expanded_url": "https://x.com/axzamyzed/status/2068561839391432872/photo/1",
+          "media_key": "3_2068561826896605184",
+          "start": 15,
+          "url": "https://t.co/3doonFqoCI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068853682146590887",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068561839391432872",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @axzamyzed: https://t.co/3doonFqoCI"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2068561826896605184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLUCBZga8AAMNLQ.jpg",
+        "width": 950
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068561826896605184"
+          ],
+          "media_source_tweet_id": [
+            "2068561839391432872"
+          ]
+        },
+        "author_id": "2028430373458456576",
+        "conversation_id": "2068853682146590887",
+        "created_at": "2026-06-22T00:28:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T01:28:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068853682146590887"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1758324617838788608",
+              "start": 3,
+              "username": "axzamyzed"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3doonFqoCI",
+              "end": 38,
+              "expanded_url": "https://x.com/axzamyzed/status/2068561839391432872/photo/1",
+              "media_key": "3_2068561826896605184",
+              "start": 15,
+              "url": "https://t.co/3doonFqoCI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068853682146590887",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068561839391432872",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @axzamyzed: https://t.co/3doonFqoCI"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068561826896605184"
+          ]
+        },
+        "author_id": "1758324617838788608",
+        "conversation_id": "2068561839391432872",
+        "created_at": "2026-06-21T05:09:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T06:09:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068561839391432872"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3doonFqoCI",
+              "end": 23,
+              "expanded_url": "https://x.com/axzamyzed/status/2068561839391432872/photo/1",
+              "media_key": "3_2068561826896605184",
+              "start": 0,
+              "url": "https://t.co/3doonFqoCI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068561839391432872",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 2459,
+          "like_count": 246,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/3doonFqoCI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-02T11:21:20.000Z",
+        "description": "只是想好好睡觉｜我的名字是瓜瓜｜心肝@imcutefate 天下第一萌@Lake_Verion",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 18,
+                "username": "imcutefate"
+              },
+              {
+                "end": 47,
+                "start": 35,
+                "username": "Lake_Verion"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E8%8B%A6%E7%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E8%8B%A6%E7%93%9C%E5%A4%A7%E7%8E%8B",
+                "start": 0,
+                "url": "https://t.co/CdcVmYa8EY"
+              }
+            ]
+          }
+        },
+        "id": "2028430373458456576",
+        "location": "加载中……   匿名→",
+        "name": "虎牙钉",
+        "pinned_tweet_id": "2063001104858648649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060344470910926856/fk6R2qB-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2384,
+          "following_count": 582,
+          "like_count": 9403,
+          "listed_count": 2,
+          "media_count": 189,
+          "tweet_count": 2919
+        },
+        "url": "https://t.co/CdcVmYa8EY",
+        "username": "o65518kuguagua",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "mtx｜叫我翅膀就好｜私信互关｜本体 @axzameyzed ｜内容真假自辨｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 19,
+                "username": "axzameyzed"
+              },
+              {
+                "end": 57,
+                "start": 43,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 73,
+                "start": 58,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "翅翅膀喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035544600602120192/wfz0e3mo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3866,
+          "following_count": 921,
+          "like_count": 13225,
+          "listed_count": 10,
+          "media_count": 2761,
+          "tweet_count": 8170
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true
+      }
+    ]
+  }
+}

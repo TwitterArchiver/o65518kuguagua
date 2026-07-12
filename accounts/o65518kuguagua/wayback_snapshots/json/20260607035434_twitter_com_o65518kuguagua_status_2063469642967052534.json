@@ -1,0 +1,150 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2060721838154719232"
+      ],
+      "media_source_tweet_id": [
+        "2060722331866329591"
+      ]
+    },
+    "author_id": "2028430373458456576",
+    "conversation_id": "2063469642967052534",
+    "created_at": "2026-06-07T03:54:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T04:54:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063469642967052534"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/5ql1Z3W4XT",
+          "end": 46,
+          "expanded_url": "https://x.com/bjklionur08/status/2060722331866329591/video/1",
+          "media_key": "13_2060721838154719232",
+          "start": 23,
+          "url": "https://t.co/5ql1Z3W4XT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063469642967052534",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我之前在别的网站上看过我操这个特别好看。。。 https://t.co/5ql1Z3W4XT"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2063469642967052534].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2063469642967052534",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2063469642967052534"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 1939377,
+        "height": 480,
+        "media_key": "13_2060721838154719232",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2060721838154719232/img/ncH0zKThnNHz20Hs.jpg",
+        "public_metrics": {
+          "view_count": 382512
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2060721838154719232/vid/avc1/480x270/2MJ3UBwzuOT3fytF.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2060721838154719232/vid/avc1/640x360/RuRLf8WYdtOYW7iH.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2060721838154719232/vid/avc1/854x480/Ra8eSrf6-R4T0Ki_.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2060721838154719232/pl/-mxRSPVgVqobO3uq.m3u8"
+          }
+        ],
+        "width": 854
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-02T11:21:20.000Z",
+        "description": "只是想好好睡觉｜我的名字是瓜瓜｜心肝@imcutefate 最爱的闺闺@Lake_Verion",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 18,
+                "username": "imcutefate"
+              },
+              {
+                "end": 47,
+                "start": 35,
+                "username": "Lake_Verion"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E8%8B%A6%E7%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E8%8B%A6%E7%93%9C%E5%A4%A7%E7%8E%8B",
+                "start": 0,
+                "url": "https://t.co/CdcVmYa8EY"
+              }
+            ]
+          }
+        },
+        "id": "2028430373458456576",
+        "location": "加载中……   匿名→",
+        "name": "虎牙钉",
+        "pinned_tweet_id": "2063001104858648649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060344470910926856/fk6R2qB-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1608,
+          "following_count": 542,
+          "like_count": 8159,
+          "listed_count": 1,
+          "media_count": 125,
+          "tweet_count": 2256
+        },
+        "url": "https://t.co/CdcVmYa8EY",
+        "username": "o65518kuguagua",
+        "verified": false
+      }
+    ]
+  }
+}

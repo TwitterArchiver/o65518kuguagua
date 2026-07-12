@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028430373458456576",
+    "conversation_id": "2042296267708252444",
+    "created_at": "2026-04-09T17:39:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T18:39:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2042296267708252444"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/33mmm010170/st…",
+          "end": 40,
+          "expanded_url": "https://twitter.com/33mmm010170/status/2042295574977003686",
+          "start": 17,
+          "url": "https://t.co/6EpdxffsrN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042296267708252444",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042295574977003686",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "哎我是蓝色对话框木木是白色对话框 https://t.co/6EpdxffsrN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 706,
+        "media_key": "3_2042295572368121856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFexAKVa4AAfik4.jpg",
+        "width": 931
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028430373458456576",
+        "conversation_id": "2042296267708252444",
+        "created_at": "2026-04-09T17:39:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T18:39:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042296267708252444"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/33mmm010170/st…",
+              "end": 40,
+              "expanded_url": "https://twitter.com/33mmm010170/status/2042295574977003686",
+              "start": 17,
+              "url": "https://t.co/6EpdxffsrN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042296267708252444",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042295574977003686",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "哎我是蓝色对话框木木是白色对话框 https://t.co/6EpdxffsrN"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042295572368121856"
+          ]
+        },
+        "author_id": "1877039480361857024",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2042295574977003686",
+        "created_at": "2026-04-09T17:36:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T18:36:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042295574977003686"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tBlRgDNrNx",
+              "end": 42,
+              "expanded_url": "https://x.com/33MMM010170/status/2042295574977003686/photo/1",
+              "media_key": "3_2042295572368121856",
+              "start": 19,
+              "url": "https://t.co/tBlRgDNrNx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042295574977003686",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "小苦瓜呀🥺我们两个天生一对好吧 哎！ https://t.co/tBlRgDNrNx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-02T11:21:20.000Z",
+        "description": "哥控｜我需要很多周末o.O 这个是我的大分身@qiu_song60259\n锁推小号@Kuguadawang6677",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 22,
+                "username": "qiu_song60259"
+              },
+              {
+                "end": 57,
+                "start": 41,
+                "username": "Kuguadawang6677"
+              }
+            ]
+          }
+        },
+        "id": "2028430373458456576",
+        "location": "加载中……",
+        "name": "咩咩",
+        "pinned_tweet_id": "2035726523810861085",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028450466460241920/ceK3GGSB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 464,
+          "following_count": 378,
+          "like_count": 4899,
+          "listed_count": 0,
+          "media_count": 57,
+          "tweet_count": 1428
+        },
+        "username": "o65518kuguagua",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-08T17:08:02.000Z",
+        "description": "",
+        "id": "1877039480361857024",
+        "name": "33MMM",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031026732913082368/nGuYJP1B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 106,
+          "like_count": 2539,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 1158
+        },
+        "username": "33MMM010170",
+        "verified": false
+      }
+    ]
+  }
+}

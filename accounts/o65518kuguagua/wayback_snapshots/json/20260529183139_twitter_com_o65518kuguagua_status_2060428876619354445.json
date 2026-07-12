@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2060372033503137792"
+      ],
+      "media_source_tweet_id": [
+        "2060372093389398137"
+      ]
+    },
+    "author_id": "2028430373458456576",
+    "conversation_id": "2060428876619354445",
+    "created_at": "2026-05-29T18:31:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T19:31:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2060428876619354445"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/IdO0E7XWLD",
+          "end": 41,
+          "expanded_url": "https://x.com/lumingfeilove88/status/2060372093389398137/video/1",
+          "media_key": "7_2060372033503137792",
+          "start": 18,
+          "url": "https://t.co/IdO0E7XWLD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060428876619354445",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我看的第一部给子黄漫谢谢真的好好看 https://t.co/IdO0E7XWLD"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 40145,
+        "height": 720,
+        "media_key": "7_2060372033503137792",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2060372033503137792/pu/img/SMyIEkaBgBCxn-T1.jpg",
+        "public_metrics": {
+          "view_count": 4504
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2060372033503137792/pu/vid/avc1/476x270/qoWnPmejNWJbWsGT.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2060372033503137792/pu/vid/avc1/636x360/WHX-_sv60sDI5P1R.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2060372033503137792/pu/vid/avc1/1274x720/hIKBiRERpSxYJck2.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2060372033503137792/pu/pl/PSrxtcDwB7VjLCoN.m3u8?tag=12"
+          }
+        ],
+        "width": 1274
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2060372033503137792"
+          ],
+          "media_source_tweet_id": [
+            "2060372093389398137"
+          ]
+        },
+        "author_id": "2028430373458456576",
+        "conversation_id": "2060428876619354445",
+        "created_at": "2026-05-29T18:31:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T19:31:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060428876619354445"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IdO0E7XWLD",
+              "end": 41,
+              "expanded_url": "https://x.com/lumingfeilove88/status/2060372093389398137/video/1",
+              "media_key": "7_2060372033503137792",
+              "start": 18,
+              "url": "https://t.co/IdO0E7XWLD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060428876619354445",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我看的第一部给子黄漫谢谢真的好好看 https://t.co/IdO0E7XWLD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-02T11:21:20.000Z",
+        "description": "只是想好好睡觉｜心肝@imcutefate 最爱的闺闺@Lake_Verion",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 10,
+                "username": "imcutefate"
+              },
+              {
+                "end": 39,
+                "start": 27,
+                "username": "Lake_Verion"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E8%8B%A6%E7%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E8%8B%A6%E7%93%9C%E5%A4%A7%E7%8E%8B",
+                "start": 0,
+                "url": "https://t.co/CdcVmYa8EY"
+              }
+            ]
+          }
+        },
+        "id": "2028430373458456576",
+        "location": "加载中……   匿名→",
+        "name": "虎牙钉",
+        "pinned_tweet_id": "2060345028606644674",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060344470910926856/fk6R2qB-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1542,
+          "following_count": 495,
+          "like_count": 7557,
+          "listed_count": 1,
+          "media_count": 103,
+          "tweet_count": 2065
+        },
+        "url": "https://t.co/CdcVmYa8EY",
+        "username": "o65518kuguagua",
+        "verified": false
+      }
+    ]
+  }
+}

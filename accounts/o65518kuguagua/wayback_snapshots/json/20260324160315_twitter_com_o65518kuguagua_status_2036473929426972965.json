@@ -1,0 +1,171 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2036473893540577280",
+        "3_2036473893158866944"
+      ]
+    },
+    "author_id": "2028430373458456576",
+    "conversation_id": "2036473929426972965",
+    "created_at": "2026-03-24T16:03:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-24T17:03:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2036473929426972965"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/uKkS3RbMtp",
+          "end": 36,
+          "expanded_url": "https://x.com/o65518kuguagua/status/2036473929426972965/photo/1",
+          "media_key": "3_2036473893540577280",
+          "start": 13,
+          "url": "https://t.co/uKkS3RbMtp"
+        },
+        {
+          "display_url": "pic.x.com/uKkS3RbMtp",
+          "end": 36,
+          "expanded_url": "https://x.com/o65518kuguagua/status/2036473929426972965/photo/1",
+          "media_key": "3_2036473893158866944",
+          "start": 13,
+          "url": "https://t.co/uKkS3RbMtp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036473929426972965",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我再也不上课睡觉了。。。 https://t.co/uKkS3RbMtp"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1435,
+        "media_key": "3_2036473893540577280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEMCN2rXwAAS-k1.jpg",
+        "width": 600
+      },
+      {
+        "height": 1423,
+        "media_key": "3_2036473893158866944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEMCN1QXUAArEy6.jpg",
+        "width": 595
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2036473893540577280",
+            "3_2036473893158866944"
+          ]
+        },
+        "author_id": "2028430373458456576",
+        "conversation_id": "2036473929426972965",
+        "created_at": "2026-03-24T16:03:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T17:03:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036473929426972965"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uKkS3RbMtp",
+              "end": 36,
+              "expanded_url": "https://x.com/o65518kuguagua/status/2036473929426972965/photo/1",
+              "media_key": "3_2036473893540577280",
+              "start": 13,
+              "url": "https://t.co/uKkS3RbMtp"
+            },
+            {
+              "display_url": "pic.x.com/uKkS3RbMtp",
+              "end": 36,
+              "expanded_url": "https://x.com/o65518kuguagua/status/2036473929426972965/photo/1",
+              "media_key": "3_2036473893158866944",
+              "start": 13,
+              "url": "https://t.co/uKkS3RbMtp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036473929426972965",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我再也不上课睡觉了。。。 https://t.co/uKkS3RbMtp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-02T11:21:20.000Z",
+        "description": "我需要很多周末o.O 这个是我的大分身@qiu_song60259",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 19,
+                "username": "qiu_song60259"
+              }
+            ]
+          }
+        },
+        "id": "2028430373458456576",
+        "location": "加载中……",
+        "name": "咩咩",
+        "pinned_tweet_id": "2035726523810861085",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028450466460241920/ceK3GGSB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 161,
+          "following_count": 177,
+          "like_count": 1218,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 336
+        },
+        "username": "o65518kuguagua",
+        "verified": false
+      }
+    ]
+  }
+}

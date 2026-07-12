@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028430373458456576",
+    "conversation_id": "2033558729103143316",
+    "created_at": "2026-03-16T14:59:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-16T15:59:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2033558729103143316"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/buyaochilea/st…",
+          "end": 26,
+          "expanded_url": "https://twitter.com/buyaochilea/status/2033548299706470865",
+          "start": 3,
+          "url": "https://t.co/ouVrEolUxe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033558729103143316",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033548299706470865",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "好爽 https://t.co/ouVrEolUxe"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028430373458456576",
+        "conversation_id": "2033558729103143316",
+        "created_at": "2026-03-16T14:59:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T15:59:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033558729103143316"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/buyaochilea/st…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/buyaochilea/status/2033548299706470865",
+              "start": 3,
+              "url": "https://t.co/ouVrEolUxe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033558729103143316",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033548299706470865",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好爽 https://t.co/ouVrEolUxe"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1653083358254235648",
+        "conversation_id": "2033548299706470865",
+        "created_at": "2026-03-16T14:17:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T15:17:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033548299706470865"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2033548299706470865",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "男朋友是工程男，你是网瘾女。\n总结来说，你们俩都很宅。除了他偶尔必要去公司的那几天，基本上你们俩每天都宅在家里。\n\n某天做完躺在床上，你喘着气，突然开口：“明天出去约会吧？”\n跪在你双腿间正在给你清理的男人闻言动作一顿，然后扯开你的腿再次肏了进来。\n你：“喂！……你干嘛……啊……”\n\n他按了按你被顶得凸起的小腹，拇指碾着肿胀的阴蒂一边揉一边挺腰往深处肏。\n抓住你伸过来推拒的手摁在头顶、俯下身来亲你。\n声音有点哑，但相比你的喘叫气息还算平稳：“刚才是你说不行了我才停的，不是让你觉得自己很闲。”\n\n再次做完的时候已经不知道今夕何夕，你累得连一根手指头都抬不起来，抱着被子昏昏欲睡。\n感受到男人气息再次从背后贴紧，你撑着胳膊往后推他，嗓子哭哑：“……真的不要了。”\n\n没有直接抬起你的腿肏进来，他虽然还硬着，但只是合着衣物从背后抱住你。\n“刚才说出去约会还算数吗？我安排去一次海岛吧。”\n你囫囵问他为什么。\n他却闭嘴不再说话。\n\n第二天落地你才明白过来他的用心险恶。\n这种只能用卫星电话的海岛，对两个低社交需求的人来说，除了做爱没有更好的娱乐活动了。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 26,
+          "impression_count": 7190,
+          "like_count": 353,
+          "quote_count": 1,
+          "reply_count": 9,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "男朋友是工程男，你是网瘾女。\n总结来说，你们俩都很宅。除了他偶尔必要去公司的那几天，基本上你们俩每天都宅在家里。\n\n某天做完躺在床上，你喘着气，突然开口：“明天出去约会吧？”\n跪在你双腿间正在给你清理的男人闻言动作一顿，然后扯开你的腿再次肏了进来。\n你：“喂！……你干嘛……啊……”"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-02T11:21:20.000Z",
+        "description": "我需要很多周末o.O 这个是我的大分身@qiu_song60259",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 19,
+                "username": "qiu_song60259"
+              }
+            ]
+          }
+        },
+        "id": "2028430373458456576",
+        "location": "加载中……",
+        "name": "咩咩",
+        "pinned_tweet_id": "2033190831339778384",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028450466460241920/ceK3GGSB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 130,
+          "following_count": 108,
+          "like_count": 671,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 168
+        },
+        "username": "o65518kuguagua",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-01T17:06:17.000Z",
+        "description": "bg写手｜🚫任何形式的抄袭/AI🚫｜食用前请看【亮点】｜@tounaolengjing",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 28,
+                "username": "tounaolengjing"
+              }
+            ]
+          }
+        },
+        "id": "1653083358254235648",
+        "location": "不接推广/商务",
+        "name": "别头脑发热了",
+        "pinned_tweet_id": "1925096582569198016",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983192973644091392/2vrseD7o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 230142,
+          "following_count": 23,
+          "like_count": 1516,
+          "listed_count": 223,
+          "media_count": 286,
+          "tweet_count": 848
+        },
+        "username": "buyaochilea",
+        "verified": true
+      }
+    ]
+  }
+}

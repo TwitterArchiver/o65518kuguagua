@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028430373458456576",
+    "conversation_id": "2065428654423949660",
+    "created_at": "2026-06-12T15:00:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T16:00:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065449123172827588"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2016524787498307584",
+          "start": 0,
+          "username": "y4389321"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065449123172827588",
+    "in_reply_to_user_id": "2016524787498307584",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065434033127866862",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@y4389321 可以可以👅👅🦭"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1724,
+        "media_key": "3_2065434028015046656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKnlTirXUAA8Xsr.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028430373458456576",
+        "conversation_id": "2065428654423949660",
+        "created_at": "2026-06-12T15:00:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T16:00:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065449123172827588"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2016524787498307584",
+              "start": 0,
+              "username": "y4389321"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065449123172827588",
+        "in_reply_to_user_id": "2016524787498307584",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065434033127866862",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@y4389321 可以可以👅👅🦭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065434028015046656"
+          ]
+        },
+        "author_id": "2016524787498307584",
+        "conversation_id": "2065428654423949660",
+        "created_at": "2026-06-12T14:00:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T15:00:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065434033127866862"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2028430373458456576",
+              "start": 0,
+              "username": "o65518kuguagua"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/uKe69jfBfT",
+              "end": 47,
+              "expanded_url": "https://x.com/y4389321/status/2065434033127866862/photo/1",
+              "media_key": "3_2065434028015046656",
+              "start": 24,
+              "url": "https://t.co/uKe69jfBfT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065434033127866862",
+        "in_reply_to_user_id": "2028430373458456576",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065428654423949660",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@o65518kuguagua 我的也還可以吧 https://t.co/uKe69jfBfT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-02T11:21:20.000Z",
+        "description": "只是想好好睡觉｜我的名字是瓜瓜｜心肝@imcutefate 最爱的闺闺@Lake_Verion",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 18,
+                "username": "imcutefate"
+              },
+              {
+                "end": 47,
+                "start": 35,
+                "username": "Lake_Verion"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E8%8B%A6%E7%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E8%8B%A6%E7%93%9C%E5%A4%A7%E7%8E%8B",
+                "start": 0,
+                "url": "https://t.co/CdcVmYa8EY"
+              }
+            ]
+          }
+        },
+        "id": "2028430373458456576",
+        "location": "加载中……   匿名→",
+        "name": "虎牙钉",
+        "pinned_tweet_id": "2063001104858648649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060344470910926856/fk6R2qB-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1997,
+          "following_count": 563,
+          "like_count": 8369,
+          "listed_count": 1,
+          "media_count": 127,
+          "tweet_count": 2327
+        },
+        "url": "https://t.co/CdcVmYa8EY",
+        "username": "o65518kuguagua",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-28T14:52:39.000Z",
+        "description": "I'm studying in Australia, so I'm not in China. Please don't ask me if we can meet in person.",
+        "id": "2016524787498307584",
+        "name": "Alex",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065435511942995968/6_fl5QFx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 46,
+          "like_count": 19,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 144
+        },
+        "username": "y4389321",
+        "verified": false
+      }
+    ]
+  }
+}

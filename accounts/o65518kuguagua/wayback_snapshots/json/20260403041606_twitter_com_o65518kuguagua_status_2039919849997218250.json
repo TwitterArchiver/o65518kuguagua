@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028430373458456576",
+    "conversation_id": "2039739989869899918",
+    "created_at": "2026-04-03T04:16:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-03T05:16:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039919849997218250"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2003915497327546372",
+          "start": 0,
+          "username": "lkkh96858977"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039919849997218250",
+    "in_reply_to_user_id": "2003915497327546372",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039843352426983621",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lkkh96858977 可以"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028430373458456576",
+        "conversation_id": "2039739989869899918",
+        "created_at": "2026-04-03T04:16:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T05:16:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039919849997218250"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2003915497327546372",
+              "start": 0,
+              "username": "lkkh96858977"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039919849997218250",
+        "in_reply_to_user_id": "2003915497327546372",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039843352426983621",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lkkh96858977 可以"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2003915497327546372",
+        "conversation_id": "2039739989869899918",
+        "created_at": "2026-04-02T23:12:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T00:12:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039843352426983621"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2028430373458456576",
+              "start": 0,
+              "username": "o65518kuguagua"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039843352426983621",
+        "in_reply_to_user_id": "2028430373458456576",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039739989869899918",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@o65518kuguagua 让推变成抖音，然后找一些有趣的人╭(ᵔ_&gt;ᵔ)╮"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-02T11:21:20.000Z",
+        "description": "哥控｜我需要很多周末o.O 这个是我的大分身@qiu_song60259\n锁推小号@Kuguadawang6677",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 22,
+                "username": "qiu_song60259"
+              },
+              {
+                "end": 57,
+                "start": 41,
+                "username": "Kuguadawang6677"
+              }
+            ]
+          }
+        },
+        "id": "2028430373458456576",
+        "location": "加载中……",
+        "name": "咩咩",
+        "pinned_tweet_id": "2035726523810861085",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028450466460241920/ceK3GGSB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 385,
+          "following_count": 312,
+          "like_count": 3164,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 1030
+        },
+        "username": "o65518kuguagua",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-24T19:48:09.000Z",
+        "description": "赛博屎壳郎，专注大便搬运(´◊ω◊｀)。\n\n你敢出现在我的主页，那你有福了，可以享受我高雅的艺术 ୧⍢⃝୨。\n1～100你给几分_(´ཀ`」 ∠)__ 。\n常回复我就关注\n你꒰^ↀωↀ^꒱❤❤。\n不喜欢请拉黑喵 (*꒦ິ⌓꒦ີ)",
+        "id": "2003915497327546372",
+        "location": "荒郊野岭",
+        "name": "忧郁的叮咚鸡",
+        "pinned_tweet_id": "2039313362430185618",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037172149895700480/IBJ_8OOc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 19,
+          "like_count": 3,
+          "listed_count": 0,
+          "media_count": 105,
+          "tweet_count": 122
+        },
+        "username": "lkkh96858977",
+        "verified": false
+      }
+    ]
+  }
+}

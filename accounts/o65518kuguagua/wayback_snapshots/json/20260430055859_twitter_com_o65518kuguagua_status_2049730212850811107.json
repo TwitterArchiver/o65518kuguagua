@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2049372171747971072"
+      ],
+      "media_source_tweet_id": [
+        "2049372178014257316"
+      ]
+    },
+    "author_id": "2028430373458456576",
+    "conversation_id": "2049730212850811107",
+    "created_at": "2026-04-30T05:58:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-30T06:58:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049730212850811107"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2028814965965312001",
+          "start": 3,
+          "username": "Miiharukawa"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/H9ZAY8cp6x",
+          "end": 49,
+          "expanded_url": "https://x.com/Miiharukawa/status/2049372178014257316/photo/1",
+          "media_key": "3_2049372171747971072",
+          "start": 26,
+          "url": "https://t.co/H9ZAY8cp6x"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049730212850811107",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 15
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049372178014257316",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Miiharukawa: 我现在就这个姿势 https://t.co/H9ZAY8cp6x"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 640,
+        "media_key": "3_2049372171747971072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHDVIdWb0AABhXV.jpg",
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049372171747971072"
+          ],
+          "media_source_tweet_id": [
+            "2049372178014257316"
+          ]
+        },
+        "author_id": "2028430373458456576",
+        "conversation_id": "2049730212850811107",
+        "created_at": "2026-04-30T05:58:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T06:58:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049730212850811107"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2028814965965312001",
+              "start": 3,
+              "username": "Miiharukawa"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/H9ZAY8cp6x",
+              "end": 49,
+              "expanded_url": "https://x.com/Miiharukawa/status/2049372178014257316/photo/1",
+              "media_key": "3_2049372171747971072",
+              "start": 26,
+              "url": "https://t.co/H9ZAY8cp6x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049730212850811107",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 15
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049372178014257316",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Miiharukawa: 我现在就这个姿势 https://t.co/H9ZAY8cp6x"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049372171747971072"
+          ]
+        },
+        "author_id": "2028814965965312001",
+        "conversation_id": "2049372178014257316",
+        "created_at": "2026-04-29T06:16:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T07:16:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049372178014257316"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/H9ZAY8cp6x",
+              "end": 32,
+              "expanded_url": "https://x.com/Miiharukawa/status/2049372178014257316/photo/1",
+              "media_key": "3_2049372171747971072",
+              "start": 9,
+              "url": "https://t.co/H9ZAY8cp6x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049372178014257316",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2351,
+          "like_count": 161,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "我现在就这个姿势 https://t.co/H9ZAY8cp6x"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-02T11:21:20.000Z",
+        "description": "我只是在自说自话｜哥控｜09美术生o.O ｜以后会用做这个号作为主号！这个是我的大分身@qiu_song60259\n锁推小号@Kuguadawang6677 嫌我吵的话你点一下那个屏蔽我就死掉了｜双取请随意谢谢你们愿意跟我玩",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 43,
+                "username": "qiu_song60259"
+              },
+              {
+                "end": 78,
+                "start": 62,
+                "username": "Kuguadawang6677"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E8%8B%A6%E7%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E8%8B%A6%E7%93%9C%E5%A4%A7%E7%8E%8B",
+                "start": 0,
+                "url": "https://t.co/CdcVmYa8EY"
+              }
+            ]
+          }
+        },
+        "id": "2028430373458456576",
+        "location": "加载中……   匿名→",
+        "name": "咩咩",
+        "pinned_tweet_id": "2047911866517659665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028450466460241920/ceK3GGSB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 620,
+          "following_count": 403,
+          "like_count": 5973,
+          "listed_count": 0,
+          "media_count": 77,
+          "tweet_count": 1695
+        },
+        "url": "https://t.co/CdcVmYa8EY",
+        "username": "o65518kuguagua",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-03T12:50:01.000Z",
+        "description": "希望天使带我逃离地狱。\n世另我：@Harukayo96",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 16,
+                "username": "Harukayo96"
+              }
+            ]
+          }
+        },
+        "id": "2028814965965312001",
+        "name": "遥",
+        "pinned_tweet_id": "2039138354856665156",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028815256949342208/hoWGdF7B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1259,
+          "following_count": 205,
+          "like_count": 6255,
+          "listed_count": 5,
+          "media_count": 247,
+          "tweet_count": 2384
+        },
+        "username": "Miiharukawa",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028430373458456576",
+    "conversation_id": "2069958083066183882",
+    "created_at": "2026-06-25T06:11:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-25T07:11:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070027088233640173"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1755190552356962304",
+          "start": 0,
+          "username": "yy_520520520"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070027088233640173",
+    "in_reply_to_user_id": "1755190552356962304",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070022258807206397",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yy_520520520 谢谢你呀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028430373458456576",
+        "conversation_id": "2069958083066183882",
+        "created_at": "2026-06-25T06:11:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T07:11:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070027088233640173"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1755190552356962304",
+              "start": 0,
+              "username": "yy_520520520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070027088233640173",
+        "in_reply_to_user_id": "1755190552356962304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070022258807206397",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yy_520520520 谢谢你呀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1755190552356962304",
+        "conversation_id": "2069958083066183882",
+        "created_at": "2026-06-25T05:52:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T06:52:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070022258807206397"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2028430373458456576",
+              "start": 0,
+              "username": "o65518kuguagua"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070022258807206397",
+        "in_reply_to_user_id": "2028430373458456576",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069958083066183882",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@o65518kuguagua 冷脸萌"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-02T11:21:20.000Z",
+        "description": "只是想好好睡觉｜我的名字是瓜瓜｜心肝@imcutefate 天下第一萌@Lake_Verion",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 18,
+                "username": "imcutefate"
+              },
+              {
+                "end": 47,
+                "start": 35,
+                "username": "Lake_Verion"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E8%8B%A6%E7%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E8%8B%A6%E7%93%9C%E5%A4%A7%E7%8E%8B",
+                "start": 0,
+                "url": "https://t.co/CdcVmYa8EY"
+              }
+            ]
+          }
+        },
+        "id": "2028430373458456576",
+        "location": "加载中……   匿名→",
+        "name": "虎牙钉",
+        "pinned_tweet_id": "2063001104858648649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060344470910926856/fk6R2qB-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2370,
+          "following_count": 583,
+          "like_count": 9392,
+          "listed_count": 2,
+          "media_count": 193,
+          "tweet_count": 2937
+        },
+        "url": "https://t.co/CdcVmYa8EY",
+        "username": "o65518kuguagua",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-07T11:24:02.000Z",
+        "description": "自我介绍 不喜欢男的 聊骚 看片 钓鱼 背刺 忘本 聊h 死装 吃里扒外 装纯情 立人设 搞暧昧 白眼狼 pua 冷暴力 心机 自私虚伪 好吃懒做 无缝衔接 一次谈十个 素质低下 爱耍流氓 好色@xy_88888888另一个我 我没说过我长得好看",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 109,
+                "start": 97,
+                "username": "xy_88888888"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E9%B…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E9%B1%BC52936",
+                "start": 0,
+                "url": "https://t.co/V62AvDXRzh"
+              }
+            ]
+          }
+        },
+        "id": "1755190552356962304",
+        "location": "26年天秤/是处/不约",
+        "name": "女朋友出轨了兄弟女朋友的表弟",
+        "pinned_tweet_id": "2044507482719195268",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040294694337581056/fr5TwWLS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1156,
+          "following_count": 84,
+          "like_count": 1058,
+          "listed_count": 2,
+          "media_count": 52,
+          "tweet_count": 933
+        },
+        "url": "https://t.co/V62AvDXRzh",
+        "username": "yy_520520520",
+        "verified": false
+      }
+    ]
+  }
+}

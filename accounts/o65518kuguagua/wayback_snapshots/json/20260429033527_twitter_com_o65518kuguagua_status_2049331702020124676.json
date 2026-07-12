@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028430373458456576",
+    "conversation_id": "2049176766942523789",
+    "created_at": "2026-04-29T03:35:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T04:35:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049331702020124676"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1959892946926649344",
+          "start": 0,
+          "username": "Kiss_Yu_Forever"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049331702020124676",
+    "in_reply_to_user_id": "1959892946926649344",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049176766942523789",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kiss_Yu_Forever 我操死他"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1568,
+        "media_key": "3_2049176750962233344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHAjZeMX0AAfXTe.jpg",
+        "width": 828
+      },
+      {
+        "height": 1526,
+        "media_key": "3_2049176751117582338",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHAjZexaQAIFINE.jpg",
+        "width": 828
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028430373458456576",
+        "conversation_id": "2049176766942523789",
+        "created_at": "2026-04-29T03:35:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T04:35:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049331702020124676"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1959892946926649344",
+              "start": 0,
+              "username": "Kiss_Yu_Forever"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049331702020124676",
+        "in_reply_to_user_id": "1959892946926649344",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049176766942523789",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kiss_Yu_Forever 我操死他"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049176750962233344",
+            "3_2049176751117582338"
+          ]
+        },
+        "author_id": "1959892946926649344",
+        "conversation_id": "2049176766942523789",
+        "created_at": "2026-04-28T17:19:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T18:19:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049176766942523789"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/V0slFfXKUZ",
+              "end": 59,
+              "expanded_url": "https://x.com/Kiss_Yu_Forever/status/2049176766942523789/photo/1",
+              "media_key": "3_2049176750962233344",
+              "start": 36,
+              "url": "https://t.co/V0slFfXKUZ"
+            },
+            {
+              "display_url": "pic.x.com/V0slFfXKUZ",
+              "end": 59,
+              "expanded_url": "https://x.com/Kiss_Yu_Forever/status/2049176766942523789/photo/1",
+              "media_key": "3_2049176751117582338",
+              "start": 36,
+              "url": "https://t.co/V0slFfXKUZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049176766942523789",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 309,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "呜呜呜补药骂我呀 咋还给我毕业了\no(╥﹏╥)o 我不气你气不气😋😋😋 https://t.co/V0slFfXKUZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-02T11:21:20.000Z",
+        "description": "哥控｜我需要很多周末o.O 这个是我的大分身@qiu_song60259\n锁推小号@Kuguadawang6677",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 22,
+                "username": "qiu_song60259"
+              },
+              {
+                "end": 57,
+                "start": 41,
+                "username": "Kuguadawang6677"
+              }
+            ]
+          }
+        },
+        "id": "2028430373458456576",
+        "location": "加载中……",
+        "name": "咩咩",
+        "pinned_tweet_id": "2047911866517659665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028450466460241920/ceK3GGSB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 596,
+          "following_count": 394,
+          "like_count": 5609,
+          "listed_count": 0,
+          "media_count": 70,
+          "tweet_count": 1597
+        },
+        "username": "o65518kuguagua",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-25T08:17:58.000Z",
+        "description": "幸福请降临小妤手心",
+        "id": "1959892946926649344",
+        "location": "我的床",
+        "name": "春刻雨🌧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025647411516063744/3qa8UBjk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 177,
+          "following_count": 367,
+          "like_count": 1567,
+          "listed_count": 0,
+          "media_count": 91,
+          "tweet_count": 871
+        },
+        "username": "Kiss_Yu_Forever",
+        "verified": false
+      }
+    ]
+  }
+}

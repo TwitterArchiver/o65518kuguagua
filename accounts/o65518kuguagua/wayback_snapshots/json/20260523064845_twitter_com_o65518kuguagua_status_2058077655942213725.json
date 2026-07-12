@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028430373458456576",
+    "conversation_id": "2057875250969514250",
+    "created_at": "2026-05-23T06:48:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T07:48:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058077655942213725"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2001649966381699073",
+          "start": 0,
+          "username": "chuixuebl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058077655942213725",
+    "in_reply_to_user_id": "2001649966381699073",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057875250969514250",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chuixuebl 好可爱"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2057875243180654592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI8KoW3agAAXnn3.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028430373458456576",
+        "conversation_id": "2057875250969514250",
+        "created_at": "2026-05-23T06:48:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T07:48:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058077655942213725"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2001649966381699073",
+              "start": 0,
+              "username": "chuixuebl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058077655942213725",
+        "in_reply_to_user_id": "2001649966381699073",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057875250969514250",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chuixuebl 好可爱"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057875243180654592"
+          ]
+        },
+        "author_id": "2001649966381699073",
+        "conversation_id": "2057875250969514250",
+        "created_at": "2026-05-22T17:24:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T18:24:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057875250969514250"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qgk78Ke8fk",
+              "end": 23,
+              "expanded_url": "https://x.com/chuixuebl/status/2057875250969514250/photo/1",
+              "media_key": "3_2057875243180654592",
+              "start": 0,
+              "url": "https://t.co/qgk78Ke8fk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057875250969514250",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 4523,
+          "like_count": 216,
+          "quote_count": 0,
+          "reply_count": 23,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/qgk78Ke8fk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-02T11:21:20.000Z",
+        "description": "我只是在自说自话｜09苦逼美术生｜双性恋丨我是瓜瓜/小咪咪（我喜欢改头像和名字别忘记我TⅴT）|前世@qiu_song60259已死（互关巡回中）\n只过熟人@Kuguadawang6677 嫌我吵的话你点一下那个屏蔽我就死掉了｜双取随意谢谢你们愿意跟我玩丨心肝@imcutefate 最爱的闺闺@Lake_Verion",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 50,
+                "username": "qiu_song60259"
+              },
+              {
+                "end": 94,
+                "start": 78,
+                "username": "Kuguadawang6677"
+              },
+              {
+                "end": 141,
+                "start": 130,
+                "username": "imcutefate"
+              },
+              {
+                "end": 159,
+                "start": 147,
+                "username": "Lake_Verion"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E8%8B%A6%E7%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E8%8B%A6%E7%93%9C%E5%A4%A7%E7%8E%8B",
+                "start": 0,
+                "url": "https://t.co/CdcVmYa8EY"
+              }
+            ]
+          }
+        },
+        "id": "2028430373458456576",
+        "location": "加载中……   匿名→",
+        "name": "虎牙钉",
+        "pinned_tweet_id": "2057778441110598119",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058038322078064640/9aLQ7rPo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1131,
+          "following_count": 445,
+          "like_count": 6878,
+          "listed_count": 1,
+          "media_count": 93,
+          "tweet_count": 1893
+        },
+        "url": "https://t.co/CdcVmYa8EY",
+        "username": "o65518kuguagua",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-18T13:45:32.000Z",
+        "description": "晚安｜@awmbwt这个号被盗了 发私信别信",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 3,
+                "username": "awmbwt"
+              }
+            ]
+          }
+        },
+        "id": "2001649966381699073",
+        "name": "菠萝吹吹吹雪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001662034493009920/n4tsMjtH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4169,
+          "following_count": 269,
+          "like_count": 17391,
+          "listed_count": 3,
+          "media_count": 49,
+          "tweet_count": 137
+        },
+        "username": "chuixuebl",
+        "verified": false
+      }
+    ]
+  }
+}

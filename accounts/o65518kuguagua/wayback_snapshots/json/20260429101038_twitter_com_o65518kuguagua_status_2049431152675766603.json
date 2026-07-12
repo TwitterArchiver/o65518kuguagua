@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028430373458456576",
+    "conversation_id": "2049404691403129291",
+    "created_at": "2026-04-29T10:10:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T11:10:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049431152675766603"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2019670576730902528",
+          "start": 0,
+          "username": "sunnyrain7117"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049431152675766603",
+    "in_reply_to_user_id": "2019670576730902528",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049412694030303567",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sunnyrain7117 卷卷呀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028430373458456576",
+        "conversation_id": "2049404691403129291",
+        "created_at": "2026-04-29T10:10:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T11:10:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049431152675766603"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2019670576730902528",
+              "start": 0,
+              "username": "sunnyrain7117"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049431152675766603",
+        "in_reply_to_user_id": "2019670576730902528",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049412694030303567",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sunnyrain7117 卷卷呀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2019670576730902528",
+        "conversation_id": "2049404691403129291",
+        "created_at": "2026-04-29T08:57:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T09:57:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049412694030303567"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2028430373458456576",
+              "start": 0,
+              "username": "o65518kuguagua"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049412694030303567",
+        "in_reply_to_user_id": "2028430373458456576",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049404691403129291",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@o65518kuguagua 谁家小宝宝跑出来了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-02T11:21:20.000Z",
+        "description": "哥控｜我需要很多周末o.O 这个是我的大分身@qiu_song60259\n锁推小号@Kuguadawang6677",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 22,
+                "username": "qiu_song60259"
+              },
+              {
+                "end": 57,
+                "start": 41,
+                "username": "Kuguadawang6677"
+              }
+            ]
+          }
+        },
+        "id": "2028430373458456576",
+        "location": "加载中……",
+        "name": "咩咩",
+        "pinned_tweet_id": "2047911866517659665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028450466460241920/ceK3GGSB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 603,
+          "following_count": 396,
+          "like_count": 5702,
+          "listed_count": 0,
+          "media_count": 71,
+          "tweet_count": 1620
+        },
+        "username": "o65518kuguagua",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-06T07:12:56.000Z",
+        "description": "只想流幸福的眼泪\n双子座｜Enfp/Infp不定期切换｜brat｜爱好是年上卷毛眼镜肌肉男｜不约不线下",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%88%91%E6%B…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E6%88%91%E6%B3%AA%E6%B3%AA%E7%9A%84",
+                "start": 0,
+                "url": "https://t.co/0fG1CkMXUE"
+              }
+            ]
+          }
+        },
+        "id": "2019670576730902528",
+        "name": "卷卷",
+        "pinned_tweet_id": "2045679756696588640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049365663475802113/yP3tCkiy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 131,
+          "following_count": 27,
+          "like_count": 783,
+          "listed_count": 0,
+          "media_count": 133,
+          "tweet_count": 1658
+        },
+        "url": "https://t.co/0fG1CkMXUE",
+        "username": "sunnyrain7117",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028430373458456576",
+    "conversation_id": "2049384085538435261",
+    "created_at": "2026-04-30T01:42:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-30T02:42:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049665652307443975"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1864686240882413570",
+          "start": 0,
+          "username": "Ccccccandy_m_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049665652307443975",
+    "in_reply_to_user_id": "1864686240882413570",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049384085538435261",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ccccccandy_m_ 小萌你萌萌的我喜欢你谢谢你挑中我！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028430373458456576",
+        "conversation_id": "2049384085538435261",
+        "created_at": "2026-04-30T01:42:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T02:42:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049665652307443975"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1864686240882413570",
+              "start": 0,
+              "username": "Ccccccandy_m_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049665652307443975",
+        "in_reply_to_user_id": "1864686240882413570",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049384085538435261",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ccccccandy_m_ 小萌你萌萌的我喜欢你谢谢你挑中我！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1864686240882413570",
+        "conversation_id": "2049384085538435261",
+        "created_at": "2026-04-29T07:03:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T08:03:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049384085538435261"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2049384085538435261",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 158,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "互关是精心挑选出来的\n冷暴力我 不理我 不喜欢我可以直说\n我知道我不够骚而已 我会努力骚起来的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-02T11:21:20.000Z",
+        "description": "哥控｜我需要很多周末o.O 这个是我的大分身@qiu_song60259\n锁推小号@Kuguadawang6677",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 22,
+                "username": "qiu_song60259"
+              },
+              {
+                "end": 57,
+                "start": 41,
+                "username": "Kuguadawang6677"
+              }
+            ]
+          }
+        },
+        "id": "2028430373458456576",
+        "location": "加载中……",
+        "name": "咩咩",
+        "pinned_tweet_id": "2047911866517659665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028450466460241920/ceK3GGSB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 614,
+          "following_count": 397,
+          "like_count": 5851,
+          "listed_count": 0,
+          "media_count": 75,
+          "tweet_count": 1658
+        },
+        "username": "o65518kuguagua",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-05T15:00:29.000Z",
+        "description": "06 脾气因人而异的小女孩\n王者荣耀娱乐陪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/qqqqqqqxtao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/qqqqqqqxtao",
+                "start": 0,
+                "url": "https://t.co/B9blXRW3Ju"
+              }
+            ]
+          }
+        },
+        "id": "1864686240882413570",
+        "location": "找我打游戏吧！",
+        "name": "小萌",
+        "pinned_tweet_id": "2047412763761471916",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047624206347816960/qjooFHog_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 158,
+          "following_count": 45,
+          "like_count": 10928,
+          "listed_count": 0,
+          "media_count": 318,
+          "tweet_count": 3343
+        },
+        "url": "https://t.co/B9blXRW3Ju",
+        "username": "Ccccccandy_m_",
+        "verified": false
+      }
+    ]
+  }
+}

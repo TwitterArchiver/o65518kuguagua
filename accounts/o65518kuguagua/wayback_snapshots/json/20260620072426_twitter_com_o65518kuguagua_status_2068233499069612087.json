@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028430373458456576",
+    "conversation_id": "2068208717292765671",
+    "created_at": "2026-06-20T07:24:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T08:24:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068233499069612087"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1803423492890828805",
+          "start": 0,
+          "username": "quezi32"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068233499069612087",
+    "in_reply_to_user_id": "1803423492890828805",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068232929822810394",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@quezi32 啊啊啊啊啊小猫😭我摸一下嘿嘿，好可爱，"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 570,
+        "media_key": "3_2068232912068395008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLPW4CSbwAAvNRv.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028430373458456576",
+        "conversation_id": "2068208717292765671",
+        "created_at": "2026-06-20T07:24:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T08:24:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068233499069612087"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1803423492890828805",
+              "start": 0,
+              "username": "quezi32"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068233499069612087",
+        "in_reply_to_user_id": "1803423492890828805",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068232929822810394",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@quezi32 啊啊啊啊啊小猫😭我摸一下嘿嘿，好可爱，"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068232912068395008"
+          ]
+        },
+        "author_id": "1803423492890828805",
+        "conversation_id": "2068208717292765671",
+        "created_at": "2026-06-20T07:22:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T08:22:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068232929822810394"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2028430373458456576",
+              "start": 0,
+              "username": "o65518kuguagua"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/JXGEPeRPEG",
+              "end": 46,
+              "expanded_url": "https://x.com/quezi32/status/2068232929822810394/photo/1",
+              "media_key": "3_2068232912068395008",
+              "start": 23,
+              "url": "https://t.co/JXGEPeRPEG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068232929822810394",
+        "in_reply_to_user_id": "2028430373458456576",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068232149317390540",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@o65518kuguagua 猫也吃玉米！ https://t.co/JXGEPeRPEG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-02T11:21:20.000Z",
+        "description": "只是想好好睡觉｜我的名字是瓜瓜｜心肝@imcutefate 最爱的闺闺@Lake_Verion",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 18,
+                "username": "imcutefate"
+              },
+              {
+                "end": 47,
+                "start": 35,
+                "username": "Lake_Verion"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E8%8B%A6%E7%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E8%8B%A6%E7%93%9C%E5%A4%A7%E7%8E%8B",
+                "start": 0,
+                "url": "https://t.co/CdcVmYa8EY"
+              }
+            ]
+          }
+        },
+        "id": "2028430373458456576",
+        "location": "加载中……   匿名→",
+        "name": "虎牙钉",
+        "pinned_tweet_id": "2063001104858648649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060344470910926856/fk6R2qB-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2389,
+          "following_count": 581,
+          "like_count": 9231,
+          "listed_count": 2,
+          "media_count": 174,
+          "tweet_count": 2809
+        },
+        "url": "https://t.co/CdcVmYa8EY",
+        "username": "o65518kuguagua",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-19T13:44:12.000Z",
+        "description": "我是小缺^^先跟你说晚安吧",
+        "id": "1803423492890828805",
+        "location": "萧逸床上",
+        "name": "小缺干脆面",
+        "pinned_tweet_id": "2049746184772964537",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1803503510379782144/4oOHjCoq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 44,
+          "like_count": 1486,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 640
+        },
+        "url": "",
+        "username": "quezi32",
+        "verified": false
+      }
+    ]
+  }
+}

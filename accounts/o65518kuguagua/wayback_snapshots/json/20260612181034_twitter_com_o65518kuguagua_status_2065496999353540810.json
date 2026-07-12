@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028430373458456576",
+    "conversation_id": "2065451134962286881",
+    "created_at": "2026-06-12T18:10:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T19:10:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065496999353540810"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1958390370355789825",
+          "start": 0,
+          "username": "imcutefate"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065496999353540810",
+    "in_reply_to_user_id": "1958390370355789825",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065496888330137746",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@imcutefate 啊啊啊。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028430373458456576",
+        "conversation_id": "2065451134962286881",
+        "created_at": "2026-06-12T18:10:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T19:10:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065496999353540810"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1958390370355789825",
+              "start": 0,
+              "username": "imcutefate"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065496999353540810",
+        "in_reply_to_user_id": "1958390370355789825",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065496888330137746",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@imcutefate 啊啊啊。。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1958390370355789825",
+        "conversation_id": "2065451134962286881",
+        "created_at": "2026-06-12T18:10:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T19:10:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065496888330137746"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2028430373458456576",
+              "start": 0,
+              "username": "o65518kuguagua"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065496888330137746",
+        "in_reply_to_user_id": "2028430373458456576",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065451134962286881",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@o65518kuguagua 小小的也很可爱。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-02T11:21:20.000Z",
+        "description": "只是想好好睡觉｜我的名字是瓜瓜｜心肝@imcutefate 最爱的闺闺@Lake_Verion",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 18,
+                "username": "imcutefate"
+              },
+              {
+                "end": 47,
+                "start": 35,
+                "username": "Lake_Verion"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E8%8B%A6%E7%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E8%8B%A6%E7%93%9C%E5%A4%A7%E7%8E%8B",
+                "start": 0,
+                "url": "https://t.co/CdcVmYa8EY"
+              }
+            ]
+          }
+        },
+        "id": "2028430373458456576",
+        "location": "加载中……   匿名→",
+        "name": "虎牙钉",
+        "pinned_tweet_id": "2063001104858648649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060344470910926856/fk6R2qB-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2011,
+          "following_count": 573,
+          "like_count": 8456,
+          "listed_count": 1,
+          "media_count": 131,
+          "tweet_count": 2399
+        },
+        "url": "https://t.co/CdcVmYa8EY",
+        "username": "o65518kuguagua",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-21T04:47:15.000Z",
+        "description": "我是羊羊\n最爱的女孩@o65518kuguagua @yanyejilennon",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 10,
+                "username": "o65518kuguagua"
+              },
+              {
+                "end": 40,
+                "start": 26,
+                "username": "yanyejilennon"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/imcutefate",
+                "end": 23,
+                "expanded_url": "https://ngl.link/imcutefate",
+                "start": 0,
+                "url": "https://t.co/2kzYAji3rI"
+              }
+            ]
+          }
+        },
+        "id": "1958390370355789825",
+        "name": "坏蛋自述",
+        "pinned_tweet_id": "2064285092349125026",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050109355329208320/WgR-FfCG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 331,
+          "following_count": 70,
+          "like_count": 2683,
+          "listed_count": 0,
+          "media_count": 76,
+          "tweet_count": 1089
+        },
+        "url": "https://t.co/2kzYAji3rI",
+        "username": "imcutefate",
+        "verified": false
+      }
+    ]
+  }
+}

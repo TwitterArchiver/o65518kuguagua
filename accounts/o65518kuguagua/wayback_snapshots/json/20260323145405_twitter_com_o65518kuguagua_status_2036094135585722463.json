@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028430373458456576",
+    "conversation_id": "2035978632775229696",
+    "created_at": "2026-03-23T14:54:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-23T15:54:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036094135585722463"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1907815020400197632",
+          "start": 0,
+          "username": "huahuahuaziw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036094135585722463",
+    "in_reply_to_user_id": "1907815020400197632",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035978632775229696",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@huahuahuaziw 牛福"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_2035978629973487616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEE_xuHbMAAeE40.jpg",
+        "width": 1920
+      },
+      {
+        "height": 1387,
+        "media_key": "3_2035978630237728768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEE_xvGbMAAkoeB.jpg",
+        "width": 1850
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028430373458456576",
+        "conversation_id": "2035978632775229696",
+        "created_at": "2026-03-23T14:54:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T15:54:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036094135585722463"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1907815020400197632",
+              "start": 0,
+              "username": "huahuahuaziw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036094135585722463",
+        "in_reply_to_user_id": "1907815020400197632",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035978632775229696",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huahuahuaziw 牛福"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2035978629973487616",
+            "3_2035978630237728768"
+          ]
+        },
+        "author_id": "1907815020400197632",
+        "conversation_id": "2035978632775229696",
+        "created_at": "2026-03-23T07:15:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T08:15:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035978632775229696"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HXhvFLbjvu",
+              "end": 44,
+              "expanded_url": "https://x.com/huahuahuaziw/status/2035978632775229696/photo/1",
+              "media_key": "3_2035978629973487616",
+              "start": 21,
+              "url": "https://t.co/HXhvFLbjvu"
+            },
+            {
+              "display_url": "pic.x.com/HXhvFLbjvu",
+              "end": 44,
+              "expanded_url": "https://x.com/huahuahuaziw/status/2035978632775229696/photo/1",
+              "media_key": "3_2035978630237728768",
+              "start": 21,
+              "url": "https://t.co/HXhvFLbjvu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035978632775229696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7422,
+          "like_count": 136,
+          "quote_count": 0,
+          "reply_count": 14,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "展示熊臂。（毫无欲望的婴儿手。哈哈。。） https://t.co/HXhvFLbjvu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-02T11:21:20.000Z",
+        "description": "我需要很多周末o.O 这个是我的大分身@qiu_song60259",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 19,
+                "username": "qiu_song60259"
+              }
+            ]
+          }
+        },
+        "id": "2028430373458456576",
+        "location": "加载中……",
+        "name": "咩咩",
+        "pinned_tweet_id": "2035726523810861085",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028450466460241920/ceK3GGSB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 155,
+          "following_count": 153,
+          "like_count": 1055,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 273
+        },
+        "username": "o65518kuguagua",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-03T15:18:56.000Z",
+        "description": "熊。要认识很多很多美女。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/huaziw",
+                "end": 23,
+                "expanded_url": "https://ngl.link/huaziw",
+                "start": 0,
+                "url": "https://t.co/tOv92M3GUF"
+              }
+            ]
+          }
+        },
+        "id": "1907815020400197632",
+        "name": "小暗",
+        "pinned_tweet_id": "2026010344842461444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025827054697246720/U9sLpgeH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 275,
+          "following_count": 826,
+          "like_count": 5564,
+          "listed_count": 0,
+          "media_count": 73,
+          "tweet_count": 609
+        },
+        "url": "https://t.co/tOv92M3GUF",
+        "username": "huahuahuaziw",
+        "verified": false
+      }
+    ]
+  }
+}

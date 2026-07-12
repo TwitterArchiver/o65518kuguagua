@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028430373458456576",
+    "conversation_id": "2028432770092216702",
+    "created_at": "2026-03-02T13:35:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-02T14:35:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028464247856845241"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2009933561240158208",
+          "start": 0,
+          "username": "Winter894867487"
+        },
+        {
+          "end": 31,
+          "id": "1716325928479903744",
+          "start": 17,
+          "username": "qiu_song60259"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028464247856845241",
+    "in_reply_to_user_id": "2009933561240158208",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028462123995836531",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Winter894867487 @qiu_song60259 宝宝！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028430373458456576",
+        "conversation_id": "2028432770092216702",
+        "created_at": "2026-03-02T13:35:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T14:35:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028464247856845241"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2009933561240158208",
+              "start": 0,
+              "username": "Winter894867487"
+            },
+            {
+              "end": 31,
+              "id": "1716325928479903744",
+              "start": 17,
+              "username": "qiu_song60259"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028464247856845241",
+        "in_reply_to_user_id": "2009933561240158208",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028462123995836531",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Winter894867487 @qiu_song60259 宝宝！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2009933561240158208",
+        "conversation_id": "2028432770092216702",
+        "created_at": "2026-03-02T13:27:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T14:27:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028462123995836531"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1716325928479903744",
+              "start": 0,
+              "username": "qiu_song60259"
+            },
+            {
+              "end": 30,
+              "id": "2028430373458456576",
+              "start": 15,
+              "username": "o65518kuguagua"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028462123995836531",
+        "in_reply_to_user_id": "1716325928479903744",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028432770092216702",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qiu_song60259 @o65518kuguagua 宝宝我又来了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-02T11:21:20.000Z",
+        "description": "我需要很多周末o.O 这个是我的大分身@qiu_song60259",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 19,
+                "username": "qiu_song60259"
+              }
+            ]
+          }
+        },
+        "id": "2028430373458456576",
+        "location": "加载中……",
+        "name": "小瓜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028450466460241920/ceK3GGSB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 12,
+          "like_count": 51,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 7
+        },
+        "username": "o65518kuguagua",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-10T10:21:32.000Z",
+        "description": "infj｜168｜51｜内容碎碎念占比较多｜不约｜不线下｜匿名箱👉🏻https://t.co/mHRVdyg6jx",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zhi.iz",
+                "end": 57,
+                "expanded_url": "https://ngl.link/zhi.iz",
+                "start": 34,
+                "url": "https://t.co/mHRVdyg6jx"
+              }
+            ]
+          }
+        },
+        "id": "2009933561240158208",
+        "location": "你的心里",
+        "name": "知之为吱吱🍒",
+        "pinned_tweet_id": "2028106063267180931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025083340949475328/ZuZG1MUT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 127,
+          "following_count": 32,
+          "like_count": 115,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 83
+        },
+        "username": "Winter894867487",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-23T05:29:38.000Z",
+        "description": "某年某月某个星期几 | brat |双性恋 | infp土象 |我话比较多想看我长啥样的可以直接点照片看|不约不线下|只加我感兴趣的人的vx丨分身@o65518kuguagua我会用这个号开sps",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 73,
+                "username": "o65518kuguagua"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E8%8B%A6%E7%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E8%8B%A6%E7%93%9C%E5%A4%A7%E7%8E%8B",
+                "start": 0,
+                "url": "https://t.co/YLzBwcv4VK"
+              }
+            ]
+          }
+        },
+        "id": "1716325928479903744",
+        "location": "暂时无法告知      匿名→",
+        "name": "苦瓜苦瓜苦瓜瓜",
+        "pinned_tweet_id": "2028434459901739072",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025139318239715328/vgZ5VUic_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2571,
+          "following_count": 1301,
+          "like_count": 12085,
+          "listed_count": 8,
+          "media_count": 345,
+          "tweet_count": 6739
+        },
+        "url": "https://t.co/YLzBwcv4VK",
+        "username": "qiu_song60259",
+        "verified": false
+      }
+    ]
+  }
+}

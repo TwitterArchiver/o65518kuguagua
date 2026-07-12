@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2067992981022650369"
+      ]
+    },
+    "author_id": "2028430373458456576",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2067992989977481573",
+    "created_at": "2026-06-19T15:28:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T16:28:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2067992989977481573"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/TyXcnJbL5H",
+          "end": 50,
+          "expanded_url": "https://x.com/o65518kuguagua/status/2067992989977481573/photo/1",
+          "media_key": "3_2067992981022650369",
+          "start": 27,
+          "url": "https://t.co/TyXcnJbL5H"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067992989977481573",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我靠我真的好喜欢听他直播睡觉，，，声音好好听嗯👅👅👅 https://t.co/TyXcnJbL5H"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2067992981022650369",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLL8qNfbMAE34Jb.jpg",
+        "width": 947
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067992981022650369"
+          ]
+        },
+        "author_id": "2028430373458456576",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2067992989977481573",
+        "created_at": "2026-06-19T15:28:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T16:28:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067992989977481573"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TyXcnJbL5H",
+              "end": 50,
+              "expanded_url": "https://x.com/o65518kuguagua/status/2067992989977481573/photo/1",
+              "media_key": "3_2067992981022650369",
+              "start": 27,
+              "url": "https://t.co/TyXcnJbL5H"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067992989977481573",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我靠我真的好喜欢听他直播睡觉，，，声音好好听嗯👅👅👅 https://t.co/TyXcnJbL5H"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-02T11:21:20.000Z",
+        "description": "只是想好好睡觉｜我的名字是瓜瓜｜心肝@imcutefate 最爱的闺闺@Lake_Verion",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 18,
+                "username": "imcutefate"
+              },
+              {
+                "end": 47,
+                "start": 35,
+                "username": "Lake_Verion"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E8%8B%A6%E7%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E8%8B%A6%E7%93%9C%E5%A4%A7%E7%8E%8B",
+                "start": 0,
+                "url": "https://t.co/CdcVmYa8EY"
+              }
+            ]
+          }
+        },
+        "id": "2028430373458456576",
+        "location": "加载中……   匿名→",
+        "name": "虎牙钉",
+        "pinned_tweet_id": "2063001104858648649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060344470910926856/fk6R2qB-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2095,
+          "following_count": 577,
+          "like_count": 9174,
+          "listed_count": 1,
+          "media_count": 171,
+          "tweet_count": 2765
+        },
+        "url": "https://t.co/CdcVmYa8EY",
+        "username": "o65518kuguagua",
+        "verified": false
+      }
+    ]
+  }
+}

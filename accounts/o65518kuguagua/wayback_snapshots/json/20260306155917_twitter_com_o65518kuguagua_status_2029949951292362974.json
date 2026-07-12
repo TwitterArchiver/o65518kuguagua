@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028430373458456576",
+    "conversation_id": "2029949951292362974",
+    "created_at": "2026-03-06T15:59:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-06T16:59:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2029949951292362974"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/15a1r/status/2…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/15a1r/status/2029766429726363865",
+          "start": 4,
+          "url": "https://t.co/8PlzEOR4xt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029949951292362974",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029766429726363865",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这啥啊 https://t.co/8PlzEOR4xt"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 680,
+        "media_key": "3_2029766408238944257",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCsty0waUAETJwx.jpg",
+        "width": 429
+      },
+      {
+        "height": 240,
+        "media_key": "3_2029766421694296064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCstzm4asAAs4hA.png",
+        "width": 133
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028430373458456576",
+        "conversation_id": "2029949951292362974",
+        "created_at": "2026-03-06T15:59:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T16:59:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029949951292362974"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/15a1r/status/2…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/15a1r/status/2029766429726363865",
+              "start": 4,
+              "url": "https://t.co/8PlzEOR4xt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029949951292362974",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029766429726363865",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这啥啊 https://t.co/8PlzEOR4xt"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2029766408238944257",
+            "3_2029766421694296064"
+          ]
+        },
+        "author_id": "1687679854416633856",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2029766429726363865",
+        "created_at": "2026-03-06T03:50:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T04:50:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029766429726363865"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eg5jZgpQ3b",
+              "end": 53,
+              "expanded_url": "https://x.com/15A1r/status/2029766429726363865/photo/1",
+              "media_key": "3_2029766408238944257",
+              "start": 30,
+              "url": "https://t.co/eg5jZgpQ3b"
+            },
+            {
+              "display_url": "pic.x.com/eg5jZgpQ3b",
+              "end": 53,
+              "expanded_url": "https://x.com/15A1r/status/2029766429726363865/photo/1",
+              "media_key": "3_2029766421694296064",
+              "start": 30,
+              "url": "https://t.co/eg5jZgpQ3b"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029766429726363865",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 134,
+          "impression_count": 1155812,
+          "like_count": 1147,
+          "quote_count": 2,
+          "reply_count": 591,
+          "retweet_count": 89
+        },
+        "reply_settings": "everyone",
+        "text": "笑死了 \n\n现在全世界都知道薛之谦姬芭笑了\n\n哈哈哈！！！ https://t.co/eg5jZgpQ3b"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-02T11:21:20.000Z",
+        "description": "我需要很多周末o.O 这个是我的大分身@qiu_song60259",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 19,
+                "username": "qiu_song60259"
+              }
+            ]
+          }
+        },
+        "id": "2028430373458456576",
+        "location": "加载中……",
+        "name": "咩咩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028450466460241920/ceK3GGSB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 100,
+          "following_count": 28,
+          "like_count": 183,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 39
+        },
+        "username": "o65518kuguagua",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-05T04:20:19.000Z",
+        "description": "希望大家能在X上开心快乐的冲浪·每晚一定要大头控制小头！不要上当受骗🔥",
+        "id": "1687679854416633856",
+        "name": "街边趣闻",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000278531486470147/OuB9GD4C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22166,
+          "following_count": 9865,
+          "like_count": 1809,
+          "listed_count": 11,
+          "media_count": 161,
+          "tweet_count": 42696
+        },
+        "username": "15A1r",
+        "verified": false
+      }
+    ]
+  }
+}

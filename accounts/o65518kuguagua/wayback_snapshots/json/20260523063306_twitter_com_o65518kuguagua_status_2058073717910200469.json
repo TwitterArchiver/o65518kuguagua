@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028430373458456576",
+    "conversation_id": "2058073717910200469",
+    "created_at": "2026-05-23T06:33:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T07:33:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058073717910200469"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1926702744036917248",
+          "start": 3,
+          "username": "ziykxkl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058073717910200469",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057829656611664089",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ziykxkl: 大家好这是我的价目表呀宝宝们 请过我的🚪288 388 520 1314。 被渣男骗光了钱和感情 有意向请问我私信哦 我没有家需要挣生活费和学费也要攒钱治病 请老公们过我的🚪 520粉开抽奖哦\n参与：评论➕关注➕转帖\n奖1：52（一个）\n奖2：25（两…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2058073717910200469].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2058073717910200469",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2058073717910200469"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1919,
+        "media_key": "3_2057829648093052928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI7hKX7agAAJTlM.jpg",
+        "width": 1440
+      },
+      {
+        "height": 1760,
+        "media_key": "3_2057829648252411904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI7hKYhaIAAN48K.jpg",
+        "width": 1320
+      },
+      {
+        "height": 1760,
+        "media_key": "3_2057829648076361728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI7hKX3b0AAlafr.jpg",
+        "width": 1320
+      },
+      {
+        "height": 1712,
+        "media_key": "3_2057829648093118465",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI7hKX7bgAE366X.jpg",
+        "width": 1284
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057829648093052928",
+            "3_2057829648252411904",
+            "3_2057829648076361728",
+            "3_2057829648093118465"
+          ]
+        },
+        "author_id": "1926702744036917248",
+        "conversation_id": "2057829656611664089",
+        "created_at": "2026-05-22T14:23:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T15:23:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057829656611664089"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6J7Q135ef0",
+              "end": 162,
+              "expanded_url": "https://x.com/ziykxkl/status/2057829656611664089/photo/1",
+              "media_key": "3_2057829648093052928",
+              "start": 139,
+              "url": "https://t.co/6J7Q135ef0"
+            },
+            {
+              "display_url": "pic.x.com/6J7Q135ef0",
+              "end": 162,
+              "expanded_url": "https://x.com/ziykxkl/status/2057829656611664089/photo/1",
+              "media_key": "3_2057829648252411904",
+              "start": 139,
+              "url": "https://t.co/6J7Q135ef0"
+            },
+            {
+              "display_url": "pic.x.com/6J7Q135ef0",
+              "end": 162,
+              "expanded_url": "https://x.com/ziykxkl/status/2057829656611664089/photo/1",
+              "media_key": "3_2057829648076361728",
+              "start": 139,
+              "url": "https://t.co/6J7Q135ef0"
+            },
+            {
+              "display_url": "pic.x.com/6J7Q135ef0",
+              "end": 162,
+              "expanded_url": "https://x.com/ziykxkl/status/2057829656611664089/photo/1",
+              "media_key": "3_2057829648093118465",
+              "start": 139,
+              "url": "https://t.co/6J7Q135ef0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057829656611664089",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2857,
+          "like_count": 20,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "大家好这是我的价目表呀宝宝们 请过我的🚪288 388 520 1314。 被渣男骗光了钱和感情 有意向请问我私信哦 我没有家需要挣生活费和学费也要攒钱治病 请老公们过我的🚪 520粉开抽奖哦\n参与：评论➕关注➕转帖\n奖1：52（一个）\n奖2：25（两个）\n奖3：10（三个） https://t.co/6J7Q135ef0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-02T11:21:20.000Z",
+        "description": "我只是在自说自话｜09苦逼美术生｜双性恋丨我是瓜瓜/小咪咪（我喜欢改头像和名字别忘记我TⅴT）|前世@qiu_song60259已死（互关巡回中）\n只过熟人@Kuguadawang6677 嫌我吵的话你点一下那个屏蔽我就死掉了｜双取随意谢谢你们愿意跟我玩丨心肝@imcutefate 最爱的闺闺@Lake_Verion",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 50,
+                "username": "qiu_song60259"
+              },
+              {
+                "end": 94,
+                "start": 78,
+                "username": "Kuguadawang6677"
+              },
+              {
+                "end": 141,
+                "start": 130,
+                "username": "imcutefate"
+              },
+              {
+                "end": 159,
+                "start": 147,
+                "username": "Lake_Verion"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E8%8B%A6%E7%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E8%8B%A6%E7%93%9C%E5%A4%A7%E7%8E%8B",
+                "start": 0,
+                "url": "https://t.co/CdcVmYa8EY"
+              }
+            ]
+          }
+        },
+        "id": "2028430373458456576",
+        "location": "加载中……   匿名→",
+        "name": "虎牙钉",
+        "pinned_tweet_id": "2057778441110598119",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058038322078064640/9aLQ7rPo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1124,
+          "following_count": 442,
+          "like_count": 6847,
+          "listed_count": 1,
+          "media_count": 92,
+          "tweet_count": 1888
+        },
+        "url": "https://t.co/CdcVmYa8EY",
+        "username": "o65518kuguagua",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-25T18:11:56.000Z",
+        "description": "双相情感障碍 这里是重生七次的虾仁/这个命你就欺负我吧💔/主页日常更新穿搭和妆造偶尔心情好掉落擦边/这个x求你放过我吧 🚪288 388 520 1314求礼貌的门哥过门/求你了黑叉别让我再转生第八次了😿欢迎女宝找我互fo互转 像我匿名提问https://t.co/W3CVMjErGg",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaren1",
+                "end": 143,
+                "expanded_url": "https://ngl.link/xiaren1",
+                "start": 120,
+                "url": "https://t.co/W3CVMjErGg"
+              }
+            ]
+          }
+        },
+        "id": "1926702744036917248",
+        "location": "msk请对我好一点",
+        "name": "ziy",
+        "pinned_tweet_id": "2057829656611664089",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039548018719182848/1fCLjrCi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 396,
+          "following_count": 110,
+          "like_count": 496,
+          "listed_count": 1,
+          "media_count": 41,
+          "tweet_count": 256
+        },
+        "username": "ziykxkl",
+        "verified": false
+      }
+    ]
+  }
+}

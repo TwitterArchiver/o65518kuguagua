@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028430373458456576",
+    "conversation_id": "2042259904942211415",
+    "created_at": "2026-04-09T15:21:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T16:21:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042261605921214568"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1935372590060843008",
+          "start": 0,
+          "username": "luobotoumiao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042261605921214568",
+    "in_reply_to_user_id": "1935372590060843008",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042259904942211415",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@luobotoumiao 你有点萌"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 5666,
+        "height": 1280,
+        "media_key": "13_2042259824491315200",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2042259824491315200/img/YLrT2OInwzbzmYCF.jpg",
+        "public_metrics": {
+          "view_count": 11
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2042259824491315200/vid/avc1/320x568/eRQ8-8QEPLpZPWGZ.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2042259824491315200/vid/avc1/480x852/bII9L6WSNBYArNL5.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2042259824491315200/vid/avc1/720x1280/V9TYJeVWl6ARm2Xx.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2042259824491315200/pl/VmhaVROlfe2jLGZG.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028430373458456576",
+        "conversation_id": "2042259904942211415",
+        "created_at": "2026-04-09T15:21:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T16:21:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042261605921214568"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1935372590060843008",
+              "start": 0,
+              "username": "luobotoumiao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042261605921214568",
+        "in_reply_to_user_id": "1935372590060843008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042259904942211415",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@luobotoumiao 你有点萌"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2042259824491315200"
+          ]
+        },
+        "author_id": "1935372590060843008",
+        "conversation_id": "2042259904942211415",
+        "created_at": "2026-04-09T15:14:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T16:14:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042259904942211415"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fekHzI3t6a",
+              "end": 48,
+              "expanded_url": "https://x.com/luobotoumiao/status/2042259904942211415/video/1",
+              "media_key": "13_2042259824491315200",
+              "start": 25,
+              "url": "https://t.co/fekHzI3t6a"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042259904942211415",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 109,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "发无修原视频试图吓退一些粉丝。留下来的都是真爱。 https://t.co/fekHzI3t6a"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-02T11:21:20.000Z",
+        "description": "哥控｜我需要很多周末o.O 这个是我的大分身@qiu_song60259\n锁推小号@Kuguadawang6677",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 22,
+                "username": "qiu_song60259"
+              },
+              {
+                "end": 57,
+                "start": 41,
+                "username": "Kuguadawang6677"
+              }
+            ]
+          }
+        },
+        "id": "2028430373458456576",
+        "location": "加载中……",
+        "name": "咩咩",
+        "pinned_tweet_id": "2035726523810861085",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028450466460241920/ceK3GGSB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 462,
+          "following_count": 370,
+          "like_count": 4627,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 1340
+        },
+        "username": "o65518kuguagua",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-18T16:22:54.000Z",
+        "description": "全球可飞",
+        "id": "1935372590060843008",
+        "location": "0.01km",
+        "name": "沸喜萝",
+        "pinned_tweet_id": "2036747457221230875",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041336671497773056/P34nfWc-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4863,
+          "following_count": 443,
+          "like_count": 5617,
+          "listed_count": 10,
+          "media_count": 211,
+          "tweet_count": 1820
+        },
+        "username": "luobotoumiao",
+        "verified": false
+      }
+    ]
+  }
+}

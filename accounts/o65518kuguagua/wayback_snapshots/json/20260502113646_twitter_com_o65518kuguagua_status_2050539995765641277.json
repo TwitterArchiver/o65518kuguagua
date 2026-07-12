@@ -1,0 +1,320 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2050232396600238080"
+      ],
+      "media_source_tweet_id": [
+        "2050232406465237002"
+      ]
+    },
+    "author_id": "2028430373458456576",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2050539995765641277",
+    "created_at": "2026-05-02T11:36:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-02T12:36:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050539995765641277"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1905566526595629060",
+          "start": 3,
+          "username": "Apipleeeee"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/WDf6TOFzQj",
+          "end": 47,
+          "expanded_url": "https://x.com/Apipleeeee/status/2050232406465237002/photo/1",
+          "media_key": "3_2050232396600238080",
+          "start": 24,
+          "url": "https://t.co/WDf6TOFzQj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050539995765641277",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 179
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050232406465237002",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Apipleeeee: 我的黏人程度： https://t.co/WDf6TOFzQj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 584,
+        "media_key": "3_2050232396600238080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHPjgIpa4AAAO8-.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050232396600238080"
+          ],
+          "media_source_tweet_id": [
+            "2050232406465237002"
+          ]
+        },
+        "author_id": "2028430373458456576",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2050539995765641277",
+        "created_at": "2026-05-02T11:36:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T12:36:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050539995765641277"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1905566526595629060",
+              "start": 3,
+              "username": "Apipleeeee"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/WDf6TOFzQj",
+              "end": 47,
+              "expanded_url": "https://x.com/Apipleeeee/status/2050232406465237002/photo/1",
+              "media_key": "3_2050232396600238080",
+              "start": 24,
+              "url": "https://t.co/WDf6TOFzQj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050539995765641277",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 179
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050232406465237002",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Apipleeeee: 我的黏人程度： https://t.co/WDf6TOFzQj"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050232396600238080"
+          ]
+        },
+        "author_id": "1905566526595629060",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2050232406465237002",
+        "created_at": "2026-05-01T15:14:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T16:14:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050232406465237002"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WDf6TOFzQj",
+              "end": 31,
+              "expanded_url": "https://x.com/Apipleeeee/status/2050232406465237002/photo/1",
+              "media_key": "3_2050232396600238080",
+              "start": 8,
+              "url": "https://t.co/WDf6TOFzQj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050232406465237002",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 38,
+          "impression_count": 40934,
+          "like_count": 1239,
+          "quote_count": 9,
+          "reply_count": 43,
+          "retweet_count": 179
+        },
+        "reply_settings": "everyone",
+        "text": "我的黏人程度： https://t.co/WDf6TOFzQj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-02T11:21:20.000Z",
+        "description": "我只是在自说自话｜哥控｜09美术生o.O ｜以后会用做这个号作为主号！这个是我的大分身@qiu_song60259\n锁推小号@Kuguadawang6677 嫌我吵的话你点一下那个屏蔽我就死掉了｜双取请随意谢谢你们愿意跟我玩",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 43,
+                "username": "qiu_song60259"
+              },
+              {
+                "end": 78,
+                "start": 62,
+                "username": "Kuguadawang6677"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E8%8B%A6%E7%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E8%8B%A6%E7%93%9C%E5%A4%A7%E7%8E%8B",
+                "start": 0,
+                "url": "https://t.co/CdcVmYa8EY"
+              }
+            ]
+          }
+        },
+        "id": "2028430373458456576",
+        "location": "加载中……   匿名→",
+        "name": "咩咩",
+        "pinned_tweet_id": "2047911866517659665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028450466460241920/ceK3GGSB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 698,
+          "following_count": 417,
+          "like_count": 6367,
+          "listed_count": 0,
+          "media_count": 82,
+          "tweet_count": 1765
+        },
+        "url": "https://t.co/CdcVmYa8EY",
+        "username": "o65518kuguagua",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-28T10:24:09.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "vpn1.fengniaocloud.top/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://vpn1.fengniaocloud.top/#/register?code=Fs8KeJ0x",
+                "start": 0,
+                "url": "https://t.co/TMmfJOdZDt"
+              }
+            ]
+          }
+        },
+        "id": "1905566526595629060",
+        "location": "果の朋友圈",
+        "name": "苹果",
+        "pinned_tweet_id": "2041450168307024329",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021931545674850304/T1ritExR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12185,
+          "following_count": 1,
+          "like_count": 3559,
+          "listed_count": 36,
+          "media_count": 468,
+          "tweet_count": 1492
+        },
+        "url": "https://t.co/TMmfJOdZDt",
+        "username": "Apipleeeee",
+        "verified": false
+      }
+    ]
+  }
+}

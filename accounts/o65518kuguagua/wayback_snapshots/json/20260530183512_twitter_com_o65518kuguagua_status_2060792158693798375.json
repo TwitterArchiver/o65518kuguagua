@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028430373458456576",
+    "conversation_id": "2060773999723024428",
+    "created_at": "2026-05-30T18:35:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T19:35:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060792158693798375"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1821871255571804160",
+          "start": 0,
+          "username": "M3sSnCHa0s"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060792158693798375",
+    "in_reply_to_user_id": "1821871255571804160",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060773999723024428",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@M3sSnCHa0s 求翻译"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028430373458456576",
+        "conversation_id": "2060773999723024428",
+        "created_at": "2026-05-30T18:35:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T19:35:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060792158693798375"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1821871255571804160",
+              "start": 0,
+              "username": "M3sSnCHa0s"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060792158693798375",
+        "in_reply_to_user_id": "1821871255571804160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060773999723024428",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@M3sSnCHa0s 求翻译"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1821871255571804160",
+        "conversation_id": "2060773999723024428",
+        "created_at": "2026-05-30T17:23:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T18:23:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060773999723024428"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Carlisle’s Space · 0 listening · Where live audio conversations happen",
+              "display_url": "x.com/i/spaces/1wxWj…",
+              "end": 23,
+              "expanded_url": "https://x.com/i/spaces/1wxWjjZZjWjJQ",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2060774000813596672/hBhRRucu?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2060774000813596672/hBhRRucu?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 0,
+              "status": 200,
+              "title": "Happening now: 蜥蜴人",
+              "unwound_url": "https://twitter.com/i/spaces/1wxWjjZZjWjJQ/peek",
+              "url": "https://t.co/tqpel2vDdC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060773999723024428",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 179,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 14,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/tqpel2vDdC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-02T11:21:20.000Z",
+        "description": "只是想好好睡觉｜心肝@imcutefate 最爱的闺闺@Lake_Verion",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 10,
+                "username": "imcutefate"
+              },
+              {
+                "end": 39,
+                "start": 27,
+                "username": "Lake_Verion"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E8%8B%A6%E7%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E8%8B%A6%E7%93%9C%E5%A4%A7%E7%8E%8B",
+                "start": 0,
+                "url": "https://t.co/CdcVmYa8EY"
+              }
+            ]
+          }
+        },
+        "id": "2028430373458456576",
+        "location": "加载中……   匿名→",
+        "name": "虎牙钉",
+        "pinned_tweet_id": "2060345028606644674",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060344470910926856/fk6R2qB-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1559,
+          "following_count": 522,
+          "like_count": 7783,
+          "listed_count": 1,
+          "media_count": 113,
+          "tweet_count": 2134
+        },
+        "url": "https://t.co/CdcVmYa8EY",
+        "username": "o65518kuguagua",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-09T11:29:04.000Z",
+        "description": "Smoking kills",
+        "id": "1821871255571804160",
+        "location": "In bed",
+        "name": "Carlisle",
+        "pinned_tweet_id": "1827986075090104784",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821871461067526144/RdyO1TH0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68,
+          "following_count": 85,
+          "like_count": 1046,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 114
+        },
+        "username": "M3sSnCHa0s",
+        "verified": false
+      }
+    ]
+  }
+}

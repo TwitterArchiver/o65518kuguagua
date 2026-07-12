@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028430373458456576",
+    "conversation_id": "2032309903046430941",
+    "created_at": "2026-03-13T04:16:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-13T05:16:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2032309903046430941"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/xiaoyang06231/…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/xiaoyang06231/status/2031989824354492855",
+          "start": 6,
+          "url": "https://t.co/hqow3n92TT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032309903046430941",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031989824354492855",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "对呀对吧！ https://t.co/hqow3n92TT"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028430373458456576",
+        "conversation_id": "2032309903046430941",
+        "created_at": "2026-03-13T04:16:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-13T05:16:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032309903046430941"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xiaoyang06231/…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/xiaoyang06231/status/2031989824354492855",
+              "start": 6,
+              "url": "https://t.co/hqow3n92TT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032309903046430941",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031989824354492855",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "对呀对吧！ https://t.co/hqow3n92TT"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1777142685276725248",
+        "conversation_id": "2031989824354492855",
+        "created_at": "2026-03-12T07:05:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T08:05:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2031989824354492855"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2031989824354492855",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 11837,
+          "like_count": 344,
+          "quote_count": 10,
+          "reply_count": 13,
+          "retweet_count": 42
+        },
+        "reply_settings": "everyone",
+        "text": "“我讨厌你”不就是撒娇吗🤷‍♀️真讨厌就不会搭理你了.."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-02T11:21:20.000Z",
+        "description": "我需要很多周末o.O 这个是我的大分身@qiu_song60259",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 19,
+                "username": "qiu_song60259"
+              }
+            ]
+          }
+        },
+        "id": "2028430373458456576",
+        "location": "加载中……",
+        "name": "咩咩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028450466460241920/ceK3GGSB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 108,
+          "following_count": 61,
+          "like_count": 548,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 141
+        },
+        "username": "o65518kuguagua",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-08T01:13:39.000Z",
+        "description": "",
+        "id": "1777142685276725248",
+        "name": "分手半夜偷偷用烟头把前任烫成斑点狗",
+        "pinned_tweet_id": "1971915940620390658",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020804265594560512/39oOc7cp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1753,
+          "following_count": 126,
+          "like_count": 2608,
+          "listed_count": 2,
+          "media_count": 47,
+          "tweet_count": 311
+        },
+        "username": "xiaoyang06231",
+        "verified": false
+      }
+    ]
+  }
+}

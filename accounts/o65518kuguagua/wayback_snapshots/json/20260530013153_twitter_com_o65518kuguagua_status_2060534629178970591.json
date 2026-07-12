@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028430373458456576",
+    "conversation_id": "2057602810041266677",
+    "created_at": "2026-05-30T01:31:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T02:31:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060534629178970591"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1769248276585369600",
+          "start": 0,
+          "username": "Taro__Yuu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060534629178970591",
+    "in_reply_to_user_id": "1769248276585369600",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060514615688360096",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Taro__Yuu 👅👅嘿嘿"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028430373458456576",
+        "conversation_id": "2057602810041266677",
+        "created_at": "2026-05-30T01:31:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T02:31:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060534629178970591"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1769248276585369600",
+              "start": 0,
+              "username": "Taro__Yuu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060534629178970591",
+        "in_reply_to_user_id": "1769248276585369600",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060514615688360096",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Taro__Yuu 👅👅嘿嘿"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1769248276585369600",
+        "conversation_id": "2057602810041266677",
+        "created_at": "2026-05-30T00:12:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T01:12:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060514615688360096"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2028430373458456576",
+              "start": 0,
+              "username": "o65518kuguagua"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060514615688360096",
+        "in_reply_to_user_id": "2028430373458456576",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060421651486200272",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@o65518kuguagua 啊啊啊太会夸了谢谢宝宝"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-02T11:21:20.000Z",
+        "description": "只是想好好睡觉｜心肝@imcutefate 最爱的闺闺@Lake_Verion",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 10,
+                "username": "imcutefate"
+              },
+              {
+                "end": 39,
+                "start": 27,
+                "username": "Lake_Verion"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E8%8B%A6%E7%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E8%8B%A6%E7%93%9C%E5%A4%A7%E7%8E%8B",
+                "start": 0,
+                "url": "https://t.co/CdcVmYa8EY"
+              }
+            ]
+          }
+        },
+        "id": "2028430373458456576",
+        "location": "加载中……   匿名→",
+        "name": "虎牙钉",
+        "pinned_tweet_id": "2060345028606644674",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060344470910926856/fk6R2qB-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1556,
+          "following_count": 512,
+          "like_count": 7609,
+          "listed_count": 1,
+          "media_count": 105,
+          "tweet_count": 2084
+        },
+        "url": "https://t.co/CdcVmYa8EY",
+        "username": "o65518kuguagua",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-17T06:24:14.000Z",
+        "description": "=蔡蔡/Yuu｜堆自拍/视频/碎碎念的账号｜欢迎交朋友^ - ^",
+        "id": "1769248276585369600",
+        "location": "天堂",
+        "name": "没有爱也没有青春的旅行",
+        "pinned_tweet_id": "2057602810041266677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952221286509535232/ncbyBFa0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 187,
+          "following_count": 240,
+          "like_count": 3196,
+          "listed_count": 0,
+          "media_count": 294,
+          "tweet_count": 1626
+        },
+        "username": "Taro__Yuu",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028430373458456576",
+    "conversation_id": "2030565130535412091",
+    "created_at": "2026-03-08T15:27:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-08T16:27:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030666640581415180"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1880326634835955712",
+          "start": 0,
+          "username": "meatsandwich001"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030666640581415180",
+    "in_reply_to_user_id": "1880326634835955712",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030565130535412091",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@meatsandwich001 哥哥。。。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2030565098138501120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HC4EMsfaAAAuiLZ.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028430373458456576",
+        "conversation_id": "2030565130535412091",
+        "created_at": "2026-03-08T15:27:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-08T16:27:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030666640581415180"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1880326634835955712",
+              "start": 0,
+              "username": "meatsandwich001"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030666640581415180",
+        "in_reply_to_user_id": "1880326634835955712",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030565130535412091",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meatsandwich001 哥哥。。。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2030565098138501120"
+          ]
+        },
+        "author_id": "1880326634835955712",
+        "conversation_id": "2030565130535412091",
+        "created_at": "2026-03-08T08:43:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-08T09:43:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030565130535412091"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lRElzZJSz2",
+              "end": 35,
+              "expanded_url": "https://x.com/meatsandwich001/status/2030565130535412091/photo/1",
+              "media_key": "3_2030565098138501120",
+              "start": 12,
+              "url": "https://t.co/lRElzZJSz2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030565130535412091",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1730,
+          "like_count": 79,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "练完可以预约我的牛觉了 https://t.co/lRElzZJSz2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-02T11:21:20.000Z",
+        "description": "我需要很多周末o.O 这个是我的大分身@qiu_song60259",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 19,
+                "username": "qiu_song60259"
+              }
+            ]
+          }
+        },
+        "id": "2028430373458456576",
+        "location": "加载中……",
+        "name": "咩咩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028450466460241920/ceK3GGSB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 103,
+          "following_count": 38,
+          "like_count": 322,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 66
+        },
+        "username": "o65518kuguagua",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-17T18:49:46.000Z",
+        "description": "直男/墙内都是盗图滚/互关加v",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rainnu1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rainnu1",
+                "start": 0,
+                "url": "https://t.co/wJqy1oq0pC"
+              }
+            ]
+          }
+        },
+        "id": "1880326634835955712",
+        "location": "深圳",
+        "name": "Rainnu",
+        "pinned_tweet_id": "1949362953754690042",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028855544816222209/3_sdOLP-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5105,
+          "following_count": 211,
+          "like_count": 306,
+          "listed_count": 20,
+          "media_count": 349,
+          "tweet_count": 4300
+        },
+        "url": "https://t.co/wJqy1oq0pC",
+        "username": "meatsandwich001",
+        "verified": false
+      }
+    ]
+  }
+}

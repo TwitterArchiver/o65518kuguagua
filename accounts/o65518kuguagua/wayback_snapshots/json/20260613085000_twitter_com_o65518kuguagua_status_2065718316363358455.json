@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028430373458456576",
+    "conversation_id": "2065632448734699854",
+    "created_at": "2026-06-13T08:50:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T09:50:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065718316363358455"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1868312744824582144",
+          "start": 0,
+          "username": "mengchaochenren"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065718316363358455",
+    "in_reply_to_user_id": "1868312744824582144",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065717956869570725",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mengchaochenren 不知道反正好爽。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028430373458456576",
+        "conversation_id": "2065632448734699854",
+        "created_at": "2026-06-13T08:50:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T09:50:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065718316363358455"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1868312744824582144",
+              "start": 0,
+              "username": "mengchaochenren"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065718316363358455",
+        "in_reply_to_user_id": "1868312744824582144",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065717956869570725",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mengchaochenren 不知道反正好爽。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868312744824582144",
+        "conversation_id": "2065632448734699854",
+        "created_at": "2026-06-13T08:48:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T09:48:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065717956869570725"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2028430373458456576",
+              "start": 0,
+              "username": "o65518kuguagua"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065717956869570725",
+        "in_reply_to_user_id": "2028430373458456576",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065632448734699854",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@o65518kuguagua 这和男生晨勃一个原理？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-02T11:21:20.000Z",
+        "description": "只是想好好睡觉｜我的名字是瓜瓜｜心肝@imcutefate 最爱的闺闺@Lake_Verion",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 18,
+                "username": "imcutefate"
+              },
+              {
+                "end": 47,
+                "start": 35,
+                "username": "Lake_Verion"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E8%8B%A6%E7%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E8%8B%A6%E7%93%9C%E5%A4%A7%E7%8E%8B",
+                "start": 0,
+                "url": "https://t.co/CdcVmYa8EY"
+              }
+            ]
+          }
+        },
+        "id": "2028430373458456576",
+        "location": "加载中……   匿名→",
+        "name": "虎牙钉（我发不了帖子了只能一直转发回复）",
+        "pinned_tweet_id": "2063001104858648649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060344470910926856/fk6R2qB-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2087,
+          "following_count": 587,
+          "like_count": 8613,
+          "listed_count": 1,
+          "media_count": 139,
+          "tweet_count": 2487
+        },
+        "url": "https://t.co/CdcVmYa8EY",
+        "username": "o65518kuguagua",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-15T15:10:59.000Z",
+        "description": "淘宝店铺同名，下单说明X来的有额外优惠。不定时抽奖！可发海外。 支持比价，有更优惠的可截图改价！备用：@papaxiongzz",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 51,
+                "username": "papaxiongzz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "s.tb.cn/c.0DhALV",
+                "end": 23,
+                "expanded_url": "https://s.tb.cn/c.0DhALV",
+                "start": 0,
+                "url": "https://t.co/dnbkU1e8cx"
+              }
+            ]
+          }
+        },
+        "id": "1868312744824582144",
+        "location": "男店主，店铺直达👉",
+        "name": "啪啪熊的妙妙屋（大人玩具版）",
+        "pinned_tweet_id": "2062043539383738854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880596065097007104/Aly3Sdtc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3937,
+          "following_count": 300,
+          "like_count": 3440,
+          "listed_count": 12,
+          "media_count": 429,
+          "tweet_count": 4868
+        },
+        "url": "https://t.co/dnbkU1e8cx",
+        "username": "mengchaochenren",
+        "verified": true
+      }
+    ]
+  }
+}

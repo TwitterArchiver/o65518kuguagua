@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028430373458456576",
+    "conversation_id": "2035263397508284634",
+    "created_at": "2026-03-21T07:53:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-21T08:53:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2035263397508284634"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/qiu_song60259/…",
+          "end": 54,
+          "expanded_url": "https://twitter.com/qiu_song60259/status/2035259803539218554",
+          "start": 31,
+          "url": "https://t.co/c5tgEAwLNm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035263397508284634",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035259803539218554",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我肯定是喜欢你才说讨厌你呀，真正讨厌的我一般都说你妈死了的呀 https://t.co/c5tgEAwLNm"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028430373458456576",
+        "conversation_id": "2035263397508284634",
+        "created_at": "2026-03-21T07:53:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-21T08:53:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035263397508284634"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/qiu_song60259/…",
+              "end": 54,
+              "expanded_url": "https://twitter.com/qiu_song60259/status/2035259803539218554",
+              "start": 31,
+              "url": "https://t.co/c5tgEAwLNm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035263397508284634",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035259803539218554",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我肯定是喜欢你才说讨厌你呀，真正讨厌的我一般都说你妈死了的呀 https://t.co/c5tgEAwLNm"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1716325928479903744",
+        "conversation_id": "2035259803539218554",
+        "created_at": "2026-03-21T07:38:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-21T08:38:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035259803539218554"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2035259803539218554",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 42,
+          "like_count": 4,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我肯定是喜欢你才说讨厌你呀，真正讨厌的我一般都说你妈死了的呀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-02T11:21:20.000Z",
+        "description": "我需要很多周末o.O 这个是我的大分身@qiu_song60259",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 19,
+                "username": "qiu_song60259"
+              }
+            ]
+          }
+        },
+        "id": "2028430373458456576",
+        "location": "加载中……",
+        "name": "咩咩",
+        "pinned_tweet_id": "2033190831339778384",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028450466460241920/ceK3GGSB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 135,
+          "following_count": 137,
+          "like_count": 945,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 236
+        },
+        "username": "o65518kuguagua",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-23T05:29:38.000Z",
+        "description": "其实我也不太了解你丨我是苦瓜/小咪咪（别忘记我我喜欢改头像和名字TωT）|小号闭关中@Kuguadawang6677 我只是个可怜的住宿生上学常驻小号@o65518kuguagua",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 42,
+                "username": "Kuguadawang6677"
+              },
+              {
+                "end": 90,
+                "start": 75,
+                "username": "o65518kuguagua"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E8%8B%A6%E7%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E8%8B%A6%E7%93%9C%E5%A4%A7%E7%8E%8B",
+                "start": 0,
+                "url": "https://t.co/YLzBwcux6c"
+              }
+            ]
+          }
+        },
+        "id": "1716325928479903744",
+        "location": "暂时无法告知      匿名→",
+        "name": "擦去你眼角的泪",
+        "pinned_tweet_id": "2032454094615683078",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035213801264689152/oBVhKu4C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2794,
+          "following_count": 1347,
+          "like_count": 12913,
+          "listed_count": 8,
+          "media_count": 364,
+          "tweet_count": 7137
+        },
+        "url": "https://t.co/YLzBwcux6c",
+        "username": "qiu_song60259",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028430373458456576",
+    "conversation_id": "2041368538276090352",
+    "created_at": "2026-04-07T04:12:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-07T05:12:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2041368538276090352"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yunospicy_/sta…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/yunospicy_/status/2029532879189905487",
+          "start": 7,
+          "url": "https://t.co/9kIrew86VR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041368538276090352",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029532879189905487",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "妈妈。。。。 https://t.co/9kIrew86VR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2029532864451153920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCpZYyWXkAA2tON.jpg",
+        "width": 1550
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028430373458456576",
+        "conversation_id": "2041368538276090352",
+        "created_at": "2026-04-07T04:12:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T05:12:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041368538276090352"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yunospicy_/sta…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/yunospicy_/status/2029532879189905487",
+              "start": 7,
+              "url": "https://t.co/9kIrew86VR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041368538276090352",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029532879189905487",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "妈妈。。。。 https://t.co/9kIrew86VR"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2029532864451153920"
+          ]
+        },
+        "author_id": "1635300598567550984",
+        "conversation_id": "2029532879189905487",
+        "created_at": "2026-03-05T12:21:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-05T13:21:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029532879189905487"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0FtWk3eEKz",
+              "end": 31,
+              "expanded_url": "https://x.com/YuNoSpicy_/status/2029532879189905487/photo/1",
+              "media_key": "3_2029532864451153920",
+              "start": 8,
+              "url": "https://t.co/0FtWk3eEKz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029532879189905487",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 120,
+          "impression_count": 46612,
+          "like_count": 3090,
+          "quote_count": 13,
+          "reply_count": 31,
+          "retweet_count": 100
+        },
+        "reply_settings": "everyone",
+        "text": "cos\n简隋英 https://t.co/0FtWk3eEKz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-02T11:21:20.000Z",
+        "description": "哥控｜我需要很多周末o.O 这个是我的大分身@qiu_song60259\n锁推小号@Kuguadawang6677",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 22,
+                "username": "qiu_song60259"
+              },
+              {
+                "end": 57,
+                "start": 41,
+                "username": "Kuguadawang6677"
+              }
+            ]
+          }
+        },
+        "id": "2028430373458456576",
+        "location": "加载中……",
+        "name": "咩咩",
+        "pinned_tweet_id": "2035726523810861085",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028450466460241920/ceK3GGSB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 440,
+          "following_count": 333,
+          "like_count": 3698,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 1167
+        },
+        "username": "o65518kuguagua",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-13T15:23:47.000Z",
+        "description": "🇨🇳｜日本語OK👌｜20⬆️\nRED/DOUYIN 同名",
+        "id": "1635300598567550984",
+        "name": "瑜仔不吃辣_YU",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039982401800306689/xOEsqjyG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2147,
+          "following_count": 244,
+          "like_count": 2219,
+          "listed_count": 4,
+          "media_count": 113,
+          "tweet_count": 412
+        },
+        "username": "YuNoSpicy_",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028430373458456576",
+    "conversation_id": "2039694964234592641",
+    "created_at": "2026-04-02T15:34:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-02T16:34:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039728251875266738"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1712639858995294208",
+          "start": 0,
+          "username": "xsj1721416"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039728251875266738",
+    "in_reply_to_user_id": "1712639858995294208",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039694964234592641",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xsj1721416 牛福！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2165,
+        "media_key": "3_2039694920697667584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE5zuT5aYAAndlw.jpg",
+        "width": 833
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028430373458456576",
+        "conversation_id": "2039694964234592641",
+        "created_at": "2026-04-02T15:34:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T16:34:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039728251875266738"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1712639858995294208",
+              "start": 0,
+              "username": "xsj1721416"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039728251875266738",
+        "in_reply_to_user_id": "1712639858995294208",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039694964234592641",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xsj1721416 牛福！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2039694920697667584"
+          ]
+        },
+        "author_id": "1712639858995294208",
+        "conversation_id": "2039694964234592641",
+        "created_at": "2026-04-02T13:22:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T14:22:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039694964234592641"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cNfnW0S2MW",
+              "end": 31,
+              "expanded_url": "https://x.com/xsj1721416/status/2039694964234592641/photo/1",
+              "media_key": "3_2039694920697667584",
+              "start": 8,
+              "url": "https://t.co/cNfnW0S2MW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039694964234592641",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 548,
+          "like_count": 25,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天拍了小手！ https://t.co/cNfnW0S2MW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-02T11:21:20.000Z",
+        "description": "哥控｜我需要很多周末o.O 这个是我的大分身@qiu_song60259\n锁推小号@Kuguadawang6677",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 22,
+                "username": "qiu_song60259"
+              },
+              {
+                "end": 57,
+                "start": 41,
+                "username": "Kuguadawang6677"
+              }
+            ]
+          }
+        },
+        "id": "2028430373458456576",
+        "location": "加载中……",
+        "name": "咩咩",
+        "pinned_tweet_id": "2035726523810861085",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028450466460241920/ceK3GGSB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 381,
+          "following_count": 308,
+          "like_count": 3060,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 986
+        },
+        "username": "o65518kuguagua",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-13T01:22:28.000Z",
+        "description": "这里是杰杰的分享小屋 \n04   esfj   1i   switch\n一天不🦌积阳德 \n两天不🦌积积阳阳德\nhttps://t.co/xP13fLtZC0快来和我玩吧",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/1721416xsj",
+                "end": 78,
+                "expanded_url": "https://ngl.link/1721416xsj",
+                "start": 55,
+                "url": "https://t.co/xP13fLtZC0"
+              }
+            ]
+          }
+        },
+        "id": "1712639858995294208",
+        "location": "布吉岛",
+        "name": "杰杰",
+        "pinned_tweet_id": "2038575928822104136",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004485929021616128/uwnw1QCs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2697,
+          "following_count": 530,
+          "like_count": 30855,
+          "listed_count": 3,
+          "media_count": 108,
+          "tweet_count": 7192
+        },
+        "username": "xsj1721416",
+        "verified": false
+      }
+    ]
+  }
+}

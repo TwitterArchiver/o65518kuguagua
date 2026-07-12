@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028430373458456576",
+    "conversation_id": "2042817450203582632",
+    "created_at": "2026-04-11T04:47:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T05:47:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042826882236752232"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1542825846267711488",
+          "start": 0,
+          "username": "Patchy_Rin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042826882236752232",
+    "in_reply_to_user_id": "1542825846267711488",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042817450203582632",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Patchy_Rin 你好萌吧！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2042817437012496391",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFmLoroakAcoeDQ.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028430373458456576",
+        "conversation_id": "2042817450203582632",
+        "created_at": "2026-04-11T04:47:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T05:47:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042826882236752232"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1542825846267711488",
+              "start": 0,
+              "username": "Patchy_Rin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042826882236752232",
+        "in_reply_to_user_id": "1542825846267711488",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042817450203582632",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Patchy_Rin 你好萌吧！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042817437012496391"
+          ]
+        },
+        "author_id": "1542825846267711488",
+        "conversation_id": "2042817450203582632",
+        "created_at": "2026-04-11T04:10:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T05:10:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042817450203582632"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IrtAASl5os",
+              "end": 30,
+              "expanded_url": "https://x.com/Patchy_Rin/status/2042817450203582632/photo/1",
+              "media_key": "3_2042817437012496391",
+              "start": 7,
+              "url": "https://t.co/IrtAASl5os"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042817450203582632",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 117,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "✌︎' ֊' https://t.co/IrtAASl5os"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-02T11:21:20.000Z",
+        "description": "哥控｜我需要很多周末o.O 这个是我的大分身@qiu_song60259\n锁推小号@Kuguadawang6677",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 22,
+                "username": "qiu_song60259"
+              },
+              {
+                "end": 57,
+                "start": 41,
+                "username": "Kuguadawang6677"
+              }
+            ]
+          }
+        },
+        "id": "2028430373458456576",
+        "location": "加载中……",
+        "name": "咩咩",
+        "pinned_tweet_id": "2035726523810861085",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028450466460241920/ceK3GGSB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 485,
+          "following_count": 388,
+          "like_count": 4905,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 1457
+        },
+        "username": "o65518kuguagua",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-01T11:02:20.000Z",
+        "description": "An ordinary person",
+        "id": "1542825846267711488",
+        "location": "赫尔辛根",
+        "name": "Chopin.",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041306940920532992/VBvZH0zP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 183,
+          "following_count": 133,
+          "like_count": 8854,
+          "listed_count": 1,
+          "media_count": 14,
+          "tweet_count": 1126
+        },
+        "username": "Patchy_Rin",
+        "verified": false
+      }
+    ]
+  }
+}

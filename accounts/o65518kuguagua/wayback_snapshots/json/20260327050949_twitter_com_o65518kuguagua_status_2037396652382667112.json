@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028430373458456576",
+    "conversation_id": "2037396652382667112",
+    "created_at": "2026-03-27T05:09:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-27T06:09:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037396652382667112"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1578395243891855362",
+          "start": 3,
+          "username": "hate_0811"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037396652382667112",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037372291286471034",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hate_0811: 你说你喜欢宅女 其实你喜欢的是有社交障碍只对你开朗可爱的 身材好 可以和你一起打游戏 看动漫出cos 还有钱的眼镜反差美少女 而非我这种昼夜颠倒卧床不起又丑又穷还有精神病的死宅"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028430373458456576",
+        "conversation_id": "2037396652382667112",
+        "created_at": "2026-03-27T05:09:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T06:09:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037396652382667112"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1578395243891855362",
+              "start": 3,
+              "username": "hate_0811"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037396652382667112",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037372291286471034",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hate_0811: 你说你喜欢宅女 其实你喜欢的是有社交障碍只对你开朗可爱的 身材好 可以和你一起打游戏 看动漫出cos 还有钱的眼镜反差美少女 而非我这种昼夜颠倒卧床不起又丑又穷还有精神病的死宅"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1578395243891855362",
+        "conversation_id": "2037372291286471034",
+        "created_at": "2026-03-27T03:33:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T04:33:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037372291286471034"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2037372291286471034",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2689,
+          "like_count": 17,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "你说你喜欢宅女 其实你喜欢的是有社交障碍只对你开朗可爱的 身材好 可以和你一起打游戏 看动漫出cos 还有钱的眼镜反差美少女 而非我这种昼夜颠倒卧床不起又丑又穷还有精神病的死宅"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-02T11:21:20.000Z",
+        "description": "我需要很多周末o.O 这个是我的大分身@qiu_song60259",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 19,
+                "username": "qiu_song60259"
+              }
+            ]
+          }
+        },
+        "id": "2028430373458456576",
+        "location": "加载中……",
+        "name": "咩咩",
+        "pinned_tweet_id": "2035726523810861085",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028450466460241920/ceK3GGSB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 188,
+          "following_count": 249,
+          "like_count": 1795,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 548
+        },
+        "username": "o65518kuguagua",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-07T14:42:16.000Z",
+        "description": "我这个小女孩的设定就是一定要人陪",
+        "id": "1578395243891855362",
+        "location": "🚪128",
+        "name": "讨厌你的好",
+        "pinned_tweet_id": "1990474102017306720",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024441256596951045/7eMRJiSC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2314,
+          "following_count": 227,
+          "like_count": 7561,
+          "listed_count": 5,
+          "media_count": 759,
+          "tweet_count": 6746
+        },
+        "username": "hate_0811",
+        "verified": false
+      }
+    ]
+  }
+}

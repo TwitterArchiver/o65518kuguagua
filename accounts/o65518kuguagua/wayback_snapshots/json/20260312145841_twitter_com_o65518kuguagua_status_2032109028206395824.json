@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028430373458456576",
+    "conversation_id": "2032109028206395824",
+    "created_at": "2026-03-12T14:58:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-12T15:58:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2032109028206395824"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/shanaeshan9077…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/shanaeshan90778/status/2031637273448690023",
+          "start": 4,
+          "url": "https://t.co/J3sZzBTRnn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032109028206395824",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031637273448690023",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "姐姐。 https://t.co/J3sZzBTRnn"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028430373458456576",
+        "conversation_id": "2032109028206395824",
+        "created_at": "2026-03-12T14:58:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T15:58:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032109028206395824"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/shanaeshan9077…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/shanaeshan90778/status/2031637273448690023",
+              "start": 4,
+              "url": "https://t.co/J3sZzBTRnn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032109028206395824",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031637273448690023",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "姐姐。 https://t.co/J3sZzBTRnn"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692544038057164801",
+        "conversation_id": "2031637273448690023",
+        "created_at": "2026-03-11T07:44:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-11T08:44:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2031637273448690023"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2031637273448690023",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 45,
+          "impression_count": 21895,
+          "like_count": 758,
+          "quote_count": 14,
+          "reply_count": 15,
+          "retweet_count": 151
+        },
+        "reply_settings": "everyone",
+        "text": "如果世界上真的有吐真剂就好了，我要悄悄让你喝掉，这样你就可以告诉我，我是特别的那个吗？你对我抱有的感情也没超出朋友范围吗？你对我做出的在我看来暧昧的举动只是朋友间的亲昵吗？我有多重要？重要到哪种程度？你喜欢我吗？你讨厌我吗？你排斥我对你的亲密吗？你有嫌我烦吗？你想我吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-02T11:21:20.000Z",
+        "description": "我需要很多周末o.O 这个是我的大分身@qiu_song60259",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 19,
+                "username": "qiu_song60259"
+              }
+            ]
+          }
+        },
+        "id": "2028430373458456576",
+        "location": "加载中……",
+        "name": "咩咩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028450466460241920/ceK3GGSB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 106,
+          "following_count": 55,
+          "like_count": 477,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 111
+        },
+        "username": "o65518kuguagua",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-18T14:28:49.000Z",
+        "description": "碎碎念，抽象玩家，秘密基地 @1021sxp520",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 14,
+                "username": "1021sxp520"
+              }
+            ]
+          }
+        },
+        "id": "1692544038057164801",
+        "location": "里奥宁省达利安市",
+        "name": "随薪配（比格多栋版）",
+        "pinned_tweet_id": "1893141455834587169",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005126995882246150/pkdzycHV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 338,
+          "following_count": 677,
+          "like_count": 124315,
+          "listed_count": 1,
+          "media_count": 463,
+          "tweet_count": 5374
+        },
+        "username": "ShanaeShan90778",
+        "verified": false
+      }
+    ]
+  }
+}

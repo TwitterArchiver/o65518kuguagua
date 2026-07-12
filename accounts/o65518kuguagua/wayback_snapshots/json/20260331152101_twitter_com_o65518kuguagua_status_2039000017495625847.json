@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028430373458456576",
+    "conversation_id": "2039000017495625847",
+    "created_at": "2026-03-31T15:21:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-31T16:21:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2039000017495625847"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/bei_haishui/st…",
+          "end": 41,
+          "expanded_url": "https://twitter.com/bei_haishui/status/2038978267458502967",
+          "start": 18,
+          "url": "https://t.co/rEn1SwiJch"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039000017495625847",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038978267458502967",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "快点给我表白啊还想不想发四月和你了 https://t.co/rEn1SwiJch"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028430373458456576",
+        "conversation_id": "2039000017495625847",
+        "created_at": "2026-03-31T15:21:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T16:21:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039000017495625847"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/bei_haishui/st…",
+              "end": 41,
+              "expanded_url": "https://twitter.com/bei_haishui/status/2038978267458502967",
+              "start": 18,
+              "url": "https://t.co/rEn1SwiJch"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039000017495625847",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038978267458502967",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "快点给我表白啊还想不想发四月和你了 https://t.co/rEn1SwiJch"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1862557266890956800",
+        "conversation_id": "2038978267458502967",
+        "created_at": "2026-03-31T13:54:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T14:54:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038978267458502967"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2038978267458502967",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 634,
+          "like_count": 16,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "快点给我表白啊还想不想我发四月和你了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-02T11:21:20.000Z",
+        "description": "哥控｜我需要很多周末o.O 这个是我的大分身@qiu_song60259\n锁推小号@Kuguadawang6677",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 22,
+                "username": "qiu_song60259"
+              },
+              {
+                "end": 57,
+                "start": 41,
+                "username": "Kuguadawang6677"
+              }
+            ]
+          }
+        },
+        "id": "2028430373458456576",
+        "location": "加载中……",
+        "name": "咩咩",
+        "pinned_tweet_id": "2035726523810861085",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028450466460241920/ceK3GGSB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 337,
+          "following_count": 282,
+          "like_count": 2527,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 765
+        },
+        "username": "o65518kuguagua",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-29T18:00:42.000Z",
+        "description": "非常低质非常日常的一头猪\n私信常开允许骚扰\n碎碎念@liiiiizhibei",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 25,
+                "username": "liiiiizhibei"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ssrcat.bar/index.php#/reg…",
+                "end": 23,
+                "expanded_url": "https://ssrcat.bar/index.php#/register?code=GXfczkiy&from=%E5%86%B0%E5%98%B4%E5%94%87",
+                "start": 0,
+                "url": "https://t.co/5dh5BaiMY7"
+              }
+            ]
+          }
+        },
+        "id": "1862557266890956800",
+        "location": "自用vpn",
+        "name": "冰嘴唇.",
+        "pinned_tweet_id": "2037832752947757184",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018942052453744640/_YsWMcxf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9855,
+          "following_count": 404,
+          "like_count": 41202,
+          "listed_count": 12,
+          "media_count": 78,
+          "tweet_count": 5529
+        },
+        "url": "https://t.co/5dh5BaiMY7",
+        "username": "bei_haishui",
+        "verified": false
+      }
+    ]
+  }
+}

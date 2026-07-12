@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028430373458456576",
+    "conversation_id": "2039010649028833711",
+    "created_at": "2026-03-31T16:10:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-31T17:10:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039012523966411032"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1318381367311224833",
+          "start": 0,
+          "username": "xushizhi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039012523966411032",
+    "in_reply_to_user_id": "1318381367311224833",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039010649028833711",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xushizhi 好"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2039010641567203328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEwFYBfawAAVwwY.jpg",
+        "width": 1461
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028430373458456576",
+        "conversation_id": "2039010649028833711",
+        "created_at": "2026-03-31T16:10:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T17:10:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039012523966411032"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1318381367311224833",
+              "start": 0,
+              "username": "xushizhi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039012523966411032",
+        "in_reply_to_user_id": "1318381367311224833",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039010649028833711",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xushizhi 好"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2039010641567203328"
+          ]
+        },
+        "author_id": "1318381367311224833",
+        "conversation_id": "2039010649028833711",
+        "created_at": "2026-03-31T16:03:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T17:03:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039010649028833711"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 10,
+              "start": 7,
+              "tag": "手控"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/mJvcf7iRDH",
+              "end": 34,
+              "expanded_url": "https://x.com/xushizhi/status/2039010649028833711/photo/1",
+              "media_key": "3_2039010641567203328",
+              "start": 11,
+              "url": "https://t.co/mJvcf7iRDH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039010649028833711",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 144,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "跟我走好不好\n#手控 https://t.co/mJvcf7iRDH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-02T11:21:20.000Z",
+        "description": "哥控｜我需要很多周末o.O 这个是我的大分身@qiu_song60259\n锁推小号@Kuguadawang6677",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 22,
+                "username": "qiu_song60259"
+              },
+              {
+                "end": 57,
+                "start": 41,
+                "username": "Kuguadawang6677"
+              }
+            ]
+          }
+        },
+        "id": "2028430373458456576",
+        "location": "加载中……",
+        "name": "咩咩",
+        "pinned_tweet_id": "2035726523810861085",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028450466460241920/ceK3GGSB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 338,
+          "following_count": 284,
+          "like_count": 2595,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 797
+        },
+        "username": "o65518kuguagua",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-20T02:39:54.000Z",
+        "description": "喜欢猫猫/接陪玩/推广自辨/小号@wkszjn",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 16,
+                "username": "wkszjn"
+              }
+            ]
+          }
+        },
+        "id": "1318381367311224833",
+        "name": "徐柿枳（恩师蛋蛋）",
+        "pinned_tweet_id": "1833100295091474500",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1687885249127309313/sur_T4A6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54317,
+          "following_count": 34,
+          "like_count": 17412,
+          "listed_count": 87,
+          "media_count": 165,
+          "tweet_count": 3821
+        },
+        "username": "xushizhi",
+        "verified": false
+      }
+    ]
+  }
+}

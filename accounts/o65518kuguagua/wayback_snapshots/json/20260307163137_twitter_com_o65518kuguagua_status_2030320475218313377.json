@@ -1,0 +1,186 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028430373458456576",
+    "conversation_id": "2030320475218313377",
+    "created_at": "2026-03-07T16:31:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-07T17:31:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030320475218313377"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1401914808497106945",
+          "start": 3,
+          "username": "Wuuuyaa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030320475218313377",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 141
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030111395409432804",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Wuuuyaa: 再澄清一次，earth是给你们e人活的，我们i人生活的世界叫Internet"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028430373458456576",
+        "conversation_id": "2030320475218313377",
+        "created_at": "2026-03-07T16:31:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-07T17:31:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030320475218313377"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1401914808497106945",
+              "start": 3,
+              "username": "Wuuuyaa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030320475218313377",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 141
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030111395409432804",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Wuuuyaa: 再澄清一次，earth是给你们e人活的，我们i人生活的世界叫Internet"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1401914808497106945",
+        "conversation_id": "2030111395409432804",
+        "created_at": "2026-03-07T02:40:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-07T03:40:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030111395409432804"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2030111395409432804",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 45,
+          "impression_count": 42763,
+          "like_count": 1327,
+          "quote_count": 14,
+          "reply_count": 29,
+          "retweet_count": 141
+        },
+        "reply_settings": "everyone",
+        "text": "再澄清一次，earth是给你们e人活的，我们i人生活的世界叫Internet"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-02T11:21:20.000Z",
+        "description": "我需要很多周末o.O 这个是我的大分身@qiu_song60259",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 19,
+                "username": "qiu_song60259"
+              }
+            ]
+          }
+        },
+        "id": "2028430373458456576",
+        "location": "加载中……",
+        "name": "咩咩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028450466460241920/ceK3GGSB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 104,
+          "following_count": 32,
+          "like_count": 223,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 51
+        },
+        "username": "o65518kuguagua",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-07T14:52:02.000Z",
+        "description": "",
+        "id": "1401914808497106945",
+        "name": "白鸦",
+        "pinned_tweet_id": "1993589955462152403",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921498377193426944/iptK7V9E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15730,
+          "following_count": 117,
+          "like_count": 14320,
+          "listed_count": 47,
+          "media_count": 149,
+          "tweet_count": 9350
+        },
+        "username": "Wuuuyaa",
+        "verified": false
+      }
+    ]
+  }
+}

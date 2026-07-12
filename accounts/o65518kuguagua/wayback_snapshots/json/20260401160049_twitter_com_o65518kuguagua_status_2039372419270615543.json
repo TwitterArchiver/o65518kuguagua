@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028430373458456576",
+    "conversation_id": "2038448152693579828",
+    "created_at": "2026-04-01T16:00:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-01T17:00:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039372419270615543"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1820666793817686016",
+          "start": 0,
+          "username": "Rain28ouo"
+        },
+        {
+          "end": 22,
+          "id": "1900706496121602048",
+          "start": 11,
+          "username": "JIAN100222"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039372419270615543",
+    "in_reply_to_user_id": "1820666793817686016",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039372249434914983",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Rain28ouo @JIAN100222 我不行了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028430373458456576",
+        "conversation_id": "2038448152693579828",
+        "created_at": "2026-04-01T16:00:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T17:00:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039372419270615543"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1820666793817686016",
+              "start": 0,
+              "username": "Rain28ouo"
+            },
+            {
+              "end": 22,
+              "id": "1900706496121602048",
+              "start": 11,
+              "username": "JIAN100222"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039372419270615543",
+        "in_reply_to_user_id": "1820666793817686016",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039372249434914983",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rain28ouo @JIAN100222 我不行了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1820666793817686016",
+        "conversation_id": "2038448152693579828",
+        "created_at": "2026-04-01T16:00:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T17:00:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039372249434914983"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2028430373458456576",
+              "start": 0,
+              "username": "o65518kuguagua"
+            },
+            {
+              "end": 27,
+              "id": "1900706496121602048",
+              "start": 16,
+              "username": "JIAN100222"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039372249434914983",
+        "in_reply_to_user_id": "2028430373458456576",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038471992504877424",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@o65518kuguagua @JIAN100222 笑的我肚子疼。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-02T11:21:20.000Z",
+        "description": "哥控｜我需要很多周末o.O 这个是我的大分身@qiu_song60259\n锁推小号@Kuguadawang6677",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 22,
+                "username": "qiu_song60259"
+              },
+              {
+                "end": 57,
+                "start": 41,
+                "username": "Kuguadawang6677"
+              }
+            ]
+          }
+        },
+        "id": "2028430373458456576",
+        "location": "加载中……",
+        "name": "咩咩",
+        "pinned_tweet_id": "2035726523810861085",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028450466460241920/ceK3GGSB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 360,
+          "following_count": 296,
+          "like_count": 2732,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 859
+        },
+        "username": "o65518kuguagua",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-06T03:42:54.000Z",
+        "description": "我会视奸每个人👁️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rain28ouo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rain28ouo",
+                "start": 0,
+                "url": "https://t.co/Pzi5qtCb3A"
+              }
+            ]
+          }
+        },
+        "id": "1820666793817686016",
+        "location": "🚪2778",
+        "name": "一根葱葱葱",
+        "pinned_tweet_id": "2012772816148713643",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025159110220808198/b4Qr229-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8015,
+          "following_count": 92,
+          "like_count": 2035,
+          "listed_count": 10,
+          "media_count": 134,
+          "tweet_count": 773
+        },
+        "url": "https://t.co/Pzi5qtCb3A",
+        "username": "Rain28ouo",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-15T00:32:09.000Z",
+        "description": "看我笑话就好   真建龙@IMGeneralSun",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 12,
+                "username": "IMGeneralSun"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jian100222",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jian100222",
+                "start": 0,
+                "url": "https://t.co/N6daRRoFIx"
+              }
+            ]
+          }
+        },
+        "id": "1900706496121602048",
+        "name": "龙丽（负能量）",
+        "pinned_tweet_id": "2039294646216741087",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033615902500130816/gHzcfWKt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 167,
+          "following_count": 99,
+          "like_count": 3523,
+          "listed_count": 0,
+          "media_count": 62,
+          "tweet_count": 892
+        },
+        "url": "https://t.co/N6daRRoFIx",
+        "username": "JIAN100222",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028430373458456576",
+    "conversation_id": "2030660227817680986",
+    "created_at": "2026-03-08T15:01:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-08T16:01:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030660227817680986"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1954919788402343937",
+          "start": 3,
+          "username": "bie77862"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030660227817680986",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 48
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030127866416091307",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @bie77862: 敏感的人只在床上受欢迎，下了床谁理你？。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028430373458456576",
+        "conversation_id": "2030660227817680986",
+        "created_at": "2026-03-08T15:01:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-08T16:01:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030660227817680986"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1954919788402343937",
+              "start": 3,
+              "username": "bie77862"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030660227817680986",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 48
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030127866416091307",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @bie77862: 敏感的人只在床上受欢迎，下了床谁理你？。。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1954919788402343937",
+        "conversation_id": "2030127866416091307",
+        "created_at": "2026-03-07T03:46:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-07T04:46:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030127866416091307"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2030127866416091307",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 70040,
+          "like_count": 786,
+          "quote_count": 15,
+          "reply_count": 30,
+          "retweet_count": 48
+        },
+        "reply_settings": "everyone",
+        "text": "敏感的人只在床上受欢迎，下了床谁理你？。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-02T11:21:20.000Z",
+        "description": "我需要很多周末o.O 这个是我的大分身@qiu_song60259",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 19,
+                "username": "qiu_song60259"
+              }
+            ]
+          }
+        },
+        "id": "2028430373458456576",
+        "location": "加载中……",
+        "name": "咩咩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028450466460241920/ceK3GGSB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 103,
+          "following_count": 38,
+          "like_count": 276,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 60
+        },
+        "username": "o65518kuguagua",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-11T14:56:27.000Z",
+        "description": "感谢您的到来，祝您生活愉快",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/chsnlunbbb",
+                "end": 23,
+                "expanded_url": "https://ngl.link/chsnlunbbb",
+                "start": 0,
+                "url": "https://t.co/yAjDw3ComQ"
+              }
+            ]
+          }
+        },
+        "id": "1954919788402343937",
+        "location": "🚪199",
+        "name": "番薯仔",
+        "pinned_tweet_id": "2017302210984743128",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020609612568035328/Zdk6W8ZT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2378,
+          "following_count": 131,
+          "like_count": 2692,
+          "listed_count": 3,
+          "media_count": 189,
+          "tweet_count": 4323
+        },
+        "url": "https://t.co/yAjDw3ComQ",
+        "username": "bie77862",
+        "verified": false
+      }
+    ]
+  }
+}

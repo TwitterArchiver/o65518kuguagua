@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028430373458456576",
+    "conversation_id": "2058078586326929615",
+    "created_at": "2026-05-23T06:52:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T07:52:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2058078586326929615"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/heichuanyou124…",
+          "end": 26,
+          "expanded_url": "https://twitter.com/heichuanyou124/status/2057871840484442472",
+          "start": 3,
+          "url": "https://t.co/wut5WAygFA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058078586326929615",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057871840484442472",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "接。 https://t.co/wut5WAygFA"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028430373458456576",
+        "conversation_id": "2058078586326929615",
+        "created_at": "2026-05-23T06:52:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T07:52:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058078586326929615"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/heichuanyou124…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/heichuanyou124/status/2057871840484442472",
+              "start": 3,
+              "url": "https://t.co/wut5WAygFA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058078586326929615",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057871840484442472",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "接。 https://t.co/wut5WAygFA"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1877720203876069376",
+        "conversation_id": "2057871840484442472",
+        "created_at": "2026-05-22T17:10:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T18:10:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057871840484442472"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2057871840484442472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 30205,
+          "like_count": 120,
+          "quote_count": 3,
+          "reply_count": 66,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "因为老公的唧唧很大，他正常状态我都会以为是勃起了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-02T11:21:20.000Z",
+        "description": "我只是在自说自话｜09苦逼美术生｜双性恋丨我是瓜瓜/小咪咪（我喜欢改头像和名字别忘记我TⅴT）|前世@qiu_song60259已死（互关巡回中）\n只过熟人@Kuguadawang6677 嫌我吵的话你点一下那个屏蔽我就死掉了｜双取随意谢谢你们愿意跟我玩丨心肝@imcutefate 最爱的闺闺@Lake_Verion",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 50,
+                "username": "qiu_song60259"
+              },
+              {
+                "end": 94,
+                "start": 78,
+                "username": "Kuguadawang6677"
+              },
+              {
+                "end": 141,
+                "start": 130,
+                "username": "imcutefate"
+              },
+              {
+                "end": 159,
+                "start": 147,
+                "username": "Lake_Verion"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E8%8B%A6%E7%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E8%8B%A6%E7%93%9C%E5%A4%A7%E7%8E%8B",
+                "start": 0,
+                "url": "https://t.co/CdcVmYa8EY"
+              }
+            ]
+          }
+        },
+        "id": "2028430373458456576",
+        "location": "加载中……   匿名→",
+        "name": "虎牙钉",
+        "pinned_tweet_id": "2057778441110598119",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058038322078064640/9aLQ7rPo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1132,
+          "following_count": 449,
+          "like_count": 6892,
+          "listed_count": 1,
+          "media_count": 93,
+          "tweet_count": 1896
+        },
+        "url": "https://t.co/CdcVmYa8EY",
+        "username": "o65518kuguagua",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-10T14:12:57.000Z",
+        "description": "在世界中心呼喚愛的野獸\n艺术国际生｜水瓶座♒️｜养成系账号 喜欢可爱的一切事物｜低精力人群⬇️｜可以给我投喂谢谢你们呀",
+        "id": "1877720203876069376",
+        "location": "我的名字、有水蒸氣的含義",
+        "name": "佑",
+        "pinned_tweet_id": "1962540558280438145",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057868386089230336/_1k8wZyd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 773,
+          "following_count": 83,
+          "like_count": 18037,
+          "listed_count": 0,
+          "media_count": 1723,
+          "tweet_count": 7675
+        },
+        "username": "Heichuanyou124",
+        "verified": false
+      }
+    ]
+  }
+}

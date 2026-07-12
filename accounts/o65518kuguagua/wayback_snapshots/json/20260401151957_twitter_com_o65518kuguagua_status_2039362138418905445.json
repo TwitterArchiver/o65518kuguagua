@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028430373458456576",
+    "conversation_id": "2039234554259812540",
+    "created_at": "2026-04-01T15:19:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-01T16:19:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039362138418905445"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1820594914339799040",
+          "start": 0,
+          "username": "2CROW19"
+        },
+        {
+          "end": 20,
+          "id": "1882013113949855744",
+          "start": 9,
+          "username": "endless_37"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039362138418905445",
+    "in_reply_to_user_id": "1820594914339799040",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039234554259812540",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@2CROW19 @endless_37 牛福"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 17018,
+        "height": 752,
+        "media_key": "13_2039234535125336064",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2039234535125336064/img/T11swQza1SGOO46q.jpg",
+        "public_metrics": {
+          "view_count": 1574
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2039234535125336064/vid/avc1/320x334/_ohYV7QhZP7E5NYg.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2039234535125336064/vid/avc1/480x500/4chcF7HwDckpCHDk.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2039234535125336064/vid/avc1/720x752/uDxDADuv8VFpOeEA.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2039234535125336064/pl/OPXYn75YuyOOyVPx.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028430373458456576",
+        "conversation_id": "2039234554259812540",
+        "created_at": "2026-04-01T15:19:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T16:19:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039362138418905445"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1820594914339799040",
+              "start": 0,
+              "username": "2CROW19"
+            },
+            {
+              "end": 20,
+              "id": "1882013113949855744",
+              "start": 9,
+              "username": "endless_37"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039362138418905445",
+        "in_reply_to_user_id": "1820594914339799040",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039234554259812540",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@2CROW19 @endless_37 牛福"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2039234535125336064"
+          ]
+        },
+        "author_id": "1820594914339799040",
+        "conversation_id": "2039234554259812540",
+        "created_at": "2026-04-01T06:52:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T07:52:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039234554259812540"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/z6zqJrUpmX",
+              "end": 34,
+              "expanded_url": "https://x.com/2CROW19/status/2039234554259812540/video/1",
+              "media_key": "13_2039234535125336064",
+              "start": 11,
+              "url": "https://t.co/z6zqJrUpmX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039234554259812540",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 5758,
+          "like_count": 108,
+          "quote_count": 0,
+          "reply_count": 22,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "所有人立刻变成冷脸萌 https://t.co/z6zqJrUpmX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-02T11:21:20.000Z",
+        "description": "哥控｜我需要很多周末o.O 这个是我的大分身@qiu_song60259\n锁推小号@Kuguadawang6677",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 22,
+                "username": "qiu_song60259"
+              },
+              {
+                "end": 57,
+                "start": 41,
+                "username": "Kuguadawang6677"
+              }
+            ]
+          }
+        },
+        "id": "2028430373458456576",
+        "location": "加载中……",
+        "name": "咩咩",
+        "pinned_tweet_id": "2035726523810861085",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028450466460241920/ceK3GGSB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 360,
+          "following_count": 295,
+          "like_count": 2724,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 853
+        },
+        "username": "o65518kuguagua",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-05T22:57:16.000Z",
+        "description": "想谴责想骂我的人可以滚了，我只想和无论我变成什么样都会跟我一起玩的人玩",
+        "id": "1820594914339799040",
+        "location": "🚪50 仅限每周四 平时免费",
+        "name": "永恆",
+        "pinned_tweet_id": "2038318273973178519",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034274699413438465/-Vx8v5kZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 135,
+          "following_count": 167,
+          "like_count": 2086,
+          "listed_count": 0,
+          "media_count": 185,
+          "tweet_count": 1532
+        },
+        "username": "2CROW19",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-22T10:31:17.000Z",
+        "description": "旧情人的泪做的香水",
+        "id": "1882013113949855744",
+        "name": "人类",
+        "pinned_tweet_id": "2032735833246364147",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022447638269038594/-d9lp5ZG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 297,
+          "following_count": 173,
+          "like_count": 2079,
+          "listed_count": 0,
+          "media_count": 66,
+          "tweet_count": 1340
+        },
+        "username": "endless_37",
+        "verified": false
+      }
+    ]
+  }
+}

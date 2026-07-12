@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028430373458456576",
+    "conversation_id": "2034642705775567220",
+    "created_at": "2026-03-19T14:46:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-19T15:46:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034642705775567220"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1777254473548939264",
+          "start": 3,
+          "username": "LongLong37528"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034642705775567220",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 66
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034090799487717600",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @LongLong37528: 冷淡dom哥和调皮brat妹才是绝配！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028430373458456576",
+        "conversation_id": "2034642705775567220",
+        "created_at": "2026-03-19T14:46:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T15:46:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034642705775567220"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1777254473548939264",
+              "start": 3,
+              "username": "LongLong37528"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034642705775567220",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 66
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034090799487717600",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @LongLong37528: 冷淡dom哥和调皮brat妹才是绝配！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1777254473548939264",
+        "conversation_id": "2034090799487717600",
+        "created_at": "2026-03-18T02:13:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-18T03:13:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034090799487717600"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2034090799487717600",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 43,
+          "impression_count": 91632,
+          "like_count": 999,
+          "quote_count": 25,
+          "reply_count": 42,
+          "retweet_count": 66
+        },
+        "reply_settings": "everyone",
+        "text": "冷淡dom哥和调皮brat妹才是绝配！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-02T11:21:20.000Z",
+        "description": "我需要很多周末o.O 这个是我的大分身@qiu_song60259",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 19,
+                "username": "qiu_song60259"
+              }
+            ]
+          }
+        },
+        "id": "2028430373458456576",
+        "location": "加载中……",
+        "name": "咩咩",
+        "pinned_tweet_id": "2033190831339778384",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028450466460241920/ceK3GGSB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 132,
+          "following_count": 128,
+          "like_count": 894,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 222
+        },
+        "username": "o65518kuguagua",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-08T08:37:50.000Z",
+        "description": "不约不线下 有🚪 置顶关评推广真假自辨 主人@yakjcO_o",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 22,
+                "username": "yakjcO_o"
+              }
+            ]
+          }
+        },
+        "id": "1777254473548939264",
+        "name": "x.",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1959450159815041024/sPdPemzT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2137,
+          "following_count": 87,
+          "like_count": 423,
+          "listed_count": 3,
+          "media_count": 9,
+          "tweet_count": 209
+        },
+        "username": "LongLong37528",
+        "verified": false
+      }
+    ]
+  }
+}

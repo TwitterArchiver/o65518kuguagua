@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028430373458456576",
+    "conversation_id": "2073047541898498306",
+    "created_at": "2026-07-05T03:23:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T04:23:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073608618738434066"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2019670576730902528",
+          "start": 0,
+          "username": "sunnyrain7117"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073608618738434066",
+    "in_reply_to_user_id": "2019670576730902528",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073342780177527005",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sunnyrain7117 卷卷宝贝´ₒ⦁⩊⦁ₒ`"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028430373458456576",
+        "conversation_id": "2073047541898498306",
+        "created_at": "2026-07-05T03:23:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T04:23:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073608618738434066"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2019670576730902528",
+              "start": 0,
+              "username": "sunnyrain7117"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073608618738434066",
+        "in_reply_to_user_id": "2019670576730902528",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073342780177527005",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sunnyrain7117 卷卷宝贝´ₒ⦁⩊⦁ₒ`"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2019670576730902528",
+        "conversation_id": "2073047541898498306",
+        "created_at": "2026-07-04T09:46:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T10:46:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073342780177527005"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2028430373458456576",
+              "start": 0,
+              "username": "o65518kuguagua"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073342780177527005",
+        "in_reply_to_user_id": "2028430373458456576",
+        "lang": "in",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073047541898498306",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@o65518kuguagua muamuamua"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-02T11:21:20.000Z",
+        "description": "只是想好好睡觉｜我的名字是瓜瓜｜心肝@imcutefate 天下第一萌@Lake_Verion",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 18,
+                "username": "imcutefate"
+              },
+              {
+                "end": 47,
+                "start": 35,
+                "username": "Lake_Verion"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E8%8B%A6%E7%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E8%8B%A6%E7%93%9C%E5%A4%A7%E7%8E%8B",
+                "start": 0,
+                "url": "https://t.co/CdcVmYa8EY"
+              }
+            ]
+          }
+        },
+        "id": "2028430373458456576",
+        "location": "加载中……   匿名→",
+        "name": "虎牙钉",
+        "pinned_tweet_id": "2063001104858648649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060344470910926856/fk6R2qB-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2352,
+          "following_count": 582,
+          "like_count": 9418,
+          "listed_count": 2,
+          "media_count": 201,
+          "tweet_count": 2997
+        },
+        "url": "https://t.co/CdcVmYa8EY",
+        "username": "o65518kuguagua",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-06T07:12:56.000Z",
+        "description": "请保持你的纯真",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%88%91%E6%B…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E6%88%91%E6%B3%AA%E6%B3%AA%E7%9A%84",
+                "start": 0,
+                "url": "https://t.co/0fG1CkMXUE"
+              }
+            ]
+          }
+        },
+        "id": "2019670576730902528",
+        "location": "🚪520",
+        "name": "卷卷",
+        "pinned_tweet_id": "2073375700053279104",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073079829424177154/mUrwsiDb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 200,
+          "following_count": 42,
+          "like_count": 1348,
+          "listed_count": 0,
+          "media_count": 198,
+          "tweet_count": 2315
+        },
+        "url": "https://t.co/0fG1CkMXUE",
+        "username": "sunnyrain7117",
+        "verified": false
+      }
+    ]
+  }
+}

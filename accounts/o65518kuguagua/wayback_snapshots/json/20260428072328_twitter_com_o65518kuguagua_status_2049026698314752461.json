@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028430373458456576",
+    "conversation_id": "2048986524428190193",
+    "created_at": "2026-04-28T07:23:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T08:23:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049026698314752461"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1644761277900951552",
+          "start": 0,
+          "username": "IMGeneralSun"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049026698314752461",
+    "in_reply_to_user_id": "1644761277900951552",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048986524428190193",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@IMGeneralSun 加油丽丽"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028430373458456576",
+        "conversation_id": "2048986524428190193",
+        "created_at": "2026-04-28T07:23:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T08:23:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049026698314752461"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1644761277900951552",
+              "start": 0,
+              "username": "IMGeneralSun"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049026698314752461",
+        "in_reply_to_user_id": "1644761277900951552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048986524428190193",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IMGeneralSun 加油丽丽"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1644761277900951552",
+        "conversation_id": "2048986524428190193",
+        "created_at": "2026-04-28T04:43:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T05:43:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048986524428190193"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2048986524428190193",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 156,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "戒色第二天我已经有戒断反应了，我的头好痛"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-02T11:21:20.000Z",
+        "description": "哥控｜我需要很多周末o.O 这个是我的大分身@qiu_song60259\n锁推小号@Kuguadawang6677",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 22,
+                "username": "qiu_song60259"
+              },
+              {
+                "end": 57,
+                "start": 41,
+                "username": "Kuguadawang6677"
+              }
+            ]
+          }
+        },
+        "id": "2028430373458456576",
+        "location": "加载中……",
+        "name": "咩咩",
+        "pinned_tweet_id": "2047911866517659665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028450466460241920/ceK3GGSB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 576,
+          "following_count": 390,
+          "like_count": 5534,
+          "listed_count": 0,
+          "media_count": 68,
+          "tweet_count": 1572
+        },
+        "username": "o65518kuguagua",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-08T17:57:16.000Z",
+        "description": "我是男的别再觉得我是女的了谢谢！本人农村户口（可验证）技校毕业（可验证）持有某函授大专证书（可验证）（注：本人无任何小号）",
+        "id": "1644761277900951552",
+        "location": "🚪52/520/5200",
+        "name": "黑色小孩（无小号，有也不会让你们发现）",
+        "pinned_tweet_id": "2006309506452685142",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044459473910304768/QyZ-Qx-c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6925,
+          "following_count": 437,
+          "like_count": 62162,
+          "listed_count": 6,
+          "media_count": 380,
+          "tweet_count": 27391
+        },
+        "username": "IMGeneralSun",
+        "verified": false
+      }
+    ]
+  }
+}

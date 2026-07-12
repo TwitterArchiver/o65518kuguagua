@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028430373458456576",
+    "conversation_id": "2050493667291390374",
+    "created_at": "2026-05-02T08:32:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-02T09:32:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050493667291390374"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1363431990490357760",
+          "start": 3,
+          "username": "xiaogtg521"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050493667291390374",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 89
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050171932457484424",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xiaogtg521: 好想和男人抱抱睡，，好想和喜欢的男人抱抱睡，，好想在烫烫的怀抱里困困的睡五天。。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028430373458456576",
+        "conversation_id": "2050493667291390374",
+        "created_at": "2026-05-02T08:32:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T09:32:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050493667291390374"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1363431990490357760",
+              "start": 3,
+              "username": "xiaogtg521"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050493667291390374",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 89
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050171932457484424",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xiaogtg521: 好想和男人抱抱睡，，好想和喜欢的男人抱抱睡，，好想在烫烫的怀抱里困困的睡五天。。。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1363431990490357760",
+        "conversation_id": "2050171932457484424",
+        "created_at": "2026-05-01T11:14:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T12:14:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050171932457484424"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2050171932457484424",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 24,
+          "impression_count": 39738,
+          "like_count": 670,
+          "quote_count": 8,
+          "reply_count": 129,
+          "retweet_count": 89
+        },
+        "reply_settings": "everyone",
+        "text": "好想和男人抱抱睡，，好想和喜欢的男人抱抱睡，，好想在烫烫的怀抱里困困的睡五天。。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-02T11:21:20.000Z",
+        "description": "我只是在自说自话｜哥控｜09美术生o.O ｜以后会用做这个号作为主号！这个是我的大分身@qiu_song60259\n锁推小号@Kuguadawang6677 嫌我吵的话你点一下那个屏蔽我就死掉了｜双取请随意谢谢你们愿意跟我玩",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 43,
+                "username": "qiu_song60259"
+              },
+              {
+                "end": 78,
+                "start": 62,
+                "username": "Kuguadawang6677"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E8%8B%A6%E7%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E8%8B%A6%E7%93%9C%E5%A4%A7%E7%8E%8B",
+                "start": 0,
+                "url": "https://t.co/CdcVmYa8EY"
+              }
+            ]
+          }
+        },
+        "id": "2028430373458456576",
+        "location": "加载中……   匿名→",
+        "name": "咩咩",
+        "pinned_tweet_id": "2047911866517659665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028450466460241920/ceK3GGSB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 698,
+          "following_count": 416,
+          "like_count": 6313,
+          "listed_count": 0,
+          "media_count": 80,
+          "tweet_count": 1750
+        },
+        "url": "https://t.co/CdcVmYa8EY",
+        "username": "o65518kuguagua",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-21T10:15:05.000Z",
+        "description": "高中生，在读书。我是男同性恋！",
+        "id": "1363431990490357760",
+        "name": "次犬",
+        "pinned_tweet_id": "2036436175041241498",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049868783406415872/AnOWF3E9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3134,
+          "following_count": 343,
+          "like_count": 1843,
+          "listed_count": 6,
+          "media_count": 19,
+          "tweet_count": 1089
+        },
+        "username": "xiaogtg521",
+        "verified": false
+      }
+    ]
+  }
+}

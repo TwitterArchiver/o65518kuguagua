@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028430373458456576",
+    "conversation_id": "2039190020829917376",
+    "created_at": "2026-04-01T03:56:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-01T04:56:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2039190020829917376"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/sansssn/status…",
+          "end": 39,
+          "expanded_url": "https://twitter.com/sansssn/status/2038900869425676666",
+          "start": 16,
+          "url": "https://t.co/KvPhycGq4n"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039190020829917376",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038900869425676666",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我相册里一半都是聊天记录截图。 https://t.co/KvPhycGq4n"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028430373458456576",
+        "conversation_id": "2039190020829917376",
+        "created_at": "2026-04-01T03:56:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T04:56:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039190020829917376"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/sansssn/status…",
+              "end": 39,
+              "expanded_url": "https://twitter.com/sansssn/status/2038900869425676666",
+              "start": 16,
+              "url": "https://t.co/KvPhycGq4n"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039190020829917376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038900869425676666",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我相册里一半都是聊天记录截图。 https://t.co/KvPhycGq4n"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1258410025665458177",
+        "conversation_id": "2038900869425676666",
+        "created_at": "2026-03-31T08:47:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T09:47:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038900869425676666"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2038900869425676666",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 9553,
+          "like_count": 128,
+          "quote_count": 4,
+          "reply_count": 35,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我有一个很少有人做到的点，就是我从来不留和任何人的聊天记录，我也从来不会回味和任何人的聊天记录。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-02T11:21:20.000Z",
+        "description": "哥控｜我需要很多周末o.O 这个是我的大分身@qiu_song60259\n锁推小号@Kuguadawang6677",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 22,
+                "username": "qiu_song60259"
+              },
+              {
+                "end": 57,
+                "start": 41,
+                "username": "Kuguadawang6677"
+              }
+            ]
+          }
+        },
+        "id": "2028430373458456576",
+        "location": "加载中……",
+        "name": "咩咩",
+        "pinned_tweet_id": "2035726523810861085",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028450466460241920/ceK3GGSB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 352,
+          "following_count": 288,
+          "like_count": 2651,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 828
+        },
+        "username": "o65518kuguagua",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-07T14:55:16.000Z",
+        "description": "屌丝的日记 不回私信",
+        "id": "1258410025665458177",
+        "location": "纯绿🚪249/429 ",
+        "name": "429",
+        "pinned_tweet_id": "2030839723133124856",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031960811825172480/DtFkgIF__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 875,
+          "following_count": 34,
+          "like_count": 818,
+          "listed_count": 4,
+          "media_count": 14,
+          "tweet_count": 303
+        },
+        "username": "sansssn",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028430373458456576",
+    "conversation_id": "2068239219047411899",
+    "created_at": "2026-06-20T07:47:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T08:47:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2068239219047411899"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/hsn8086/status…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/hsn8086/status/2067904512938172656",
+          "start": 6,
+          "url": "https://t.co/a5Yxn9Gsiy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068239219047411899",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067904512938172656",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "OMG可爱 https://t.co/a5Yxn9Gsiy"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1483,
+        "media_key": "3_2067904491702394880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLKsLdFbIAAiWyx.jpg",
+        "width": 879
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028430373458456576",
+        "conversation_id": "2068239219047411899",
+        "created_at": "2026-06-20T07:47:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T08:47:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068239219047411899"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hsn8086/status…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/hsn8086/status/2067904512938172656",
+              "start": 6,
+              "url": "https://t.co/a5Yxn9Gsiy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068239219047411899",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067904512938172656",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "OMG可爱 https://t.co/a5Yxn9Gsiy"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067904491702394880"
+          ]
+        },
+        "author_id": "1433678976564662273",
+        "conversation_id": "2067904512938172656",
+        "created_at": "2026-06-19T09:37:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T10:37:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067904512938172656"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/S1TFOfcoXH",
+              "end": 23,
+              "expanded_url": "https://x.com/hsn8086/status/2067904512938172656/photo/1",
+              "media_key": "3_2067904491702394880",
+              "start": 0,
+              "url": "https://t.co/S1TFOfcoXH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067904512938172656",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 74,
+          "impression_count": 142807,
+          "like_count": 1640,
+          "quote_count": 1,
+          "reply_count": 10,
+          "retweet_count": 44
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/S1TFOfcoXH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-02T11:21:20.000Z",
+        "description": "只是想好好睡觉｜我的名字是瓜瓜｜心肝@imcutefate 最爱的闺闺@Lake_Verion",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 18,
+                "username": "imcutefate"
+              },
+              {
+                "end": 47,
+                "start": 35,
+                "username": "Lake_Verion"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E8%8B%A6%E7%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E8%8B%A6%E7%93%9C%E5%A4%A7%E7%8E%8B",
+                "start": 0,
+                "url": "https://t.co/CdcVmYa8EY"
+              }
+            ]
+          }
+        },
+        "id": "2028430373458456576",
+        "location": "加载中……   匿名→",
+        "name": "虎牙钉",
+        "pinned_tweet_id": "2063001104858648649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060344470910926856/fk6R2qB-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2389,
+          "following_count": 581,
+          "like_count": 9237,
+          "listed_count": 2,
+          "media_count": 174,
+          "tweet_count": 2814
+        },
+        "url": "https://t.co/CdcVmYa8EY",
+        "username": "o65518kuguagua",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-03T06:31:41.000Z",
+        "description": "你好, 我是hsn! 老图: @hsn8086xe | 注: 推文内容仅供娱乐, 真假自辨!",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 15,
+                "username": "hsn8086xe"
+              }
+            ]
+          }
+        },
+        "id": "1433678976564662273",
+        "location": "Internet",
+        "name": "hsn",
+        "pinned_tweet_id": "2056395915003650409",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039156167285538816/Ica6XIlY_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 121025,
+          "following_count": 1121,
+          "like_count": 52159,
+          "listed_count": 295,
+          "media_count": 22271,
+          "tweet_count": 32752
+        },
+        "url": "",
+        "username": "hsn8086",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028430373458456576",
+    "conversation_id": "2039750509679296778",
+    "created_at": "2026-04-03T04:17:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-03T05:17:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039920314944201130"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1959035687011065857",
+          "start": 0,
+          "username": "FangX79807"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039920314944201130",
+    "in_reply_to_user_id": "1959035687011065857",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039750509679296778",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FangX79807 卧槽"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 861,
+        "media_key": "3_2039750506957225984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE6mR22bwAAhq6N.png",
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028430373458456576",
+        "conversation_id": "2039750509679296778",
+        "created_at": "2026-04-03T04:17:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T05:17:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039920314944201130"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1959035687011065857",
+              "start": 0,
+              "username": "FangX79807"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039920314944201130",
+        "in_reply_to_user_id": "1959035687011065857",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039750509679296778",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FangX79807 卧槽"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2039750506957225984"
+          ]
+        },
+        "author_id": "1959035687011065857",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2039750509679296778",
+        "created_at": "2026-04-02T17:03:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T18:03:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039750509679296778"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 31,
+              "id": "2028430373458456576",
+              "start": 16,
+              "username": "o65518kuguagua"
+            }
+          ],
+          "urls": [
+            {
+              "description": "We don't disclose this feature's algorithm. We can only hope that, whether in a good or bad way, your Secret Crush will impress you.",
+              "display_url": "infinitetweet.me/secret-crush?l…",
+              "end": 59,
+              "expanded_url": "https://infinitetweet.me/secret-crush?lang=zh",
+              "images": [
+                {
+                  "height": 1884,
+                  "url": "https://pbs.twimg.com/news_img/2039049264962351104/KdPgF2Nf?format=jpg&name=orig",
+                  "width": 3600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2039049264962351104/KdPgF2Nf?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 36,
+              "status": 200,
+              "title": "Secret Crush • Infinitweet",
+              "unwound_url": "https://infinitetweet.me/secret-crush?lang=zh",
+              "url": "https://t.co/RNDIiCg2wk"
+            },
+            {
+              "display_url": "pic.x.com/7IBD705MyG",
+              "end": 83,
+              "expanded_url": "https://x.com/FangX79807/status/2039750509679296778/photo/1",
+              "media_key": "3_2039750506957225984",
+              "start": 60,
+              "url": "https://t.co/7IBD705MyG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039750509679296778",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 52,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我在Twitter上的暗恋是  @o65518kuguagua\n\n➡️ https://t.co/RNDIiCg2wk https://t.co/7IBD705MyG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-02T11:21:20.000Z",
+        "description": "哥控｜我需要很多周末o.O 这个是我的大分身@qiu_song60259\n锁推小号@Kuguadawang6677",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 22,
+                "username": "qiu_song60259"
+              },
+              {
+                "end": 57,
+                "start": 41,
+                "username": "Kuguadawang6677"
+              }
+            ]
+          }
+        },
+        "id": "2028430373458456576",
+        "location": "加载中……",
+        "name": "咩咩",
+        "pinned_tweet_id": "2035726523810861085",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028450466460241920/ceK3GGSB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 385,
+          "following_count": 313,
+          "like_count": 3168,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 1035
+        },
+        "username": "o65518kuguagua",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-22T23:32:19.000Z",
+        "description": "4i 可以叫我乐乐  想要做一只小猫黏在对方身边https://t.co/h4B4lu9iWu",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lele1207",
+                "end": 47,
+                "expanded_url": "https://ngl.link/lele1207",
+                "start": 24,
+                "url": "https://t.co/h4B4lu9iWu"
+              }
+            ]
+          }
+        },
+        "id": "1959035687011065857",
+        "name": "Xanny.",
+        "pinned_tweet_id": "1964760195453857998",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016753831900852225/7AfwPheL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61,
+          "following_count": 166,
+          "like_count": 3458,
+          "listed_count": 0,
+          "media_count": 67,
+          "tweet_count": 1627
+        },
+        "username": "FangX79807",
+        "verified": false
+      }
+    ]
+  }
+}

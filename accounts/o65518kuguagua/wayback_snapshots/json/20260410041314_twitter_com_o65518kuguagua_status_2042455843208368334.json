@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028430373458456576",
+    "conversation_id": "2042416047438119202",
+    "created_at": "2026-04-10T04:13:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T05:13:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042455843208368334"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1712639858995294208",
+          "start": 0,
+          "username": "x1721416"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042455843208368334",
+    "in_reply_to_user_id": "1712639858995294208",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042416047438119202",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@x1721416 我喜欢这个，求链接"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1769,
+        "media_key": "3_2042415856421126144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFgeZnWbQAAKH5I.jpg",
+        "width": 986
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028430373458456576",
+        "conversation_id": "2042416047438119202",
+        "created_at": "2026-04-10T04:13:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T05:13:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042455843208368334"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1712639858995294208",
+              "start": 0,
+              "username": "x1721416"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042455843208368334",
+        "in_reply_to_user_id": "1712639858995294208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042416047438119202",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@x1721416 我喜欢这个，求链接"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042415856421126144"
+          ]
+        },
+        "author_id": "1712639858995294208",
+        "conversation_id": "2042416047438119202",
+        "created_at": "2026-04-10T01:35:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T02:35:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042416047438119202"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SrNOE1bZzv",
+              "end": 56,
+              "expanded_url": "https://x.com/x1721416/status/2042416047438119202/photo/1",
+              "media_key": "3_2042415856421126144",
+              "start": 33,
+              "url": "https://t.co/SrNOE1bZzv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042416047438119202",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 454,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "因为这个耳钉有两条.  走路会碰撞 一响一响的  同理..... https://t.co/SrNOE1bZzv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-02T11:21:20.000Z",
+        "description": "哥控｜我需要很多周末o.O 这个是我的大分身@qiu_song60259\n锁推小号@Kuguadawang6677",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 22,
+                "username": "qiu_song60259"
+              },
+              {
+                "end": 57,
+                "start": 41,
+                "username": "Kuguadawang6677"
+              }
+            ]
+          }
+        },
+        "id": "2028430373458456576",
+        "location": "加载中……",
+        "name": "咩咩",
+        "pinned_tweet_id": "2035726523810861085",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028450466460241920/ceK3GGSB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 470,
+          "following_count": 383,
+          "like_count": 4864,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 1438
+        },
+        "username": "o65518kuguagua",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-13T01:22:28.000Z",
+        "description": "杰杰的分享小屋\n04  Switch  1i  esfj   巨蟹  丑八怪\n一天不🦌积阳德  两天不🦌积积阳阳德\nhttps://t.co/xP13fLtZC0快来和我玩吧",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/1721416xsj",
+                "end": 81,
+                "expanded_url": "https://ngl.link/1721416xsj",
+                "start": 58,
+                "url": "https://t.co/xP13fLtZC0"
+              }
+            ]
+          }
+        },
+        "id": "1712639858995294208",
+        "location": "布吉岛",
+        "name": "杰杰",
+        "pinned_tweet_id": "2038575928822104136",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004485929021616128/uwnw1QCs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2853,
+          "following_count": 600,
+          "like_count": 35877,
+          "listed_count": 3,
+          "media_count": 140,
+          "tweet_count": 7983
+        },
+        "username": "x1721416",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028430373458456576",
+    "conversation_id": "2065494802838520145",
+    "created_at": "2026-06-13T03:24:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T04:24:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065636491741786176"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1913543810359160832",
+          "start": 0,
+          "username": "yian_220"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065636491741786176",
+    "in_reply_to_user_id": "1913543810359160832",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065494802838520145",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yian_220 我靠我不行了………"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028430373458456576",
+        "conversation_id": "2065494802838520145",
+        "created_at": "2026-06-13T03:24:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T04:24:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065636491741786176"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1913543810359160832",
+              "start": 0,
+              "username": "yian_220"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065636491741786176",
+        "in_reply_to_user_id": "1913543810359160832",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065494802838520145",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yian_220 我靠我不行了………"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913543810359160832",
+        "conversation_id": "2065494802838520145",
+        "created_at": "2026-06-12T18:01:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T19:01:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065494802838520145"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2065494802838520145",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 58481,
+          "like_count": 140,
+          "quote_count": 0,
+          "reply_count": 89,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我服了吧我妹在房间和他男朋友卡泡\n我被她吵醒我不知道该不该起床。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-02T11:21:20.000Z",
+        "description": "只是想好好睡觉｜我的名字是瓜瓜｜心肝@imcutefate 最爱的闺闺@Lake_Verion",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 18,
+                "username": "imcutefate"
+              },
+              {
+                "end": 47,
+                "start": 35,
+                "username": "Lake_Verion"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E8%8B%A6%E7%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E8%8B%A6%E7%93%9C%E5%A4%A7%E7%8E%8B",
+                "start": 0,
+                "url": "https://t.co/CdcVmYa8EY"
+              }
+            ]
+          }
+        },
+        "id": "2028430373458456576",
+        "location": "加载中……   匿名→",
+        "name": "虎牙钉",
+        "pinned_tweet_id": "2063001104858648649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060344470910926856/fk6R2qB-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2058,
+          "following_count": 585,
+          "like_count": 8543,
+          "listed_count": 1,
+          "media_count": 135,
+          "tweet_count": 2441
+        },
+        "url": "https://t.co/CdcVmYa8EY",
+        "username": "o65518kuguagua",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-19T10:42:58.000Z",
+        "description": "08 成年了 | ip台湾 | 未成年别搞我🙂‍↕️",
+        "id": "1913543810359160832",
+        "location": "我是人机",
+        "name": "(˶˃⤙˂˶)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029527296764502016/f1HVKj7V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1008,
+          "following_count": 78,
+          "like_count": 2383,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 115
+        },
+        "username": "yian_220",
+        "verified": false
+      }
+    ]
+  }
+}

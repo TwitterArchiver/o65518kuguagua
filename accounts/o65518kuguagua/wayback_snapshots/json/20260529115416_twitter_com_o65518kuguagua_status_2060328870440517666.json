@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028430373458456576",
+    "conversation_id": "2060310930802745442",
+    "created_at": "2026-05-29T11:54:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T12:54:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060328870440517666"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1556198265061646336",
+          "start": 0,
+          "username": "hfymomoj"
+        },
+        {
+          "end": 23,
+          "id": "1650435393370882048",
+          "start": 10,
+          "username": "flechazo777_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060328870440517666",
+    "in_reply_to_user_id": "1556198265061646336",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060327900809957388",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hfymomoj @flechazo777_ 笑死我了啊啊啊啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028430373458456576",
+        "conversation_id": "2060310930802745442",
+        "created_at": "2026-05-29T11:54:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T12:54:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060328870440517666"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1556198265061646336",
+              "start": 0,
+              "username": "hfymomoj"
+            },
+            {
+              "end": 23,
+              "id": "1650435393370882048",
+              "start": 10,
+              "username": "flechazo777_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060328870440517666",
+        "in_reply_to_user_id": "1556198265061646336",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060327900809957388",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hfymomoj @flechazo777_ 笑死我了啊啊啊啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1556198265061646336",
+        "conversation_id": "2060310930802745442",
+        "created_at": "2026-05-29T11:50:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T12:50:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060327900809957388"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1650435393370882048",
+              "start": 0,
+              "username": "flechazo777_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060327900809957388",
+        "in_reply_to_user_id": "1650435393370882048",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 32,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060310930802745442",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@flechazo777_ 鸡巴图像雨点般打进了你的私信"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-02T11:21:20.000Z",
+        "description": "我只是在自说自话｜09苦逼美术生｜双性恋丨我是瓜瓜/小咪咪（我喜欢改头像和名字别忘记我TⅴT）|前世@qiu_song60259已死（互关巡回中）\n只过熟人@Kuguadawang6677 嫌我吵的话你点一下那个屏蔽我就死掉了｜双取随意谢谢你们愿意跟我玩丨心肝@imcutefate 最爱的闺闺@Lake_Verion",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 50,
+                "username": "qiu_song60259"
+              },
+              {
+                "end": 94,
+                "start": 78,
+                "username": "Kuguadawang6677"
+              },
+              {
+                "end": 141,
+                "start": 130,
+                "username": "imcutefate"
+              },
+              {
+                "end": 159,
+                "start": 147,
+                "username": "Lake_Verion"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E8%8B%A6%E7%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E8%8B%A6%E7%93%9C%E5%A4%A7%E7%8E%8B",
+                "start": 0,
+                "url": "https://t.co/CdcVmYa8EY"
+              }
+            ]
+          }
+        },
+        "id": "2028430373458456576",
+        "location": "加载中……   匿名→",
+        "name": "虎牙钉",
+        "pinned_tweet_id": "2057778441110598119",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058038322078064640/9aLQ7rPo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1519,
+          "following_count": 471,
+          "like_count": 7376,
+          "listed_count": 1,
+          "media_count": 100,
+          "tweet_count": 2031
+        },
+        "url": "https://t.co/CdcVmYa8EY",
+        "username": "o65518kuguagua",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-07T08:39:24.000Z",
+        "description": "我是傻福 营业号在@Gniy666",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 9,
+                "username": "Gniy666"
+              }
+            ]
+          }
+        },
+        "id": "1556198265061646336",
+        "location": " 🚪520/1314",
+        "name": "治疗术",
+        "pinned_tweet_id": "1923963433491530106",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015482573737381888/HVyMkmvb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58907,
+          "following_count": 113,
+          "like_count": 4594,
+          "listed_count": 145,
+          "media_count": 188,
+          "tweet_count": 2610
+        },
+        "username": "hfymomoj",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-24T09:44:08.000Z",
+        "description": "",
+        "id": "1650435393370882048",
+        "name": "Yuri",
+        "pinned_tweet_id": "2023123853694963933",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894717221303140352/kHERlBDZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24118,
+          "following_count": 36,
+          "like_count": 44,
+          "listed_count": 53,
+          "media_count": 80,
+          "tweet_count": 1298
+        },
+        "username": "flechazo777_",
+        "verified": false
+      }
+    ]
+  }
+}

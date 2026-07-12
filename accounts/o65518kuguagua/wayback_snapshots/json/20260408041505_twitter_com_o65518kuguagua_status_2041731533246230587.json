@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028430373458456576",
+    "conversation_id": "2041467117254619577",
+    "created_at": "2026-04-08T04:15:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-08T05:15:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041731533246230587"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1959674017373462528",
+          "start": 0,
+          "username": "Alicemimimiao11"
+        },
+        {
+          "end": 25,
+          "id": "1820594914339799040",
+          "start": 17,
+          "username": "2CROW19"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041731533246230587",
+    "in_reply_to_user_id": "1959674017373462528",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041467117254619577",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Alicemimimiao11 @2CROW19 👂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028430373458456576",
+        "conversation_id": "2041467117254619577",
+        "created_at": "2026-04-08T04:15:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T05:15:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041731533246230587"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1959674017373462528",
+              "start": 0,
+              "username": "Alicemimimiao11"
+            },
+            {
+              "end": 25,
+              "id": "1820594914339799040",
+              "start": 17,
+              "username": "2CROW19"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041731533246230587",
+        "in_reply_to_user_id": "1959674017373462528",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041467117254619577",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Alicemimimiao11 @2CROW19 👂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1959674017373462528",
+        "conversation_id": "2041467117254619577",
+        "created_at": "2026-04-07T10:44:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T11:44:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041467117254619577"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2041467117254619577",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 14159,
+          "like_count": 103,
+          "quote_count": 0,
+          "reply_count": 18,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "我就静静地看着你媚男立人设发自以为很可爱的唐氏碎碎念 背地里厌女雌竞 跟这种货色沾上一丁点关系的女宝也是倒霉惨了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-02T11:21:20.000Z",
+        "description": "哥控｜我需要很多周末o.O 这个是我的大分身@qiu_song60259\n锁推小号@Kuguadawang6677",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 22,
+                "username": "qiu_song60259"
+              },
+              {
+                "end": 57,
+                "start": 41,
+                "username": "Kuguadawang6677"
+              }
+            ]
+          }
+        },
+        "id": "2028430373458456576",
+        "location": "加载中……",
+        "name": "咩咩",
+        "pinned_tweet_id": "2035726523810861085",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028450466460241920/ceK3GGSB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 448,
+          "following_count": 344,
+          "like_count": 3915,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 1212
+        },
+        "username": "o65518kuguagua",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-24T17:47:59.000Z",
+        "description": "分享我喜欢的｜私信只回🚪相关｜另一个我@Alicemimimiao1（重生小A3.0版）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 19,
+                "username": "Alicemimimiao1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/alice51462",
+                "end": 23,
+                "expanded_url": "https://ngl.link/alice51462",
+                "start": 0,
+                "url": "https://t.co/Py9CPZxB06"
+              }
+            ]
+          }
+        },
+        "id": "1959674017373462528",
+        "location": "🚪288/520/1314      ",
+        "name": "Alice",
+        "pinned_tweet_id": "2006335726410183054",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010237010825392128/cuiFSv0w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7051,
+          "following_count": 159,
+          "like_count": 6906,
+          "listed_count": 28,
+          "media_count": 209,
+          "tweet_count": 3050
+        },
+        "url": "https://t.co/Py9CPZxB06",
+        "username": "Alicemimimiao11",
+        "verified": true
+      },
+      {
+        "created_at": "2024-08-05T22:57:16.000Z",
+        "description": "：我没有三观和道德\n@canwait2die 备忘录",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 10,
+                "username": "canwait2die"
+              }
+            ]
+          }
+        },
+        "id": "1820594914339799040",
+        "location": "🚪50 仅限每周四 平时免费",
+        "name": "永恆",
+        "pinned_tweet_id": "2040560084804379051",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034274699413438465/-Vx8v5kZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 245,
+          "following_count": 105,
+          "like_count": 4006,
+          "listed_count": 0,
+          "media_count": 211,
+          "tweet_count": 1995
+        },
+        "username": "2CROW19",
+        "verified": false
+      }
+    ]
+  }
+}

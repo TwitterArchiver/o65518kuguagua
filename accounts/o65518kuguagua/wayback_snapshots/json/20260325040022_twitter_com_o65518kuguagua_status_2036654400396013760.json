@@ -1,0 +1,299 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028430373458456576",
+    "conversation_id": "2036471947320812012",
+    "created_at": "2026-03-25T04:00:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-25T05:00:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036654400396013760"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1505586914547490818",
+          "start": 0,
+          "username": "22ershier"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036654400396013760",
+    "in_reply_to_user_id": "1505586914547490818",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036471947320812012",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@22ershier 老公呀。。。。"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 126595,
+        "height": 720,
+        "media_key": "7_2036471063278944257",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2036471063278944257/pu/img/STxIFei9FckaebIK.jpg",
+        "public_metrics": {
+          "view_count": 9822
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2036471063278944257/pu/vid/avc1/480x270/HindoI6aM0_JNOoN.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2036471063278944257/pu/vid/avc1/640x360/jcq4LIpbXHkBIpbE.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2036471063278944257/pu/vid/avc1/1280x720/J_z-jV98tse5ekLR.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2036471063278944257/pu/pl/v0f9V5_UggYvvv_j.m3u8?tag=12"
+          }
+        ],
+        "width": 1280
+      },
+      {
+        "duration_ms": 53192,
+        "height": 720,
+        "media_key": "7_2036471566905778179",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2036471566905778179/pu/img/N9LdCDrzbdu_n7DI.jpg",
+        "public_metrics": {
+          "view_count": 2676
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2036471566905778179/pu/vid/avc1/480x270/5c60x50QYmbvNAeF.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2036471566905778179/pu/vid/avc1/640x360/B4iik18siBV8SyAs.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2036471566905778179/pu/vid/avc1/1280x720/hzVJ9xP7qGyEcO9P.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2036471566905778179/pu/pl/TMP9JOY-5jj7RQSU.m3u8?tag=12"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028430373458456576",
+        "conversation_id": "2036471947320812012",
+        "created_at": "2026-03-25T04:00:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T05:00:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036654400396013760"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1505586914547490818",
+              "start": 0,
+              "username": "22ershier"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036654400396013760",
+        "in_reply_to_user_id": "1505586914547490818",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036471947320812012",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@22ershier 老公呀。。。。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2036471063278944257",
+            "7_2036471566905778179"
+          ]
+        },
+        "author_id": "1505586914547490818",
+        "conversation_id": "2036471947320812012",
+        "created_at": "2026-03-24T15:55:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T16:55:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036471947320812012"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BoAjSd0fri",
+              "end": 29,
+              "expanded_url": "https://x.com/22ershier/status/2036471947320812012/video/1",
+              "media_key": "7_2036471063278944257",
+              "start": 6,
+              "url": "https://t.co/BoAjSd0fri"
+            },
+            {
+              "display_url": "pic.x.com/BoAjSd0fri",
+              "end": 29,
+              "expanded_url": "https://x.com/22ershier/status/2036471947320812012/video/1",
+              "media_key": "7_2036471566905778179",
+              "start": 6,
+              "url": "https://t.co/BoAjSd0fri"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036471947320812012",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 99,
+          "impression_count": 26462,
+          "like_count": 758,
+          "quote_count": 0,
+          "reply_count": 30,
+          "retweet_count": 19
+        },
+        "reply_settings": "everyone",
+        "text": "分了两段发 https://t.co/BoAjSd0fri"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-02T11:21:20.000Z",
+        "description": "我需要很多周末o.O 这个是我的大分身@qiu_song60259",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 19,
+                "username": "qiu_song60259"
+              }
+            ]
+          }
+        },
+        "id": "2028430373458456576",
+        "location": "加载中……",
+        "name": "咩咩",
+        "pinned_tweet_id": "2035726523810861085",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028450466460241920/ceK3GGSB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 162,
+          "following_count": 179,
+          "like_count": 1260,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 353
+        },
+        "username": "o65518kuguagua",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-20T16:47:55.000Z",
+        "description": "天天开心 关评推广注意辨别  熟人互关好朋友可以来@15TTkx 找我玩 | 畅联世界！无广告干扰，机场节点随便挑，自用蜂鸟VPN https://t.co/27xcGk8NBn",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 25,
+                "username": "15TTkx"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "fnvpn1.net/#/register",
+                "end": 89,
+                "expanded_url": "https://www.fnvpn1.net/#/register",
+                "start": 66,
+                "url": "https://t.co/27xcGk8NBn"
+              }
+            ]
+          }
+        },
+        "id": "1505586914547490818",
+        "name": "十五",
+        "pinned_tweet_id": "2029781837393129913",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1874818743538520064/aDwIN1xR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 200676,
+          "following_count": 562,
+          "like_count": 55549,
+          "listed_count": 387,
+          "media_count": 417,
+          "tweet_count": 12623
+        },
+        "username": "22ershier",
+        "verified": false
+      }
+    ]
+  }
+}

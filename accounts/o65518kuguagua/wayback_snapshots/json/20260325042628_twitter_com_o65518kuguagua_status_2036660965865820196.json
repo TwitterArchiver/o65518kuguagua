@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028430373458456576",
+    "conversation_id": "2036302493190332573",
+    "created_at": "2026-03-25T04:26:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-25T05:26:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036660965865820196"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1657643199773679618",
+          "start": 0,
+          "username": "whencouldigeti"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036660965865820196",
+    "in_reply_to_user_id": "1657643199773679618",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036302493190332573",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@whencouldigeti 男生防尴尬显小内裤推荐有吗，我快疯了，我在学校穿着校服一直凸出，快烦死了，每次走路突然来一阵风把我衣服吹的贴在皮肤上像紧身衣，大的非常明显，特别是经过女生宿舍时候搞得每次都要弯着腰走路，因为好多女的看过来，烦死了，我试过很多办法都没有用，体育课我也不敢跑步我把衣服买长挡着也没用"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028430373458456576",
+        "conversation_id": "2036302493190332573",
+        "created_at": "2026-03-25T04:26:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T05:26:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036660965865820196"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1657643199773679618",
+              "start": 0,
+              "username": "whencouldigeti"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036660965865820196",
+        "in_reply_to_user_id": "1657643199773679618",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036302493190332573",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whencouldigeti 男生防尴尬显小内裤推荐有吗，我快疯了，我在学校穿着校服一直凸出，快烦死了，每次走路突然来一阵风把我衣服吹的贴在皮肤上像紧身衣，大的非常明显，特别是经过女生宿舍时候搞得每次都要弯着腰走路，因为好多女的看过来，烦死了，我试过很多办法都没有用，体育课我也不敢跑步我把衣服买长挡着也没用"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1657643199773679618",
+        "conversation_id": "2036302493190332573",
+        "created_at": "2026-03-24T04:42:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T05:42:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036302493190332573"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2036302493190332573",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 45563,
+          "like_count": 204,
+          "quote_count": 3,
+          "reply_count": 14,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "男生防尴尬显小内裤推荐有吗，我快疯了，我在学校穿着校服一直凸出，快烦死了，每次走路突然来一阵风把我衣服吹的贴在皮肤上像紧身衣，大的非常明显，特别是经过女生宿舍时候搞得每次都要弯着腰走路，因为好多女的看过来，烦死了，我试过很多办法都没有用，体育课我也不敢跑步我把衣服买长挡着也没用"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-02T11:21:20.000Z",
+        "description": "我需要很多周末o.O 这个是我的大分身@qiu_song60259",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 19,
+                "username": "qiu_song60259"
+              }
+            ]
+          }
+        },
+        "id": "2028430373458456576",
+        "location": "加载中……",
+        "name": "咩咩",
+        "pinned_tweet_id": "2035726523810861085",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028450466460241920/ceK3GGSB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 163,
+          "following_count": 188,
+          "like_count": 1324,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 369
+        },
+        "username": "o65518kuguagua",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-14T07:05:23.000Z",
+        "description": "请勿将我发的推文当真 不约炮不聊骚没有🚪不加人 只欢迎有礼貌的高情商人士",
+        "id": "1657643199773679618",
+        "location": "hell",
+        "name": "早就在下水道生活了一百年",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944423519879872512/UH6bTsaE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7366,
+          "following_count": 98,
+          "like_count": 9905,
+          "listed_count": 21,
+          "media_count": 174,
+          "tweet_count": 8676
+        },
+        "username": "whencouldigeti",
+        "verified": false
+      }
+    ]
+  }
+}

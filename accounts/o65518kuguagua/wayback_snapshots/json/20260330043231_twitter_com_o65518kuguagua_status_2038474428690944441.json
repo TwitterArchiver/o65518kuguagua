@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028430373458456576",
+    "conversation_id": "2038472919853195445",
+    "created_at": "2026-03-30T04:32:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-30T05:32:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038474428690944441"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1071766278182907904",
+          "start": 0,
+          "username": "_NightZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038474428690944441",
+    "in_reply_to_user_id": "1071766278182907904",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038472919853195445",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_NightZ 我这里好热"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2038472910072102912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEocT7kawAAmyE5.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2038472910076276736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEocT7lacAAY7v2.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028430373458456576",
+        "conversation_id": "2038472919853195445",
+        "created_at": "2026-03-30T04:32:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T05:32:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038474428690944441"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1071766278182907904",
+              "start": 0,
+              "username": "_NightZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038474428690944441",
+        "in_reply_to_user_id": "1071766278182907904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038472919853195445",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_NightZ 我这里好热"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2038472910072102912",
+            "3_2038472910076276736"
+          ]
+        },
+        "author_id": "1071766278182907904",
+        "conversation_id": "2038472919853195445",
+        "created_at": "2026-03-30T04:26:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T05:26:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038472919853195445"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8QGhQs919x",
+              "end": 34,
+              "expanded_url": "https://x.com/_NightZ/status/2038472919853195445/photo/1",
+              "media_key": "3_2038472910072102912",
+              "start": 11,
+              "url": "https://t.co/8QGhQs919x"
+            },
+            {
+              "display_url": "pic.x.com/8QGhQs919x",
+              "end": 34,
+              "expanded_url": "https://x.com/_NightZ/status/2038472919853195445/photo/1",
+              "media_key": "3_2038472910076276736",
+              "start": 11,
+              "url": "https://t.co/8QGhQs919x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038472919853195445",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "爱耍帅的小哥哥一枚呀 https://t.co/8QGhQs919x"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-02T11:21:20.000Z",
+        "description": "哥控｜我需要很多周末o.O 这个是我的大分身@qiu_song60259\n锁推小号@Kuguadawang6677",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 22,
+                "username": "qiu_song60259"
+              },
+              {
+                "end": 57,
+                "start": 41,
+                "username": "Kuguadawang6677"
+              }
+            ]
+          }
+        },
+        "id": "2028430373458456576",
+        "location": "加载中……",
+        "name": "咩咩",
+        "pinned_tweet_id": "2035726523810861085",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028450466460241920/ceK3GGSB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 292,
+          "following_count": 274,
+          "like_count": 2189,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 648
+        },
+        "username": "o65518kuguagua",
+        "verified": false
+      },
+      {
+        "created_at": "2018-12-09T13:59:27.000Z",
+        "description": "Restart｜止推于推｜不互动不加v抱歉｜绝不再入门之人｜绝对好色之人",
+        "id": "1071766278182907904",
+        "name": "狡黠",
+        "pinned_tweet_id": "1993921220052701595",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1604870535913312256/lRCR1ST9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7108,
+          "following_count": 85,
+          "like_count": 46393,
+          "listed_count": 13,
+          "media_count": 275,
+          "tweet_count": 7623
+        },
+        "username": "_NightZ",
+        "verified": false
+      }
+    ]
+  }
+}

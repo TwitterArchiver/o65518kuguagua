@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028430373458456576",
+    "conversation_id": "2039731718522081778",
+    "created_at": "2026-04-02T15:48:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-02T16:48:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2039731718522081778"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/nanxi_i64/stat…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/nanxi_i64/status/2039676537818198466",
+          "start": 6,
+          "url": "https://t.co/X2ToDZ4GOZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039731718522081778",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039676537818198466",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "后任跑起来 https://t.co/X2ToDZ4GOZ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028430373458456576",
+        "conversation_id": "2039731718522081778",
+        "created_at": "2026-04-02T15:48:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T16:48:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039731718522081778"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/nanxi_i64/stat…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/nanxi_i64/status/2039676537818198466",
+              "start": 6,
+              "url": "https://t.co/X2ToDZ4GOZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039731718522081778",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039676537818198466",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "后任跑起来 https://t.co/X2ToDZ4GOZ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1784065250276552704",
+        "conversation_id": "2039676537818198466",
+        "created_at": "2026-04-02T12:09:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T13:09:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039676537818198466"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2039676537818198466",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 4901,
+          "like_count": 166,
+          "quote_count": 4,
+          "reply_count": 8,
+          "retweet_count": 23
+        },
+        "reply_settings": "everyone",
+        "text": "我未来的老公你必须要在我讲话讲一半的时候觉得我很可爱然后说要亲亲…\n甚至会更希望老公让我坐在他腿上搂着他讲 然后他回复完一句话就亲一口（当然不能是在我讲正事的时候 可以在我吐槽什么的时候😌）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-02T11:21:20.000Z",
+        "description": "哥控｜我需要很多周末o.O 这个是我的大分身@qiu_song60259\n锁推小号@Kuguadawang6677",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 22,
+                "username": "qiu_song60259"
+              },
+              {
+                "end": 57,
+                "start": 41,
+                "username": "Kuguadawang6677"
+              }
+            ]
+          }
+        },
+        "id": "2028430373458456576",
+        "location": "加载中……",
+        "name": "咩咩",
+        "pinned_tweet_id": "2035726523810861085",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028450466460241920/ceK3GGSB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 381,
+          "following_count": 310,
+          "like_count": 3096,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 996
+        },
+        "username": "o65518kuguagua",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-27T03:41:35.000Z",
+        "description": "𛰙᭜𖫴𖫰𖫱𖫳𖫲𖫲𖫳𖫴𖫰𖫱꛰ ᭜𖫴𖫰𖫱𖫳𖫲𖫲𖫳𖫴𖫰𖫱꛰ಣ@77miss0\n不约不聊骚不加联系方式谢谢尊重🤲🏻",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 27,
+                "username": "77miss0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/i7%E4%B8%B8",
+                "end": 23,
+                "expanded_url": "https://ngl.link/i7%E4%B8%B8",
+                "start": 0,
+                "url": "https://t.co/fcuHK81u7Y"
+              }
+            ]
+          }
+        },
+        "id": "1784065250276552704",
+        "location": "글쎄",
+        "name": "炸鱼丸i",
+        "pinned_tweet_id": "1959329392116768909",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037550556567461888/Tejw4ksD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3472,
+          "following_count": 103,
+          "like_count": 5896,
+          "listed_count": 11,
+          "media_count": 84,
+          "tweet_count": 476
+        },
+        "url": "https://t.co/fcuHK81u7Y",
+        "username": "Nanxi_i64",
+        "verified": false
+      }
+    ]
+  }
+}

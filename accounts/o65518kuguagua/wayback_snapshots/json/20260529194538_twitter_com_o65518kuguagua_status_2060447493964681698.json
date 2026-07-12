@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2056390865023881217"
+      ],
+      "media_source_tweet_id": [
+        "2056391468491936016"
+      ]
+    },
+    "author_id": "2028430373458456576",
+    "conversation_id": "2060447493964681698",
+    "created_at": "2026-05-29T19:45:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T20:45:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2060447493964681698"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/bfHeX4MGIV",
+          "end": 46,
+          "expanded_url": "https://x.com/Bioeyours/status/2056391468491936016/video/1",
+          "media_key": "13_2056390865023881217",
+          "start": 23,
+          "url": "https://t.co/bfHeX4MGIV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060447493964681698",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这男的长的可以可以。我操。新疆人。可以可以。 https://t.co/bfHeX4MGIV"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 108883,
+        "height": 1280,
+        "media_key": "13_2056390865023881217",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2056390865023881217/img/GC28tqKKbClFYenx.jpg",
+        "public_metrics": {
+          "view_count": 981293
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2056390865023881217/vid/avc1/320x568/GYgmG9wPgCRGgyGd.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2056390865023881217/vid/avc1/480x852/Jy2PsrlCoJYgDjjD.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2056390865023881217/vid/avc1/720x1280/S_FhOLMbgAzsmHSb.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2056390865023881217/pl/ZfTy09aIK9L8pXdK.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2056390865023881217"
+          ],
+          "media_source_tweet_id": [
+            "2056391468491936016"
+          ]
+        },
+        "author_id": "2028430373458456576",
+        "conversation_id": "2060447493964681698",
+        "created_at": "2026-05-29T19:45:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T20:45:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060447493964681698"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bfHeX4MGIV",
+              "end": 46,
+              "expanded_url": "https://x.com/Bioeyours/status/2056391468491936016/video/1",
+              "media_key": "13_2056390865023881217",
+              "start": 23,
+              "url": "https://t.co/bfHeX4MGIV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060447493964681698",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这男的长的可以可以。我操。新疆人。可以可以。 https://t.co/bfHeX4MGIV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-02T11:21:20.000Z",
+        "description": "只是想好好睡觉｜心肝@imcutefate 最爱的闺闺@Lake_Verion",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 10,
+                "username": "imcutefate"
+              },
+              {
+                "end": 39,
+                "start": 27,
+                "username": "Lake_Verion"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E8%8B%A6%E7%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E8%8B%A6%E7%93%9C%E5%A4%A7%E7%8E%8B",
+                "start": 0,
+                "url": "https://t.co/CdcVmYa8EY"
+              }
+            ]
+          }
+        },
+        "id": "2028430373458456576",
+        "location": "加载中……   匿名→",
+        "name": "虎牙钉",
+        "pinned_tweet_id": "2060345028606644674",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060344470910926856/fk6R2qB-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1553,
+          "following_count": 496,
+          "like_count": 7587,
+          "listed_count": 1,
+          "media_count": 104,
+          "tweet_count": 2074
+        },
+        "url": "https://t.co/CdcVmYa8EY",
+        "username": "o65518kuguagua",
+        "verified": false
+      }
+    ]
+  }
+}

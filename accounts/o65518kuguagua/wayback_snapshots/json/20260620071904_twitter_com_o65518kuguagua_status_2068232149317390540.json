@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028430373458456576",
+    "conversation_id": "2068208717292765671",
+    "created_at": "2026-06-20T07:19:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T08:19:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068232149317390540"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1803423492890828805",
+          "start": 0,
+          "username": "quezi32"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068232149317390540",
+    "in_reply_to_user_id": "1803423492890828805",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068224638216515979",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@quezi32 玉米好吃！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028430373458456576",
+        "conversation_id": "2068208717292765671",
+        "created_at": "2026-06-20T07:19:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T08:19:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068232149317390540"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1803423492890828805",
+              "start": 0,
+              "username": "quezi32"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068232149317390540",
+        "in_reply_to_user_id": "1803423492890828805",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068224638216515979",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@quezi32 玉米好吃！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1803423492890828805",
+        "conversation_id": "2068208717292765671",
+        "created_at": "2026-06-20T06:49:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T07:49:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068224638216515979"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2028430373458456576",
+              "start": 0,
+              "username": "o65518kuguagua"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068224638216515979",
+        "in_reply_to_user_id": "2028430373458456576",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068208717292765671",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@o65518kuguagua 我吃了玉米！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-02T11:21:20.000Z",
+        "description": "只是想好好睡觉｜我的名字是瓜瓜｜心肝@imcutefate 最爱的闺闺@Lake_Verion",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 18,
+                "username": "imcutefate"
+              },
+              {
+                "end": 47,
+                "start": 35,
+                "username": "Lake_Verion"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E8%8B%A6%E7%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E8%8B%A6%E7%93%9C%E5%A4%A7%E7%8E%8B",
+                "start": 0,
+                "url": "https://t.co/CdcVmYa8EY"
+              }
+            ]
+          }
+        },
+        "id": "2028430373458456576",
+        "location": "加载中……   匿名→",
+        "name": "虎牙钉",
+        "pinned_tweet_id": "2063001104858648649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060344470910926856/fk6R2qB-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2389,
+          "following_count": 581,
+          "like_count": 9221,
+          "listed_count": 2,
+          "media_count": 174,
+          "tweet_count": 2806
+        },
+        "url": "https://t.co/CdcVmYa8EY",
+        "username": "o65518kuguagua",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-19T13:44:12.000Z",
+        "description": "我是小缺^^先跟你说晚安吧",
+        "id": "1803423492890828805",
+        "location": "萧逸床上",
+        "name": "小缺干脆面",
+        "pinned_tweet_id": "2049746184772964537",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1803503510379782144/4oOHjCoq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 44,
+          "like_count": 1486,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 639
+        },
+        "url": "",
+        "username": "quezi32",
+        "verified": false
+      }
+    ]
+  }
+}

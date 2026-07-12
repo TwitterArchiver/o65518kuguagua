@@ -1,0 +1,309 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028430373458456576",
+    "conversation_id": "2047591286434406589",
+    "created_at": "2026-04-24T10:57:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T11:57:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047631116085957085"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1926702744036917248",
+          "start": 0,
+          "username": "ziykxkl"
+        },
+        {
+          "end": 24,
+          "id": "1877992679453454336",
+          "start": 9,
+          "username": "BladeStarr0714"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047631116085957085",
+    "in_reply_to_user_id": "1926702744036917248",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047591286434406589",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ziykxkl @BladeStarr0714 我哭了姐姐"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_2047591278347739136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGqBa0ca4AA9UBb.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1404,
+        "media_key": "3_2047591278335152128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGqBa0Za0AAc12e.jpg",
+        "width": 920
+      },
+      {
+        "height": 1440,
+        "media_key": "3_2047591278410641408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGqBa0rasAA4E1h.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028430373458456576",
+        "conversation_id": "2047591286434406589",
+        "created_at": "2026-04-24T10:57:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T11:57:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047631116085957085"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1926702744036917248",
+              "start": 0,
+              "username": "ziykxkl"
+            },
+            {
+              "end": 24,
+              "id": "1877992679453454336",
+              "start": 9,
+              "username": "BladeStarr0714"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047631116085957085",
+        "in_reply_to_user_id": "1926702744036917248",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047591286434406589",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ziykxkl @BladeStarr0714 我哭了姐姐"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047591278347739136",
+            "3_2047591278335152128",
+            "3_2047591278410641408"
+          ]
+        },
+        "author_id": "1926702744036917248",
+        "conversation_id": "2047591286434406589",
+        "created_at": "2026-04-24T08:19:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T09:19:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047591286434406589"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WXag6DqUh6",
+              "end": 45,
+              "expanded_url": "https://x.com/ziykxkl/status/2047591286434406589/photo/1",
+              "media_key": "3_2047591278347739136",
+              "start": 22,
+              "url": "https://t.co/WXag6DqUh6"
+            },
+            {
+              "display_url": "pic.x.com/WXag6DqUh6",
+              "end": 45,
+              "expanded_url": "https://x.com/ziykxkl/status/2047591286434406589/photo/1",
+              "media_key": "3_2047591278335152128",
+              "start": 22,
+              "url": "https://t.co/WXag6DqUh6"
+            },
+            {
+              "display_url": "pic.x.com/WXag6DqUh6",
+              "end": 45,
+              "expanded_url": "https://x.com/ziykxkl/status/2047591286434406589/photo/1",
+              "media_key": "3_2047591278410641408",
+              "start": 22,
+              "url": "https://t.co/WXag6DqUh6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047591286434406589",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 189,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "姐姐知道 你是个一焦虑就私密作品的可爱女孩 https://t.co/WXag6DqUh6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-02T11:21:20.000Z",
+        "description": "哥控｜我需要很多周末o.O 这个是我的大分身@qiu_song60259\n锁推小号@Kuguadawang6677",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 22,
+                "username": "qiu_song60259"
+              },
+              {
+                "end": 57,
+                "start": 41,
+                "username": "Kuguadawang6677"
+              }
+            ]
+          }
+        },
+        "id": "2028430373458456576",
+        "location": "加载中……",
+        "name": "咩咩",
+        "pinned_tweet_id": "2035726523810861085",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028450466460241920/ceK3GGSB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 511,
+          "following_count": 384,
+          "like_count": 5255,
+          "listed_count": 0,
+          "media_count": 60,
+          "tweet_count": 1520
+        },
+        "username": "o65518kuguagua",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-25T18:11:56.000Z",
+        "description": "双相情感障碍 这里是重生七次的虾仁/这个命你就欺负我吧💔/主页日常更新穿搭和妆造偶尔心情好掉落擦边/这个x求你放过我吧 🚪288好友位388掉落生活照520掉落裸照888 1314求礼貌的门哥过门/求你了黑叉别让我再转生第八次了😿欢迎女宝找我互fo互转 像我匿名提问https://t.co/W3CVMjErGg",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaren1",
+                "end": 156,
+                "expanded_url": "https://ngl.link/xiaren1",
+                "start": 133,
+                "url": "https://t.co/W3CVMjErGg"
+              }
+            ]
+          }
+        },
+        "id": "1926702744036917248",
+        "location": "距离1.4km",
+        "name": "ziy",
+        "pinned_tweet_id": "2039643856724181102",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039548018719182848/1fCLjrCi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 324,
+          "following_count": 98,
+          "like_count": 463,
+          "listed_count": 1,
+          "media_count": 26,
+          "tweet_count": 198
+        },
+        "username": "ziykxkl",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-11T08:15:31.000Z",
+        "description": "这里是小蛙！很擅长夸夸！最喜欢花花！还有抱大家！\n 有时候会因为太过可爱所以让大家搞混性别其实蛙是男生哦~这么可爱真是抱歉！@Frogly2887是暴露狂蛙的黄色废料小号所以只过互关！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 73,
+                "start": 62,
+                "username": "Frogly2887"
+              }
+            ]
+          }
+        },
+        "id": "1877992679453454336",
+        "name": "ff",
+        "pinned_tweet_id": "2031031420953735469",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1924760681330704384/xQ-xUWFW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1728,
+          "following_count": 1101,
+          "like_count": 47718,
+          "listed_count": 11,
+          "media_count": 740,
+          "tweet_count": 37889
+        },
+        "username": "BladeStarr0714",
+        "verified": false
+      }
+    ]
+  }
+}

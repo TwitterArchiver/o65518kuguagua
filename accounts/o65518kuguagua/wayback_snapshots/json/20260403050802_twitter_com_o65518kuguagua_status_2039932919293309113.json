@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028430373458456576",
+    "conversation_id": "2039932919293309113",
+    "created_at": "2026-04-03T05:08:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-03T06:08:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039932919293309113"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1823767829465980931",
+          "start": 3,
+          "username": "CaoYu61579"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039932919293309113",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039904960234885471",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @CaoYu61579: 我哥哥睡觉萌 睡醒萌 吃饭萌 喝水萌 生气萌 掐我萌 骂我萌 亲我萌 赌气萌 哭也萌 学习萌 沉默萌 发呆萌 夸我的时候萌 买衣服萌 手萌 脸萌 耳朵萌 鼻子萌 眼睛萌 脚萌 天生萌 已萌晕 Ꮚ ֊ .̫ ֊ Ꮚ ᐝ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028430373458456576",
+        "conversation_id": "2039932919293309113",
+        "created_at": "2026-04-03T05:08:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T06:08:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039932919293309113"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1823767829465980931",
+              "start": 3,
+              "username": "CaoYu61579"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039932919293309113",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039904960234885471",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @CaoYu61579: 我哥哥睡觉萌 睡醒萌 吃饭萌 喝水萌 生气萌 掐我萌 骂我萌 亲我萌 赌气萌 哭也萌 学习萌 沉默萌 发呆萌 夸我的时候萌 买衣服萌 手萌 脸萌 耳朵萌 鼻子萌 眼睛萌 脚萌 天生萌 已萌晕 Ꮚ ֊ .̫ ֊ Ꮚ ᐝ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1823767829465980931",
+        "conversation_id": "2039904960234885471",
+        "created_at": "2026-04-03T03:16:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T04:16:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039904960234885471"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2039904960234885471",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 271,
+          "like_count": 10,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我哥哥睡觉萌 睡醒萌 吃饭萌 喝水萌 生气萌 掐我萌 骂我萌 亲我萌 赌气萌 哭也萌 学习萌 沉默萌 发呆萌 夸我的时候萌 买衣服萌 手萌 脸萌 耳朵萌 鼻子萌 眼睛萌 脚萌 天生萌 已萌晕 Ꮚ ֊ .̫ ֊ Ꮚ ᐝ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-02T11:21:20.000Z",
+        "description": "哥控｜我需要很多周末o.O 这个是我的大分身@qiu_song60259\n锁推小号@Kuguadawang6677",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 22,
+                "username": "qiu_song60259"
+              },
+              {
+                "end": 57,
+                "start": 41,
+                "username": "Kuguadawang6677"
+              }
+            ]
+          }
+        },
+        "id": "2028430373458456576",
+        "location": "加载中……",
+        "name": "咩咩",
+        "pinned_tweet_id": "2035726523810861085",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028450466460241920/ceK3GGSB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 385,
+          "following_count": 319,
+          "like_count": 3293,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 1069
+        },
+        "username": "o65518kuguagua",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-14T17:05:21.000Z",
+        "description": "i potato u",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "tellonym.me/imnotoven",
+                "end": 23,
+                "expanded_url": "https://tellonym.me/imnotoven",
+                "start": 0,
+                "url": "https://t.co/6n4ry4wP4B"
+              }
+            ]
+          }
+        },
+        "id": "1823767829465980931",
+        "location": "讨厌你 每个小猫你都想摸˃ ˄ ˂",
+        "name": "我烤箱咋滴",
+        "pinned_tweet_id": "2039240483407642813",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007159379410464768/ObpktCDK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3232,
+          "following_count": 184,
+          "like_count": 9547,
+          "listed_count": 8,
+          "media_count": 313,
+          "tweet_count": 4926
+        },
+        "url": "https://t.co/6n4ry4wP4B",
+        "username": "CaoYu61579",
+        "verified": false
+      }
+    ]
+  }
+}

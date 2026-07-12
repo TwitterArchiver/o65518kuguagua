@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028430373458456576",
+    "conversation_id": "2034496392123830603",
+    "created_at": "2026-03-24T15:46:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-24T16:46:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036469594387337357"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1827295767301910532",
+          "start": 0,
+          "username": "tigolng143311"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036469594387337357",
+    "in_reply_to_user_id": "1827295767301910532",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036469440515395684",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tigolng143311 哦哦！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028430373458456576",
+        "conversation_id": "2034496392123830603",
+        "created_at": "2026-03-24T15:46:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T16:46:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036469594387337357"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1827295767301910532",
+              "start": 0,
+              "username": "tigolng143311"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036469594387337357",
+        "in_reply_to_user_id": "1827295767301910532",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036469440515395684",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tigolng143311 哦哦！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1827295767301910532",
+        "conversation_id": "2034496392123830603",
+        "created_at": "2026-03-24T15:45:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T16:45:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036469440515395684"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2028430373458456576",
+              "start": 0,
+              "username": "o65518kuguagua"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036469440515395684",
+        "in_reply_to_user_id": "2028430373458456576",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036468801739403628",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@o65518kuguagua 孺子可教也😼"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-02T11:21:20.000Z",
+        "description": "我需要很多周末o.O 这个是我的大分身@qiu_song60259",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 19,
+                "username": "qiu_song60259"
+              }
+            ]
+          }
+        },
+        "id": "2028430373458456576",
+        "location": "加载中……",
+        "name": "咩咩",
+        "pinned_tweet_id": "2035726523810861085",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028450466460241920/ceK3GGSB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 161,
+          "following_count": 174,
+          "like_count": 1190,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 322
+        },
+        "username": "o65518kuguagua",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-24T10:44:10.000Z",
+        "description": "@XIAOLONGXIA696\nday13",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 0,
+                "username": "XIAOLONGXIA696"
+              }
+            ]
+          }
+        },
+        "id": "1827295767301910532",
+        "name": "太糕冷🦞",
+        "pinned_tweet_id": "1883788026008252798",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982645200745840640/28WPgADK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 888,
+          "following_count": 181,
+          "like_count": 5684,
+          "listed_count": 2,
+          "media_count": 66,
+          "tweet_count": 2699
+        },
+        "username": "tigolng143311",
+        "verified": false
+      }
+    ]
+  }
+}

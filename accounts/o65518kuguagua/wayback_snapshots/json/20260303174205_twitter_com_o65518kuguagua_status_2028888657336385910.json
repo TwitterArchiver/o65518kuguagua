@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028430373458456576",
+    "conversation_id": "2028849595992965572",
+    "created_at": "2026-03-03T17:42:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-03T18:42:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028888657336385910"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2009933561240158208",
+          "start": 0,
+          "username": "Winter894867487"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028888657336385910",
+    "in_reply_to_user_id": "2009933561240158208",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028849595992965572",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Winter894867487 喜欢。。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1366,
+        "media_key": "3_2028849566272155648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCfr7mRbcAAz1sA.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1200,
+        "media_key": "3_2028849566284730368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCfr7mUbUAA6iTc.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1630,
+        "media_key": "3_2028849566272098304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCfr7mRakAA1IzE.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1632,
+        "media_key": "3_2028849566280552448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCfr7mTbkAANNgC.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028430373458456576",
+        "conversation_id": "2028849595992965572",
+        "created_at": "2026-03-03T17:42:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T18:42:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028888657336385910"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2009933561240158208",
+              "start": 0,
+              "username": "Winter894867487"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028888657336385910",
+        "in_reply_to_user_id": "2009933561240158208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028849595992965572",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Winter894867487 喜欢。。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2028849566272155648",
+            "3_2028849566284730368",
+            "3_2028849566272098304",
+            "3_2028849566280552448"
+          ]
+        },
+        "author_id": "2009933561240158208",
+        "conversation_id": "2028849595992965572",
+        "created_at": "2026-03-03T15:06:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T16:06:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028849595992965572"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ibhNcTtQfh",
+              "end": 35,
+              "expanded_url": "https://x.com/Winter894867487/status/2028849595992965572/photo/1",
+              "media_key": "3_2028849566272155648",
+              "start": 12,
+              "url": "https://t.co/ibhNcTtQfh"
+            },
+            {
+              "display_url": "pic.x.com/ibhNcTtQfh",
+              "end": 35,
+              "expanded_url": "https://x.com/Winter894867487/status/2028849595992965572/photo/1",
+              "media_key": "3_2028849566284730368",
+              "start": 12,
+              "url": "https://t.co/ibhNcTtQfh"
+            },
+            {
+              "display_url": "pic.x.com/ibhNcTtQfh",
+              "end": 35,
+              "expanded_url": "https://x.com/Winter894867487/status/2028849595992965572/photo/1",
+              "media_key": "3_2028849566272098304",
+              "start": 12,
+              "url": "https://t.co/ibhNcTtQfh"
+            },
+            {
+              "display_url": "pic.x.com/ibhNcTtQfh",
+              "end": 35,
+              "expanded_url": "https://x.com/Winter894867487/status/2028849595992965572/photo/1",
+              "media_key": "3_2028849566280552448",
+              "start": 12,
+              "url": "https://t.co/ibhNcTtQfh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028849595992965572",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 44,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "喜欢吗 我说的不止照片 https://t.co/ibhNcTtQfh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-02T11:21:20.000Z",
+        "description": "我需要很多周末o.O 这个是我的大分身@qiu_song60259",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 19,
+                "username": "qiu_song60259"
+              }
+            ]
+          }
+        },
+        "id": "2028430373458456576",
+        "location": "加载中……",
+        "name": "咩咩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028450466460241920/ceK3GGSB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 93,
+          "following_count": 24,
+          "like_count": 111,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 18
+        },
+        "username": "o65518kuguagua",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-10T10:21:32.000Z",
+        "description": "isfp ｜168｜51｜内容碎碎念占比较多｜不约｜不线下｜匿名箱👉🏻https://t.co/mHRVdygE95",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zhi.iz",
+                "end": 58,
+                "expanded_url": "https://ngl.link/zhi.iz",
+                "start": 35,
+                "url": "https://t.co/mHRVdygE95"
+              }
+            ]
+          }
+        },
+        "id": "2009933561240158208",
+        "location": "你的心里",
+        "name": "知之为吱吱🍒",
+        "pinned_tweet_id": "2028849595992965572",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025083340949475328/ZuZG1MUT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 128,
+          "following_count": 33,
+          "like_count": 129,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 81
+        },
+        "username": "Winter894867487",
+        "verified": false
+      }
+    ]
+  }
+}

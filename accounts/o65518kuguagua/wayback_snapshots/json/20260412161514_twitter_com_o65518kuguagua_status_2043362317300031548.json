@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028430373458456576",
+    "conversation_id": "2043335065942548895",
+    "created_at": "2026-04-12T16:15:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T17:15:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043362317300031548"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1488307757547622403",
+          "start": 0,
+          "username": "Puppy_Brat"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043362317300031548",
+    "in_reply_to_user_id": "1488307757547622403",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043335065942548895",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Puppy_Brat 好可爱。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2043335057398722560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFtiaJ1acAAWIx4.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028430373458456576",
+        "conversation_id": "2043335065942548895",
+        "created_at": "2026-04-12T16:15:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T17:15:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043362317300031548"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1488307757547622403",
+              "start": 0,
+              "username": "Puppy_Brat"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043362317300031548",
+        "in_reply_to_user_id": "1488307757547622403",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043335065942548895",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Puppy_Brat 好可爱。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043335057398722560"
+          ]
+        },
+        "author_id": "1488307757547622403",
+        "conversation_id": "2043335065942548895",
+        "created_at": "2026-04-12T14:26:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T15:26:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043335065942548895"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BIpG5Wm02X",
+              "end": 28,
+              "expanded_url": "https://x.com/Puppy_Brat/status/2043335065942548895/photo/1",
+              "media_key": "3_2043335057398722560",
+              "start": 5,
+              "url": "https://t.co/BIpG5Wm02X"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043335065942548895",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 98,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "齐牛嗨。 https://t.co/BIpG5Wm02X"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-02T11:21:20.000Z",
+        "description": "哥控｜我需要很多周末o.O 这个是我的大分身@qiu_song60259\n锁推小号@Kuguadawang6677",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 22,
+                "username": "qiu_song60259"
+              },
+              {
+                "end": 57,
+                "start": 41,
+                "username": "Kuguadawang6677"
+              }
+            ]
+          }
+        },
+        "id": "2028430373458456576",
+        "location": "加载中……",
+        "name": "咩咩",
+        "pinned_tweet_id": "2035726523810861085",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028450466460241920/ceK3GGSB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 494,
+          "following_count": 389,
+          "like_count": 5034,
+          "listed_count": 0,
+          "media_count": 60,
+          "tweet_count": 1478
+        },
+        "username": "o65518kuguagua",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-01T00:26:51.000Z",
+        "description": "乱发",
+        "id": "1488307757547622403",
+        "location": "外太空",
+        "name": "乖",
+        "pinned_tweet_id": "1989924637036482852",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040240088580517888/vZW0zlY3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 138,
+          "following_count": 70,
+          "like_count": 5284,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 582
+        },
+        "username": "Puppy_Brat",
+        "verified": false
+      }
+    ]
+  }
+}

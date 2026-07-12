@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028430373458456576",
+    "conversation_id": "2036827309416521820",
+    "created_at": "2026-03-25T15:27:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-25T16:27:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036827309416521820"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1986253894729801728",
+          "start": 3,
+          "username": "meidaguodoudou"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036827309416521820",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036638631151231102",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @meidaguodoudou: 我个人最厉害的一点：一旦某人让我感到不适，立马割席走人"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028430373458456576",
+        "conversation_id": "2036827309416521820",
+        "created_at": "2026-03-25T15:27:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T16:27:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036827309416521820"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1986253894729801728",
+              "start": 3,
+              "username": "meidaguodoudou"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036827309416521820",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036638631151231102",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @meidaguodoudou: 我个人最厉害的一点：一旦某人让我感到不适，立马割席走人"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986253894729801728",
+        "conversation_id": "2036638631151231102",
+        "created_at": "2026-03-25T02:57:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T03:57:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036638631151231102"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2036638631151231102",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 6232,
+          "like_count": 100,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "我个人最厉害的一点：一旦某人让我感到不适，立马割席走人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-02T11:21:20.000Z",
+        "description": "我需要很多周末o.O 这个是我的大分身@qiu_song60259",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 19,
+                "username": "qiu_song60259"
+              }
+            ]
+          }
+        },
+        "id": "2028430373458456576",
+        "location": "加载中……",
+        "name": "咩咩",
+        "pinned_tweet_id": "2035726523810861085",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028450466460241920/ceK3GGSB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 170,
+          "following_count": 196,
+          "like_count": 1425,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 414
+        },
+        "username": "o65518kuguagua",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-06T02:07:01.000Z",
+        "description": "日常分享，欢迎聊天💬",
+        "id": "1986253894729801728",
+        "name": "小小虫",
+        "pinned_tweet_id": "2036703750296125636",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021866599779905541/r6Dh-eFC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 903,
+          "following_count": 174,
+          "like_count": 180,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 619
+        },
+        "username": "meidaguodoudou",
+        "verified": false
+      }
+    ]
+  }
+}

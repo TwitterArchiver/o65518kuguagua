@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028430373458456576",
+    "conversation_id": "2039010285651120491",
+    "created_at": "2026-04-01T03:56:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-01T04:56:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039190108167909820"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1811235709082279936",
+          "start": 0,
+          "username": "Rarity15641351"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039190108167909820",
+    "in_reply_to_user_id": "1811235709082279936",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039010285651120491",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Rarity15641351 谢谢哥哥"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2039010275547127808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEwFCt9boAAmzL1.jpg",
+        "width": 828
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028430373458456576",
+        "conversation_id": "2039010285651120491",
+        "created_at": "2026-04-01T03:56:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T04:56:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039190108167909820"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1811235709082279936",
+              "start": 0,
+              "username": "Rarity15641351"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039190108167909820",
+        "in_reply_to_user_id": "1811235709082279936",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039010285651120491",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rarity15641351 谢谢哥哥"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2039010275547127808"
+          ]
+        },
+        "author_id": "1811235709082279936",
+        "conversation_id": "2039010285651120491",
+        "created_at": "2026-03-31T16:01:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T17:01:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039010285651120491"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IyxmXOdmD4",
+              "end": 27,
+              "expanded_url": "https://x.com/Rarity15641351/status/2039010285651120491/photo/1",
+              "media_key": "3_2039010275547127808",
+              "start": 4,
+              "url": "https://t.co/IyxmXOdmD4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039010285651120491",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 238,
+          "impression_count": 27602,
+          "like_count": 2564,
+          "quote_count": 14,
+          "reply_count": 41,
+          "retweet_count": 65
+        },
+        "reply_settings": "everyone",
+        "text": "哥爱你 https://t.co/IyxmXOdmD4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-02T11:21:20.000Z",
+        "description": "哥控｜我需要很多周末o.O 这个是我的大分身@qiu_song60259\n锁推小号@Kuguadawang6677",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 22,
+                "username": "qiu_song60259"
+              },
+              {
+                "end": 57,
+                "start": 41,
+                "username": "Kuguadawang6677"
+              }
+            ]
+          }
+        },
+        "id": "2028430373458456576",
+        "location": "加载中……",
+        "name": "咩咩",
+        "pinned_tweet_id": "2035726523810861085",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028450466460241920/ceK3GGSB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 352,
+          "following_count": 289,
+          "like_count": 2652,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 829
+        },
+        "username": "o65518kuguagua",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-11T03:07:15.000Z",
+        "description": "「It‘s ok to be fragile✨」",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lamb23665",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lamb23665",
+                "start": 0,
+                "url": "https://t.co/TdJGMnQpF8"
+              }
+            ]
+          }
+        },
+        "id": "1811235709082279936",
+        "location": "1i&4i",
+        "name": "lamb",
+        "pinned_tweet_id": "2038331474160779481",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811235997738545152/eUo-NyN0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21761,
+          "following_count": 79,
+          "like_count": 1619,
+          "listed_count": 64,
+          "media_count": 247,
+          "tweet_count": 1090
+        },
+        "url": "https://t.co/TdJGMnQpF8",
+        "username": "Rarity15641351",
+        "verified": false
+      }
+    ]
+  }
+}

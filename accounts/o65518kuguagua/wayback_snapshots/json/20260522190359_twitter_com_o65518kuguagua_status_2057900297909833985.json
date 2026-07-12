@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028430373458456576",
+    "conversation_id": "2057900297909833985",
+    "created_at": "2026-05-22T19:03:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T20:03:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2057900297909833985"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ngngvxx/status…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/ngngvxx/status/2057427322303922617",
+          "start": 4,
+          "url": "https://t.co/eyBcBPyI7P"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057900297909833985",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057427322303922617",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "操你妈 https://t.co/eyBcBPyI7P"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028430373458456576",
+        "conversation_id": "2057900297909833985",
+        "created_at": "2026-05-22T19:03:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T20:03:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057900297909833985"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ngngvxx/status…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/ngngvxx/status/2057427322303922617",
+              "start": 4,
+              "url": "https://t.co/eyBcBPyI7P"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057900297909833985",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057427322303922617",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "操你妈 https://t.co/eyBcBPyI7P"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2363856960",
+        "conversation_id": "2057427322303922617",
+        "created_at": "2026-05-21T11:44:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T12:44:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057427322303922617"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2057427322303922617",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 70,
+          "impression_count": 112721,
+          "like_count": 2160,
+          "quote_count": 27,
+          "reply_count": 251,
+          "retweet_count": 105
+        },
+        "reply_settings": "everyone",
+        "text": "奉劝各位妹子不要随意的释放善意哈，会被误以为成喜欢与性暗示"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-02T11:21:20.000Z",
+        "description": "我只是在自说自话｜哥控｜09美术生o.O ｜我是瓜瓜/小咪咪（我喜欢改头像和名字别忘记我TⅴT）|前世@qiu_song60259已死（互关巡回中）\n只过熟人@Kuguadawang6677 嫌我吵的话你点一下那个屏蔽我就死掉了｜双取随意谢谢你们愿意跟我玩丨心肝@imcutefate 最爱的闺闺@Lake_Verion",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 51,
+                "username": "qiu_song60259"
+              },
+              {
+                "end": 95,
+                "start": 79,
+                "username": "Kuguadawang6677"
+              },
+              {
+                "end": 142,
+                "start": 131,
+                "username": "imcutefate"
+              },
+              {
+                "end": 160,
+                "start": 148,
+                "username": "Lake_Verion"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E8%8B%A6%E7%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E8%8B%A6%E7%93%9C%E5%A4%A7%E7%8E%8B",
+                "start": 0,
+                "url": "https://t.co/CdcVmY9APq"
+              }
+            ]
+          }
+        },
+        "id": "2028430373458456576",
+        "location": "加载中……   匿名→",
+        "name": "咩咩",
+        "pinned_tweet_id": "2057778441110598119",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028450466460241920/ceK3GGSB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 899,
+          "following_count": 430,
+          "like_count": 6801,
+          "listed_count": 0,
+          "media_count": 91,
+          "tweet_count": 1871
+        },
+        "url": "https://t.co/CdcVmY9APq",
+        "username": "o65518kuguagua",
+        "verified": false
+      },
+      {
+        "created_at": "2014-02-27T08:33:55.000Z",
+        "description": "硬币的第三面是自由，喜欢我可以给我打赏请我吃烧烤",
+        "id": "2363856960",
+        "name": "32号就恋爱",
+        "pinned_tweet_id": "1909834927912202390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847229094007894016/Tl2z00uH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9618,
+          "following_count": 5,
+          "like_count": 1168,
+          "listed_count": 30,
+          "media_count": 108,
+          "tweet_count": 2359
+        },
+        "username": "NGNGVXX",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028430373458456576",
+    "conversation_id": "2065382032252035296",
+    "created_at": "2026-06-13T04:35:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T05:35:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065654170317967439"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1342690428185927682",
+          "start": 0,
+          "username": "xiaoxiang0521"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065654170317967439",
+    "in_reply_to_user_id": "1342690428185927682",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065649530759233902",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaoxiang0521 你好可爱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028430373458456576",
+        "conversation_id": "2065382032252035296",
+        "created_at": "2026-06-13T04:35:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T05:35:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065654170317967439"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1342690428185927682",
+              "start": 0,
+              "username": "xiaoxiang0521"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065654170317967439",
+        "in_reply_to_user_id": "1342690428185927682",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065649530759233902",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaoxiang0521 你好可爱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1342690428185927682",
+        "conversation_id": "2065382032252035296",
+        "created_at": "2026-06-13T04:16:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T05:16:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065649530759233902"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2028430373458456576",
+              "start": 0,
+              "username": "o65518kuguagua"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065649530759233902",
+        "in_reply_to_user_id": "2028430373458456576",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065382032252035296",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@o65518kuguagua 暗恋不就是意淫吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-02T11:21:20.000Z",
+        "description": "只是想好好睡觉｜我的名字是瓜瓜｜心肝@imcutefate 最爱的闺闺@Lake_Verion",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 18,
+                "username": "imcutefate"
+              },
+              {
+                "end": 47,
+                "start": 35,
+                "username": "Lake_Verion"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E8%8B%A6%E7%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E8%8B%A6%E7%93%9C%E5%A4%A7%E7%8E%8B",
+                "start": 0,
+                "url": "https://t.co/CdcVmYa8EY"
+              }
+            ]
+          }
+        },
+        "id": "2028430373458456576",
+        "location": "加载中……   匿名→",
+        "name": "虎牙钉",
+        "pinned_tweet_id": "2063001104858648649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060344470910926856/fk6R2qB-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2064,
+          "following_count": 586,
+          "like_count": 8566,
+          "listed_count": 1,
+          "media_count": 136,
+          "tweet_count": 2450
+        },
+        "url": "https://t.co/CdcVmYa8EY",
+        "username": "o65518kuguagua",
+        "verified": false
+      },
+      {
+        "created_at": "2020-12-26T04:35:59.000Z",
+        "description": "谨言慎行\n不看评论不看私信 此账号非本人使用 \n文盲和瞎子来一个我拉黑一个( ^ω^ )",
+        "id": "1342690428185927682",
+        "location": "🚪随缘",
+        "name": "林黛玉",
+        "pinned_tweet_id": "2061722252614504606",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033773715822108672/wq4c6AN3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 956,
+          "following_count": 26,
+          "like_count": 1376,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 336
+        },
+        "username": "xiaoxiang0521",
+        "verified": false
+      }
+    ]
+  }
+}

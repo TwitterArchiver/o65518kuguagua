@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028430373458456576",
+    "conversation_id": "2042289437154164931",
+    "created_at": "2026-04-09T17:12:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T18:12:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2042289437154164931"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/youaremylove97…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/youaremylove976/status/2042130699604648142",
+          "start": 8,
+          "url": "https://t.co/pJiCpyHpRF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042289437154164931",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042130699604648142",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "哎我真的好想听 https://t.co/pJiCpyHpRF"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028430373458456576",
+        "conversation_id": "2042289437154164931",
+        "created_at": "2026-04-09T17:12:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T18:12:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042289437154164931"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/youaremylove97…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/youaremylove976/status/2042130699604648142",
+              "start": 8,
+              "url": "https://t.co/pJiCpyHpRF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042289437154164931",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042130699604648142",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "哎我真的好想听 https://t.co/pJiCpyHpRF"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1783058785134895104",
+        "conversation_id": "2042130699604648142",
+        "created_at": "2026-04-09T06:41:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T07:41:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042130699604648142"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2042130699604648142",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 10167,
+          "like_count": 143,
+          "quote_count": 3,
+          "reply_count": 46,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "粤语实在太好听了\n让朋友给我发粤语\n声一出来我感觉对方自动穿上西装了\n好优雅呀\n为什么你们天生都会啊😭\n俺拿山东话跟嫩换换"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-02T11:21:20.000Z",
+        "description": "哥控｜我需要很多周末o.O 这个是我的大分身@qiu_song60259\n锁推小号@Kuguadawang6677",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 22,
+                "username": "qiu_song60259"
+              },
+              {
+                "end": 57,
+                "start": 41,
+                "username": "Kuguadawang6677"
+              }
+            ]
+          }
+        },
+        "id": "2028430373458456576",
+        "location": "加载中……",
+        "name": "咩咩",
+        "pinned_tweet_id": "2035726523810861085",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028450466460241920/ceK3GGSB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 464,
+          "following_count": 378,
+          "like_count": 4891,
+          "listed_count": 0,
+          "media_count": 57,
+          "tweet_count": 1425
+        },
+        "username": "o65518kuguagua",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-24T09:02:06.000Z",
+        "description": "直男 随便发发日常，欢迎大家找我聊天\n可以来玩匿名喔https://t.co/zvsivWwNz9",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wudixiaomao",
+                "end": 49,
+                "expanded_url": "https://ngl.link/wudixiaomao",
+                "start": 26,
+                "url": "https://t.co/zvsivWwNz9"
+              }
+            ]
+          }
+        },
+        "id": "1783058785134895104",
+        "name": "电子止疼药",
+        "pinned_tweet_id": "2040646021500535268",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892950429870264321/VhtiFZNM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 574,
+          "following_count": 349,
+          "like_count": 7102,
+          "listed_count": 1,
+          "media_count": 234,
+          "tweet_count": 2374
+        },
+        "username": "youaremylove976",
+        "verified": false
+      }
+    ]
+  }
+}

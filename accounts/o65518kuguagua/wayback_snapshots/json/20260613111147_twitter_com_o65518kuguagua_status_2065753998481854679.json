@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028430373458456576",
+    "conversation_id": "2065498464415543459",
+    "created_at": "2026-06-13T11:11:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T12:11:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065753998481854679"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1820464405332856832",
+          "start": 0,
+          "username": "wsgjkdq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065753998481854679",
+    "in_reply_to_user_id": "1820464405332856832",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065753909260648926",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wsgjkdq 🌚哎算了打都打了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028430373458456576",
+        "conversation_id": "2065498464415543459",
+        "created_at": "2026-06-13T11:11:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T12:11:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065753998481854679"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1820464405332856832",
+              "start": 0,
+              "username": "wsgjkdq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065753998481854679",
+        "in_reply_to_user_id": "1820464405332856832",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065753909260648926",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wsgjkdq 🌚哎算了打都打了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1820464405332856832",
+        "conversation_id": "2065498464415543459",
+        "created_at": "2026-06-13T11:11:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T12:11:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065753909260648926"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2028430373458456576",
+              "start": 0,
+              "username": "o65518kuguagua"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065753909260648926",
+        "in_reply_to_user_id": "2028430373458456576",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065752156079325633",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@o65518kuguagua 我不行了。我就怕这个，从普通老实入变成老实入（舌钉版）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-02T11:21:20.000Z",
+        "description": "只是想好好睡觉｜我的名字是瓜瓜｜心肝@imcutefate 最爱的闺闺@Lake_Verion",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 18,
+                "username": "imcutefate"
+              },
+              {
+                "end": 47,
+                "start": 35,
+                "username": "Lake_Verion"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E8%8B%A6%E7%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E8%8B%A6%E7%93%9C%E5%A4%A7%E7%8E%8B",
+                "start": 0,
+                "url": "https://t.co/CdcVmYa8EY"
+              }
+            ]
+          }
+        },
+        "id": "2028430373458456576",
+        "location": "加载中……   匿名→",
+        "name": "虎牙钉（今日发帖已上限只能转帖）",
+        "pinned_tweet_id": "2063001104858648649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060344470910926856/fk6R2qB-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2092,
+          "following_count": 596,
+          "like_count": 8679,
+          "listed_count": 1,
+          "media_count": 144,
+          "tweet_count": 2520
+        },
+        "url": "https://t.co/CdcVmYa8EY",
+        "username": "o65518kuguagua",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-05T14:18:41.000Z",
+        "description": "靠嫩娘别批判我，我来这里只是为了短暂逃离一下现实，释放性压抑存存照片\n05/infj/射手/壬水/年上/纯爱/恋哥癖\n只有这一个号和平台，谨防受骗\n❗纯粹的搞黄存图🚬不月抛❗\n喜欢请打钱支持我一下改善生活品质，感恩所有善良的好心人❤️",
+        "id": "1820464405332856832",
+        "location": "Nowhere ",
+        "name": "我上推就是为了搞颜色",
+        "pinned_tweet_id": "2050421962279956760",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921130531552706560/X-vXyo_8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1235,
+          "following_count": 797,
+          "like_count": 5878,
+          "listed_count": 1,
+          "media_count": 91,
+          "tweet_count": 528
+        },
+        "username": "wsgjkdq",
+        "verified": false
+      }
+    ]
+  }
+}

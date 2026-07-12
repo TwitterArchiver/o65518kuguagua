@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2036736555273109504"
+      ],
+      "media_source_tweet_id": [
+        "2036736566396338270"
+      ]
+    },
+    "author_id": "2028430373458456576",
+    "conversation_id": "2036832598559732115",
+    "created_at": "2026-03-25T15:48:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-25T16:48:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036832598559732115"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1962893857731084289",
+          "start": 3,
+          "username": "aswdncr"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ZNJRYr6klH",
+          "end": 44,
+          "expanded_url": "https://x.com/aswdncr/status/2036736566396338270/photo/1",
+          "media_key": "3_2036736555273109504",
+          "start": 21,
+          "url": "https://t.co/ZNJRYr6klH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036832598559732115",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 426
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036736566396338270",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @aswdncr: 给优绩主义跪了 https://t.co/ZNJRYr6klH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 728,
+        "media_key": "3_2036736555273109504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEPxGx4bQAAms70.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2036736555273109504"
+          ],
+          "media_source_tweet_id": [
+            "2036736566396338270"
+          ]
+        },
+        "author_id": "2028430373458456576",
+        "conversation_id": "2036832598559732115",
+        "created_at": "2026-03-25T15:48:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T16:48:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036832598559732115"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1962893857731084289",
+              "start": 3,
+              "username": "aswdncr"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZNJRYr6klH",
+              "end": 44,
+              "expanded_url": "https://x.com/aswdncr/status/2036736566396338270/photo/1",
+              "media_key": "3_2036736555273109504",
+              "start": 21,
+              "url": "https://t.co/ZNJRYr6klH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036832598559732115",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 426
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036736566396338270",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @aswdncr: 给优绩主义跪了 https://t.co/ZNJRYr6klH"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2036736555273109504"
+          ]
+        },
+        "author_id": "1962893857731084289",
+        "conversation_id": "2036736566396338270",
+        "created_at": "2026-03-25T09:26:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T10:26:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036736566396338270"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZNJRYr6klH",
+              "end": 31,
+              "expanded_url": "https://x.com/aswdncr/status/2036736566396338270/photo/1",
+              "media_key": "3_2036736555273109504",
+              "start": 8,
+              "url": "https://t.co/ZNJRYr6klH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036736566396338270",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 98,
+          "impression_count": 54912,
+          "like_count": 3662,
+          "quote_count": 30,
+          "reply_count": 28,
+          "retweet_count": 426
+        },
+        "reply_settings": "everyone",
+        "text": "给优绩主义跪了 https://t.co/ZNJRYr6klH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-02T11:21:20.000Z",
+        "description": "我需要很多周末o.O 这个是我的大分身@qiu_song60259",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 19,
+                "username": "qiu_song60259"
+              }
+            ]
+          }
+        },
+        "id": "2028430373458456576",
+        "location": "加载中……",
+        "name": "咩咩",
+        "pinned_tweet_id": "2035726523810861085",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028450466460241920/ceK3GGSB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 170,
+          "following_count": 200,
+          "like_count": 1452,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 425
+        },
+        "username": "o65518kuguagua",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-02T15:02:38.000Z",
+        "description": "我从小到大都是优你让我怎么从良",
+        "id": "1962893857731084289",
+        "location": "www.没有门槛且对你不感兴趣.com",
+        "name": "降降火气吧",
+        "pinned_tweet_id": "2032837854943130011",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035977298848227328/bN_cffJL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11159,
+          "following_count": 91,
+          "like_count": 6797,
+          "listed_count": 26,
+          "media_count": 449,
+          "tweet_count": 6481
+        },
+        "username": "aswdncr",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028430373458456576",
+    "conversation_id": "2050244112905822584",
+    "created_at": "2026-05-01T16:01:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-01T17:01:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050244112905822584"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1855418366913302528",
+          "start": 3,
+          "username": "yonghu0225"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050244112905822584",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050074679008972872",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yonghu0225: 我要是个男的早在15岁我就把自己撸死过去了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028430373458456576",
+        "conversation_id": "2050244112905822584",
+        "created_at": "2026-05-01T16:01:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T17:01:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050244112905822584"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1855418366913302528",
+              "start": 3,
+              "username": "yonghu0225"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050244112905822584",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050074679008972872",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yonghu0225: 我要是个男的早在15岁我就把自己撸死过去了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1855418366913302528",
+        "conversation_id": "2050074679008972872",
+        "created_at": "2026-05-01T04:47:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T05:47:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050074679008972872"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2050074679008972872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1803,
+          "like_count": 33,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "我要是个男的早在15岁我就把自己撸死过去了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-02T11:21:20.000Z",
+        "description": "我只是在自说自话｜哥控｜09美术生o.O ｜以后会用做这个号作为主号！这个是我的大分身@qiu_song60259\n锁推小号@Kuguadawang6677 嫌我吵的话你点一下那个屏蔽我就死掉了｜双取请随意谢谢你们愿意跟我玩",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 43,
+                "username": "qiu_song60259"
+              },
+              {
+                "end": 78,
+                "start": 62,
+                "username": "Kuguadawang6677"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E8%8B%A6%E7%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E8%8B%A6%E7%93%9C%E5%A4%A7%E7%8E%8B",
+                "start": 0,
+                "url": "https://t.co/CdcVmYa8EY"
+              }
+            ]
+          }
+        },
+        "id": "2028430373458456576",
+        "location": "加载中……   匿名→",
+        "name": "咩咩",
+        "pinned_tweet_id": "2047911866517659665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028450466460241920/ceK3GGSB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 677,
+          "following_count": 413,
+          "like_count": 6272,
+          "listed_count": 0,
+          "media_count": 80,
+          "tweet_count": 1741
+        },
+        "url": "https://t.co/CdcVmYa8EY",
+        "username": "o65518kuguagua",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-10T01:13:18.000Z",
+        "description": "我只是一个弱智，来自农村，中专学历，没出过省，家境贫寒，没有工作，没有眼界。请不要与我对战，给我一丝温暖，让我隐入尘世，谢谢。",
+        "id": "1855418366913302528",
+        "name": "痕迹器官",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042238263206019072/GjHdipX4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5054,
+          "following_count": 115,
+          "like_count": 988,
+          "listed_count": 10,
+          "media_count": 25,
+          "tweet_count": 1029
+        },
+        "username": "yonghu0225",
+        "verified": false
+      }
+    ]
+  }
+}

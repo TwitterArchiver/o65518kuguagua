@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028430373458456576",
+    "conversation_id": "2039554331134009420",
+    "created_at": "2026-04-02T04:03:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-02T05:03:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2039554331134009420"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/meidaguodoudou…",
+          "end": 40,
+          "expanded_url": "https://twitter.com/meidaguodoudou/status/2039186391679271014",
+          "start": 17,
+          "url": "https://t.co/rJRcX0cL0b"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039554331134009420",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039186391679271014",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我到底是淡淡的还是前额叶受损了。 https://t.co/rJRcX0cL0b"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028430373458456576",
+        "conversation_id": "2039554331134009420",
+        "created_at": "2026-04-02T04:03:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T05:03:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039554331134009420"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/meidaguodoudou…",
+              "end": 40,
+              "expanded_url": "https://twitter.com/meidaguodoudou/status/2039186391679271014",
+              "start": 17,
+              "url": "https://t.co/rJRcX0cL0b"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039554331134009420",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039186391679271014",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我到底是淡淡的还是前额叶受损了。 https://t.co/rJRcX0cL0b"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986253894729801728",
+        "conversation_id": "2039186391679271014",
+        "created_at": "2026-04-01T03:41:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T04:41:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039186391679271014"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2039186391679271014",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 6453,
+          "like_count": 159,
+          "quote_count": 2,
+          "reply_count": 13,
+          "retweet_count": 22
+        },
+        "reply_settings": "everyone",
+        "text": "我到底是淡淡的还是前额叶受损了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-02T11:21:20.000Z",
+        "description": "哥控｜我需要很多周末o.O 这个是我的大分身@qiu_song60259\n锁推小号@Kuguadawang6677",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 22,
+                "username": "qiu_song60259"
+              },
+              {
+                "end": 57,
+                "start": 41,
+                "username": "Kuguadawang6677"
+              }
+            ]
+          }
+        },
+        "id": "2028430373458456576",
+        "location": "加载中……",
+        "name": "咩咩",
+        "pinned_tweet_id": "2035726523810861085",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028450466460241920/ceK3GGSB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 371,
+          "following_count": 301,
+          "like_count": 2859,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 911
+        },
+        "username": "o65518kuguagua",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-06T02:07:01.000Z",
+        "description": "日常分享，欢迎聊天💬",
+        "id": "1986253894729801728",
+        "name": "小小虫",
+        "pinned_tweet_id": "2036703750296125636",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021866599779905541/r6Dh-eFC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 943,
+          "following_count": 179,
+          "like_count": 183,
+          "listed_count": 1,
+          "media_count": 22,
+          "tweet_count": 670
+        },
+        "username": "meidaguodoudou",
+        "verified": false
+      }
+    ]
+  }
+}

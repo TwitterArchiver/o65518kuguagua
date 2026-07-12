@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028430373458456576",
+    "conversation_id": "2069998732846981530",
+    "created_at": "2026-06-25T04:18:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-25T05:18:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069998732846981530"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1968361008864575492",
+          "start": 3,
+          "username": "xiangyuyu663056"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069998732846981530",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 443
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069413085870493839",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xiangyuyu663056: 我太想让人狠狠地抱我了。就是那种迎面而来把我整个人裹在在对方怀里 然后用胳膊和手紧紧的环住我的头这样的拥抱。对方安慰也好 一声不吭也好 就觉得 好踏实啊。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028430373458456576",
+        "conversation_id": "2069998732846981530",
+        "created_at": "2026-06-25T04:18:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T05:18:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069998732846981530"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1968361008864575492",
+              "start": 3,
+              "username": "xiangyuyu663056"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069998732846981530",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 443
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069413085870493839",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xiangyuyu663056: 我太想让人狠狠地抱我了。就是那种迎面而来把我整个人裹在在对方怀里 然后用胳膊和手紧紧的环住我的头这样的拥抱。对方安慰也好 一声不吭也好 就觉得 好踏实啊。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1968361008864575492",
+        "conversation_id": "2069413085870493839",
+        "created_at": "2026-06-23T13:31:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T14:31:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069413085870493839"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2069413085870493839",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 75,
+          "impression_count": 71589,
+          "like_count": 2418,
+          "quote_count": 28,
+          "reply_count": 164,
+          "retweet_count": 443
+        },
+        "reply_settings": "everyone",
+        "text": "我太想让人狠狠地抱我了。就是那种迎面而来把我整个人裹在在对方怀里 然后用胳膊和手紧紧的环住我的头这样的拥抱。对方安慰也好 一声不吭也好 就觉得 好踏实啊。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-02T11:21:20.000Z",
+        "description": "只是想好好睡觉｜我的名字是瓜瓜｜心肝@imcutefate 天下第一萌@Lake_Verion",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 18,
+                "username": "imcutefate"
+              },
+              {
+                "end": 47,
+                "start": 35,
+                "username": "Lake_Verion"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E8%8B%A6%E7%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E8%8B%A6%E7%93%9C%E5%A4%A7%E7%8E%8B",
+                "start": 0,
+                "url": "https://t.co/CdcVmYa8EY"
+              }
+            ]
+          }
+        },
+        "id": "2028430373458456576",
+        "location": "加载中……   匿名→",
+        "name": "虎牙钉",
+        "pinned_tweet_id": "2063001104858648649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060344470910926856/fk6R2qB-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2371,
+          "following_count": 583,
+          "like_count": 9390,
+          "listed_count": 2,
+          "media_count": 193,
+          "tweet_count": 2936
+        },
+        "url": "https://t.co/CdcVmYa8EY",
+        "username": "o65518kuguagua",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-17T17:06:58.000Z",
+        "description": "一切凭感觉 一切交给缘分\n是双是追星女是腐女是话唠是思考者\n喜欢您所以点赞了 但我喜欢的多了去了",
+        "id": "1968361008864575492",
+        "location": "一座叫丘峦的岛屿🏝",
+        "name": "丘峦",
+        "pinned_tweet_id": "2025489084471545964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066437023519657984/k9nAyq3b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 274,
+          "following_count": 211,
+          "like_count": 10303,
+          "listed_count": 0,
+          "media_count": 132,
+          "tweet_count": 919
+        },
+        "url": "",
+        "username": "xiangyuyu663056",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028430373458456576",
+    "conversation_id": "2042123331751874839",
+    "created_at": "2026-04-09T14:42:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T15:42:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042251791627436153"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1879046626620141568",
+          "start": 0,
+          "username": "Hnrkesin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042251791627436153",
+    "in_reply_to_user_id": "1879046626620141568",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042185562728350051",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Hnrkesin 啊啊啊我真是不行了好搞笑"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028430373458456576",
+        "conversation_id": "2042123331751874839",
+        "created_at": "2026-04-09T14:42:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T15:42:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042251791627436153"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1879046626620141568",
+              "start": 0,
+              "username": "Hnrkesin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042251791627436153",
+        "in_reply_to_user_id": "1879046626620141568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042185562728350051",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Hnrkesin 啊啊啊我真是不行了好搞笑"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1879046626620141568",
+        "conversation_id": "2042123331751874839",
+        "created_at": "2026-04-09T10:19:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T11:19:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042185562728350051"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2028430373458456576",
+              "start": 0,
+              "username": "o65518kuguagua"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042185562728350051",
+        "in_reply_to_user_id": "2028430373458456576",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 199,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042185176579723322",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@o65518kuguagua 不亚于被雷劈"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-02T11:21:20.000Z",
+        "description": "哥控｜我需要很多周末o.O 这个是我的大分身@qiu_song60259\n锁推小号@Kuguadawang6677",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 22,
+                "username": "qiu_song60259"
+              },
+              {
+                "end": 57,
+                "start": 41,
+                "username": "Kuguadawang6677"
+              }
+            ]
+          }
+        },
+        "id": "2028430373458456576",
+        "location": "加载中……",
+        "name": "咩咩",
+        "pinned_tweet_id": "2035726523810861085",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028450466460241920/ceK3GGSB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 460,
+          "following_count": 367,
+          "like_count": 4521,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 1314
+        },
+        "username": "o65518kuguagua",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-14T06:03:36.000Z",
+        "description": "此人乃世界屌丝之神。一切都是男的欠我女的骗我老的欺负我，生人勿近熟人更是滚开，靠近我的所有人都会被我赏一耳光。\nhttps://t.co/dqSYfdIrd6 祷告箱重出江湖。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/hnrkesin",
+                "end": 79,
+                "expanded_url": "http://ngl.link/hnrkesin",
+                "start": 56,
+                "url": "https://t.co/dqSYfdIrd6"
+              }
+            ]
+          }
+        },
+        "id": "1879046626620141568",
+        "location": "清水无🚪。特别特别特别讨厌和陌生人聊天，不要给我发信息。",
+        "name": "蛋糕说的对",
+        "pinned_tweet_id": "2033085329520078888",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040235297263521792/O7xvbcRH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1294,
+          "following_count": 56,
+          "like_count": 5257,
+          "listed_count": 2,
+          "media_count": 110,
+          "tweet_count": 3578
+        },
+        "username": "Hnrkesin",
+        "verified": false
+      }
+    ]
+  }
+}

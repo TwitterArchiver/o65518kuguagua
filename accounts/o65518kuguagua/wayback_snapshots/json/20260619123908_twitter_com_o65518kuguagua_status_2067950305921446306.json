@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028430373458456576",
+    "conversation_id": "2067945414922518940",
+    "created_at": "2026-06-19T12:39:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T13:39:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067950305921446306"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1674808942340485120",
+          "start": 0,
+          "username": "qianbing1578984"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067950305921446306",
+    "in_reply_to_user_id": "1674808942340485120",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067945414922518940",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qianbing1578984 萌萌"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2067945402054438912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLLRYwBbcAAksfI.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028430373458456576",
+        "conversation_id": "2067945414922518940",
+        "created_at": "2026-06-19T12:39:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T13:39:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067950305921446306"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1674808942340485120",
+              "start": 0,
+              "username": "qianbing1578984"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067950305921446306",
+        "in_reply_to_user_id": "1674808942340485120",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067945414922518940",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qianbing1578984 萌萌"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067945402054438912"
+          ]
+        },
+        "author_id": "1674808942340485120",
+        "conversation_id": "2067945414922518940",
+        "created_at": "2026-06-19T12:19:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T13:19:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067945414922518940"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6HQg22GLPG",
+              "end": 33,
+              "expanded_url": "https://x.com/qianbing1578984/status/2067945414922518940/photo/1",
+              "media_key": "3_2067945402054438912",
+              "start": 10,
+              "url": "https://t.co/6HQg22GLPG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067945414922518940",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "(｡ì _ í｡) https://t.co/6HQg22GLPG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-02T11:21:20.000Z",
+        "description": "只是想好好睡觉｜我的名字是瓜瓜｜心肝@imcutefate 最爱的闺闺@Lake_Verion",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 18,
+                "username": "imcutefate"
+              },
+              {
+                "end": 47,
+                "start": 35,
+                "username": "Lake_Verion"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E8%8B%A6%E7%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E8%8B%A6%E7%93%9C%E5%A4%A7%E7%8E%8B",
+                "start": 0,
+                "url": "https://t.co/CdcVmYa8EY"
+              }
+            ]
+          }
+        },
+        "id": "2028430373458456576",
+        "location": "加载中……   匿名→",
+        "name": "虎牙钉",
+        "pinned_tweet_id": "2063001104858648649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060344470910926856/fk6R2qB-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2094,
+          "following_count": 577,
+          "like_count": 9153,
+          "listed_count": 1,
+          "media_count": 170,
+          "tweet_count": 2752
+        },
+        "url": "https://t.co/CdcVmYa8EY",
+        "username": "o65518kuguagua",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-30T15:56:08.000Z",
+        "description": "我并不知道您咋了",
+        "id": "1674808942340485120",
+        "name": "BB sweet",
+        "pinned_tweet_id": "2064674812405121422",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040470143818674176/RT1B_u_r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9813,
+          "following_count": 42,
+          "like_count": 2527,
+          "listed_count": 33,
+          "media_count": 10,
+          "tweet_count": 698
+        },
+        "url": "",
+        "username": "qianbing1578984",
+        "verified": false
+      }
+    ]
+  }
+}

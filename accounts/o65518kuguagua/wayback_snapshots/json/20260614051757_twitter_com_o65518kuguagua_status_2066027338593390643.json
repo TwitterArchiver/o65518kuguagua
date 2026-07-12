@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2066027329898631168"
+      ]
+    },
+    "author_id": "2028430373458456576",
+    "conversation_id": "2065997384761651554",
+    "created_at": "2026-06-14T05:17:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T06:17:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066027338593390643"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1963870046708772864",
+          "start": 0,
+          "username": "Yuriovo_qaq"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/FsUXutbgSl",
+          "end": 48,
+          "expanded_url": "https://x.com/o65518kuguagua/status/2066027338593390643/photo/1",
+          "media_key": "3_2066027329898631168",
+          "start": 25,
+          "url": "https://t.co/FsUXutbgSl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066027338593390643",
+    "in_reply_to_user_id": "1963870046708772864",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065997384761651554",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yuriovo_qaq 我并不知道他这是怎么了 https://t.co/FsUXutbgSl"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2066027329898631168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKwA6QbbUAANXB7.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066027329898631168"
+          ]
+        },
+        "author_id": "2028430373458456576",
+        "conversation_id": "2065997384761651554",
+        "created_at": "2026-06-14T05:17:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T06:17:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066027338593390643"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1963870046708772864",
+              "start": 0,
+              "username": "Yuriovo_qaq"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/FsUXutbgSl",
+              "end": 48,
+              "expanded_url": "https://x.com/o65518kuguagua/status/2066027338593390643/photo/1",
+              "media_key": "3_2066027329898631168",
+              "start": 25,
+              "url": "https://t.co/FsUXutbgSl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066027338593390643",
+        "in_reply_to_user_id": "1963870046708772864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065997384761651554",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yuriovo_qaq 我并不知道他这是怎么了 https://t.co/FsUXutbgSl"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1963870046708772864",
+        "conversation_id": "2065997384761651554",
+        "created_at": "2026-06-14T03:18:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T04:18:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065997384761651554"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kkkiiikk2/stat…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/kkkiiikk2/status/2065992585173430427",
+              "start": 9,
+              "url": "https://t.co/ILIDObtwVI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065997384761651554",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 39,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065992585173430427",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "所有人看这个乐子 https://t.co/ILIDObtwVI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-02T11:21:20.000Z",
+        "description": "只是想好好睡觉｜我的名字是瓜瓜｜心肝@imcutefate 最爱的闺闺@Lake_Verion",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 18,
+                "username": "imcutefate"
+              },
+              {
+                "end": 47,
+                "start": 35,
+                "username": "Lake_Verion"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E8%8B%A6%E7%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E8%8B%A6%E7%93%9C%E5%A4%A7%E7%8E%8B",
+                "start": 0,
+                "url": "https://t.co/CdcVmYa8EY"
+              }
+            ]
+          }
+        },
+        "id": "2028430373458456576",
+        "location": "加载中……   匿名→",
+        "name": "虎牙钉（今日发帖已上限只能转帖）",
+        "pinned_tweet_id": "2063001104858648649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060344470910926856/fk6R2qB-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2103,
+          "following_count": 587,
+          "like_count": 8903,
+          "listed_count": 1,
+          "media_count": 158,
+          "tweet_count": 2633
+        },
+        "url": "https://t.co/CdcVmYa8EY",
+        "username": "o65518kuguagua",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-05T07:41:29.000Z",
+        "description": "渴望自由的心脏困在一张没空隙的网\n置顶本人 只发废话 双取随意",
+        "id": "1963870046708772864",
+        "location": "玉米地",
+        "name": "西伯利亚电子小熊",
+        "pinned_tweet_id": "2061827130737189356",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059818789039165440/40RR1pVP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 867,
+          "following_count": 112,
+          "like_count": 4655,
+          "listed_count": 0,
+          "media_count": 1119,
+          "tweet_count": 9106
+        },
+        "username": "Yuriovo_qaq",
+        "verified": false
+      }
+    ]
+  }
+}

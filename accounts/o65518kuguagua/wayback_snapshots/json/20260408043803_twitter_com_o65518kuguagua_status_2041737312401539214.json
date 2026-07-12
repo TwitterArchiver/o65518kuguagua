@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028430373458456576",
+    "conversation_id": "2041737312401539214",
+    "created_at": "2026-04-08T04:38:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-08T05:38:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2041737312401539214"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/hsn8086/status…",
+          "end": 46,
+          "expanded_url": "https://twitter.com/hsn8086/status/2041369419646189995",
+          "start": 23,
+          "url": "https://t.co/7EZ3LvA8HO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041737312401539214",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041369419646189995",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "浑身酸痛脑子昏昏沉沉的下床的时候还会摔一跤。 https://t.co/7EZ3LvA8HO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 969,
+        "media_key": "3_2041369382023258112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFRmoyba4AASAa_.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028430373458456576",
+        "conversation_id": "2041737312401539214",
+        "created_at": "2026-04-08T04:38:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T05:38:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041737312401539214"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hsn8086/status…",
+              "end": 46,
+              "expanded_url": "https://twitter.com/hsn8086/status/2041369419646189995",
+              "start": 23,
+              "url": "https://t.co/7EZ3LvA8HO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041737312401539214",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041369419646189995",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "浑身酸痛脑子昏昏沉沉的下床的时候还会摔一跤。 https://t.co/7EZ3LvA8HO"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041369382023258112"
+          ]
+        },
+        "author_id": "1433678976564662273",
+        "conversation_id": "2041369419646189995",
+        "created_at": "2026-04-07T04:16:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T05:16:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041369419646189995"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ic6uWTriNi",
+              "end": 23,
+              "expanded_url": "https://x.com/hsn8086/status/2041369419646189995/photo/1",
+              "media_key": "3_2041369382023258112",
+              "start": 0,
+              "url": "https://t.co/ic6uWTriNi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041369419646189995",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 120,
+          "impression_count": 130576,
+          "like_count": 3656,
+          "quote_count": 14,
+          "reply_count": 32,
+          "retweet_count": 143
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/ic6uWTriNi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-02T11:21:20.000Z",
+        "description": "哥控｜我需要很多周末o.O 这个是我的大分身@qiu_song60259\n锁推小号@Kuguadawang6677",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 22,
+                "username": "qiu_song60259"
+              },
+              {
+                "end": 57,
+                "start": 41,
+                "username": "Kuguadawang6677"
+              }
+            ]
+          }
+        },
+        "id": "2028430373458456576",
+        "location": "加载中……",
+        "name": "咩咩",
+        "pinned_tweet_id": "2035726523810861085",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028450466460241920/ceK3GGSB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 448,
+          "following_count": 347,
+          "like_count": 4027,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 1232
+        },
+        "username": "o65518kuguagua",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-03T06:31:41.000Z",
+        "description": "你好, 我是hsn! 老图: @hsn8086xe | 注: 推文内容仅供娱乐, 真假自辨!",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 15,
+                "username": "hsn8086xe"
+              }
+            ]
+          }
+        },
+        "id": "1433678976564662273",
+        "location": "Internet",
+        "name": "hsn",
+        "pinned_tweet_id": "2038599257599713310",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039156167285538816/Ica6XIlY_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 117985,
+          "following_count": 1124,
+          "like_count": 52515,
+          "listed_count": 277,
+          "media_count": 20490,
+          "tweet_count": 30850
+        },
+        "username": "hsn8086",
+        "verified": true
+      }
+    ]
+  }
+}

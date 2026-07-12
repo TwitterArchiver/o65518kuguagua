@@ -1,0 +1,290 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028430373458456576",
+    "conversation_id": "2063966324100059646",
+    "created_at": "2026-06-12T15:11:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T16:11:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065451841178243166"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1958390370355789825",
+          "start": 0,
+          "username": "imcutefate"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065451841178243166",
+    "in_reply_to_user_id": "1958390370355789825",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063966324100059646",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@imcutefate 第一张好好吃"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2063966316177059841",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKSubeAa8AEbqKi.jpg",
+        "width": 1440
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2063966316223180800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKSubeLasAASBDk.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028430373458456576",
+        "conversation_id": "2063966324100059646",
+        "created_at": "2026-06-12T15:11:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T16:11:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065451841178243166"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1958390370355789825",
+              "start": 0,
+              "username": "imcutefate"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065451841178243166",
+        "in_reply_to_user_id": "1958390370355789825",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063966324100059646",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@imcutefate 第一张好好吃"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063966316177059841",
+            "3_2063966316223180800"
+          ]
+        },
+        "author_id": "1958390370355789825",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2063966324100059646",
+        "created_at": "2026-06-08T12:48:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T13:48:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063966324100059646"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zIu0h1v4bs",
+              "end": 30,
+              "expanded_url": "https://x.com/imcutefate/status/2063966324100059646/photo/1",
+              "media_key": "3_2063966316177059841",
+              "start": 7,
+              "url": "https://t.co/zIu0h1v4bs"
+            },
+            {
+              "display_url": "pic.x.com/zIu0h1v4bs",
+              "end": 30,
+              "expanded_url": "https://x.com/imcutefate/status/2063966324100059646/photo/1",
+              "media_key": "3_2063966316223180800",
+              "start": 7,
+              "url": "https://t.co/zIu0h1v4bs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063966324100059646",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3078,
+          "like_count": 53,
+          "quote_count": 0,
+          "reply_count": 16,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好贵好难吃。 https://t.co/zIu0h1v4bs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-02T11:21:20.000Z",
+        "description": "只是想好好睡觉｜我的名字是瓜瓜｜心肝@imcutefate 最爱的闺闺@Lake_Verion",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 18,
+                "username": "imcutefate"
+              },
+              {
+                "end": 47,
+                "start": 35,
+                "username": "Lake_Verion"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E8%8B%A6%E7%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E8%8B%A6%E7%93%9C%E5%A4%A7%E7%8E%8B",
+                "start": 0,
+                "url": "https://t.co/CdcVmYa8EY"
+              }
+            ]
+          }
+        },
+        "id": "2028430373458456576",
+        "location": "加载中……   匿名→",
+        "name": "虎牙钉",
+        "pinned_tweet_id": "2063001104858648649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060344470910926856/fk6R2qB-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1998,
+          "following_count": 565,
+          "like_count": 8385,
+          "listed_count": 1,
+          "media_count": 128,
+          "tweet_count": 2339
+        },
+        "url": "https://t.co/CdcVmYa8EY",
+        "username": "o65518kuguagua",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-21T04:47:15.000Z",
+        "description": "我是羊羊\n最爱的女孩@o65518kuguagua @yanyejilennon",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 10,
+                "username": "o65518kuguagua"
+              },
+              {
+                "end": 40,
+                "start": 26,
+                "username": "yanyejilennon"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/imcutefate",
+                "end": 23,
+                "expanded_url": "https://ngl.link/imcutefate",
+                "start": 0,
+                "url": "https://t.co/2kzYAji3rI"
+              }
+            ]
+          }
+        },
+        "id": "1958390370355789825",
+        "name": "坏蛋自述",
+        "pinned_tweet_id": "2064285092349125026",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050109355329208320/WgR-FfCG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 330,
+          "following_count": 70,
+          "like_count": 2677,
+          "listed_count": 0,
+          "media_count": 76,
+          "tweet_count": 1085
+        },
+        "url": "https://t.co/2kzYAji3rI",
+        "username": "imcutefate",
+        "verified": false
+      }
+    ]
+  }
+}

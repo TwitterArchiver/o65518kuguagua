@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028430373458456576",
+    "conversation_id": "2063199005698408718",
+    "created_at": "2026-06-06T10:37:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T11:37:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063208722844004726"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1878142610805788672",
+          "start": 0,
+          "username": "yukinoo_123"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063208722844004726",
+    "in_reply_to_user_id": "1878142610805788672",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063199005698408718",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yukinoo_123 我是高中生但我没有暑假了。一整个暑假都要去集训呃我哭哭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028430373458456576",
+        "conversation_id": "2063199005698408718",
+        "created_at": "2026-06-06T10:37:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T11:37:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063208722844004726"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1878142610805788672",
+              "start": 0,
+              "username": "yukinoo_123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063208722844004726",
+        "in_reply_to_user_id": "1878142610805788672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063199005698408718",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yukinoo_123 我是高中生但我没有暑假了。一整个暑假都要去集训呃我哭哭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878142610805788672",
+        "conversation_id": "2063199005698408718",
+        "created_at": "2026-06-06T09:59:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T10:59:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063199005698408718"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2063199005698408718",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 99,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我一想到这群高中生马上就要放暑假了而我要在自习室苦逼地熬到七月份我就想哭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-02T11:21:20.000Z",
+        "description": "我叫瓜瓜｜只是想好好睡觉｜心肝@imcutefate 最爱的闺闺@Lake_Verion",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 15,
+                "username": "imcutefate"
+              },
+              {
+                "end": 44,
+                "start": 32,
+                "username": "Lake_Verion"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E8%8B%A6%E7%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E8%8B%A6%E7%93%9C%E5%A4%A7%E7%8E%8B",
+                "start": 0,
+                "url": "https://t.co/CdcVmYa8EY"
+              }
+            ]
+          }
+        },
+        "id": "2028430373458456576",
+        "location": "加载中……   匿名→",
+        "name": "虎牙钉",
+        "pinned_tweet_id": "2057895439450374538",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060344470910926856/fk6R2qB-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1573,
+          "following_count": 535,
+          "like_count": 8029,
+          "listed_count": 1,
+          "media_count": 120,
+          "tweet_count": 2201
+        },
+        "url": "https://t.co/CdcVmYa8EY",
+        "username": "o65518kuguagua",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-11T18:11:28.000Z",
+        "description": "碎碎念｜纯绿不约炮不陪聊 给我发低俗信息会骂回去😂｜女生和长得帅的主页有意思的男生会回关｜https://t.co/pTsNSyZgkm",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/7hooi",
+                "end": 68,
+                "expanded_url": "https://ngl.link/7hooi",
+                "start": 45,
+                "url": "https://t.co/pTsNSyZgkm"
+              }
+            ]
+          }
+        },
+        "id": "1878142610805788672",
+        "location": "清水推不陪聊不加v 爱我就给我点钱花",
+        "name": "分手后用烟头把前任烫成斑点狗",
+        "pinned_tweet_id": "2043662068956471786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051229318081400832/uQwMMOCF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2173,
+          "following_count": 216,
+          "like_count": 1159,
+          "listed_count": 5,
+          "media_count": 199,
+          "tweet_count": 1686
+        },
+        "username": "yukinoo_123",
+        "verified": false
+      }
+    ]
+  }
+}

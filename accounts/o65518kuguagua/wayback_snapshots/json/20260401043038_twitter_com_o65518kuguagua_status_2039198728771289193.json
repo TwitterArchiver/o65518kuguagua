@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028430373458456576",
+    "conversation_id": "2039189500631347329",
+    "created_at": "2026-04-01T04:30:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-01T05:30:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039198728771289193"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1669272923868127232",
+          "start": 0,
+          "username": "UGiclII0ZF49922"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039198728771289193",
+    "in_reply_to_user_id": "1669272923868127232",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039197426129764587",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@UGiclII0ZF49922 hello？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028430373458456576",
+        "conversation_id": "2039189500631347329",
+        "created_at": "2026-04-01T04:30:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T05:30:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039198728771289193"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1669272923868127232",
+              "start": 0,
+              "username": "UGiclII0ZF49922"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039198728771289193",
+        "in_reply_to_user_id": "1669272923868127232",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039197426129764587",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@UGiclII0ZF49922 hello？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669272923868127232",
+        "conversation_id": "2039189500631347329",
+        "created_at": "2026-04-01T04:25:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T05:25:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039197426129764587"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2028430373458456576",
+              "start": 0,
+              "username": "o65518kuguagua"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039197426129764587",
+        "in_reply_to_user_id": "2028430373458456576",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039189500631347329",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@o65518kuguagua 上面这个号被封了，私我这个号谢谢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-02T11:21:20.000Z",
+        "description": "哥控｜我需要很多周末o.O 这个是我的大分身@qiu_song60259\n锁推小号@Kuguadawang6677",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 22,
+                "username": "qiu_song60259"
+              },
+              {
+                "end": 57,
+                "start": 41,
+                "username": "Kuguadawang6677"
+              }
+            ]
+          }
+        },
+        "id": "2028430373458456576",
+        "location": "加载中……",
+        "name": "咩咩",
+        "pinned_tweet_id": "2035726523810861085",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028450466460241920/ceK3GGSB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 352,
+          "following_count": 289,
+          "like_count": 2699,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 845
+        },
+        "username": "o65518kuguagua",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-15T09:17:46.000Z",
+        "description": "🚪1，其实我是一个男拉拉，可以给你当舔狗陪你聊天，期待有一天有一个人在大街上认出我来，然后走到我的跟前，瓦大喜喜欢你很久了请你务必和我交往吧（我玩抽象的）",
+        "id": "1669272923868127232",
+        "name": "流离之人追逐幻影",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1730131047986483200/cu0CqCAA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 20,
+          "like_count": 4,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 147
+        },
+        "username": "UGiclII0ZF49922",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028430373458456576",
+    "conversation_id": "2038995696179953871",
+    "created_at": "2026-04-01T04:20:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-01T05:20:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039196249375523163"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1235879793272311808",
+          "start": 0,
+          "username": "WWWWaaaalive"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039196249375523163",
+    "in_reply_to_user_id": "1235879793272311808",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038995696179953871",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@WWWWaaaalive 我不行了！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2038995685161459712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEv3xciaYAAUWvd.jpg",
+        "width": 1072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028430373458456576",
+        "conversation_id": "2038995696179953871",
+        "created_at": "2026-04-01T04:20:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T05:20:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039196249375523163"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1235879793272311808",
+              "start": 0,
+              "username": "WWWWaaaalive"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039196249375523163",
+        "in_reply_to_user_id": "1235879793272311808",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038995696179953871",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WWWWaaaalive 我不行了！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2038995685161459712"
+          ]
+        },
+        "author_id": "1235879793272311808",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2038995696179953871",
+        "created_at": "2026-03-31T15:03:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T16:03:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038995696179953871"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/51Q5LECrcs",
+              "end": 50,
+              "expanded_url": "https://x.com/WWWWaaaalive/status/2038995696179953871/photo/1",
+              "media_key": "3_2038995685161459712",
+              "start": 27,
+              "url": "https://t.co/51Q5LECrcs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038995696179953871",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 5037,
+          "like_count": 41,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "刷到了抽象帖子不知道分享给谁的无力感哈哈哈哈哈哈哈哈 https://t.co/51Q5LECrcs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-02T11:21:20.000Z",
+        "description": "哥控｜我需要很多周末o.O 这个是我的大分身@qiu_song60259\n锁推小号@Kuguadawang6677",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 22,
+                "username": "qiu_song60259"
+              },
+              {
+                "end": 57,
+                "start": 41,
+                "username": "Kuguadawang6677"
+              }
+            ]
+          }
+        },
+        "id": "2028430373458456576",
+        "location": "加载中……",
+        "name": "咩咩",
+        "pinned_tweet_id": "2035726523810861085",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028450466460241920/ceK3GGSB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 352,
+          "following_count": 289,
+          "like_count": 2680,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 839
+        },
+        "username": "o65518kuguagua",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-06T10:48:10.000Z",
+        "description": "本推主正在修炼无情道！ 无废话版👉🏻@PhotosforN",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 18,
+                "username": "PhotosforN"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "go.suzi05.xyz/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://go.suzi05.xyz/#/register?code=kSFTne8R",
+                "start": 0,
+                "url": "https://t.co/DYDRUd8FEc"
+              }
+            ]
+          }
+        },
+        "id": "1235879793272311808",
+        "location": "超好用的VPN👉🏻",
+        "name": "蛙仔",
+        "pinned_tweet_id": "1569403306937839616",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029125944942743552/XQ-0nTjh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 86705,
+          "following_count": 707,
+          "like_count": 116164,
+          "listed_count": 164,
+          "media_count": 2416,
+          "tweet_count": 91273
+        },
+        "url": "https://t.co/DYDRUd8FEc",
+        "username": "WWWWaaaalive",
+        "verified": false,
+        "withheld": {
+          "country_codes": [
+            "ID"
+          ]
+        }
+      }
+    ]
+  }
+}

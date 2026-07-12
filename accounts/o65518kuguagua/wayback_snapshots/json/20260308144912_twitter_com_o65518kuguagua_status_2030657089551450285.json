@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028430373458456576",
+    "conversation_id": "2030657089551450285",
+    "created_at": "2026-03-08T14:49:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-08T15:49:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2030657089551450285"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/chengtailang52…",
+          "end": 26,
+          "expanded_url": "https://twitter.com/chengtailang520/status/2030217016494465217",
+          "start": 3,
+          "url": "https://t.co/HMBjLDje0p"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030657089551450285",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030217016494465217",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "对。 https://t.co/HMBjLDje0p"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028430373458456576",
+        "conversation_id": "2030657089551450285",
+        "created_at": "2026-03-08T14:49:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-08T15:49:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030657089551450285"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/chengtailang52…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/chengtailang520/status/2030217016494465217",
+              "start": 3,
+              "url": "https://t.co/HMBjLDje0p"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030657089551450285",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030217016494465217",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "对。 https://t.co/HMBjLDje0p"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1595320276228526080",
+        "conversation_id": "2030217016494465217",
+        "created_at": "2026-03-07T09:40:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-07T10:40:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030217016494465217"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2030217016494465217",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 17,
+          "impression_count": 186944,
+          "like_count": 1075,
+          "quote_count": 8,
+          "reply_count": 88,
+          "retweet_count": 35
+        },
+        "reply_settings": "everyone",
+        "text": "我一直觉得卡泡好尴尬啊，还有卡泡实录，男的一直在手机这头略略略不知道舔啥呢，女的手机那边就开始啊啊啊，好der好傻逼"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-02T11:21:20.000Z",
+        "description": "我需要很多周末o.O 这个是我的大分身@qiu_song60259",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 19,
+                "username": "qiu_song60259"
+              }
+            ]
+          }
+        },
+        "id": "2028430373458456576",
+        "location": "加载中……",
+        "name": "咩咩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028450466460241920/ceK3GGSB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 103,
+          "following_count": 37,
+          "like_count": 265,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 57
+        },
+        "username": "o65518kuguagua",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-23T07:36:18.000Z",
+        "description": "我五岁了",
+        "id": "1595320276228526080",
+        "location": "北京",
+        "name": "亲爱的死对头",
+        "pinned_tweet_id": "1943218090214318165",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1820441968465661952/SVNroeMn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 434,
+          "following_count": 130,
+          "like_count": 1759,
+          "listed_count": 1,
+          "media_count": 430,
+          "tweet_count": 1820
+        },
+        "username": "chengtailang520",
+        "verified": false
+      }
+    ]
+  }
+}

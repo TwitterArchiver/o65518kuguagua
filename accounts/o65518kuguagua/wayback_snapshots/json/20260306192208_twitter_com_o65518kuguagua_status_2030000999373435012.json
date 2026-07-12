@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028430373458456576",
+    "conversation_id": "2030000999373435012",
+    "created_at": "2026-03-06T19:22:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-06T20:22:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2030000999373435012"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/xiohunggu25101…",
+          "end": 25,
+          "expanded_url": "https://twitter.com/xiohunggu251015/status/2029782645782237362",
+          "start": 2,
+          "url": "https://t.co/kDtZ9Y8Msn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030000999373435012",
+    "lang": "qst",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029782645782237362",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "？ https://t.co/kDtZ9Y8Msn"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 9964,
+        "height": 1216,
+        "media_key": "7_2029782615662940160",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2029782615662940160/pu/img/fQ_0hYmMyxIFKMLc.jpg",
+        "public_metrics": {
+          "view_count": 336866
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2029782615662940160/pu/vid/avc1/320x540/bjCDR17MgAcM9YTf.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2029782615662940160/pu/vid/avc1/480x810/C2aj4aPIoYOmfXCD.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2029782615662940160/pu/vid/avc1/720x1216/ewIE8-Y7c6kBLxGu.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2029782615662940160/pu/pl/_1IBL9VuxuWyUvKS.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028430373458456576",
+        "conversation_id": "2030000999373435012",
+        "created_at": "2026-03-06T19:22:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T20:22:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030000999373435012"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xiohunggu25101…",
+              "end": 25,
+              "expanded_url": "https://twitter.com/xiohunggu251015/status/2029782645782237362",
+              "start": 2,
+              "url": "https://t.co/kDtZ9Y8Msn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030000999373435012",
+        "lang": "qst",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029782645782237362",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "？ https://t.co/kDtZ9Y8Msn"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2029782615662940160"
+          ]
+        },
+        "author_id": "1752640236138684416",
+        "conversation_id": "2029782645782237362",
+        "created_at": "2026-03-06T04:54:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T05:54:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029782645782237362"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/j1fmjgpiU0",
+              "end": 34,
+              "expanded_url": "https://x.com/xiohunggu251015/status/2029782645782237362/video/1",
+              "media_key": "7_2029782615662940160",
+              "start": 11,
+              "url": "https://t.co/j1fmjgpiU0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029782645782237362",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1911,
+          "impression_count": 717733,
+          "like_count": 6362,
+          "quote_count": 98,
+          "reply_count": 312,
+          "retweet_count": 675
+        },
+        "reply_settings": "everyone",
+        "text": "这是什么逆天本子剧情 https://t.co/j1fmjgpiU0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-02T11:21:20.000Z",
+        "description": "我需要很多周末o.O 这个是我的大分身@qiu_song60259",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 19,
+                "username": "qiu_song60259"
+              }
+            ]
+          }
+        },
+        "id": "2028430373458456576",
+        "location": "加载中……",
+        "name": "咩咩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028450466460241920/ceK3GGSB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 101,
+          "following_count": 28,
+          "like_count": 200,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 43
+        },
+        "username": "o65518kuguagua",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-31T10:29:40.000Z",
+        "description": "2009/12/24  |  MC玩家  |  搬史  |  精神状态轻度糟糕(?)  |  不od不割手  |  旧帐号  @omgnowihavefish  |  大社恐  |  妈妈: @HappyHejsDay",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 79,
+                "start": 63,
+                "username": "omgnowihavefish"
+              },
+              {
+                "end": 109,
+                "start": 96,
+                "username": "HappyHejsDay"
+              }
+            ]
+          }
+        },
+        "id": "1752640236138684416",
+        "name": "黄瓜🍥",
+        "pinned_tweet_id": "2029874613870817764",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015661976337461249/5k_w3tLy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2586,
+          "following_count": 920,
+          "like_count": 9904,
+          "listed_count": 6,
+          "media_count": 237,
+          "tweet_count": 1769
+        },
+        "username": "xiohunggu251015",
+        "verified": false
+      }
+    ]
+  }
+}

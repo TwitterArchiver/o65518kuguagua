@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028430373458456576",
+    "conversation_id": "2067796856927908258",
+    "created_at": "2026-06-19T03:40:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T04:40:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067814709374660897"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1803423492890828805",
+          "start": 0,
+          "username": "quezi32"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067814709374660897",
+    "in_reply_to_user_id": "1803423492890828805",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067813894400475220",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@quezi32 自己在家玩吗好厉害！我不会烫豆哎"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028430373458456576",
+        "conversation_id": "2067796856927908258",
+        "created_at": "2026-06-19T03:40:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T04:40:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067814709374660897"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1803423492890828805",
+              "start": 0,
+              "username": "quezi32"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067814709374660897",
+        "in_reply_to_user_id": "1803423492890828805",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067813894400475220",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@quezi32 自己在家玩吗好厉害！我不会烫豆哎"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1803423492890828805",
+        "conversation_id": "2067796856927908258",
+        "created_at": "2026-06-19T03:37:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T04:37:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067813894400475220"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2028430373458456576",
+              "start": 0,
+              "username": "o65518kuguagua"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067813894400475220",
+        "in_reply_to_user_id": "2028430373458456576",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067799830517432470",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@o65518kuguagua 太爱玩了！所以我买了一套！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-02T11:21:20.000Z",
+        "description": "只是想好好睡觉｜我的名字是瓜瓜｜心肝@imcutefate 最爱的闺闺@Lake_Verion",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 18,
+                "username": "imcutefate"
+              },
+              {
+                "end": 47,
+                "start": 35,
+                "username": "Lake_Verion"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E8%8B%A6%E7%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E8%8B%A6%E7%93%9C%E5%A4%A7%E7%8E%8B",
+                "start": 0,
+                "url": "https://t.co/CdcVmYa8EY"
+              }
+            ]
+          }
+        },
+        "id": "2028430373458456576",
+        "location": "加载中……   匿名→",
+        "name": "虎牙钉",
+        "pinned_tweet_id": "2063001104858648649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060344470910926856/fk6R2qB-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2093,
+          "following_count": 598,
+          "like_count": 9057,
+          "listed_count": 1,
+          "media_count": 167,
+          "tweet_count": 2714
+        },
+        "url": "https://t.co/CdcVmYa8EY",
+        "username": "o65518kuguagua",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-19T13:44:12.000Z",
+        "description": "我是小缺^^先跟你说晚安吧",
+        "id": "1803423492890828805",
+        "location": "萧逸床上",
+        "name": "小缺干脆面",
+        "pinned_tweet_id": "2049746184772964537",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1803503510379782144/4oOHjCoq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 43,
+          "like_count": 1439,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 617
+        },
+        "url": "",
+        "username": "quezi32",
+        "verified": false
+      }
+    ]
+  }
+}

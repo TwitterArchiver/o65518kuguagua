@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2036097216033808384",
+        "3_2036097215869890561",
+        "3_2036097215874142208",
+        "3_2036097215869894656"
+      ]
+    },
+    "author_id": "2028430373458456576",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2036097230206095860",
+    "created_at": "2026-03-23T15:06:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-23T16:06:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2036097230206095860"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/m4cELroCYx",
+          "end": 37,
+          "expanded_url": "https://x.com/o65518kuguagua/status/2036097230206095860/photo/1",
+          "media_key": "3_2036097216033808384",
+          "start": 14,
+          "url": "https://t.co/m4cELroCYx"
+        },
+        {
+          "display_url": "pic.x.com/m4cELroCYx",
+          "end": 37,
+          "expanded_url": "https://x.com/o65518kuguagua/status/2036097230206095860/photo/1",
+          "media_key": "3_2036097215869890561",
+          "start": 14,
+          "url": "https://t.co/m4cELroCYx"
+        },
+        {
+          "display_url": "pic.x.com/m4cELroCYx",
+          "end": 37,
+          "expanded_url": "https://x.com/o65518kuguagua/status/2036097230206095860/photo/1",
+          "media_key": "3_2036097215874142208",
+          "start": 14,
+          "url": "https://t.co/m4cELroCYx"
+        },
+        {
+          "display_url": "pic.x.com/m4cELroCYx",
+          "end": 37,
+          "expanded_url": "https://x.com/o65518kuguagua/status/2036097230206095860/photo/1",
+          "media_key": "3_2036097215869894656",
+          "start": 14,
+          "url": "https://t.co/m4cELroCYx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036097230206095860",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "那么问题来了我到底发了啥呢 https://t.co/m4cELroCYx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 657,
+        "media_key": "3_2036097216033808384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEGroVnbYAARkMT.jpg",
+        "width": 718
+      },
+      {
+        "height": 498,
+        "media_key": "3_2036097215869890561",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEGroVAWMAE7fPM.jpg",
+        "width": 724
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2036097215874142208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEGroVBXEAAGpSa.jpg",
+        "width": 410
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2036097215869894656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEGroVAWQAAPVdR.jpg",
+        "width": 407
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2036097216033808384",
+            "3_2036097215869890561",
+            "3_2036097215874142208",
+            "3_2036097215869894656"
+          ]
+        },
+        "author_id": "2028430373458456576",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2036097230206095860",
+        "created_at": "2026-03-23T15:06:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T16:06:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036097230206095860"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/m4cELroCYx",
+              "end": 37,
+              "expanded_url": "https://x.com/o65518kuguagua/status/2036097230206095860/photo/1",
+              "media_key": "3_2036097216033808384",
+              "start": 14,
+              "url": "https://t.co/m4cELroCYx"
+            },
+            {
+              "display_url": "pic.x.com/m4cELroCYx",
+              "end": 37,
+              "expanded_url": "https://x.com/o65518kuguagua/status/2036097230206095860/photo/1",
+              "media_key": "3_2036097215869890561",
+              "start": 14,
+              "url": "https://t.co/m4cELroCYx"
+            },
+            {
+              "display_url": "pic.x.com/m4cELroCYx",
+              "end": 37,
+              "expanded_url": "https://x.com/o65518kuguagua/status/2036097230206095860/photo/1",
+              "media_key": "3_2036097215874142208",
+              "start": 14,
+              "url": "https://t.co/m4cELroCYx"
+            },
+            {
+              "display_url": "pic.x.com/m4cELroCYx",
+              "end": 37,
+              "expanded_url": "https://x.com/o65518kuguagua/status/2036097230206095860/photo/1",
+              "media_key": "3_2036097215869894656",
+              "start": 14,
+              "url": "https://t.co/m4cELroCYx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036097230206095860",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "那么问题来了我到底发了啥呢 https://t.co/m4cELroCYx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-02T11:21:20.000Z",
+        "description": "我需要很多周末o.O 这个是我的大分身@qiu_song60259",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 19,
+                "username": "qiu_song60259"
+              }
+            ]
+          }
+        },
+        "id": "2028430373458456576",
+        "location": "加载中……",
+        "name": "咩咩",
+        "pinned_tweet_id": "2035726523810861085",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028450466460241920/ceK3GGSB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 155,
+          "following_count": 153,
+          "like_count": 1058,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 276
+        },
+        "username": "o65518kuguagua",
+        "verified": false
+      }
+    ]
+  }
+}

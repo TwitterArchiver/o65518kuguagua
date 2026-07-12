@@ -1,0 +1,303 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028430373458456576",
+    "conversation_id": "2039739149545251191",
+    "created_at": "2026-04-03T04:23:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-03T05:23:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039921784502522139"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1952302490218831872",
+          "start": 0,
+          "username": "cooulaaa"
+        },
+        {
+          "end": 23,
+          "id": "1341329111906586624",
+          "start": 10,
+          "username": "saharaoasis_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039921784502522139",
+    "in_reply_to_user_id": "1952302490218831872",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039739149545251191",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cooulaaa @saharaoasis_ 我准备买个直的！宝宝你知不知道弯的和直的哪个好用呀"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2039739132852023296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE6b7zAbsAAdG8n.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028430373458456576",
+        "conversation_id": "2039739149545251191",
+        "created_at": "2026-04-03T04:23:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T05:23:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039921784502522139"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1952302490218831872",
+              "start": 0,
+              "username": "cooulaaa"
+            },
+            {
+              "end": 23,
+              "id": "1341329111906586624",
+              "start": 10,
+              "username": "saharaoasis_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039921784502522139",
+        "in_reply_to_user_id": "1952302490218831872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039739149545251191",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cooulaaa @saharaoasis_ 我准备买个直的！宝宝你知不知道弯的和直的哪个好用呀"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2039739132852023296"
+          ]
+        },
+        "author_id": "1952302490218831872",
+        "conversation_id": "2039739149545251191",
+        "created_at": "2026-04-02T16:18:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T17:18:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039739149545251191"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 27,
+              "id": "1341329111906586624",
+              "start": 14,
+              "username": "saharaoasis_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/QTRcNJcgvy",
+              "end": 51,
+              "expanded_url": "https://x.com/cooulaaa/status/2039739149545251191/photo/1",
+              "media_key": "3_2039739132852023296",
+              "start": 28,
+              "url": "https://t.co/QTRcNJcgvy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039739149545251191",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 10776,
+          "like_count": 30,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "买的金属老公还是很好用的吧！@saharaoasis_ https://t.co/QTRcNJcgvy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-02T11:21:20.000Z",
+        "description": "哥控｜我需要很多周末o.O 这个是我的大分身@qiu_song60259\n锁推小号@Kuguadawang6677",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 22,
+                "username": "qiu_song60259"
+              },
+              {
+                "end": 57,
+                "start": 41,
+                "username": "Kuguadawang6677"
+              }
+            ]
+          }
+        },
+        "id": "2028430373458456576",
+        "location": "加载中……",
+        "name": "咩咩",
+        "pinned_tweet_id": "2035726523810861085",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028450466460241920/ceK3GGSB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 385,
+          "following_count": 315,
+          "like_count": 3182,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 1042
+        },
+        "username": "o65518kuguagua",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-04T09:36:11.000Z",
+        "description": "我只是个懵逼的单细胞生物草履虫呀。 \n08高二在读｜小号@chng1089971 只过互关or🚪（谨慎关注 目前里面只有色图。｜提问箱👉https://t.co/RBn9R5a4wy",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 28,
+                "username": "chng1089971"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/%E8%8D%89%E5%B…",
+                "end": 91,
+                "expanded_url": "https://ngl.link/%E8%8D%89%E5%B1%A5%E8%99%AB",
+                "start": 68,
+                "url": "https://t.co/RBn9R5a4wy"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "tz86.vip/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://www.tz86.vip/#/register?code=4nDoXVYO",
+                "start": 0,
+                "url": "https://t.co/fplUYhn3rj"
+              }
+            ]
+          }
+        },
+        "id": "1952302490218831872",
+        "location": "🚪188/520",
+        "name": "忧郁萌神草履虫",
+        "pinned_tweet_id": "2027423487170916519",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028332698625003521/i3elCBTB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3516,
+          "following_count": 345,
+          "like_count": 734,
+          "listed_count": 8,
+          "media_count": 211,
+          "tweet_count": 1145
+        },
+        "url": "https://t.co/fplUYhn3rj",
+        "username": "cooulaaa",
+        "verified": false
+      },
+      {
+        "created_at": "2020-12-22T10:26:06.000Z",
+        "description": "【阴道内1:1倒膜进度更新@benxinfan 】欢迎移步：撒哈拉绿洲/🎵dy：本形专营店/vx小程序/公众号：卯哥的晚间杂货铺（不定期更新性爱教学）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 13,
+                "username": "benxinfan"
+              }
+            ]
+          }
+        },
+        "id": "1341329111906586624",
+        "location": "香港",
+        "name": "番茄罐头（全网第一家调教棒）",
+        "pinned_tweet_id": "2033191443117052197",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1753070373820891136/4R3k0MHk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 386082,
+          "following_count": 516,
+          "like_count": 3034,
+          "listed_count": 640,
+          "media_count": 1197,
+          "tweet_count": 6860
+        },
+        "username": "saharaoasis_",
+        "verified": true
+      }
+    ]
+  }
+}

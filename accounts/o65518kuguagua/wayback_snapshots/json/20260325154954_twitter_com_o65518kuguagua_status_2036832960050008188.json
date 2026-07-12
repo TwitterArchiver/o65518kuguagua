@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028430373458456576",
+    "conversation_id": "2036769031584366940",
+    "created_at": "2026-03-25T15:49:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-25T16:49:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036832960050008188"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1757634899002216448",
+          "start": 0,
+          "username": "haohaochifantt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036832960050008188",
+    "in_reply_to_user_id": "1757634899002216448",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036769031584366940",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@haohaochifantt 我去你咋这么萌"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 24356,
+        "height": 720,
+        "media_key": "13_2036768927175655424",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2036768927175655424/img/WWM2vPB6zHvmc9Cw.jpg",
+        "public_metrics": {
+          "view_count": 834
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2036768927175655424/vid/avc1/480x270/4_-GiD4_QIzwmIZr.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2036768927175655424/vid/avc1/640x360/unX2fjetyVthoH1u.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2036768927175655424/vid/avc1/1280x720/E0cRYxS2GI4LkNkB.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2036768927175655424/pl/5I1Onc4cfX1mLo9k.m3u8?v=cfc"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028430373458456576",
+        "conversation_id": "2036769031584366940",
+        "created_at": "2026-03-25T15:49:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T16:49:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036832960050008188"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1757634899002216448",
+              "start": 0,
+              "username": "haohaochifantt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036832960050008188",
+        "in_reply_to_user_id": "1757634899002216448",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036769031584366940",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@haohaochifantt 我去你咋这么萌"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2036768927175655424"
+          ]
+        },
+        "author_id": "1757634899002216448",
+        "conversation_id": "2036769031584366940",
+        "created_at": "2026-03-25T11:35:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T12:35:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036769031584366940"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jvA9C9L9Fe",
+              "end": 40,
+              "expanded_url": "https://x.com/haohaochifantt/status/2036769031584366940/video/1",
+              "media_key": "13_2036768927175655424",
+              "start": 17,
+              "url": "https://t.co/jvA9C9L9Fe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036769031584366940",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2881,
+          "like_count": 67,
+          "quote_count": 0,
+          "reply_count": 15,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这是一条价值500米子的vlog https://t.co/jvA9C9L9Fe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-02T11:21:20.000Z",
+        "description": "我需要很多周末o.O 这个是我的大分身@qiu_song60259",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 19,
+                "username": "qiu_song60259"
+              }
+            ]
+          }
+        },
+        "id": "2028430373458456576",
+        "location": "加载中……",
+        "name": "咩咩",
+        "pinned_tweet_id": "2035726523810861085",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028450466460241920/ceK3GGSB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 170,
+          "following_count": 200,
+          "like_count": 1456,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 426
+        },
+        "username": "o65518kuguagua",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-14T05:16:36.000Z",
+        "description": "07 男的男的男的 大量碎碎念中夹杂着一点点喘 喜欢请多多找我玩 直男 switch 私信都会看NGL👉🏻 https://t.co/E1HexE88AE",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/tian90603",
+                "end": 77,
+                "expanded_url": "https://ngl.link/tian90603",
+                "start": 54,
+                "url": "https://t.co/E1HexE88AE"
+              }
+            ]
+          }
+        },
+        "id": "1757634899002216448",
+        "location": "🚪",
+        "name": "宁宴",
+        "pinned_tweet_id": "2026220499798495715",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027245230358241280/W3VyRDIg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5946,
+          "following_count": 224,
+          "like_count": 14907,
+          "listed_count": 8,
+          "media_count": 1019,
+          "tweet_count": 6226
+        },
+        "username": "haohaochifantt",
+        "verified": false
+      }
+    ]
+  }
+}

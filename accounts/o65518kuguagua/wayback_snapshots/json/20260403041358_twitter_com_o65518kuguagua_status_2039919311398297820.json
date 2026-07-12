@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028430373458456576",
+    "conversation_id": "2039892155360289208",
+    "created_at": "2026-04-03T04:13:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-03T05:13:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039919311398297820"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1907815020400197632",
+          "start": 0,
+          "username": "huahuahuaziw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039919311398297820",
+    "in_reply_to_user_id": "1907815020400197632",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039892155360289208",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@huahuahuaziw 蹲"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 578,
+        "media_key": "3_2039892153095356416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE8nGv1bAAAfr9X.jpg",
+        "width": 1094
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028430373458456576",
+        "conversation_id": "2039892155360289208",
+        "created_at": "2026-04-03T04:13:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T05:13:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039919311398297820"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1907815020400197632",
+              "start": 0,
+              "username": "huahuahuaziw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039919311398297820",
+        "in_reply_to_user_id": "1907815020400197632",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039892155360289208",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huahuahuaziw 蹲"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2039892153095356416"
+          ]
+        },
+        "author_id": "1907815020400197632",
+        "conversation_id": "2039892155360289208",
+        "created_at": "2026-04-03T02:26:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T03:26:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039892155360289208"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HHCzfOVIcu",
+              "end": 93,
+              "expanded_url": "https://x.com/huahuahuaziw/status/2039892155360289208/photo/1",
+              "media_key": "3_2039892153095356416",
+              "start": 70,
+              "url": "https://t.co/HHCzfOVIcu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039892155360289208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1922,
+          "like_count": 42,
+          "quote_count": 0,
+          "reply_count": 15,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "谢谢300粉了。就抽一杯奶茶吧。嗯对。（就点赞和关注加评论吧，转发不怎么好意思，人机会清理的，没有人我就奖励给我自己😌😌，明天晚上抽吧。） https://t.co/HHCzfOVIcu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-02T11:21:20.000Z",
+        "description": "哥控｜我需要很多周末o.O 这个是我的大分身@qiu_song60259\n锁推小号@Kuguadawang6677",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 22,
+                "username": "qiu_song60259"
+              },
+              {
+                "end": 57,
+                "start": 41,
+                "username": "Kuguadawang6677"
+              }
+            ]
+          }
+        },
+        "id": "2028430373458456576",
+        "location": "加载中……",
+        "name": "咩咩",
+        "pinned_tweet_id": "2035726523810861085",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028450466460241920/ceK3GGSB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 385,
+          "following_count": 312,
+          "like_count": 3151,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 1025
+        },
+        "username": "o65518kuguagua",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-03T15:18:56.000Z",
+        "description": "熊。要认识很多很多美女。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/huaziw",
+                "end": 23,
+                "expanded_url": "https://ngl.link/huaziw",
+                "start": 0,
+                "url": "https://t.co/tOv92M3GUF"
+              }
+            ]
+          }
+        },
+        "id": "1907815020400197632",
+        "name": "小暗",
+        "pinned_tweet_id": "2026010344842461444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025827054697246720/U9sLpgeH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 310,
+          "following_count": 913,
+          "like_count": 7450,
+          "listed_count": 0,
+          "media_count": 90,
+          "tweet_count": 755
+        },
+        "url": "https://t.co/tOv92M3GUF",
+        "username": "huahuahuaziw",
+        "verified": false
+      }
+    ]
+  }
+}

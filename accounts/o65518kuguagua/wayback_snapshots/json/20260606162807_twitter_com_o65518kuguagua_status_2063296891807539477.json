@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028430373458456576",
+    "conversation_id": "2063202203121406232",
+    "created_at": "2026-06-06T16:28:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T17:28:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063296891807539477"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1964040647469625344",
+          "start": 0,
+          "username": "Morgana478584"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063296891807539477",
+    "in_reply_to_user_id": "1964040647469625344",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063294838565634053",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Morgana478584 我严肃收到"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 701,
+        "media_key": "3_2063294833062805504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKJLuAebgAADzt3.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028430373458456576",
+        "conversation_id": "2063202203121406232",
+        "created_at": "2026-06-06T16:28:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T17:28:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063296891807539477"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1964040647469625344",
+              "start": 0,
+              "username": "Morgana478584"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063296891807539477",
+        "in_reply_to_user_id": "1964040647469625344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063294838565634053",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Morgana478584 我严肃收到"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063294833062805504"
+          ]
+        },
+        "author_id": "1964040647469625344",
+        "conversation_id": "2063202203121406232",
+        "created_at": "2026-06-06T16:19:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T17:19:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063294838565634053"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2028430373458456576",
+              "start": 0,
+              "username": "o65518kuguagua"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ebyF6DkYCr",
+              "end": 57,
+              "expanded_url": "https://x.com/Morgana478584/status/2063294838565634053/photo/1",
+              "media_key": "3_2063294833062805504",
+              "start": 34,
+              "url": "https://t.co/ebyF6DkYCr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063294838565634053",
+        "in_reply_to_user_id": "2028430373458456576",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 48,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063202203121406232",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@o65518kuguagua 这个我真的喜欢很闪会变色就是有点贵 https://t.co/ebyF6DkYCr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-02T11:21:20.000Z",
+        "description": "只是想好好睡觉｜我的名字是瓜瓜｜心肝@imcutefate 最爱的闺闺@Lake_Verion",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 18,
+                "username": "imcutefate"
+              },
+              {
+                "end": 47,
+                "start": 35,
+                "username": "Lake_Verion"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E8%8B%A6%E7%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E8%8B%A6%E7%93%9C%E5%A4%A7%E7%8E%8B",
+                "start": 0,
+                "url": "https://t.co/CdcVmYa8EY"
+              }
+            ]
+          }
+        },
+        "id": "2028430373458456576",
+        "location": "加载中……   匿名→",
+        "name": "虎牙钉",
+        "pinned_tweet_id": "2057895439450374538",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060344470910926856/fk6R2qB-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1586,
+          "following_count": 539,
+          "like_count": 8118,
+          "listed_count": 1,
+          "media_count": 121,
+          "tweet_count": 2239
+        },
+        "url": "https://t.co/CdcVmYa8EY",
+        "username": "o65518kuguagua",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-05T18:59:44.000Z",
+        "description": "05｜半个朋友圈｜问问题自觉三十口令｜找我打瓦过🚪\n\n不过🚪别私信我",
+        "id": "1964040647469625344",
+        "location": "0.91km",
+        "name": "Morgana",
+        "pinned_tweet_id": "2050048046449512532",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992329216004923392/LkUecMOV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10686,
+          "following_count": 11,
+          "like_count": 197,
+          "listed_count": 24,
+          "media_count": 98,
+          "tweet_count": 400
+        },
+        "username": "Morgana478584",
+        "verified": false
+      }
+    ]
+  }
+}

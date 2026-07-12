@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028430373458456576",
+    "conversation_id": "2036085997721858072",
+    "created_at": "2026-03-24T15:32:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-24T16:32:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036466193222021208"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2031788350882160640",
+          "start": 0,
+          "username": "kkii749760"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036466193222021208",
+    "in_reply_to_user_id": "2031788350882160640",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036085997721858072",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kkii749760 卧槽"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2036085448070873088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEGg7WibQAAoF-d.jpg",
+        "width": 977
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028430373458456576",
+        "conversation_id": "2036085997721858072",
+        "created_at": "2026-03-24T15:32:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T16:32:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036466193222021208"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2031788350882160640",
+              "start": 0,
+              "username": "kkii749760"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036466193222021208",
+        "in_reply_to_user_id": "2031788350882160640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036085997721858072",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kkii749760 卧槽"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2036085448070873088"
+          ]
+        },
+        "author_id": "2031788350882160640",
+        "conversation_id": "2036085997721858072",
+        "created_at": "2026-03-23T14:21:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T15:21:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036085997721858072"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/T3rXiuvBh2",
+              "end": 43,
+              "expanded_url": "https://x.com/kkii749760/status/2036085997721858072/photo/1",
+              "media_key": "3_2036085448070873088",
+              "start": 20,
+              "url": "https://t.co/T3rXiuvBh2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036085997721858072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 580,
+          "impression_count": 96819,
+          "like_count": 5189,
+          "quote_count": 10,
+          "reply_count": 143,
+          "retweet_count": 99
+        },
+        "reply_settings": "everyone",
+        "text": "我就不相信推特會有人不喜歡我這種身材的 https://t.co/T3rXiuvBh2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-02T11:21:20.000Z",
+        "description": "我需要很多周末o.O 这个是我的大分身@qiu_song60259",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 19,
+                "username": "qiu_song60259"
+              }
+            ]
+          }
+        },
+        "id": "2028430373458456576",
+        "location": "加载中……",
+        "name": "咩咩",
+        "pinned_tweet_id": "2035726523810861085",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028450466460241920/ceK3GGSB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 161,
+          "following_count": 173,
+          "like_count": 1168,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 306
+        },
+        "username": "o65518kuguagua",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-11T17:45:26.000Z",
+        "description": "從小大家都喜歡叫我火柴人🥹 其實人家是超級美少女戰士耶❤️❤️ \n加Gleezy： kend",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lmj13145",
+                "end": 23,
+                "expanded_url": "https://t.me/lmj13145",
+                "start": 0,
+                "url": "https://t.co/9jvLQ6LyxE"
+              }
+            ]
+          }
+        },
+        "id": "2031788350882160640",
+        "location": "新北",
+        "name": "超級美少女戰士",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033184845061660672/XGH3aiap_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 864,
+          "following_count": 21,
+          "like_count": 39,
+          "listed_count": 3,
+          "media_count": 10,
+          "tweet_count": 16
+        },
+        "url": "https://t.co/9jvLQ6LyxE",
+        "username": "kkii749760",
+        "verified": false
+      }
+    ]
+  }
+}

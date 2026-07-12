@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2049636566990262272",
+        "3_2049636566986022912"
+      ]
+    },
+    "author_id": "2028430373458456576",
+    "conversation_id": "2049636593078825313",
+    "created_at": "2026-04-29T23:46:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-30T00:46:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2049636593078825313"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Y7Ska6Yjdl",
+          "end": 49,
+          "expanded_url": "https://x.com/o65518kuguagua/status/2049636593078825313/photo/1",
+          "media_key": "3_2049636566990262272",
+          "start": 26,
+          "url": "https://t.co/Y7Ska6Yjdl"
+        },
+        {
+          "display_url": "pic.x.com/Y7Ska6Yjdl",
+          "end": 49,
+          "expanded_url": "https://x.com/o65518kuguagua/status/2049636593078825313/photo/1",
+          "media_key": "3_2049636566986022912",
+          "start": 26,
+          "url": "https://t.co/Y7Ska6Yjdl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049636593078825313",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我命令你们现在立马去看麻辣烫的这条视频我一直在回味 https://t.co/Y7Ska6Yjdl"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2049636566990262272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHHFmSYbEAAqBCF.jpg",
+        "width": 947
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2049636566986022912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHHFmSXaYAAZnt4.jpg",
+        "width": 947
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049636566990262272",
+            "3_2049636566986022912"
+          ]
+        },
+        "author_id": "2028430373458456576",
+        "conversation_id": "2049636593078825313",
+        "created_at": "2026-04-29T23:46:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T00:46:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049636593078825313"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Y7Ska6Yjdl",
+              "end": 49,
+              "expanded_url": "https://x.com/o65518kuguagua/status/2049636593078825313/photo/1",
+              "media_key": "3_2049636566990262272",
+              "start": 26,
+              "url": "https://t.co/Y7Ska6Yjdl"
+            },
+            {
+              "display_url": "pic.x.com/Y7Ska6Yjdl",
+              "end": 49,
+              "expanded_url": "https://x.com/o65518kuguagua/status/2049636593078825313/photo/1",
+              "media_key": "3_2049636566986022912",
+              "start": 26,
+              "url": "https://t.co/Y7Ska6Yjdl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049636593078825313",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我命令你们现在立马去看麻辣烫的这条视频我一直在回味 https://t.co/Y7Ska6Yjdl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-02T11:21:20.000Z",
+        "description": "哥控｜我需要很多周末o.O 这个是我的大分身@qiu_song60259\n锁推小号@Kuguadawang6677",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 22,
+                "username": "qiu_song60259"
+              },
+              {
+                "end": 57,
+                "start": 41,
+                "username": "Kuguadawang6677"
+              }
+            ]
+          }
+        },
+        "id": "2028430373458456576",
+        "location": "加载中……",
+        "name": "咩咩",
+        "pinned_tweet_id": "2047911866517659665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028450466460241920/ceK3GGSB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 612,
+          "following_count": 397,
+          "like_count": 5754,
+          "listed_count": 0,
+          "media_count": 73,
+          "tweet_count": 1644
+        },
+        "username": "o65518kuguagua",
+        "verified": false
+      }
+    ]
+  }
+}

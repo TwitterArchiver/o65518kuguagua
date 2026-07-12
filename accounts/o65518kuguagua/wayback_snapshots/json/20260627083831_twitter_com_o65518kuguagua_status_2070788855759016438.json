@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028430373458456576",
+    "conversation_id": "2070788855759016438",
+    "created_at": "2026-06-27T08:38:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T09:38:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2070788855759016438"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/lanlan93083241…",
+          "end": 39,
+          "expanded_url": "https://twitter.com/lanlan93083241/status/2070425129600082071",
+          "start": 16,
+          "url": "https://t.co/tHe4HK6pl4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070788855759016438",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070425129600082071",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这就是我呀一个扔不掉的狗皮膏药 https://t.co/tHe4HK6pl4"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028430373458456576",
+        "conversation_id": "2070788855759016438",
+        "created_at": "2026-06-27T08:38:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T09:38:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070788855759016438"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/lanlan93083241…",
+              "end": 39,
+              "expanded_url": "https://twitter.com/lanlan93083241/status/2070425129600082071",
+              "start": 16,
+              "url": "https://t.co/tHe4HK6pl4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070788855759016438",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070425129600082071",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这就是我呀一个扔不掉的狗皮膏药 https://t.co/tHe4HK6pl4"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788083166856749056",
+        "conversation_id": "2070425129600082071",
+        "created_at": "2026-06-26T08:33:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T09:33:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070425129600082071"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2070425129600082071",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 8833,
+          "like_count": 308,
+          "quote_count": 11,
+          "reply_count": 18,
+          "retweet_count": 46
+        },
+        "reply_settings": "everyone",
+        "text": "黏人精就应该和黏人精待在一起，在你突然特别想他的时候，想掏出手机给他发我好想你的时候，发现聊天框里已经有了一条我想你了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-02T11:21:20.000Z",
+        "description": "只是想好好睡觉｜我的名字是瓜瓜｜心肝@imcutefate 天下第一萌@Lake_Verion",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 18,
+                "username": "imcutefate"
+              },
+              {
+                "end": 47,
+                "start": 35,
+                "username": "Lake_Verion"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E8%8B%A6%E7%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E8%8B%A6%E7%93%9C%E5%A4%A7%E7%8E%8B",
+                "start": 0,
+                "url": "https://t.co/CdcVmYa8EY"
+              }
+            ]
+          }
+        },
+        "id": "2028430373458456576",
+        "location": "加载中……   匿名→",
+        "name": "虎牙钉",
+        "pinned_tweet_id": "2063001104858648649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060344470910926856/fk6R2qB-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2363,
+          "following_count": 582,
+          "like_count": 9392,
+          "listed_count": 2,
+          "media_count": 194,
+          "tweet_count": 2962
+        },
+        "url": "https://t.co/CdcVmYa8EY",
+        "username": "o65518kuguagua",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-08T05:47:25.000Z",
+        "description": "一个在互联网上贩卖快乐的普通小女生\n(希望你每一天都是快乐的 谢谢喜欢😉)",
+        "id": "1788083166856749056",
+        "name": "LanLan",
+        "pinned_tweet_id": "2069674139145932961",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978758355318611968/KQBoDyuP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42453,
+          "following_count": 2910,
+          "like_count": 40832,
+          "listed_count": 130,
+          "media_count": 1674,
+          "tweet_count": 2845
+        },
+        "url": "",
+        "username": "LanLan93083241",
+        "verified": false
+      }
+    ]
+  }
+}

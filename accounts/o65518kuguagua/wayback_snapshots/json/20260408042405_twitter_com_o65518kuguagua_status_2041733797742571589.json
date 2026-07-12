@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028430373458456576",
+    "conversation_id": "2041732869073334570",
+    "created_at": "2026-04-08T04:24:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-08T05:24:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041733797742571589"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1906233241448939521",
+          "start": 0,
+          "username": "muci2077893ma"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041733797742571589",
+    "in_reply_to_user_id": "1906233241448939521",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041733684089516354",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@muci2077893ma 666笑死我了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028430373458456576",
+        "conversation_id": "2041732869073334570",
+        "created_at": "2026-04-08T04:24:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T05:24:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041733797742571589"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1906233241448939521",
+              "start": 0,
+              "username": "muci2077893ma"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041733797742571589",
+        "in_reply_to_user_id": "1906233241448939521",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041733684089516354",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@muci2077893ma 666笑死我了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906233241448939521",
+        "conversation_id": "2041732869073334570",
+        "created_at": "2026-04-08T04:23:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T05:23:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041733684089516354"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2028430373458456576",
+              "start": 0,
+              "username": "o65518kuguagua"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041733684089516354",
+        "in_reply_to_user_id": "2028430373458456576",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041732869073334570",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@o65518kuguagua 打这么高的分？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-02T11:21:20.000Z",
+        "description": "哥控｜我需要很多周末o.O 这个是我的大分身@qiu_song60259\n锁推小号@Kuguadawang6677",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 22,
+                "username": "qiu_song60259"
+              },
+              {
+                "end": 57,
+                "start": 41,
+                "username": "Kuguadawang6677"
+              }
+            ]
+          }
+        },
+        "id": "2028430373458456576",
+        "location": "加载中……",
+        "name": "咩咩",
+        "pinned_tweet_id": "2035726523810861085",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028450466460241920/ceK3GGSB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 448,
+          "following_count": 345,
+          "like_count": 3953,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 1222
+        },
+        "username": "o65518kuguagua",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-30T06:34:34.000Z",
+        "description": "快来跟我聊天！我虽然是涩批但是不会对陌生人发情，不用担心我聊着聊着突然蹦出来一张吊照，很温良，匿名问答https://t.co/Aw9nVsrbmk",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/muci88988",
+                "end": 74,
+                "expanded_url": "https://ngl.link/muci88988",
+                "start": 51,
+                "url": "https://t.co/Aw9nVsrbmk"
+              }
+            ]
+          }
+        },
+        "id": "1906233241448939521",
+        "location": "上海",
+        "name": "沐辞",
+        "pinned_tweet_id": "2041036206948147329",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041166608274694144/9RodYzUz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 57,
+          "like_count": 7684,
+          "listed_count": 0,
+          "media_count": 56,
+          "tweet_count": 1036
+        },
+        "username": "muci2077893ma",
+        "verified": false
+      }
+    ]
+  }
+}

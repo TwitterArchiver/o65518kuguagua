@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028430373458456576",
+    "conversation_id": "2043336944483176818",
+    "created_at": "2026-04-12T14:34:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T15:34:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2043336944483176818"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/kcat_lihua/sta…",
+          "end": 33,
+          "expanded_url": "https://twitter.com/kcat_lihua/status/2043048261855146139",
+          "start": 10,
+          "url": "https://t.co/x4YsynqCyd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043336944483176818",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043048261855146139",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我们p人就这么牛逼 https://t.co/x4YsynqCyd"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028430373458456576",
+        "conversation_id": "2043336944483176818",
+        "created_at": "2026-04-12T14:34:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T15:34:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043336944483176818"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kcat_lihua/sta…",
+              "end": 33,
+              "expanded_url": "https://twitter.com/kcat_lihua/status/2043048261855146139",
+              "start": 10,
+              "url": "https://t.co/x4YsynqCyd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043336944483176818",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043048261855146139",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我们p人就这么牛逼 https://t.co/x4YsynqCyd"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1456293979725516801",
+        "conversation_id": "2043048261855146139",
+        "created_at": "2026-04-11T19:27:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T20:27:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043048261855146139"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2043048261855146139",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 44329,
+          "like_count": 666,
+          "quote_count": 29,
+          "reply_count": 83,
+          "retweet_count": 19
+        },
+        "reply_settings": "everyone",
+        "text": "P人好可怕上一秒说干什么下一秒就干什么"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-02T11:21:20.000Z",
+        "description": "哥控｜我需要很多周末o.O 这个是我的大分身@qiu_song60259\n锁推小号@Kuguadawang6677",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 22,
+                "username": "qiu_song60259"
+              },
+              {
+                "end": 57,
+                "start": 41,
+                "username": "Kuguadawang6677"
+              }
+            ]
+          }
+        },
+        "id": "2028430373458456576",
+        "location": "加载中……",
+        "name": "咩咩",
+        "pinned_tweet_id": "2035726523810861085",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028450466460241920/ceK3GGSB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 495,
+          "following_count": 387,
+          "like_count": 4979,
+          "listed_count": 0,
+          "media_count": 60,
+          "tweet_count": 1467
+        },
+        "username": "o65518kuguagua",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-04T16:15:35.000Z",
+        "description": "猫/偶尔兼职人类   \n福瑞控/序列1：作家   \nStoicism",
+        "id": "1456293979725516801",
+        "location": "Shanghai",
+        "name": "狸花猫国太子",
+        "pinned_tweet_id": "2023798072363651305",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023797786781904898/n8HG8Cx7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3242,
+          "following_count": 641,
+          "like_count": 65667,
+          "listed_count": 7,
+          "media_count": 1804,
+          "tweet_count": 35792
+        },
+        "username": "Kcat_LiHua",
+        "verified": false
+      }
+    ]
+  }
+}

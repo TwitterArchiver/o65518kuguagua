@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028430373458456576",
+    "conversation_id": "2037942358428557560",
+    "created_at": "2026-03-29T17:14:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-29T18:14:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038303697172566075"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2017977830093860864",
+          "start": 0,
+          "username": "finoa0726"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038303697172566075",
+    "in_reply_to_user_id": "2017977830093860864",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037942358428557560",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@finoa0726 亲亲"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2037942351117926400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEg5xVcbwAA_tmO.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028430373458456576",
+        "conversation_id": "2037942358428557560",
+        "created_at": "2026-03-29T17:14:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T18:14:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038303697172566075"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2017977830093860864",
+              "start": 0,
+              "username": "finoa0726"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038303697172566075",
+        "in_reply_to_user_id": "2017977830093860864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037942358428557560",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@finoa0726 亲亲"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2037942351117926400"
+          ]
+        },
+        "author_id": "2017977830093860864",
+        "conversation_id": "2037942358428557560",
+        "created_at": "2026-03-28T17:18:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T18:18:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037942358428557560"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eXMJqEegmX",
+              "end": 54,
+              "expanded_url": "https://x.com/finoa0726/status/2037942358428557560/photo/1",
+              "media_key": "3_2037942351117926400",
+              "start": 31,
+              "url": "https://t.co/eXMJqEegmX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037942358428557560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 17016,
+          "like_count": 572,
+          "quote_count": 1,
+          "reply_count": 88,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我觉得这一帧特别帅，我要截出来单独发。所有路过的妹子亲我一口 https://t.co/eXMJqEegmX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-02T11:21:20.000Z",
+        "description": "哥控｜我需要很多周末o.O 这个是我的大分身@qiu_song60259\n锁推小号@Kuguadawang6677",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 22,
+                "username": "qiu_song60259"
+              },
+              {
+                "end": 57,
+                "start": 41,
+                "username": "Kuguadawang6677"
+              }
+            ]
+          }
+        },
+        "id": "2028430373458456576",
+        "location": "加载中……",
+        "name": "咩咩",
+        "pinned_tweet_id": "2035726523810861085",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028450466460241920/ceK3GGSB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 278,
+          "following_count": 272,
+          "like_count": 2100,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 616
+        },
+        "username": "o65518kuguagua",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-01T15:06:43.000Z",
+        "description": "本体是一颗青苹果，请善待🍏。请你今天也过好。\n文案不可搬运。匿名信箱：https://t.co/EKkFsQSS9Q",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/finoa07262",
+                "end": 58,
+                "expanded_url": "https://ngl.link/finoa07262",
+                "start": 35,
+                "url": "https://t.co/EKkFsQSS9Q"
+              }
+            ]
+          }
+        },
+        "id": "2017977830093860864",
+        "name": "就把祝福别在襟上吧。",
+        "pinned_tweet_id": "2029484661173543224",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017990376460800000/FgPb_TqV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1036,
+          "following_count": 97,
+          "like_count": 2191,
+          "listed_count": 1,
+          "media_count": 226,
+          "tweet_count": 2574
+        },
+        "username": "finoa0726",
+        "verified": false
+      }
+    ]
+  }
+}

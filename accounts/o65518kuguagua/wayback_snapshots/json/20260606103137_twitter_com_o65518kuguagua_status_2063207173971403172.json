@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028430373458456576",
+    "conversation_id": "2062771960132612336",
+    "created_at": "2026-06-06T10:31:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T11:31:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063207173971403172"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1827379886748758016",
+          "start": 0,
+          "username": "just4u0126"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063207173971403172",
+    "in_reply_to_user_id": "1827379886748758016",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062771960132612336",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@just4u0126 你真可爱呀"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2062771946928898048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKBwKB1WgAA10wF.jpg",
+        "width": 1788
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028430373458456576",
+        "conversation_id": "2062771960132612336",
+        "created_at": "2026-06-06T10:31:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T11:31:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063207173971403172"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1827379886748758016",
+              "start": 0,
+              "username": "just4u0126"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063207173971403172",
+        "in_reply_to_user_id": "1827379886748758016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062771960132612336",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@just4u0126 你真可爱呀"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062771946928898048"
+          ]
+        },
+        "author_id": "1827379886748758016",
+        "conversation_id": "2062771960132612336",
+        "created_at": "2026-06-05T05:42:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T06:42:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062771960132612336"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wNoLqQGtiG",
+              "end": 37,
+              "expanded_url": "https://x.com/just4u0126/status/2062771960132612336/photo/1",
+              "media_key": "3_2062771946928898048",
+              "start": 14,
+              "url": "https://t.co/wNoLqQGtiG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062771960132612336",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 6672,
+          "like_count": 292,
+          "quote_count": 0,
+          "reply_count": 111,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "地球上最圆滚滚毫无棱角之人 https://t.co/wNoLqQGtiG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-02T11:21:20.000Z",
+        "description": "只是想好好睡觉｜心肝@imcutefate 最爱的闺闺@Lake_Verion",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 10,
+                "username": "imcutefate"
+              },
+              {
+                "end": 39,
+                "start": 27,
+                "username": "Lake_Verion"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E8%8B%A6%E7%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E8%8B%A6%E7%93%9C%E5%A4%A7%E7%8E%8B",
+                "start": 0,
+                "url": "https://t.co/CdcVmYa8EY"
+              }
+            ]
+          }
+        },
+        "id": "2028430373458456576",
+        "location": "加载中……   匿名→",
+        "name": "虎牙钉",
+        "pinned_tweet_id": "2057895439450374538",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060344470910926856/fk6R2qB-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1573,
+          "following_count": 535,
+          "like_count": 8014,
+          "listed_count": 1,
+          "media_count": 120,
+          "tweet_count": 2196
+        },
+        "url": "https://t.co/CdcVmYa8EY",
+        "username": "o65518kuguagua",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-24T16:18:21.000Z",
+        "description": "。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/underwater51151",
+                "end": 23,
+                "expanded_url": "https://ngl.link/underwater51151",
+                "start": 0,
+                "url": "https://t.co/Fx5UlDkIdk"
+              }
+            ]
+          }
+        },
+        "id": "1827379886748758016",
+        "location": "纯绿陪聊🚪200",
+        "name": "just4u",
+        "pinned_tweet_id": "2047262633250668868",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062741549868351488/cfIECBKi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 609,
+          "following_count": 22,
+          "like_count": 3661,
+          "listed_count": 2,
+          "media_count": 306,
+          "tweet_count": 2828
+        },
+        "url": "https://t.co/Fx5UlDkIdk",
+        "username": "just4u0126",
+        "verified": false
+      }
+    ]
+  }
+}

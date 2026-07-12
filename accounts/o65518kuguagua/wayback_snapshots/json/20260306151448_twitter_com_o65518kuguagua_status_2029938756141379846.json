@@ -1,0 +1,297 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2029530571286736896"
+      ],
+      "media_source_tweet_id": [
+        "2029530912812388683"
+      ]
+    },
+    "author_id": "2028430373458456576",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2029938756141379846",
+    "created_at": "2026-03-06T15:14:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-06T16:14:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029938756141379846"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1831256529724682240",
+          "start": 3,
+          "username": "huahua20000304"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/SVjxbiHJYl",
+          "end": 55,
+          "expanded_url": "https://x.com/huahua20000304/status/2029530912812388683/video/1",
+          "media_key": "13_2029530571286736896",
+          "start": 32,
+          "url": "https://t.co/SVjxbiHJYl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029938756141379846",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029530912812388683",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @huahua20000304: 原来鲁班锁是这样解的？ https://t.co/SVjxbiHJYl"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 59599,
+        "height": 1168,
+        "media_key": "13_2029530571286736896",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2029530571286736896/img/Q_icaBfl_9c01n49.jpg",
+        "public_metrics": {
+          "view_count": 10388
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2029530571286736896/vid/avc1/320x518/XI2UHtY4Vk6mBVqc.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2029530571286736896/vid/avc1/480x778/Y_f59UNnEBuuYTKs.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2029530571286736896/vid/avc1/720x1168/McysCBlLB6aIgcfb.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2029530571286736896/pl/xJ3uVXH3fzz5G97f.m3u8?tag=14"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2029530571286736896"
+          ],
+          "media_source_tweet_id": [
+            "2029530912812388683"
+          ]
+        },
+        "author_id": "2028430373458456576",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2029938756141379846",
+        "created_at": "2026-03-06T15:14:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T16:14:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029938756141379846"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1831256529724682240",
+              "start": 3,
+              "username": "huahua20000304"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/SVjxbiHJYl",
+              "end": 55,
+              "expanded_url": "https://x.com/huahua20000304/status/2029530912812388683/video/1",
+              "media_key": "13_2029530571286736896",
+              "start": 32,
+              "url": "https://t.co/SVjxbiHJYl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029938756141379846",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029530912812388683",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @huahua20000304: 原来鲁班锁是这样解的？ https://t.co/SVjxbiHJYl"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2029530571286736896"
+          ]
+        },
+        "author_id": "1831256529724682240",
+        "conversation_id": "2029530912812388683",
+        "created_at": "2026-03-05T12:14:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-05T13:14:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029530912812388683"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SVjxbiHJYl",
+              "end": 35,
+              "expanded_url": "https://x.com/huahua20000304/status/2029530912812388683/video/1",
+              "media_key": "13_2029530571286736896",
+              "start": 12,
+              "url": "https://t.co/SVjxbiHJYl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029530912812388683",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 2027,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "原来鲁班锁是这样解的？ https://t.co/SVjxbiHJYl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-02T11:21:20.000Z",
+        "description": "我需要很多周末o.O 这个是我的大分身@qiu_song60259",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 19,
+                "username": "qiu_song60259"
+              }
+            ]
+          }
+        },
+        "id": "2028430373458456576",
+        "location": "加载中……",
+        "name": "咩咩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028450466460241920/ceK3GGSB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 100,
+          "following_count": 28,
+          "like_count": 177,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 35
+        },
+        "username": "o65518kuguagua",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-04T09:04:13.000Z",
+        "description": "分享美食、美景与花🌺，希望能带给您好心情！互fo互赞哦",
+        "id": "1831256529724682240",
+        "name": "flower🌷",
+        "pinned_tweet_id": "2027220665066246329",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029350998834057216/aPDH5oNx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7780,
+          "following_count": 5957,
+          "like_count": 33689,
+          "listed_count": 6,
+          "media_count": 993,
+          "tweet_count": 2591
+        },
+        "username": "huahua20000304",
+        "verified": false
+      }
+    ]
+  }
+}

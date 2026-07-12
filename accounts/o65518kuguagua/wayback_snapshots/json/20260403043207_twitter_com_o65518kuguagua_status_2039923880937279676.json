@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028430373458456576",
+    "conversation_id": "2039923880937279676",
+    "created_at": "2026-04-03T04:32:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-03T05:32:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2039923880937279676"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/woshixiaoyu123…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/woshixiaoyu123/status/2039713106923053423",
+          "start": 9,
+          "url": "https://t.co/J16T80S6ro"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039923880937279676",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039713106923053423",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我围巾还没织完。 https://t.co/J16T80S6ro"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028430373458456576",
+        "conversation_id": "2039923880937279676",
+        "created_at": "2026-04-03T04:32:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T05:32:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039923880937279676"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/woshixiaoyu123…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/woshixiaoyu123/status/2039713106923053423",
+              "start": 9,
+              "url": "https://t.co/J16T80S6ro"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039923880937279676",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039713106923053423",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我围巾还没织完。 https://t.co/J16T80S6ro"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1892595590527377408",
+        "conversation_id": "2039713106923053423",
+        "created_at": "2026-04-02T14:34:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T15:34:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039713106923053423"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2039713106923053423",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 5637,
+          "like_count": 180,
+          "quote_count": 0,
+          "reply_count": 14,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "送围巾不会分手，做手工也不会分手，用心也不会分手，不爱才会分手，因为分手前恰好送了围巾，所以才把一切原因归结到围巾上想出了可笑的围巾定律，人们什么时候才能明白事在人为"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-02T11:21:20.000Z",
+        "description": "哥控｜我需要很多周末o.O 这个是我的大分身@qiu_song60259\n锁推小号@Kuguadawang6677",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 22,
+                "username": "qiu_song60259"
+              },
+              {
+                "end": 57,
+                "start": 41,
+                "username": "Kuguadawang6677"
+              }
+            ]
+          }
+        },
+        "id": "2028430373458456576",
+        "location": "加载中……",
+        "name": "咩咩",
+        "pinned_tweet_id": "2035726523810861085",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028450466460241920/ceK3GGSB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 384,
+          "following_count": 316,
+          "like_count": 3212,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 1050
+        },
+        "username": "o65518kuguagua",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-20T15:22:22.000Z",
+        "description": "谢谢你们理我",
+        "id": "1892595590527377408",
+        "location": "距离您0.1km",
+        "name": "咪",
+        "pinned_tweet_id": "2038312886033084867",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997705873175752704/9_bNajVK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19180,
+          "following_count": 159,
+          "like_count": 371,
+          "listed_count": 19,
+          "media_count": 1720,
+          "tweet_count": 6281
+        },
+        "username": "woshixiaoyu123",
+        "verified": false
+      }
+    ]
+  }
+}

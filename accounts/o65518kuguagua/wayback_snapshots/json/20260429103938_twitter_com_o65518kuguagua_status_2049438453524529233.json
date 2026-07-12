@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028430373458456576",
+    "conversation_id": "2049438453524529233",
+    "created_at": "2026-04-29T10:39:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T11:39:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049438453524529233"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1586926226274279424",
+          "start": 3,
+          "username": "yuan17022169"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049438453524529233",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 58
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049030016269434982",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yuan17022169: 主包回消息=对你不反感\n主包不回消息=没看见or没兴趣\n主包秒回消息=有点好感\n主包主动发消息=喜欢你\n主包埋怨你不发消息=你可以🌿我了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028430373458456576",
+        "conversation_id": "2049438453524529233",
+        "created_at": "2026-04-29T10:39:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T11:39:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049438453524529233"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1586926226274279424",
+              "start": 3,
+              "username": "yuan17022169"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049438453524529233",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 58
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049030016269434982",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yuan17022169: 主包回消息=对你不反感\n主包不回消息=没看见or没兴趣\n主包秒回消息=有点好感\n主包主动发消息=喜欢你\n主包埋怨你不发消息=你可以🌿我了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1586926226274279424",
+        "conversation_id": "2049030016269434982",
+        "created_at": "2026-04-28T07:36:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T08:36:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049030016269434982"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2049030016269434982",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 29197,
+          "like_count": 376,
+          "quote_count": 20,
+          "reply_count": 143,
+          "retweet_count": 58
+        },
+        "reply_settings": "everyone",
+        "text": "主包回消息=对你不反感\n主包不回消息=没看见or没兴趣\n主包秒回消息=有点好感\n主包主动发消息=喜欢你\n主包埋怨你不发消息=你可以🌿我了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-02T11:21:20.000Z",
+        "description": "哥控｜我需要很多周末o.O 这个是我的大分身@qiu_song60259\n锁推小号@Kuguadawang6677",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 22,
+                "username": "qiu_song60259"
+              },
+              {
+                "end": 57,
+                "start": 41,
+                "username": "Kuguadawang6677"
+              }
+            ]
+          }
+        },
+        "id": "2028430373458456576",
+        "location": "加载中……",
+        "name": "咩咩",
+        "pinned_tweet_id": "2047911866517659665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028450466460241920/ceK3GGSB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 606,
+          "following_count": 397,
+          "like_count": 5730,
+          "listed_count": 0,
+          "media_count": 72,
+          "tweet_count": 1631
+        },
+        "username": "o65518kuguagua",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-31T03:41:22.000Z",
+        "description": "4i \n相册音频号@Psc_020201loveu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 9,
+                "username": "Psc_020201loveu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/279922462",
+                "end": 23,
+                "expanded_url": "https://ngl.link/279922462",
+                "start": 0,
+                "url": "https://t.co/lKWP2Zcd92"
+              }
+            ]
+          }
+        },
+        "id": "1586926226274279424",
+        "location": "Hong Kong",
+        "name": "是真的Steven",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044467215182008321/TSl6NBR6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 375,
+          "following_count": 20,
+          "like_count": 85,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 106
+        },
+        "url": "https://t.co/lKWP2Zcd92",
+        "username": "yuan17022169",
+        "verified": false
+      }
+    ]
+  }
+}

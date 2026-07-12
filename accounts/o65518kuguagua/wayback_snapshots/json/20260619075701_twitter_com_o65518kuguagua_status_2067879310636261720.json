@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028430373458456576",
+    "conversation_id": "2067875632718184544",
+    "created_at": "2026-06-19T07:57:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T08:57:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067879310636261720"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1993654218159484929",
+          "start": 0,
+          "username": "Babydoll_ovo1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067879310636261720",
+    "in_reply_to_user_id": "1993654218159484929",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067879124593696946",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Babydoll_ovo1 哎嘿嘿"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028430373458456576",
+        "conversation_id": "2067875632718184544",
+        "created_at": "2026-06-19T07:57:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T08:57:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067879310636261720"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1993654218159484929",
+              "start": 0,
+              "username": "Babydoll_ovo1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067879310636261720",
+        "in_reply_to_user_id": "1993654218159484929",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067879124593696946",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Babydoll_ovo1 哎嘿嘿"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1993654218159484929",
+        "conversation_id": "2067875632718184544",
+        "created_at": "2026-06-19T07:56:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T08:56:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067879124593696946"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2028430373458456576",
+              "start": 0,
+              "username": "o65518kuguagua"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067879124593696946",
+        "in_reply_to_user_id": "2028430373458456576",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067877775994986811",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@o65518kuguagua 👅舔舔你"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-02T11:21:20.000Z",
+        "description": "只是想好好睡觉｜我的名字是瓜瓜｜心肝@imcutefate 最爱的闺闺@Lake_Verion",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 18,
+                "username": "imcutefate"
+              },
+              {
+                "end": 47,
+                "start": 35,
+                "username": "Lake_Verion"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E8%8B%A6%E7%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E8%8B%A6%E7%93%9C%E5%A4%A7%E7%8E%8B",
+                "start": 0,
+                "url": "https://t.co/CdcVmYa8EY"
+              }
+            ]
+          }
+        },
+        "id": "2028430373458456576",
+        "location": "加载中……   匿名→",
+        "name": "虎牙钉",
+        "pinned_tweet_id": "2063001104858648649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060344470910926856/fk6R2qB-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2094,
+          "following_count": 599,
+          "like_count": 9112,
+          "listed_count": 1,
+          "media_count": 168,
+          "tweet_count": 2734
+        },
+        "url": "https://t.co/CdcVmYa8EY",
+        "username": "o65518kuguagua",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-26T12:13:09.000Z",
+        "description": "原账号@baisechenyi被盗号 偶尔上线发日常/掉落自拍 互关回家我想你们！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "baisechenyi"
+              }
+            ]
+          }
+        },
+        "id": "1993654218159484929",
+        "location": "只关注喜欢的",
+        "name": "Nn",
+        "pinned_tweet_id": "2061293132826980750",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064685769256804352/R9pX6Hq0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 313,
+          "following_count": 86,
+          "like_count": 136,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 86
+        },
+        "url": "",
+        "username": "Babydoll_ovo1",
+        "verified": false
+      }
+    ]
+  }
+}

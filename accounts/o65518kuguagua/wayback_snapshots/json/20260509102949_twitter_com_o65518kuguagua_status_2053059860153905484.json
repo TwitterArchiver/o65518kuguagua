@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028430373458456576",
+    "conversation_id": "2053059860153905484",
+    "created_at": "2026-05-09T10:29:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T11:29:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2053059860153905484"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/imcutefate/sta…",
+          "end": 35,
+          "expanded_url": "https://twitter.com/imcutefate/status/2052403312180527159",
+          "start": 12,
+          "url": "https://t.co/6sBtKVJwQA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053059860153905484",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052403312180527159",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "有个女孩让我好想念…… https://t.co/6sBtKVJwQA"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028430373458456576",
+        "conversation_id": "2053059860153905484",
+        "created_at": "2026-05-09T10:29:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T11:29:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053059860153905484"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/imcutefate/sta…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/imcutefate/status/2052403312180527159",
+              "start": 12,
+              "url": "https://t.co/6sBtKVJwQA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053059860153905484",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052403312180527159",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "有个女孩让我好想念…… https://t.co/6sBtKVJwQA"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1958390370355789825",
+        "conversation_id": "2052403312180527159",
+        "created_at": "2026-05-07T15:00:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T16:00:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052403312180527159"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2052403312180527159",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 650,
+          "like_count": 17,
+          "quote_count": 1,
+          "reply_count": 31,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "唉有个女孩让我好想念。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-02T11:21:20.000Z",
+        "description": "我只是在自说自话｜哥控｜09美术生o.O ｜以后会用做这个号作为主号！这个是我的大分身@qiu_song60259\n锁推小号@Kuguadawang6677 嫌我吵的话你点一下那个屏蔽我就死掉了｜双取请随意谢谢你们愿意跟我玩心肝@imcutefate 最最爱的闺闺@Lake_Verion",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 43,
+                "username": "qiu_song60259"
+              },
+              {
+                "end": 78,
+                "start": 62,
+                "username": "Kuguadawang6677"
+              },
+              {
+                "end": 125,
+                "start": 114,
+                "username": "imcutefate"
+              },
+              {
+                "end": 144,
+                "start": 132,
+                "username": "Lake_Verion"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E8%8B%A6%E7%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E8%8B%A6%E7%93%9C%E5%A4%A7%E7%8E%8B",
+                "start": 0,
+                "url": "https://t.co/CdcVmYa8EY"
+              }
+            ]
+          }
+        },
+        "id": "2028430373458456576",
+        "location": "加载中……   匿名→",
+        "name": "咩咩",
+        "pinned_tweet_id": "2047911866517659665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028450466460241920/ceK3GGSB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 809,
+          "following_count": 423,
+          "like_count": 6627,
+          "listed_count": 0,
+          "media_count": 83,
+          "tweet_count": 1809
+        },
+        "url": "https://t.co/CdcVmYa8EY",
+        "username": "o65518kuguagua",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-21T04:47:15.000Z",
+        "description": "我是羊羊｜这里只有碎碎念｜一个傻子，别欺负我。@Lif3withoutu 只过互关\n我家满分女@qiu_song60259",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 23,
+                "username": "Lif3withoutu"
+              },
+              {
+                "end": 61,
+                "start": 47,
+                "username": "qiu_song60259"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/imcutefate",
+                "end": 23,
+                "expanded_url": "https://ngl.link/imcutefate",
+                "start": 0,
+                "url": "https://t.co/2kzYAji3rI"
+              }
+            ]
+          }
+        },
+        "id": "1958390370355789825",
+        "name": "坏蛋自述",
+        "pinned_tweet_id": "2042948111920959718",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050109355329208320/WgR-FfCG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 162,
+          "following_count": 69,
+          "like_count": 1940,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 782
+        },
+        "url": "https://t.co/2kzYAji3rI",
+        "username": "imcutefate",
+        "verified": false
+      }
+    ]
+  }
+}

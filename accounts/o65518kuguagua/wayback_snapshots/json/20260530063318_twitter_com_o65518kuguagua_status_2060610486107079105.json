@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028430373458456576",
+    "conversation_id": "2060610486107079105",
+    "created_at": "2026-05-30T06:33:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T07:33:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2060610486107079105"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/o65518kuguagua…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/o65518kuguagua/status/2060592368680837246",
+          "start": 9,
+          "url": "https://t.co/5hnEfR5i2G"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060610486107079105",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060592368680837246",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "不疼了。好好看。 https://t.co/5hnEfR5i2G"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2060592354629951488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJix1DyaoAAB0kI.jpg",
+        "width": 551
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028430373458456576",
+        "conversation_id": "2060610486107079105",
+        "created_at": "2026-05-30T06:33:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T07:33:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060610486107079105"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/o65518kuguagua…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/o65518kuguagua/status/2060592368680837246",
+              "start": 9,
+              "url": "https://t.co/5hnEfR5i2G"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060610486107079105",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060592368680837246",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不疼了。好好看。 https://t.co/5hnEfR5i2G"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060592354629951488"
+          ]
+        },
+        "author_id": "2028430373458456576",
+        "conversation_id": "2060592368680837246",
+        "created_at": "2026-05-30T05:21:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T06:21:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060592368680837246"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Z4DcvdKMk2",
+              "end": 26,
+              "expanded_url": "https://x.com/o65518kuguagua/status/2060592368680837246/photo/1",
+              "media_key": "3_2060592354629951488",
+              "start": 3,
+              "url": "https://t.co/Z4DcvdKMk2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060592368680837246",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 134,
+          "like_count": 18,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "打了 https://t.co/Z4DcvdKMk2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-02T11:21:20.000Z",
+        "description": "只是想好好睡觉｜心肝@imcutefate 最爱的闺闺@Lake_Verion",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 10,
+                "username": "imcutefate"
+              },
+              {
+                "end": 39,
+                "start": 27,
+                "username": "Lake_Verion"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E8%8B%A6%E7%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E8%8B%A6%E7%93%9C%E5%A4%A7%E7%8E%8B",
+                "start": 0,
+                "url": "https://t.co/CdcVmYa8EY"
+              }
+            ]
+          }
+        },
+        "id": "2028430373458456576",
+        "location": "加载中……   匿名→",
+        "name": "虎牙钉",
+        "pinned_tweet_id": "2060345028606644674",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060344470910926856/fk6R2qB-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1554,
+          "following_count": 513,
+          "like_count": 7634,
+          "listed_count": 1,
+          "media_count": 107,
+          "tweet_count": 2094
+        },
+        "url": "https://t.co/CdcVmYa8EY",
+        "username": "o65518kuguagua",
+        "verified": false
+      }
+    ]
+  }
+}

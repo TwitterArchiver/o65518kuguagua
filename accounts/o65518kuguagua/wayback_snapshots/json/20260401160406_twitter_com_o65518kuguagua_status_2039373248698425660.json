@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028430373458456576",
+    "conversation_id": "2039367028700795210",
+    "created_at": "2026-04-01T16:04:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-01T17:04:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039373248698425660"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1907815020400197632",
+          "start": 0,
+          "username": "huahuahuaziw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039373248698425660",
+    "in_reply_to_user_id": "1907815020400197632",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039367028700795210",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@huahuahuaziw 我准备打虎牙钉！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2039367025630580736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE1JgTlbEAAI6Lk.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028430373458456576",
+        "conversation_id": "2039367028700795210",
+        "created_at": "2026-04-01T16:04:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T17:04:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039373248698425660"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1907815020400197632",
+              "start": 0,
+              "username": "huahuahuaziw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039373248698425660",
+        "in_reply_to_user_id": "1907815020400197632",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039367028700795210",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huahuahuaziw 我准备打虎牙钉！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2039367025630580736"
+          ]
+        },
+        "author_id": "1907815020400197632",
+        "conversation_id": "2039367028700795210",
+        "created_at": "2026-04-01T15:39:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T16:39:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039367028700795210"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/95qXpgKGQJ",
+              "end": 42,
+              "expanded_url": "https://x.com/huahuahuaziw/status/2039367028700795210/photo/1",
+              "media_key": "3_2039367025630580736",
+              "start": 19,
+              "url": "https://t.co/95qXpgKGQJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039367028700795210",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 102,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "老大。我们这样装疯卖傻真的有人看吗。 https://t.co/95qXpgKGQJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-02T11:21:20.000Z",
+        "description": "哥控｜我需要很多周末o.O 这个是我的大分身@qiu_song60259\n锁推小号@Kuguadawang6677",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 22,
+                "username": "qiu_song60259"
+              },
+              {
+                "end": 57,
+                "start": 41,
+                "username": "Kuguadawang6677"
+              }
+            ]
+          }
+        },
+        "id": "2028430373458456576",
+        "location": "加载中……",
+        "name": "咩咩",
+        "pinned_tweet_id": "2035726523810861085",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028450466460241920/ceK3GGSB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 360,
+          "following_count": 297,
+          "like_count": 2743,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 863
+        },
+        "username": "o65518kuguagua",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-03T15:18:56.000Z",
+        "description": "熊。要认识很多很多美女。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/huaziw",
+                "end": 23,
+                "expanded_url": "https://ngl.link/huaziw",
+                "start": 0,
+                "url": "https://t.co/tOv92M3GUF"
+              }
+            ]
+          }
+        },
+        "id": "1907815020400197632",
+        "name": "小暗",
+        "pinned_tweet_id": "2026010344842461444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025827054697246720/U9sLpgeH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 290,
+          "following_count": 904,
+          "like_count": 7170,
+          "listed_count": 0,
+          "media_count": 87,
+          "tweet_count": 707
+        },
+        "url": "https://t.co/tOv92M3GUF",
+        "username": "huahuahuaziw",
+        "verified": false
+      }
+    ]
+  }
+}

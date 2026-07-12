@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028430373458456576",
+    "conversation_id": "2038574258717413773",
+    "created_at": "2026-03-30T17:12:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-30T18:12:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038665601695219826"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1860401068192227328",
+          "start": 0,
+          "username": "ouooopv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038665601695219826",
+    "in_reply_to_user_id": "1860401068192227328",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038574258717413773",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ouooopv 我是安徽人我喜欢你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028430373458456576",
+        "conversation_id": "2038574258717413773",
+        "created_at": "2026-03-30T17:12:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T18:12:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038665601695219826"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1860401068192227328",
+              "start": 0,
+              "username": "ouooopv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038665601695219826",
+        "in_reply_to_user_id": "1860401068192227328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038574258717413773",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ouooopv 我是安徽人我喜欢你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1860401068192227328",
+        "conversation_id": "2038574258717413773",
+        "created_at": "2026-03-30T11:09:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T12:09:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038574258717413773"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2038574258717413773",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 401,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "唉不知道为什么我就很喜欢安徽人 我在网上遇到的安徽人都很好很可爱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-02T11:21:20.000Z",
+        "description": "哥控｜我需要很多周末o.O 这个是我的大分身@qiu_song60259\n锁推小号@Kuguadawang6677",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 22,
+                "username": "qiu_song60259"
+              },
+              {
+                "end": 57,
+                "start": 41,
+                "username": "Kuguadawang6677"
+              }
+            ]
+          }
+        },
+        "id": "2028430373458456576",
+        "location": "加载中……",
+        "name": "咩咩",
+        "pinned_tweet_id": "2035726523810861085",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028450466460241920/ceK3GGSB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 328,
+          "following_count": 280,
+          "like_count": 2338,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 714
+        },
+        "username": "o65518kuguagua",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-23T19:12:46.000Z",
+        "description": "素质不详",
+        "id": "1860401068192227328",
+        "name": "小雨",
+        "pinned_tweet_id": "1894801101972742621",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037252353867603968/7p67Kem3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 379,
+          "following_count": 4,
+          "like_count": 582,
+          "listed_count": 1,
+          "media_count": 6,
+          "tweet_count": 51
+        },
+        "username": "ouooopv",
+        "verified": false
+      }
+    ]
+  }
+}

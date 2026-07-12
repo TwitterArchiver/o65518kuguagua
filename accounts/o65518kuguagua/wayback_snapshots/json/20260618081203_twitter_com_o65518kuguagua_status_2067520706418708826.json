@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028430373458456576",
+    "conversation_id": "2067520706418708826",
+    "created_at": "2026-06-18T08:12:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T09:12:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2067520706418708826"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/4nwcdskgf8/sta…",
+          "end": 34,
+          "expanded_url": "https://twitter.com/4nwcdskgf8/status/2066991501184516556",
+          "start": 11,
+          "url": "https://t.co/gCzQuag0J8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067520706418708826",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066991501184516556",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "会不会有点情感漠视了 https://t.co/gCzQuag0J8"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1078,
+        "media_key": "3_2066991490677833728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK9tzzObgAAvSF6.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028430373458456576",
+        "conversation_id": "2067520706418708826",
+        "created_at": "2026-06-18T08:12:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T09:12:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067520706418708826"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/4nwcdskgf8/sta…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/4nwcdskgf8/status/2066991501184516556",
+              "start": 11,
+              "url": "https://t.co/gCzQuag0J8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067520706418708826",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066991501184516556",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "会不会有点情感漠视了 https://t.co/gCzQuag0J8"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066991490677833728"
+          ]
+        },
+        "author_id": "1448886587895386113",
+        "conversation_id": "2066991501184516556",
+        "created_at": "2026-06-16T21:09:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T22:09:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066991501184516556"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jrzH5Cw90J",
+              "end": 35,
+              "expanded_url": "https://x.com/4nwcdskgf8/status/2066991501184516556/photo/1",
+              "media_key": "3_2066991490677833728",
+              "start": 12,
+              "url": "https://t.co/jrzH5Cw90J"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066991501184516556",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 49,
+          "impression_count": 30739,
+          "like_count": 1147,
+          "quote_count": 11,
+          "reply_count": 41,
+          "retweet_count": 63
+        },
+        "reply_settings": "everyone",
+        "text": "占有欲会不会有点太小了 https://t.co/jrzH5Cw90J"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-02T11:21:20.000Z",
+        "description": "只是想好好睡觉｜我的名字是瓜瓜｜心肝@imcutefate 最爱的闺闺@Lake_Verion",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 18,
+                "username": "imcutefate"
+              },
+              {
+                "end": 47,
+                "start": 35,
+                "username": "Lake_Verion"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E8%8B%A6%E7%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E8%8B%A6%E7%93%9C%E5%A4%A7%E7%8E%8B",
+                "start": 0,
+                "url": "https://t.co/CdcVmYa8EY"
+              }
+            ]
+          }
+        },
+        "id": "2028430373458456576",
+        "location": "加载中……   匿名→",
+        "name": "虎牙钉（今日发帖已上限只能转帖）",
+        "pinned_tweet_id": "2063001104858648649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060344470910926856/fk6R2qB-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2090,
+          "following_count": 593,
+          "like_count": 8901,
+          "listed_count": 1,
+          "media_count": 159,
+          "tweet_count": 2648
+        },
+        "url": "https://t.co/CdcVmYa8EY",
+        "username": "o65518kuguagua",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-15T05:41:08.000Z",
+        "description": "直男",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "tz86.vip/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://www.tz86.vip/#/register?code=QerTWt6d",
+                "start": 0,
+                "url": "https://t.co/1oWYH3LFCz"
+              }
+            ]
+          }
+        },
+        "id": "1448886587895386113",
+        "location": "29元包年千G vpn👉",
+        "name": "忧郁的神",
+        "pinned_tweet_id": "2044102457308160333",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992792344286908416/yWgtzLD6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3155,
+          "following_count": 15,
+          "like_count": 3567,
+          "listed_count": 3,
+          "media_count": 41,
+          "tweet_count": 135
+        },
+        "url": "https://t.co/1oWYH3LFCz",
+        "username": "4nwcdskgf8",
+        "verified": false
+      }
+    ]
+  }
+}

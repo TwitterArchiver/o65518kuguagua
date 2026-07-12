@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028430373458456576",
+    "conversation_id": "2036778012704936245",
+    "created_at": "2026-03-25T15:35:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-25T16:35:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036829404907577627"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1513753182182133762",
+          "start": 0,
+          "username": "wysgdmn"
+        },
+        {
+          "end": 21,
+          "id": "1966005784971718661",
+          "start": 9,
+          "username": "pearl654727"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036829404907577627",
+    "in_reply_to_user_id": "1513753182182133762",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036778947581730939",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wysgdmn @pearl654727 他是傻逼吧笑死我了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028430373458456576",
+        "conversation_id": "2036778012704936245",
+        "created_at": "2026-03-25T15:35:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T16:35:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036829404907577627"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1513753182182133762",
+              "start": 0,
+              "username": "wysgdmn"
+            },
+            {
+              "end": 21,
+              "id": "1966005784971718661",
+              "start": 9,
+              "username": "pearl654727"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036829404907577627",
+        "in_reply_to_user_id": "1513753182182133762",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036778947581730939",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wysgdmn @pearl654727 他是傻逼吧笑死我了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1513753182182133762",
+        "conversation_id": "2036778012704936245",
+        "created_at": "2026-03-25T12:15:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T13:15:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036778947581730939"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1966005784971718661",
+              "start": 0,
+              "username": "pearl654727"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036778947581730939",
+        "in_reply_to_user_id": "1966005784971718661",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 21353,
+          "like_count": 268,
+          "quote_count": 1,
+          "reply_count": 16,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036778429153223027",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pearl654727 他一直不射，我起得早赶路又没吃什么东西被日了好久，逼当时肿了痛了，我开玩笑说杀鸡了，对方因为这句话找我理赔。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-02T11:21:20.000Z",
+        "description": "我需要很多周末o.O 这个是我的大分身@qiu_song60259",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 19,
+                "username": "qiu_song60259"
+              }
+            ]
+          }
+        },
+        "id": "2028430373458456576",
+        "location": "加载中……",
+        "name": "咩咩",
+        "pinned_tweet_id": "2035726523810861085",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028450466460241920/ceK3GGSB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 170,
+          "following_count": 197,
+          "like_count": 1432,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 419
+        },
+        "username": "o65518kuguagua",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-12T05:42:34.000Z",
+        "description": "不接骗人推广‖\n纯天然奶，不推荐任何手术‖\n大号: @9_jfm 【🚪1314  仅加vx  不抵扣后续费用  坐标杭州  全国可✈️过门问价，门槛不退请想好再给】‖🍑店铺：doi用🔍:  丸趣WannaPlay‖倒膜：黑科技工程机（进店搜丸崽）‖防走丢:https://t.co/R244nQ7FpR",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 26,
+                "username": "9_jfm"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/zhenpintuji",
+                "end": 151,
+                "expanded_url": "https://t.me/zhenpintuji",
+                "start": 128,
+                "url": "https://t.co/R244nQ7FpR"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wannaplay.taobao.com",
+                "end": 23,
+                "expanded_url": "https://wannaplay.taobao.com/",
+                "start": 0,
+                "url": "https://t.co/ItFzepMEge"
+              }
+            ]
+          }
+        },
+        "id": "1513753182182133762",
+        "location": "淘宝店：丸趣WannaPlay",
+        "name": "狼",
+        "pinned_tweet_id": "1948398650779963518",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004423749362479104/9--HUOnW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 568451,
+          "following_count": 1,
+          "like_count": 1303,
+          "listed_count": 793,
+          "media_count": 1447,
+          "tweet_count": 5016
+        },
+        "url": "https://t.co/ItFzepMEge",
+        "username": "wysgdmn",
+        "verified": true,
+        "withheld": {
+          "country_codes": [
+            "ID"
+          ]
+        }
+      },
+      {
+        "created_at": "2025-09-11T05:08:29.000Z",
+        "description": "橹穆狂热批！时而zgj时而辱追时而淫追时而萌追时而男宝妈！总之，老子咋上网关你吊事！",
+        "id": "1966005784971718661",
+        "name": "pearl",
+        "pinned_tweet_id": "2031787602173739442",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966006016421826560/NokBx9Dd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 31,
+          "like_count": 255,
+          "listed_count": 1,
+          "media_count": 51,
+          "tweet_count": 674
+        },
+        "username": "pearl654727",
+        "verified": false
+      }
+    ]
+  }
+}

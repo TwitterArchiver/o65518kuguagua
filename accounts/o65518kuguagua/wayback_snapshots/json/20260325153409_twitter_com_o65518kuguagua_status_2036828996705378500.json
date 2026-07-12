@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028430373458456576",
+    "conversation_id": "2036828996705378500",
+    "created_at": "2026-03-25T15:34:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-25T16:34:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2036828996705378500"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/zhao77666/stat…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/zhao77666/status/2036736334652649924",
+          "start": 6,
+          "url": "https://t.co/CB7Cjy3fDW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036828996705378500",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036736334652649924",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "长发男牛福 https://t.co/CB7Cjy3fDW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2036736320211726337",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEPw5GNbMAEzElv.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028430373458456576",
+        "conversation_id": "2036828996705378500",
+        "created_at": "2026-03-25T15:34:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T16:34:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036828996705378500"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/zhao77666/stat…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/zhao77666/status/2036736334652649924",
+              "start": 6,
+              "url": "https://t.co/CB7Cjy3fDW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036828996705378500",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036736334652649924",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "长发男牛福 https://t.co/CB7Cjy3fDW"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2036736320211726337"
+          ]
+        },
+        "author_id": "2001631586694107139",
+        "conversation_id": "2036736334652649924",
+        "created_at": "2026-03-25T09:25:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T10:25:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036736334652649924"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/n4hdb8mMOB",
+              "end": 30,
+              "expanded_url": "https://x.com/zhao77666/status/2036736334652649924/photo/1",
+              "media_key": "3_2036736320211726337",
+              "start": 7,
+              "url": "https://t.co/n4hdb8mMOB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036736334652649924",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 725,
+          "impression_count": 217241,
+          "like_count": 7173,
+          "quote_count": 44,
+          "reply_count": 123,
+          "retweet_count": 217
+        },
+        "reply_settings": "everyone",
+        "text": "我会很卖力的 https://t.co/n4hdb8mMOB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-02T11:21:20.000Z",
+        "description": "我需要很多周末o.O 这个是我的大分身@qiu_song60259",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 19,
+                "username": "qiu_song60259"
+              }
+            ]
+          }
+        },
+        "id": "2028430373458456576",
+        "location": "加载中……",
+        "name": "咩咩",
+        "pinned_tweet_id": "2035726523810861085",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028450466460241920/ceK3GGSB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 170,
+          "following_count": 197,
+          "like_count": 1426,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 417
+        },
+        "username": "o65518kuguagua",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-18T12:32:31.000Z",
+        "description": "enfp巨蟹",
+        "id": "2001631586694107139",
+        "location": "武汉 ",
+        "name": "666777",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033991081604616192/8ToJzBTE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1085,
+          "following_count": 19,
+          "like_count": 12,
+          "listed_count": 2,
+          "media_count": 9,
+          "tweet_count": 18
+        },
+        "username": "zhao77666",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028430373458456576",
+    "conversation_id": "2065434722705289701",
+    "created_at": "2026-06-12T14:03:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T15:03:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065434722705289701"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1972299495976112128",
+          "start": 3,
+          "username": "usuariofyp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065434722705289701",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2265
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064757232714023350",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @usuariofyp: tengo q dejar de querer morir cada vez que me baja un poco el ánimo"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028430373458456576",
+        "conversation_id": "2065434722705289701",
+        "created_at": "2026-06-12T14:03:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T15:03:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065434722705289701"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1972299495976112128",
+              "start": 3,
+              "username": "usuariofyp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065434722705289701",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2265
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064757232714023350",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @usuariofyp: tengo q dejar de querer morir cada vez que me baja un poco el ánimo"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1972299495976112128",
+        "conversation_id": "2064757232714023350",
+        "created_at": "2026-06-10T17:11:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T18:11:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064757232714023350"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2064757232714023350",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 218,
+          "impression_count": 62644,
+          "like_count": 5702,
+          "quote_count": 27,
+          "reply_count": 8,
+          "retweet_count": 2265
+        },
+        "reply_settings": "everyone",
+        "text": "tengo q dejar de querer morir cada vez que me baja un poco el ánimo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-02T11:21:20.000Z",
+        "description": "只是想好好睡觉｜我的名字是瓜瓜｜心肝@imcutefate 最爱的闺闺@Lake_Verion",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 18,
+                "username": "imcutefate"
+              },
+              {
+                "end": 47,
+                "start": 35,
+                "username": "Lake_Verion"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E8%8B%A6%E7%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E8%8B%A6%E7%93%9C%E5%A4%A7%E7%8E%8B",
+                "start": 0,
+                "url": "https://t.co/CdcVmYa8EY"
+              }
+            ]
+          }
+        },
+        "id": "2028430373458456576",
+        "location": "加载中……   匿名→",
+        "name": "虎牙钉",
+        "pinned_tweet_id": "2063001104858648649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060344470910926856/fk6R2qB-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1997,
+          "following_count": 563,
+          "like_count": 8366,
+          "listed_count": 1,
+          "media_count": 127,
+          "tweet_count": 2326
+        },
+        "url": "https://t.co/CdcVmYa8EY",
+        "username": "o65518kuguagua",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-28T13:57:09.000Z",
+        "description": "",
+        "id": "1972299495976112128",
+        "name": "usuario",
+        "pinned_tweet_id": "2065418344916812066",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013201946329366528/0PYtiVKB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10412,
+          "following_count": 125,
+          "like_count": 7810,
+          "listed_count": 3,
+          "media_count": 244,
+          "tweet_count": 2648
+        },
+        "username": "usuariofyp",
+        "verified": false
+      }
+    ]
+  }
+}

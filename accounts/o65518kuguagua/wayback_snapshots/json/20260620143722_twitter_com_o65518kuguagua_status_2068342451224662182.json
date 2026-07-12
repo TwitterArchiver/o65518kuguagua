@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028430373458456576",
+    "conversation_id": "2068336953213551047",
+    "created_at": "2026-06-20T14:37:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T15:37:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068342451224662182"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1643285777798025218",
+          "start": 0,
+          "username": "l_yanhuo_l"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068342451224662182",
+    "in_reply_to_user_id": "1643285777798025218",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068336953213551047",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@l_yanhuo_l 我母"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3024,
+        "media_key": "3_2068336935094120448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLQ1e-Qa8AAgEql.jpg",
+        "width": 3480
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028430373458456576",
+        "conversation_id": "2068336953213551047",
+        "created_at": "2026-06-20T14:37:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T15:37:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068342451224662182"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1643285777798025218",
+              "start": 0,
+              "username": "l_yanhuo_l"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068342451224662182",
+        "in_reply_to_user_id": "1643285777798025218",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068336953213551047",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@l_yanhuo_l 我母"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068336935094120448"
+          ]
+        },
+        "author_id": "1643285777798025218",
+        "conversation_id": "2068336953213551047",
+        "created_at": "2026-06-20T14:15:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T15:15:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068336953213551047"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/r0odZx1ICP",
+              "end": 29,
+              "expanded_url": "https://x.com/l_yanhuo_l/status/2068336953213551047/photo/1",
+              "media_key": "3_2068336935094120448",
+              "start": 6,
+              "url": "https://t.co/r0odZx1ICP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068336953213551047",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 152,
+          "like_count": 23,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "所有人感受 https://t.co/r0odZx1ICP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-02T11:21:20.000Z",
+        "description": "只是想好好睡觉｜我的名字是瓜瓜｜心肝@imcutefate 最爱的闺闺@Lake_Verion",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 18,
+                "username": "imcutefate"
+              },
+              {
+                "end": 47,
+                "start": 35,
+                "username": "Lake_Verion"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E8%8B%A6%E7%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E8%8B%A6%E7%93%9C%E5%A4%A7%E7%8E%8B",
+                "start": 0,
+                "url": "https://t.co/CdcVmYa8EY"
+              }
+            ]
+          }
+        },
+        "id": "2028430373458456576",
+        "location": "加载中……   匿名→",
+        "name": "虎牙钉",
+        "pinned_tweet_id": "2063001104858648649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060344470910926856/fk6R2qB-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2388,
+          "following_count": 583,
+          "like_count": 9282,
+          "listed_count": 2,
+          "media_count": 179,
+          "tweet_count": 2834
+        },
+        "url": "https://t.co/CdcVmYa8EY",
+        "username": "o65518kuguagua",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-04T16:14:26.000Z",
+        "description": "🐰兔子全肯定🐰 🈚️🚪\n碎碎念罢了 爱发啥发啥",
+        "id": "1643285777798025218",
+        "location": "｜⁺✞ʚ粗口重度依赖ɞ✟₊ ｜",
+        "name": "不是胭火",
+        "pinned_tweet_id": "2010749803563712695",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001197636758724609/uT0vhkmn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20331,
+          "following_count": 439,
+          "like_count": 11813,
+          "listed_count": 26,
+          "media_count": 1024,
+          "tweet_count": 14724
+        },
+        "url": "",
+        "username": "l_yanhuo_l",
+        "verified": true
+      }
+    ]
+  }
+}

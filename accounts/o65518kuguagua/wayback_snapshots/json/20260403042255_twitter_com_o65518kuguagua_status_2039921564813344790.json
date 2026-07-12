@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028430373458456576",
+    "conversation_id": "2039780300255899658",
+    "created_at": "2026-04-03T04:22:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-03T05:22:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039921564813344790"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2001649966381699073",
+          "start": 0,
+          "username": "chuixuebl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039921564813344790",
+    "in_reply_to_user_id": "2001649966381699073",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039782350226162049",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chuixuebl 对"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028430373458456576",
+        "conversation_id": "2039780300255899658",
+        "created_at": "2026-04-03T04:22:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T05:22:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039921564813344790"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2001649966381699073",
+              "start": 0,
+              "username": "chuixuebl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039921564813344790",
+        "in_reply_to_user_id": "2001649966381699073",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039782350226162049",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chuixuebl 对"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2001649966381699073",
+        "conversation_id": "2039780300255899658",
+        "created_at": "2026-04-02T19:09:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T20:09:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039782350226162049"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2039782350226162049",
+        "in_reply_to_user_id": "2001649966381699073",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 252,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039780300255899658",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "要是能看到每个人头顶上的好感度就好了 这样就可以知道要不要继续说话"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-02T11:21:20.000Z",
+        "description": "哥控｜我需要很多周末o.O 这个是我的大分身@qiu_song60259\n锁推小号@Kuguadawang6677",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 22,
+                "username": "qiu_song60259"
+              },
+              {
+                "end": 57,
+                "start": 41,
+                "username": "Kuguadawang6677"
+              }
+            ]
+          }
+        },
+        "id": "2028430373458456576",
+        "location": "加载中……",
+        "name": "咩咩",
+        "pinned_tweet_id": "2035726523810861085",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028450466460241920/ceK3GGSB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 385,
+          "following_count": 314,
+          "like_count": 3182,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 1041
+        },
+        "username": "o65518kuguagua",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-18T13:45:32.000Z",
+        "description": "晚安｜@awmbwt这个号被盗了 发私信别信",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 3,
+                "username": "awmbwt"
+              }
+            ]
+          }
+        },
+        "id": "2001649966381699073",
+        "name": "菠萝吹吹吹雪",
+        "pinned_tweet_id": "2005646418946760816",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001662034493009920/n4tsMjtH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1370,
+          "following_count": 157,
+          "like_count": 9867,
+          "listed_count": 2,
+          "media_count": 37,
+          "tweet_count": 110
+        },
+        "username": "chuixuebl",
+        "verified": false
+      }
+    ]
+  }
+}

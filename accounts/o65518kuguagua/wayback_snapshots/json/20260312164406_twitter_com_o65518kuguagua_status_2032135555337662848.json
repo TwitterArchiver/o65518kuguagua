@@ -1,0 +1,172 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2032135520839512069"
+      ]
+    },
+    "author_id": "2028430373458456576",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2032135555337662848",
+    "created_at": "2026-03-12T16:44:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-12T17:44:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2032135555337662848"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Ys4Kut7JJp",
+          "end": 31,
+          "expanded_url": "https://x.com/o65518kuguagua/status/2032135555337662848/photo/1",
+          "media_key": "3_2032135520839512069",
+          "start": 8,
+          "url": "https://t.co/Ys4Kut7JJp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032135555337662848",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "呃我就这样吧！ https://t.co/Ys4Kut7JJp"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2032135520839512069",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDOYfU8XsAU-HKu.jpg",
+        "width": 104
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2032135520839512069"
+          ]
+        },
+        "author_id": "2028430373458456576",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2032135555337662848",
+        "created_at": "2026-03-12T16:44:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T17:44:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032135555337662848"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ys4Kut7JJp",
+              "end": 31,
+              "expanded_url": "https://x.com/o65518kuguagua/status/2032135555337662848/photo/1",
+              "media_key": "3_2032135520839512069",
+              "start": 8,
+              "url": "https://t.co/Ys4Kut7JJp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032135555337662848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "呃我就这样吧！ https://t.co/Ys4Kut7JJp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-02T11:21:20.000Z",
+        "description": "我需要很多周末o.O 这个是我的大分身@qiu_song60259",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 19,
+                "username": "qiu_song60259"
+              }
+            ]
+          }
+        },
+        "id": "2028430373458456576",
+        "location": "加载中……",
+        "name": "咩咩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028450466460241920/ceK3GGSB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 107,
+          "following_count": 57,
+          "like_count": 496,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 118
+        },
+        "username": "o65518kuguagua",
+        "verified": false
+      }
+    ]
+  }
+}

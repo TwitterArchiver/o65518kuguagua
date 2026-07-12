@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028430373458456576",
+    "conversation_id": "2037091451193135142",
+    "created_at": "2026-03-26T14:49:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-26T15:49:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037180070758936640"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1952728554401374208",
+          "start": 0,
+          "username": "litsad_0621"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037180070758936640",
+    "in_reply_to_user_id": "1952728554401374208",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037091451193135142",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@litsad_0621 姐姐………………"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 658,
+        "media_key": "3_2037091445644156929",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEUz4HibYAEOO8z.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028430373458456576",
+        "conversation_id": "2037091451193135142",
+        "created_at": "2026-03-26T14:49:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T15:49:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037180070758936640"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1952728554401374208",
+              "start": 0,
+              "username": "litsad_0621"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037180070758936640",
+        "in_reply_to_user_id": "1952728554401374208",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037091451193135142",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@litsad_0621 姐姐………………"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2037091445644156929"
+          ]
+        },
+        "author_id": "1952728554401374208",
+        "conversation_id": "2037091451193135142",
+        "created_at": "2026-03-26T08:57:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T09:57:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037091451193135142"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rkMOSlDvXW",
+              "end": 41,
+              "expanded_url": "https://x.com/litsad_0621/status/2037091451193135142/photo/1",
+              "media_key": "3_2037091445644156929",
+              "start": 18,
+              "url": "https://t.co/rkMOSlDvXW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037091451193135142",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 636,
+          "like_count": 39,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "又生我的气了吗？那是姐姐错了好不好 https://t.co/rkMOSlDvXW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-02T11:21:20.000Z",
+        "description": "我需要很多周末o.O 这个是我的大分身@qiu_song60259",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 19,
+                "username": "qiu_song60259"
+              }
+            ]
+          }
+        },
+        "id": "2028430373458456576",
+        "location": "加载中……",
+        "name": "咩咩",
+        "pinned_tweet_id": "2035726523810861085",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028450466460241920/ceK3GGSB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 179,
+          "following_count": 222,
+          "like_count": 1668,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 504
+        },
+        "username": "o65518kuguagua",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-05T13:49:15.000Z",
+        "description": "人，你好。这里是一只kitty(՞_ ̫ _՞)ᐝ 可以称呼我为念念switch偏m 负能量多 爱碎碎念 把这里当情绪回收站🗑️ 分享欲强 当朋友圈发｜时常因为睡眠不足而显得忧郁… @Ning2becuteOvO 过门直接私信发口令",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 91,
+                "username": "Ning2becuteOvO"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kittychime",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kittychime",
+                "start": 0,
+                "url": "https://t.co/f5DKGDkFev"
+              }
+            ]
+          }
+        },
+        "id": "1952728554401374208",
+        "location": "🚪188/388/520/1314",
+        "name": "Kittychime",
+        "pinned_tweet_id": "2020503544277954834",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019311099980681216/Brpzcg2E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4104,
+          "following_count": 311,
+          "like_count": 5936,
+          "listed_count": 7,
+          "media_count": 180,
+          "tweet_count": 2681
+        },
+        "url": "https://t.co/f5DKGDkFev",
+        "username": "litsad_0621",
+        "verified": false
+      }
+    ]
+  }
+}

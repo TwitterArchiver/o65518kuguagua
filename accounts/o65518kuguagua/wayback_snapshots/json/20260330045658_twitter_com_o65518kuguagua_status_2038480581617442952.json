@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028430373458456576",
+    "conversation_id": "2038480581617442952",
+    "created_at": "2026-03-30T04:56:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-30T05:56:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038480581617442952"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1965778226627911680",
+          "start": 3,
+          "username": "cidao2310"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038480581617442952",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 52
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037995377492980171",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @cidao2310: 聊到满意的人之后就不想进行任何多余的社交了。我就如此低精力。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028430373458456576",
+        "conversation_id": "2038480581617442952",
+        "created_at": "2026-03-30T04:56:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T05:56:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038480581617442952"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1965778226627911680",
+              "start": 3,
+              "username": "cidao2310"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038480581617442952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 52
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037995377492980171",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @cidao2310: 聊到满意的人之后就不想进行任何多余的社交了。我就如此低精力。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965778226627911680",
+        "conversation_id": "2037995377492980171",
+        "created_at": "2026-03-28T20:48:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T21:48:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037995377492980171"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2037995377492980171",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 27658,
+          "like_count": 589,
+          "quote_count": 9,
+          "reply_count": 28,
+          "retweet_count": 52
+        },
+        "reply_settings": "everyone",
+        "text": "聊到满意的人之后就不想进行任何多余的社交了。我就如此低精力。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-02T11:21:20.000Z",
+        "description": "哥控｜我需要很多周末o.O 这个是我的大分身@qiu_song60259\n锁推小号@Kuguadawang6677",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 22,
+                "username": "qiu_song60259"
+              },
+              {
+                "end": 57,
+                "start": 41,
+                "username": "Kuguadawang6677"
+              }
+            ]
+          }
+        },
+        "id": "2028430373458456576",
+        "location": "加载中……",
+        "name": "咩咩",
+        "pinned_tweet_id": "2035726523810861085",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028450466460241920/ceK3GGSB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 294,
+          "following_count": 278,
+          "like_count": 2249,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 671
+        },
+        "username": "o65518kuguagua",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-10T14:03:57.000Z",
+        "description": "我是叨叨，大号被盗了@cidoa070113，重生归来我要夺回属于我的一切！提问箱📪 https://t.co/gK9nreqZ6m",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 10,
+                "username": "cidoa070113"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/cidao31181",
+                "end": 66,
+                "expanded_url": "https://ngl.link/cidao31181",
+                "start": 43,
+                "url": "https://t.co/gK9nreqZ6m"
+              }
+            ]
+          }
+        },
+        "id": "1965778226627911680",
+        "location": "小舟",
+        "name": "法晕直男/.",
+        "pinned_tweet_id": "2036460137146360126",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029816491932364801/lEpnxFAE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 299,
+          "following_count": 153,
+          "like_count": 818,
+          "listed_count": 0,
+          "media_count": 99,
+          "tweet_count": 1340
+        },
+        "username": "cidao2310",
+        "verified": false
+      }
+    ]
+  }
+}

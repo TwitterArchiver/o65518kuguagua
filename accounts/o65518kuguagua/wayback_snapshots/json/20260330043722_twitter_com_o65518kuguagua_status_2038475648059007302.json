@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028430373458456576",
+    "conversation_id": "2038248254572527926",
+    "created_at": "2026-03-30T04:37:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-30T05:37:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038475648059007302"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1646972643206365184",
+          "start": 0,
+          "username": "yanyannbcwx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038475648059007302",
+    "in_reply_to_user_id": "1646972643206365184",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038248254572527926",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yanyannbcwx 抱抱睡"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 3038,
+        "height": 960,
+        "media_key": "13_2038248194178723840",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2038248194178723840/img/BPAcbDD7MnUD_gGV.jpg",
+        "public_metrics": {
+          "view_count": 1361
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2038248194178723840/vid/avc1/320x426/EvnvtcJZXcOAOKb9.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2038248194178723840/vid/avc1/480x640/2XPURBQzsENHvB7E.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2038248194178723840/vid/avc1/720x960/rV8F1zSPy1wCrH7e.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2038248194178723840/pl/a6M7fN5vi_HeRw3N.m3u8?tag=14"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028430373458456576",
+        "conversation_id": "2038248254572527926",
+        "created_at": "2026-03-30T04:37:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T05:37:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038475648059007302"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1646972643206365184",
+              "start": 0,
+              "username": "yanyannbcwx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038475648059007302",
+        "in_reply_to_user_id": "1646972643206365184",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038248254572527926",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yanyannbcwx 抱抱睡"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2038248194178723840"
+          ]
+        },
+        "author_id": "1646972643206365184",
+        "conversation_id": "2038248254572527926",
+        "created_at": "2026-03-29T13:33:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T14:33:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038248254572527926"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/n9GJV7ubmN",
+              "end": 39,
+              "expanded_url": "https://x.com/yanyannbcwx/status/2038248254572527926/video/1",
+              "media_key": "13_2038248194178723840",
+              "start": 16,
+              "url": "https://t.co/n9GJV7ubmN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038248254572527926",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 23,
+          "impression_count": 6578,
+          "like_count": 364,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "深夜海底捞卖醉\n你说只想抱抱睡 https://t.co/n9GJV7ubmN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-02T11:21:20.000Z",
+        "description": "哥控｜我需要很多周末o.O 这个是我的大分身@qiu_song60259\n锁推小号@Kuguadawang6677",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 22,
+                "username": "qiu_song60259"
+              },
+              {
+                "end": 57,
+                "start": 41,
+                "username": "Kuguadawang6677"
+              }
+            ]
+          }
+        },
+        "id": "2028430373458456576",
+        "location": "加载中……",
+        "name": "咩咩",
+        "pinned_tweet_id": "2035726523810861085",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028450466460241920/ceK3GGSB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 292,
+          "following_count": 275,
+          "like_count": 2211,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 658
+        },
+        "username": "o65518kuguagua",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-14T20:24:24.000Z",
+        "description": "以前枷锁太多，现在我顺从自己。",
+        "id": "1646972643206365184",
+        "location": "广佛",
+        "name": "𝓐𝖕𝖕、",
+        "pinned_tweet_id": "2036833091269116068",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032121230170734595/UutBtkMy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 434,
+          "following_count": 55,
+          "like_count": 5671,
+          "listed_count": 2,
+          "media_count": 55,
+          "tweet_count": 1907
+        },
+        "username": "yanyannbcwx",
+        "verified": false
+      }
+    ]
+  }
+}

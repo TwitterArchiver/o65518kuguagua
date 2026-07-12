@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028430373458456576",
+    "conversation_id": "2031237865196204125",
+    "created_at": "2026-03-10T05:17:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-10T06:17:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2031237865196204125"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1792158516096180224",
+          "start": 3,
+          "username": "Dr_Duckter"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031237865196204125",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 59
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030933459481555149",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Dr_Duckter: 男孩子学会这几句口头禅真的很加分：\n一、啊啊啊啊啊啊啊啊啊啊啊\n二、妈呀大姐\n三、救命\n四、我不行了\n五、素\n六、惹\n七、受不了了\n八、笑晕\n九、交"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028430373458456576",
+        "conversation_id": "2031237865196204125",
+        "created_at": "2026-03-10T05:17:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-10T06:17:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031237865196204125"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1792158516096180224",
+              "start": 3,
+              "username": "Dr_Duckter"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031237865196204125",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 59
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030933459481555149",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Dr_Duckter: 男孩子学会这几句口头禅真的很加分：\n一、啊啊啊啊啊啊啊啊啊啊啊\n二、妈呀大姐\n三、救命\n四、我不行了\n五、素\n六、惹\n七、受不了了\n八、笑晕\n九、交"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792158516096180224",
+        "conversation_id": "2030933459481555149",
+        "created_at": "2026-03-09T09:07:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-09T10:07:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030933459481555149"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2030933459481555149",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 85,
+          "impression_count": 104706,
+          "like_count": 1075,
+          "quote_count": 12,
+          "reply_count": 153,
+          "retweet_count": 59
+        },
+        "reply_settings": "everyone",
+        "text": "男孩子学会这几句口头禅真的很加分：\n一、啊啊啊啊啊啊啊啊啊啊啊\n二、妈呀大姐\n三、救命\n四、我不行了\n五、素\n六、惹\n七、受不了了\n八、笑晕\n九、交"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-02T11:21:20.000Z",
+        "description": "我需要很多周末o.O 这个是我的大分身@qiu_song60259",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 19,
+                "username": "qiu_song60259"
+              }
+            ]
+          }
+        },
+        "id": "2028430373458456576",
+        "location": "加载中……",
+        "name": "咩咩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028450466460241920/ceK3GGSB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 103,
+          "following_count": 50,
+          "like_count": 427,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 98
+        },
+        "username": "o65518kuguagua",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-19T11:41:14.000Z",
+        "description": "逃生仓 @Dr__Duckter  #FreeMaDuGong\n被B了就是你友链的原因 从不主动B人",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 31,
+                "start": 18,
+                "tag": "FreeMaDuGong"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 16,
+                "start": 4,
+                "username": "Dr__Duckter"
+              }
+            ]
+          }
+        },
+        "id": "1792158516096180224",
+        "location": "God's Country",
+        "name": "Dr Drizzy Duckter Duckworth",
+        "pinned_tweet_id": "2029433147331666299",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030633431898664960/b4zzbh_A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1808,
+          "following_count": 1012,
+          "like_count": 16056,
+          "listed_count": 18,
+          "media_count": 351,
+          "tweet_count": 2188
+        },
+        "username": "Dr_Duckter",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028430373458456576",
+    "conversation_id": "2047624469636669558",
+    "created_at": "2026-04-24T10:31:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T11:31:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2047624469636669558"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/louielu1666/st…",
+          "end": 47,
+          "expanded_url": "https://twitter.com/louielu1666/status/2047273584662585596",
+          "start": 24,
+          "url": "https://t.co/v4pWR4zNyk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047624469636669558",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047273584662585596",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "如果你被我喜欢上那么恭喜你获得了一只赶不走的狗 https://t.co/v4pWR4zNyk"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028430373458456576",
+        "conversation_id": "2047624469636669558",
+        "created_at": "2026-04-24T10:31:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T11:31:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047624469636669558"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/louielu1666/st…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/louielu1666/status/2047273584662585596",
+              "start": 24,
+              "url": "https://t.co/v4pWR4zNyk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047624469636669558",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047273584662585596",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "如果你被我喜欢上那么恭喜你获得了一只赶不走的狗 https://t.co/v4pWR4zNyk"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1697998200366362624",
+        "conversation_id": "2047273584662585596",
+        "created_at": "2026-04-23T11:17:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T12:17:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047273584662585596"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2047273584662585596",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1327,
+          "like_count": 35,
+          "quote_count": 2,
+          "reply_count": 2,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "我这种人一喜欢上你就要撒娇卖萌装委屈装可爱用尽全身力气地缠着你…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-02T11:21:20.000Z",
+        "description": "哥控｜我需要很多周末o.O 这个是我的大分身@qiu_song60259\n锁推小号@Kuguadawang6677",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 22,
+                "username": "qiu_song60259"
+              },
+              {
+                "end": 57,
+                "start": 41,
+                "username": "Kuguadawang6677"
+              }
+            ]
+          }
+        },
+        "id": "2028430373458456576",
+        "location": "加载中……",
+        "name": "咩咩",
+        "pinned_tweet_id": "2035726523810861085",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028450466460241920/ceK3GGSB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 511,
+          "following_count": 378,
+          "like_count": 5085,
+          "listed_count": 0,
+          "media_count": 60,
+          "tweet_count": 1509
+        },
+        "username": "o65518kuguagua",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-02T15:41:42.000Z",
+        "description": "許願不要再有短暫的人出現打破我平靜的生活          \n            我的世界：好哥哥@petersDavid88｜唯一男神@yuzeh776677｜小天使@kakoice1｜Honey @AGCham1020｜🥵@Bu959Cai｜小动物@Devi114514｜🥰@Randomnewborn",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 51,
+                "username": "petersDavid88"
+              },
+              {
+                "end": 82,
+                "start": 70,
+                "username": "yuzeh776677"
+              },
+              {
+                "end": 95,
+                "start": 86,
+                "username": "kakoice1"
+              },
+              {
+                "end": 113,
+                "start": 102,
+                "username": "AGCham1020"
+              },
+              {
+                "end": 124,
+                "start": 115,
+                "username": "Bu959Cai"
+              },
+              {
+                "end": 139,
+                "start": 128,
+                "username": "Devi114514"
+              },
+              {
+                "end": 155,
+                "start": 141,
+                "username": "Randomnewborn"
+              }
+            ]
+          }
+        },
+        "id": "1697998200366362624",
+        "location": "有求必应屋",
+        "name": "路易十六",
+        "pinned_tweet_id": "2036991134166376900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033808306331127808/jHO0o-OG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 610,
+          "following_count": 1568,
+          "like_count": 12337,
+          "listed_count": 0,
+          "media_count": 154,
+          "tweet_count": 3363
+        },
+        "username": "LOUIELU1666",
+        "verified": false
+      }
+    ]
+  }
+}

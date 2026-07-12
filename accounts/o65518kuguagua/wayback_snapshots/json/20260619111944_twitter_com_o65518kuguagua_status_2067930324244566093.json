@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028430373458456576",
+    "conversation_id": "2067929106680074466",
+    "created_at": "2026-06-19T11:19:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T12:19:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067930324244566093"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1276195734623145984",
+          "start": 0,
+          "username": "strawberryuuuu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067930324244566093",
+    "in_reply_to_user_id": "1276195734623145984",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067929994475852174",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@strawberryuuuu 啊啊啊啊我不行了笑死我了我操"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028430373458456576",
+        "conversation_id": "2067929106680074466",
+        "created_at": "2026-06-19T11:19:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T12:19:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067930324244566093"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1276195734623145984",
+              "start": 0,
+              "username": "strawberryuuuu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067930324244566093",
+        "in_reply_to_user_id": "1276195734623145984",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067929994475852174",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@strawberryuuuu 啊啊啊啊我不行了笑死我了我操"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1276195734623145984",
+        "conversation_id": "2067929106680074466",
+        "created_at": "2026-06-19T11:18:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T12:18:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067929994475852174"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2028430373458456576",
+              "start": 0,
+              "username": "o65518kuguagua"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067929994475852174",
+        "in_reply_to_user_id": "2028430373458456576",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067929106680074466",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@o65518kuguagua 没事，瓜你明年考完随便找个工打他就勾引不到了，社畜过以后就会发现根本没法接受上司哪怕是纸片上司也不行🚬"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-02T11:21:20.000Z",
+        "description": "只是想好好睡觉｜我的名字是瓜瓜｜心肝@imcutefate 最爱的闺闺@Lake_Verion",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 18,
+                "username": "imcutefate"
+              },
+              {
+                "end": 47,
+                "start": 35,
+                "username": "Lake_Verion"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E8%8B%A6%E7%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E8%8B%A6%E7%93%9C%E5%A4%A7%E7%8E%8B",
+                "start": 0,
+                "url": "https://t.co/CdcVmYa8EY"
+              }
+            ]
+          }
+        },
+        "id": "2028430373458456576",
+        "location": "加载中……   匿名→",
+        "name": "虎牙钉",
+        "pinned_tweet_id": "2063001104858648649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060344470910926856/fk6R2qB-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2094,
+          "following_count": 577,
+          "like_count": 9143,
+          "listed_count": 1,
+          "media_count": 170,
+          "tweet_count": 2746
+        },
+        "url": "https://t.co/CdcVmYa8EY",
+        "username": "o65518kuguagua",
+        "verified": false
+      },
+      {
+        "created_at": "2020-06-25T16:49:20.000Z",
+        "description": "INTJ♊ | 不回未关注私信 | 电子暴露癖 游戏 少量碎碎念 微量日常 | 互关加v直接找我要，不是互关非要加就打钱。| 婉拒4i❌ | ⁺✞ʚ帅哥重度依赖ɞ✟₊ ⁺✞ʚ青年音重度依赖ɞ✟₊ ⁺✞ʚ腹肌重度依赖ɞ✟₊ | 💌匿名信箱→https://t.co/5NlUEza8IU",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/stawberry84451",
+                "end": 142,
+                "expanded_url": "https://ngl.link/stawberry84451",
+                "start": 119,
+                "url": "https://t.co/5NlUEza8IU"
+              }
+            ]
+          }
+        },
+        "id": "1276195734623145984",
+        "location": "非要加好友🚪188/520 纯绿纯圈钱没有任何福利",
+        "name": "Strawberry",
+        "pinned_tweet_id": "2063557144595886383",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1276385697910280192/_14o879r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3290,
+          "following_count": 71,
+          "like_count": 4639,
+          "listed_count": 9,
+          "media_count": 275,
+          "tweet_count": 1777
+        },
+        "url": "",
+        "username": "strawberryuuuu",
+        "verified": false
+      }
+    ]
+  }
+}

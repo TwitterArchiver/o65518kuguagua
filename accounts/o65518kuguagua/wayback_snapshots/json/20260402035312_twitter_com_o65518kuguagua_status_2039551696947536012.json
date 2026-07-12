@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028430373458456576",
+    "conversation_id": "2039551696947536012",
+    "created_at": "2026-04-02T03:53:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-02T04:53:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2039551696947536012"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/filedpzz/statu…",
+          "end": 55,
+          "expanded_url": "https://twitter.com/filedpzz/status/2039476353641361816",
+          "start": 32,
+          "url": "https://t.co/HycD0C0jbu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039551696947536012",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039476353641361816",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我几时才能谈上…什么异地恋qq恋推推恋异性恋同性恋我都认了好吗 https://t.co/HycD0C0jbu"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028430373458456576",
+        "conversation_id": "2039551696947536012",
+        "created_at": "2026-04-02T03:53:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T04:53:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039551696947536012"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/filedpzz/statu…",
+              "end": 55,
+              "expanded_url": "https://twitter.com/filedpzz/status/2039476353641361816",
+              "start": 32,
+              "url": "https://t.co/HycD0C0jbu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039551696947536012",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039476353641361816",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我几时才能谈上…什么异地恋qq恋推推恋异性恋同性恋我都认了好吗 https://t.co/HycD0C0jbu"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1937784283621654528",
+        "conversation_id": "2039476353641361816",
+        "created_at": "2026-04-01T22:53:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T23:53:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039476353641361816"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2039476353641361816",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 432,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我几时才能谈上…什么异地恋qq恋推推恋异性恋同性恋我都认了好吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-02T11:21:20.000Z",
+        "description": "哥控｜我需要很多周末o.O 这个是我的大分身@qiu_song60259\n锁推小号@Kuguadawang6677",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 22,
+                "username": "qiu_song60259"
+              },
+              {
+                "end": 57,
+                "start": 41,
+                "username": "Kuguadawang6677"
+              }
+            ]
+          }
+        },
+        "id": "2028430373458456576",
+        "location": "加载中……",
+        "name": "咩咩",
+        "pinned_tweet_id": "2035726523810861085",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028450466460241920/ceK3GGSB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 371,
+          "following_count": 300,
+          "like_count": 2829,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 901
+        },
+        "username": "o65518kuguagua",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-25T08:05:59.000Z",
+        "description": "不准认出我",
+        "id": "1937784283621654528",
+        "name": "吱吱zzii",
+        "pinned_tweet_id": "2033389122002522220",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003663986089476096/OnggSk7f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1676,
+          "following_count": 37,
+          "like_count": 883,
+          "listed_count": 2,
+          "media_count": 20,
+          "tweet_count": 186
+        },
+        "username": "filedpzz",
+        "verified": false
+      }
+    ]
+  }
+}

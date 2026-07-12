@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028430373458456576",
+    "conversation_id": "2030668648788951158",
+    "created_at": "2026-03-08T15:35:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-08T16:35:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2030668648788951158"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/amy526969/stat…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/amy526969/status/2030224151961587860",
+          "start": 6,
+          "url": "https://t.co/4BOo3FcrbR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030668648788951158",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030224151961587860",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "哦哦哦哦哦 https://t.co/4BOo3FcrbR"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028430373458456576",
+        "conversation_id": "2030668648788951158",
+        "created_at": "2026-03-08T15:35:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-08T16:35:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030668648788951158"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/amy526969/stat…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/amy526969/status/2030224151961587860",
+              "start": 6,
+              "url": "https://t.co/4BOo3FcrbR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030668648788951158",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030224151961587860",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "哦哦哦哦哦 https://t.co/4BOo3FcrbR"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1832664562086060032",
+        "conversation_id": "2030224151961587860",
+        "created_at": "2026-03-07T10:08:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-07T11:08:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030224151961587860"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2030224151961587860",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 13611,
+          "like_count": 485,
+          "quote_count": 10,
+          "reply_count": 18,
+          "retweet_count": 51
+        },
+        "reply_settings": "everyone",
+        "text": "我语言能力：我的法克、我不行了、咋这样、我都无语、我都那个了、卧槽、啊啊啊啊、牛逼克拉斯、咳咳、好吧、笨人、坤续"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-02T11:21:20.000Z",
+        "description": "我需要很多周末o.O 这个是我的大分身@qiu_song60259",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 19,
+                "username": "qiu_song60259"
+              }
+            ]
+          }
+        },
+        "id": "2028430373458456576",
+        "location": "加载中……",
+        "name": "咩咩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028450466460241920/ceK3GGSB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 103,
+          "following_count": 39,
+          "like_count": 329,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 68
+        },
+        "username": "o65518kuguagua",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-08T06:17:50.000Z",
+        "description": "生活将我击倒在地 我幸福的睡着了 ｜🎺 @mili07190 ｜提问箱https://t.co/mQpJze4fzI｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 20,
+                "username": "mili07190"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/amy81021",
+                "end": 58,
+                "expanded_url": "https://ngl.link/amy81021",
+                "start": 35,
+                "url": "https://t.co/mQpJze4fzI"
+              }
+            ]
+          }
+        },
+        "id": "1832664562086060032",
+        "name": "amy",
+        "pinned_tweet_id": "2012493963584770511",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931712353025822720/lfj_LOPb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2143,
+          "following_count": 147,
+          "like_count": 16566,
+          "listed_count": 2,
+          "media_count": 509,
+          "tweet_count": 6192
+        },
+        "username": "Amy526969",
+        "verified": false
+      }
+    ]
+  }
+}

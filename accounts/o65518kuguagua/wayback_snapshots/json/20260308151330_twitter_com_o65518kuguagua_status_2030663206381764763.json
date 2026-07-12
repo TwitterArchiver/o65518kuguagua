@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028430373458456576",
+    "conversation_id": "2030663206381764763",
+    "created_at": "2026-03-08T15:13:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-08T16:13:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2030663206381764763"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/melodyye1224/s…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/melodyye1224/status/2030472548585189497",
+          "start": 6,
+          "url": "https://t.co/gMaaA4IZws"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030663206381764763",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030472548585189497",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我去我要买 https://t.co/gMaaA4IZws"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1545,
+        "media_key": "3_2030467419454803968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HC2rXDCbkAAVCIq.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028430373458456576",
+        "conversation_id": "2030663206381764763",
+        "created_at": "2026-03-08T15:13:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-08T16:13:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030663206381764763"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/melodyye1224/s…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/melodyye1224/status/2030472548585189497",
+              "start": 6,
+              "url": "https://t.co/gMaaA4IZws"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030663206381764763",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030472548585189497",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我去我要买 https://t.co/gMaaA4IZws"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2030467419454803968"
+          ]
+        },
+        "author_id": "3262913353",
+        "conversation_id": "2030472548585189497",
+        "created_at": "2026-03-08T02:35:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-08T03:15:33.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030467428417986686",
+          "2030472548585189497"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SrXS5SjkxV",
+              "end": 164,
+              "expanded_url": "https://x.com/MelodyYe1224/status/2030472548585189497/photo/1",
+              "media_key": "3_2030467419454803968",
+              "start": 141,
+              "url": "https://t.co/SrXS5SjkxV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030472548585189497",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "再给你们安利个被子！\n就是这个泡芙被，我也是 B 站被安利，抱着试试的心理买的。\n在这之前我都睡我外婆和我妈亲手做的棉花被，老一辈人手艺真的没得说，但是又沉又不贴身。\n但是真没想到超级舒服，真的是云朵感、空气感，很轻但很保暖。关键还能机洗，对我这种我这种不爱套被套的懒人太友好了。\n这段时间天气热起来了，加上给猫开空调房间温度也高，我就又下单了个春夏被，到货了，真的太舒服了！"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 211,
+          "impression_count": 43920,
+          "like_count": 515,
+          "quote_count": 2,
+          "reply_count": 8,
+          "retweet_count": 27
+        },
+        "reply_settings": "everyone",
+        "text": "再给你们安利个被子！\n就是这个泡芙被，我也是 B 站被安利，抱着试试的心理买的。\n在这之前我都睡我外婆和我妈亲手做的棉花被，老一辈人手艺真的没得说，但是又沉又不贴身。\n但是真没想到超级舒服，真的是云朵感、空气感，很轻但很保暖。关键还能机洗，对我这种我这种不爱套被套的懒人太友好了。 https://t.co/SrXS5SjkxV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-02T11:21:20.000Z",
+        "description": "我需要很多周末o.O 这个是我的大分身@qiu_song60259",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 19,
+                "username": "qiu_song60259"
+              }
+            ]
+          }
+        },
+        "id": "2028430373458456576",
+        "location": "加载中……",
+        "name": "咩咩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028450466460241920/ceK3GGSB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 103,
+          "following_count": 38,
+          "like_count": 296,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 62
+        },
+        "username": "o65518kuguagua",
+        "verified": false
+      },
+      {
+        "created_at": "2015-07-01T04:21:21.000Z",
+        "description": "倾听倾诉·情感咨询·心理疗愈 ❤️ 企鹅:162145085 见置顶丨欢迎收看一个中年女人平凡而美好的生活丨海狸是一只虎斑德文丨本人恋爱脑/P图高手/探店达人/微醺爱好者/缅A韭菜丨不看私信",
+        "id": "3262913353",
+        "name": "叶紫老师也是同学",
+        "pinned_tweet_id": "1999766301737365656",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011407913479503872/0XlFs2Kh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9322,
+          "following_count": 139,
+          "like_count": 11397,
+          "listed_count": 24,
+          "media_count": 309,
+          "tweet_count": 1839
+        },
+        "username": "MelodyYe1224",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028430373458456576",
+    "conversation_id": "2041909092617470035",
+    "created_at": "2026-04-08T16:00:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-08T17:00:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041909092617470035"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2026223930512744448",
+          "start": 3,
+          "username": "jjusin0127"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041909092617470035",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 65
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041530802870403463",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @jjusin0127: 其实我的理想型是像女性的男生，跟长相与性格没关系，就是非常非常细腻，非常善良，注意我所有的小动作，哪怕他会带点拧巴，容易纠结，我也很喜欢，内心又很感性，有责任心，不逃避，与女性保持距离不乱聊天，我将一直等待，等待他的出现"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028430373458456576",
+        "conversation_id": "2041909092617470035",
+        "created_at": "2026-04-08T16:00:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T17:00:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041909092617470035"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2026223930512744448",
+              "start": 3,
+              "username": "jjusin0127"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041909092617470035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 65
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041530802870403463",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @jjusin0127: 其实我的理想型是像女性的男生，跟长相与性格没关系，就是非常非常细腻，非常善良，注意我所有的小动作，哪怕他会带点拧巴，容易纠结，我也很喜欢，内心又很感性，有责任心，不逃避，与女性保持距离不乱聊天，我将一直等待，等待他的出现"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2026223930512744448",
+        "conversation_id": "2041530802870403463",
+        "created_at": "2026-04-07T14:57:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T15:57:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041530802870403463"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2041530802870403463",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 19,
+          "impression_count": 15995,
+          "like_count": 504,
+          "quote_count": 15,
+          "reply_count": 25,
+          "retweet_count": 65
+        },
+        "reply_settings": "everyone",
+        "text": "其实我的理想型是像女性的男生，跟长相与性格没关系，就是非常非常细腻，非常善良，注意我所有的小动作，哪怕他会带点拧巴，容易纠结，我也很喜欢，内心又很感性，有责任心，不逃避，与女性保持距离不乱聊天，我将一直等待，等待他的出现"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-02T11:21:20.000Z",
+        "description": "哥控｜我需要很多周末o.O 这个是我的大分身@qiu_song60259\n锁推小号@Kuguadawang6677",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 22,
+                "username": "qiu_song60259"
+              },
+              {
+                "end": 57,
+                "start": 41,
+                "username": "Kuguadawang6677"
+              }
+            ]
+          }
+        },
+        "id": "2028430373458456576",
+        "location": "加载中……",
+        "name": "咩咩",
+        "pinned_tweet_id": "2035726523810861085",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028450466460241920/ceK3GGSB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 450,
+          "following_count": 353,
+          "like_count": 4194,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 1252
+        },
+        "username": "o65518kuguagua",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-24T09:13:53.000Z",
+        "description": "想说啥就发啥，少管我，有主勿扰",
+        "id": "2026223930512744448",
+        "name": "面包超人",
+        "pinned_tweet_id": "2041846110294307152",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036147081468059651/yr6xJYju_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 659,
+          "following_count": 1,
+          "like_count": 33,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 86
+        },
+        "username": "jjusin0127",
+        "verified": false
+      }
+    ]
+  }
+}

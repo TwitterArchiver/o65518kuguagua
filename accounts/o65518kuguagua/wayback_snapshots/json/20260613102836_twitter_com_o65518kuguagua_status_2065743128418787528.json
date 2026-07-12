@@ -1,0 +1,150 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2017566149320577031"
+      ],
+      "media_source_tweet_id": [
+        "2017566268438811018"
+      ]
+    },
+    "author_id": "2028430373458456576",
+    "conversation_id": "2065743128418787528",
+    "created_at": "2026-06-13T10:28:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T11:28:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2065743128418787528"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/rs0LVd9FuO",
+          "end": 27,
+          "expanded_url": "https://x.com/corn053/status/2017566268438811018/video/1",
+          "media_key": "13_2017566149320577031",
+          "start": 4,
+          "url": "https://t.co/rs0LVd9FuO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065743128418787528",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "好骚。 https://t.co/rs0LVd9FuO"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2065743128418787528].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2065743128418787528",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2065743128418787528"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 52700,
+        "height": 720,
+        "media_key": "13_2017566149320577031",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2017566149320577031/img/KbZHSgZ2yi0LrRpa.jpg",
+        "public_metrics": {
+          "view_count": 57136
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2017566149320577031/vid/avc1/480x270/yKpwG4aAqU9EIQ9Z.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2017566149320577031/vid/avc1/640x360/V9tB3J7IVkA9u0qN.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2017566149320577031/vid/avc1/1280x720/FoBYWF-EQ7ehUVMN.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2017566149320577031/pl/Ih90FnfFRDsjBgap.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-02T11:21:20.000Z",
+        "description": "只是想好好睡觉｜我的名字是瓜瓜｜心肝@imcutefate 最爱的闺闺@Lake_Verion",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 18,
+                "username": "imcutefate"
+              },
+              {
+                "end": 47,
+                "start": 35,
+                "username": "Lake_Verion"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E8%8B%A6%E7%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E8%8B%A6%E7%93%9C%E5%A4%A7%E7%8E%8B",
+                "start": 0,
+                "url": "https://t.co/CdcVmYa8EY"
+              }
+            ]
+          }
+        },
+        "id": "2028430373458456576",
+        "location": "加载中……   匿名→",
+        "name": "虎牙钉（我发不了帖子了只能一直转发回复）",
+        "pinned_tweet_id": "2063001104858648649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060344470910926856/fk6R2qB-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2093,
+          "following_count": 593,
+          "like_count": 8651,
+          "listed_count": 1,
+          "media_count": 143,
+          "tweet_count": 2502
+        },
+        "url": "https://t.co/CdcVmYa8EY",
+        "username": "o65518kuguagua",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,172 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028430373458456576",
+    "conversation_id": "2039007999935852990",
+    "created_at": "2026-04-01T03:42:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-01T04:42:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039186734815072490"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1553239054933958656",
+          "start": 0,
+          "username": "yuchangge1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039186734815072490",
+    "in_reply_to_user_id": "1553239054933958656",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039007999935852990",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yuchangge1 笑死我了"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2039007999935852990].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2039007999935852990",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2039007999935852990"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028430373458456576",
+        "conversation_id": "2039007999935852990",
+        "created_at": "2026-04-01T03:42:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T04:42:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039186734815072490"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1553239054933958656",
+              "start": 0,
+              "username": "yuchangge1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039186734815072490",
+        "in_reply_to_user_id": "1553239054933958656",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039007999935852990",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuchangge1 笑死我了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-02T11:21:20.000Z",
+        "description": "哥控｜我需要很多周末o.O 这个是我的大分身@qiu_song60259\n锁推小号@Kuguadawang6677",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 22,
+                "username": "qiu_song60259"
+              },
+              {
+                "end": 57,
+                "start": 41,
+                "username": "Kuguadawang6677"
+              }
+            ]
+          }
+        },
+        "id": "2028430373458456576",
+        "location": "加载中……",
+        "name": "咩咩",
+        "pinned_tweet_id": "2035726523810861085",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028450466460241920/ceK3GGSB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 351,
+          "following_count": 288,
+          "like_count": 2636,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 820
+        },
+        "username": "o65518kuguagua",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-30T04:40:46.000Z",
+        "description": "今天反正我是休息一天，毕竟后面都是打的都是身体战，现在不好好休息，后面绝对撑不住的，而且考研官方从来都没有要求我们去复习，只是说了考试范围，报名时间，勘察现场，进行考试，从来就没有复习环节，所有内容都是本科学过的，复习的都是本科没有好好学，现在想投机取巧，反正我是不打算复习的，不管大家怎么样，反正我是务必休息一天",
+        "id": "1553239054933958656",
+        "name": "我讨厌你",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997236661152030720/JdadvcyX_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 634,
+          "following_count": 188,
+          "like_count": 19180,
+          "listed_count": 1,
+          "media_count": 8,
+          "tweet_count": 879
+        },
+        "username": "yuchangge1",
+        "verified": false
+      }
+    ]
+  }
+}

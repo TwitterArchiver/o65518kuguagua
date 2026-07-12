@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028430373458456576",
+    "conversation_id": "2041734742513709254",
+    "created_at": "2026-04-08T04:27:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-08T05:27:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2041734742513709254"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/0b7cm/status/2…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/0b7cm/status/2041505811835584915",
+          "start": 5,
+          "url": "https://t.co/ft3vqEvXao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041734742513709254",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041505811835584915",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我喜欢。 https://t.co/ft3vqEvXao"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028430373458456576",
+        "conversation_id": "2041734742513709254",
+        "created_at": "2026-04-08T04:27:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T05:27:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041734742513709254"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/0b7cm/status/2…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/0b7cm/status/2041505811835584915",
+              "start": 5,
+              "url": "https://t.co/ft3vqEvXao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041734742513709254",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041505811835584915",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我喜欢。 https://t.co/ft3vqEvXao"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "810779795214581760",
+        "conversation_id": "2041505811835584915",
+        "created_at": "2026-04-07T13:18:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T14:18:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041505811835584915"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2041505811835584915",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 73,
+          "impression_count": 41561,
+          "like_count": 1123,
+          "quote_count": 30,
+          "reply_count": 22,
+          "retweet_count": 82
+        },
+        "reply_settings": "everyone",
+        "text": "谈恋爱一定要选那种闷骚的平常对别人冷冷淡淡像谁都不想亲近\n可一看到你眼神就亮了\n会抱你黏你撒娇\n像一只只对你摇尾巴的小狗安静不吵却黏得刚刚好专属感超重超级上瘾。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-02T11:21:20.000Z",
+        "description": "哥控｜我需要很多周末o.O 这个是我的大分身@qiu_song60259\n锁推小号@Kuguadawang6677",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 22,
+                "username": "qiu_song60259"
+              },
+              {
+                "end": 57,
+                "start": 41,
+                "username": "Kuguadawang6677"
+              }
+            ]
+          }
+        },
+        "id": "2028430373458456576",
+        "location": "加载中……",
+        "name": "咩咩",
+        "pinned_tweet_id": "2035726523810861085",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028450466460241920/ceK3GGSB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 448,
+          "following_count": 346,
+          "like_count": 3975,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 1225
+        },
+        "username": "o65518kuguagua",
+        "verified": false
+      },
+      {
+        "created_at": "2016-12-19T09:32:21.000Z",
+        "description": "樹洞、戀愛學、男生女生那些事🫧、热梗、分享慾、秘密を話せる場所、女子の本音、男女のあれこれ",
+        "id": "810779795214581760",
+        "location": "树洞｜男女のあれこれ",
+        "name": "草莓🍓女の子",
+        "pinned_tweet_id": "2041490052367454503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028355402879098881/VTdmZDUn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3124,
+          "following_count": 1123,
+          "like_count": 5732,
+          "listed_count": 5,
+          "media_count": 449,
+          "tweet_count": 6432
+        },
+        "username": "0b7cm",
+        "verified": true
+      }
+    ]
+  }
+}

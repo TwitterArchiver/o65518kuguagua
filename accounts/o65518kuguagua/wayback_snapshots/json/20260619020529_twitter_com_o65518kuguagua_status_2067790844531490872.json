@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028430373458456576",
+    "conversation_id": "2067701948510564769",
+    "created_at": "2026-06-19T02:05:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T03:05:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067790844531490872"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1674808942340485120",
+          "start": 0,
+          "username": "qianbing1578984"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067790844531490872",
+    "in_reply_to_user_id": "1674808942340485120",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067701948510564769",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qianbing1578984 咋对你有敌意啊这人太坏了。。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028430373458456576",
+        "conversation_id": "2067701948510564769",
+        "created_at": "2026-06-19T02:05:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T03:05:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067790844531490872"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1674808942340485120",
+              "start": 0,
+              "username": "qianbing1578984"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067790844531490872",
+        "in_reply_to_user_id": "1674808942340485120",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067701948510564769",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qianbing1578984 咋对你有敌意啊这人太坏了。。。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1674808942340485120",
+        "conversation_id": "2067701948510564769",
+        "created_at": "2026-06-18T20:12:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T21:12:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067701948510564769"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2067701948510564769",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 443,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "宿舍那个谈恋爱的死妈男你和你对象俩公母恋闹够了没有 前两天分手安静了两天就和好了现在还在打电话 那个臭婊子我都懒得骂你 我不知道你哪里得到的我的抖音对我莫名其妙有敌意 你老公长的跟一头发了瘟的猪一样 你是死了妈了吗 一个婊子配一个瘟猪 你俩天长地久"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-02T11:21:20.000Z",
+        "description": "只是想好好睡觉｜我的名字是瓜瓜｜心肝@imcutefate 最爱的闺闺@Lake_Verion",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 18,
+                "username": "imcutefate"
+              },
+              {
+                "end": 47,
+                "start": 35,
+                "username": "Lake_Verion"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E8%8B%A6%E7%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E8%8B%A6%E7%93%9C%E5%A4%A7%E7%8E%8B",
+                "start": 0,
+                "url": "https://t.co/CdcVmYa8EY"
+              }
+            ]
+          }
+        },
+        "id": "2028430373458456576",
+        "location": "加载中……   匿名→",
+        "name": "虎牙钉",
+        "pinned_tweet_id": "2063001104858648649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060344470910926856/fk6R2qB-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2092,
+          "following_count": 595,
+          "like_count": 8999,
+          "listed_count": 1,
+          "media_count": 165,
+          "tweet_count": 2696
+        },
+        "url": "https://t.co/CdcVmYa8EY",
+        "username": "o65518kuguagua",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-30T15:56:08.000Z",
+        "description": "我并不知道您咋了",
+        "id": "1674808942340485120",
+        "name": "BB sweet",
+        "pinned_tweet_id": "2064674812405121422",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040470143818674176/RT1B_u_r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9817,
+          "following_count": 42,
+          "like_count": 2524,
+          "listed_count": 34,
+          "media_count": 9,
+          "tweet_count": 697
+        },
+        "url": "",
+        "username": "qianbing1578984",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028430373458456576",
+    "conversation_id": "2032704081236730012",
+    "created_at": "2026-03-14T06:23:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-14T07:23:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2032704081236730012"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/txtloveni/stat…",
+          "end": 26,
+          "expanded_url": "https://twitter.com/txtloveni/status/2032517863026864288",
+          "start": 3,
+          "url": "https://t.co/aDwVrLgG45"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032704081236730012",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032517863026864288",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "好爽 https://t.co/aDwVrLgG45"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1133,
+        "media_key": "3_2032517849038872576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDT0NweaYAA0z1_.jpg",
+        "width": 1290
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028430373458456576",
+        "conversation_id": "2032704081236730012",
+        "created_at": "2026-03-14T06:23:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-14T07:23:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032704081236730012"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/txtloveni/stat…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/txtloveni/status/2032517863026864288",
+              "start": 3,
+              "url": "https://t.co/aDwVrLgG45"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032704081236730012",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032517863026864288",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好爽 https://t.co/aDwVrLgG45"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2032517849038872576"
+          ]
+        },
+        "author_id": "2014309453097754624",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2032517863026864288",
+        "created_at": "2026-03-13T18:03:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-13T19:03:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032517863026864288"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ESBuY31Yj7",
+              "end": 31,
+              "expanded_url": "https://x.com/TxTloveni/status/2032517863026864288/photo/1",
+              "media_key": "3_2032517849038872576",
+              "start": 8,
+              "url": "https://t.co/ESBuY31Yj7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032517863026864288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 578,
+          "impression_count": 514675,
+          "like_count": 4483,
+          "quote_count": 21,
+          "reply_count": 128,
+          "retweet_count": 104
+        },
+        "reply_settings": "everyone",
+        "text": "怎么可以这样… https://t.co/ESBuY31Yj7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-02T11:21:20.000Z",
+        "description": "我需要很多周末o.O 这个是我的大分身@qiu_song60259",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 19,
+                "username": "qiu_song60259"
+              }
+            ]
+          }
+        },
+        "id": "2028430373458456576",
+        "location": "加载中……",
+        "name": "咩咩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028450466460241920/ceK3GGSB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 132,
+          "following_count": 105,
+          "like_count": 630,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 153
+        },
+        "username": "o65518kuguagua",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-22T12:09:45.000Z",
+        "description": "My darling stay gold",
+        "id": "2014309453097754624",
+        "name": "泥中骨",
+        "pinned_tweet_id": "2024705404769620005",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014315637766828034/oW10b0e9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19829,
+          "following_count": 5,
+          "like_count": 22,
+          "listed_count": 18,
+          "media_count": 50,
+          "tweet_count": 516
+        },
+        "username": "TxTloveni",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028430373458456576",
+    "conversation_id": "2050481892512911627",
+    "created_at": "2026-05-02T08:31:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-02T09:31:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050493478027542940"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2019670576730902528",
+          "start": 0,
+          "username": "sunnyrain7117"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050493478027542940",
+    "in_reply_to_user_id": "2019670576730902528",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050481892512911627",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sunnyrain7117 老婆"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2050481880907362304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHTGaCHbsAAeT_i.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028430373458456576",
+        "conversation_id": "2050481892512911627",
+        "created_at": "2026-05-02T08:31:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T09:31:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050493478027542940"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2019670576730902528",
+              "start": 0,
+              "username": "sunnyrain7117"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050493478027542940",
+        "in_reply_to_user_id": "2019670576730902528",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050481892512911627",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sunnyrain7117 老婆"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050481880907362304"
+          ]
+        },
+        "author_id": "2019670576730902528",
+        "conversation_id": "2050481892512911627",
+        "created_at": "2026-05-02T07:45:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T08:45:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050481892512911627"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2UMZSuJNZE",
+              "end": 37,
+              "expanded_url": "https://x.com/sunnyrain7117/status/2050481892512911627/photo/1",
+              "media_key": "3_2050481880907362304",
+              "start": 14,
+              "url": "https://t.co/2UMZSuJNZE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050481892512911627",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 283,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我要出门了 看好你们的老婆 https://t.co/2UMZSuJNZE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-02T11:21:20.000Z",
+        "description": "我只是在自说自话｜哥控｜09美术生o.O ｜以后会用做这个号作为主号！这个是我的大分身@qiu_song60259\n锁推小号@Kuguadawang6677 嫌我吵的话你点一下那个屏蔽我就死掉了｜双取请随意谢谢你们愿意跟我玩",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 43,
+                "username": "qiu_song60259"
+              },
+              {
+                "end": 78,
+                "start": 62,
+                "username": "Kuguadawang6677"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E8%8B%A6%E7%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E8%8B%A6%E7%93%9C%E5%A4%A7%E7%8E%8B",
+                "start": 0,
+                "url": "https://t.co/CdcVmYa8EY"
+              }
+            ]
+          }
+        },
+        "id": "2028430373458456576",
+        "location": "加载中……   匿名→",
+        "name": "咩咩",
+        "pinned_tweet_id": "2047911866517659665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028450466460241920/ceK3GGSB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 698,
+          "following_count": 416,
+          "like_count": 6310,
+          "listed_count": 0,
+          "media_count": 80,
+          "tweet_count": 1749
+        },
+        "url": "https://t.co/CdcVmYa8EY",
+        "username": "o65518kuguagua",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-06T07:12:56.000Z",
+        "description": "我记得你眼神拥抱我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%88%91%E6%B…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E6%88%91%E6%B3%AA%E6%B3%AA%E7%9A%84",
+                "start": 0,
+                "url": "https://t.co/0fG1CkMXUE"
+              }
+            ]
+          }
+        },
+        "id": "2019670576730902528",
+        "name": "卷卷",
+        "pinned_tweet_id": "2045679756696588640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049365663475802113/yP3tCkiy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 160,
+          "following_count": 35,
+          "like_count": 1004,
+          "listed_count": 0,
+          "media_count": 157,
+          "tweet_count": 1882
+        },
+        "url": "https://t.co/0fG1CkMXUE",
+        "username": "sunnyrain7117",
+        "verified": false
+      }
+    ]
+  }
+}

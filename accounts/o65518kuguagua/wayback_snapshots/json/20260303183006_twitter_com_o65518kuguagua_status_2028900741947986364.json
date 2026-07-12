@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028430373458456576",
+    "conversation_id": "2028870299769610348",
+    "created_at": "2026-03-03T18:30:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-03T19:30:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028900741947986364"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1331503196439601152",
+          "start": 0,
+          "username": "bibibixixixi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028900741947986364",
+    "in_reply_to_user_id": "1331503196439601152",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028871124889784356",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bibibixixixi 咩咩喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028430373458456576",
+        "conversation_id": "2028870299769610348",
+        "created_at": "2026-03-03T18:30:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T19:30:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028900741947986364"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1331503196439601152",
+              "start": 0,
+              "username": "bibibixixixi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028900741947986364",
+        "in_reply_to_user_id": "1331503196439601152",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028871124889784356",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bibibixixixi 咩咩喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1331503196439601152",
+        "conversation_id": "2028870299769610348",
+        "created_at": "2026-03-03T16:32:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T17:32:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028871124889784356"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2028430373458456576",
+              "start": 0,
+              "username": "o65518kuguagua"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028871124889784356",
+        "in_reply_to_user_id": "2028430373458456576",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028870299769610348",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@o65518kuguagua 咩咩咩"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-02T11:21:20.000Z",
+        "description": "我需要很多周末o.O 这个是我的大分身@qiu_song60259",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 19,
+                "username": "qiu_song60259"
+              }
+            ]
+          }
+        },
+        "id": "2028430373458456576",
+        "location": "加载中……",
+        "name": "咩咩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028450466460241920/ceK3GGSB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 95,
+          "following_count": 25,
+          "like_count": 125,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 20
+        },
+        "username": "o65518kuguagua",
+        "verified": false
+      },
+      {
+        "created_at": "2020-11-25T07:41:23.000Z",
+        "description": "天天玩游戏看电影🥰宅男",
+        "id": "1331503196439601152",
+        "location": "深圳",
+        "name": "咕咕喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1940374288650895360/hJPkwvGM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 825,
+          "like_count": 3490,
+          "listed_count": 1,
+          "media_count": 58,
+          "tweet_count": 8657
+        },
+        "username": "bibibixixixi",
+        "verified": false
+      }
+    ]
+  }
+}

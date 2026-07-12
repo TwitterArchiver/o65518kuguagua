@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028430373458456576",
+    "conversation_id": "2039509491981619516",
+    "created_at": "2026-04-02T04:48:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-02T05:48:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039565727040962639"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2017823427298766848",
+          "start": 0,
+          "username": "AEason_chen"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039565727040962639",
+    "in_reply_to_user_id": "2017823427298766848",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039509491981619516",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AEason_chen 哎宝宝加油呀"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 286,
+        "media_key": "3_2039509485681852417",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE3LEkobQAEGYJd.jpg",
+        "width": 625
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028430373458456576",
+        "conversation_id": "2039509491981619516",
+        "created_at": "2026-04-02T04:48:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T05:48:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039565727040962639"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2017823427298766848",
+              "start": 0,
+              "username": "AEason_chen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039565727040962639",
+        "in_reply_to_user_id": "2017823427298766848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039509491981619516",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AEason_chen 哎宝宝加油呀"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2039509485681852417"
+          ]
+        },
+        "author_id": "2017823427298766848",
+        "conversation_id": "2039509491981619516",
+        "created_at": "2026-04-02T01:05:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T02:05:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039509491981619516"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1uIgYqga2i",
+              "end": 40,
+              "expanded_url": "https://x.com/AEason_chen/status/2039509491981619516/photo/1",
+              "media_key": "3_2039509485681852417",
+              "start": 17,
+              "url": "https://t.co/1uIgYqga2i"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039509491981619516",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 231,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "令人一颤的五个字。我可以拒收吗。 https://t.co/1uIgYqga2i"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-02T11:21:20.000Z",
+        "description": "哥控｜我需要很多周末o.O 这个是我的大分身@qiu_song60259\n锁推小号@Kuguadawang6677",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 22,
+                "username": "qiu_song60259"
+              },
+              {
+                "end": 57,
+                "start": 41,
+                "username": "Kuguadawang6677"
+              }
+            ]
+          }
+        },
+        "id": "2028430373458456576",
+        "location": "加载中……",
+        "name": "咩咩",
+        "pinned_tweet_id": "2035726523810861085",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028450466460241920/ceK3GGSB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 371,
+          "following_count": 302,
+          "like_count": 2912,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 932
+        },
+        "username": "o65518kuguagua",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-01T04:52:55.000Z",
+        "description": "07苦命高中休学生｜抽象文学｜INFJ/switch｜ 若你喜欢怪人 其实我很美⦮_ ̫ _⦯｜@chennnnn0v0黑暗小号",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 48,
+                "username": "chennnnn0v0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/renleigaozhili…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/renleigaozhiliangnanxing58",
+                "start": 0,
+                "url": "https://t.co/Tq5oRc96uc"
+              }
+            ]
+          }
+        },
+        "id": "2017823427298766848",
+        "location": "发明宝宝这个词的人真的是个天才只需要两个字就能把我骗的团团转",
+        "name": "搓澡巾",
+        "pinned_tweet_id": "2034329173481886129",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018240658058903553/u0YT8f3e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 209,
+          "following_count": 147,
+          "like_count": 6478,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 297
+        },
+        "url": "https://t.co/Tq5oRc96uc",
+        "username": "AEason_chen",
+        "verified": false
+      }
+    ]
+  }
+}

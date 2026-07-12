@@ -1,0 +1,168 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028430373458456576",
+    "conversation_id": "2033190831339778384",
+    "created_at": "2026-03-18T15:06:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-18T16:06:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034285203808497993"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1958176666150383616",
+          "start": 0,
+          "username": "Frogly2887"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034285203808497993",
+    "in_reply_to_user_id": "1958176666150383616",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033573013610958997",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Frogly2887 🥺🥺OMG"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2033573013610958997].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2033573013610958997",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2033573013610958997"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028430373458456576",
+        "conversation_id": "2033190831339778384",
+        "created_at": "2026-03-18T15:06:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-18T16:06:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034285203808497993"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1958176666150383616",
+              "start": 0,
+              "username": "Frogly2887"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034285203808497993",
+        "in_reply_to_user_id": "1958176666150383616",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033573013610958997",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Frogly2887 🥺🥺OMG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-02T11:21:20.000Z",
+        "description": "我需要很多周末o.O 这个是我的大分身@qiu_song60259",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 19,
+                "username": "qiu_song60259"
+              }
+            ]
+          }
+        },
+        "id": "2028430373458456576",
+        "location": "加载中……",
+        "name": "咩咩",
+        "pinned_tweet_id": "2033190831339778384",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028450466460241920/ceK3GGSB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 132,
+          "following_count": 124,
+          "like_count": 835,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 209
+        },
+        "username": "o65518kuguagua",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-20T14:38:04.000Z",
+        "description": "这里是从澳洲蓝绿变三脚金蟾的大黄蛙🐸第三只脚哪来的别问！在这里你能见到小蛙最可怕的性压抑形态和暴露狂模式以及很露骨的互动留言！有介意的宝宝随时可以和蛙反映蛙会单独调整互动态度的🫂感谢大家陪小蛙牛子遛街射射你们🌸",
+        "id": "1958176666150383616",
+        "name": "Frogly",
+        "pinned_tweet_id": "2027434414863749486",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958203447398039552/Gnd3-qsX_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 88,
+          "following_count": 102,
+          "like_count": 1548,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 1092
+        },
+        "username": "Frogly2887",
+        "verified": false
+      }
+    ]
+  }
+}

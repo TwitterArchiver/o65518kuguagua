@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028430373458456576",
+    "conversation_id": "2039638636853854374",
+    "created_at": "2026-04-02T15:08:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-02T16:08:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039721676670419209"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2037465613455839232",
+          "start": 0,
+          "username": "xini908"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039721676670419209",
+    "in_reply_to_user_id": "2037465613455839232",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039718423165579374",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xini908 你比我牛逼"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028430373458456576",
+        "conversation_id": "2039638636853854374",
+        "created_at": "2026-04-02T15:08:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T16:08:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039721676670419209"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2037465613455839232",
+              "start": 0,
+              "username": "xini908"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039721676670419209",
+        "in_reply_to_user_id": "2037465613455839232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039718423165579374",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xini908 你比我牛逼"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2037465613455839232",
+        "conversation_id": "2039638636853854374",
+        "created_at": "2026-04-02T14:55:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T15:55:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039718423165579374"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2028430373458456576",
+              "start": 0,
+              "username": "o65518kuguagua"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039718423165579374",
+        "in_reply_to_user_id": "2028430373458456576",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039718216625439117",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@o65518kuguagua 哦哦  那很可惜了 我高考选的物化地"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-02T11:21:20.000Z",
+        "description": "哥控｜我需要很多周末o.O 这个是我的大分身@qiu_song60259\n锁推小号@Kuguadawang6677",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 22,
+                "username": "qiu_song60259"
+              },
+              {
+                "end": 57,
+                "start": 41,
+                "username": "Kuguadawang6677"
+              }
+            ]
+          }
+        },
+        "id": "2028430373458456576",
+        "location": "加载中……",
+        "name": "咩咩",
+        "pinned_tweet_id": "2035726523810861085",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028450466460241920/ceK3GGSB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 379,
+          "following_count": 307,
+          "like_count": 3049,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 984
+        },
+        "username": "o65518kuguagua",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-27T09:44:26.000Z",
+        "description": "07男大才玩推没多久，有点色色的不过日常很正经（其实是反差）xp还在探索中（目前感觉自己有点变态 还有点羞耻 可能是还没有法过） 私信都会回 欢迎闲聊 后面可能会发碎碎念以及人生思考 下面👇可以匿名提问",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%85%AE%E6%8…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%85%AE%E6%8B%9F",
+                "start": 0,
+                "url": "https://t.co/ymUpM1LiFK"
+              }
+            ]
+          }
+        },
+        "id": "2037465613455839232",
+        "name": "Xixu",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039710406068113408/VcwhtO_x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 243,
+          "like_count": 124,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 277
+        },
+        "url": "https://t.co/ymUpM1LiFK",
+        "username": "xini908",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028430373458456576",
+    "conversation_id": "2060294075480461504",
+    "created_at": "2026-05-29T09:36:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T10:36:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2060294075480461504"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/xixiyyybuu/sta…",
+          "end": 56,
+          "expanded_url": "https://twitter.com/xixiyyybuu/status/2060183833190785255",
+          "start": 33,
+          "url": "https://t.co/eVQkqZZhfK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060294075480461504",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060183833190785255",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我真的好喜欢夏美她真的好好啊是个特别好的人啊你们不要再骂她了TT https://t.co/eVQkqZZhfK"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028430373458456576",
+        "conversation_id": "2060294075480461504",
+        "created_at": "2026-05-29T09:36:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T10:36:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060294075480461504"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xixiyyybuu/sta…",
+              "end": 56,
+              "expanded_url": "https://twitter.com/xixiyyybuu/status/2060183833190785255",
+              "start": 33,
+              "url": "https://t.co/eVQkqZZhfK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060294075480461504",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060183833190785255",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我真的好喜欢夏美她真的好好啊是个特别好的人啊你们不要再骂她了TT https://t.co/eVQkqZZhfK"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1993224784336048128",
+        "conversation_id": "2060183833190785255",
+        "created_at": "2026-05-29T02:17:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T03:17:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060183833190785255"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060183833190785255",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 15905,
+          "like_count": 30,
+          "quote_count": 1,
+          "reply_count": 18,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我看了夏美拍的写真，我只有一个感觉，就是她真的太美太漂亮了。我只看了一个美丽的小女孩拍的美丽的写真，而非色情低俗。\n在墙内因为这个，夏美被骂的不成样子我真心觉得就是你们看不得人家过得好还有优秀。\n我还真以为夏美拍了啥呢，现在一看也没什么，你们这些人真是够了。。。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-02T11:21:20.000Z",
+        "description": "我只是在自说自话｜09苦逼美术生｜双性恋丨我是瓜瓜/小咪咪（我喜欢改头像和名字别忘记我TⅴT）|前世@qiu_song60259已死（互关巡回中）\n只过熟人@Kuguadawang6677 嫌我吵的话你点一下那个屏蔽我就死掉了｜双取随意谢谢你们愿意跟我玩丨心肝@imcutefate 最爱的闺闺@Lake_Verion",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 50,
+                "username": "qiu_song60259"
+              },
+              {
+                "end": 94,
+                "start": 78,
+                "username": "Kuguadawang6677"
+              },
+              {
+                "end": 141,
+                "start": 130,
+                "username": "imcutefate"
+              },
+              {
+                "end": 159,
+                "start": 147,
+                "username": "Lake_Verion"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E8%8B%A6%E7%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E8%8B%A6%E7%93%9C%E5%A4%A7%E7%8E%8B",
+                "start": 0,
+                "url": "https://t.co/CdcVmYa8EY"
+              }
+            ]
+          }
+        },
+        "id": "2028430373458456576",
+        "location": "加载中……   匿名→",
+        "name": "虎牙钉",
+        "pinned_tweet_id": "2057778441110598119",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058038322078064640/9aLQ7rPo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1519,
+          "following_count": 463,
+          "like_count": 7187,
+          "listed_count": 1,
+          "media_count": 100,
+          "tweet_count": 2011
+        },
+        "url": "https://t.co/CdcVmYa8EY",
+        "username": "o65518kuguagua",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-25T07:49:05.000Z",
+        "description": "发身材照只为欣赏美丽肉体 | 女摄 兼非专业模特~有偿约拍私信 | 不约炮 不线下 不聊骚 | 接瓦娱乐陪玩60/h | 加v请过门 | 🎺@LllYyyXii只过互关| 提问箱⬇️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 80,
+                "start": 70,
+                "username": "LllYyyXii"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "tellonym.me/user.40850188",
+                "end": 23,
+                "expanded_url": "https://tellonym.me/user.40850188",
+                "start": 0,
+                "url": "https://t.co/ccdws9VLHo"
+              }
+            ]
+          }
+        },
+        "id": "1993224784336048128",
+        "location": "388.523.1315  纯绿",
+        "name": "‎₊˚꩜ Xixi✮˚₊",
+        "pinned_tweet_id": "2053667073755373770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051000505590296576/Sx0BRe47_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24133,
+          "following_count": 148,
+          "like_count": 1765,
+          "listed_count": 55,
+          "media_count": 93,
+          "tweet_count": 1774
+        },
+        "url": "https://t.co/ccdws9VLHo",
+        "username": "XixiYyybuu",
+        "verified": true
+      }
+    ]
+  }
+}

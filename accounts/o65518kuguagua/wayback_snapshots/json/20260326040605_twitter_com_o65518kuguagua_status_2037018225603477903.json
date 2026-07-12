@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028430373458456576",
+    "conversation_id": "2036488797563527596",
+    "created_at": "2026-03-26T04:06:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-26T05:06:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037018225603477903"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "987915282688585728",
+          "start": 0,
+          "username": "lessAria_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037018225603477903",
+    "in_reply_to_user_id": "987915282688585728",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036488797563527596",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lessAria_ 已严肃学习"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 22500,
+        "height": 720,
+        "media_key": "13_2036488573277577224",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2036488573277577224/img/FlQw_ZeUtd9RjgDt.jpg",
+        "public_metrics": {
+          "view_count": 1971
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2036488573277577224/vid/avc1/480x270/3fD15vjk_SRQ-4VF.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2036488573277577224/vid/avc1/640x360/WG-8O20UvUATmWhG.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2036488573277577224/vid/avc1/1280x720/waARrQHhpO9KmaRb.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2036488573277577224/pl/TnnVsiRmlBQBQ9OO.m3u8?v=2d5"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028430373458456576",
+        "conversation_id": "2036488797563527596",
+        "created_at": "2026-03-26T04:06:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T05:06:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037018225603477903"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "987915282688585728",
+              "start": 0,
+              "username": "lessAria_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037018225603477903",
+        "in_reply_to_user_id": "987915282688585728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036488797563527596",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lessAria_ 已严肃学习"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2036488573277577224"
+          ]
+        },
+        "author_id": "987915282688585728",
+        "conversation_id": "2036488797563527596",
+        "created_at": "2026-03-24T17:02:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T18:02:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036488797563527596"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vKSTkuXE8U",
+              "end": 45,
+              "expanded_url": "https://x.com/lessAria_/status/2036488797563527596/video/1",
+              "media_key": "13_2036488573277577224",
+              "start": 22,
+              "url": "https://t.co/vKSTkuXE8U"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036488797563527596",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 4577,
+          "like_count": 56,
+          "quote_count": 0,
+          "reply_count": 16,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "额最近太压抑了就这样了\n注：本人不是男同。 https://t.co/vKSTkuXE8U"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-02T11:21:20.000Z",
+        "description": "我需要很多周末o.O 这个是我的大分身@qiu_song60259",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 19,
+                "username": "qiu_song60259"
+              }
+            ]
+          }
+        },
+        "id": "2028430373458456576",
+        "location": "加载中……",
+        "name": "咩咩",
+        "pinned_tweet_id": "2035726523810861085",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028450466460241920/ceK3GGSB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 174,
+          "following_count": 208,
+          "like_count": 1554,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 464
+        },
+        "username": "o65518kuguagua",
+        "verified": false
+      },
+      {
+        "created_at": "2018-04-22T04:45:32.000Z",
+        "description": "时常在地牢里放肆高歌 偶尔也在派对蜷缩睡觉Z☡zᶻ@gotty617 📬匿名向我说任何的链接⬇以及本人⬆️睡觉中，我不怎么打呼噜//    ♪",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 25,
+                "username": "gotty617"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xingququan.com/jioutiti",
+                "end": 23,
+                "expanded_url": "https://www.xingququan.com/jioutiti",
+                "start": 0,
+                "url": "https://t.co/iWAoxxyisF"
+              }
+            ]
+          }
+        },
+        "id": "987915282688585728",
+        "location": "互联网",
+        "name": "Gott",
+        "pinned_tweet_id": "1847355929983144003",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004207823505293312/UhotauKp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1444,
+          "following_count": 810,
+          "like_count": 42979,
+          "listed_count": 5,
+          "media_count": 534,
+          "tweet_count": 6721
+        },
+        "url": "https://t.co/iWAoxxyisF",
+        "username": "lessAria_",
+        "verified": false
+      }
+    ]
+  }
+}

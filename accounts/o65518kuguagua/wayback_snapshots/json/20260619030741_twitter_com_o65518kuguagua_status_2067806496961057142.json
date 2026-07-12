@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028430373458456576",
+    "conversation_id": "2067330117186027599",
+    "created_at": "2026-06-19T03:07:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T04:07:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067806496961057142"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1961953184890716160",
+          "start": 0,
+          "username": "winter_0101ovo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067806496961057142",
+    "in_reply_to_user_id": "1961953184890716160",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067330117186027599",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@winter_0101ovo 我笑的屎要拉出来了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 904,
+        "media_key": "3_2067330107258044416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLChx4SWAAAQN3u.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028430373458456576",
+        "conversation_id": "2067330117186027599",
+        "created_at": "2026-06-19T03:07:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T04:07:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067806496961057142"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1961953184890716160",
+              "start": 0,
+              "username": "winter_0101ovo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067806496961057142",
+        "in_reply_to_user_id": "1961953184890716160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067330117186027599",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@winter_0101ovo 我笑的屎要拉出来了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067330107258044416"
+          ]
+        },
+        "author_id": "1961953184890716160",
+        "conversation_id": "2067330117186027599",
+        "created_at": "2026-06-17T19:34:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T20:34:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067330117186027599"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MqArT88euU",
+              "end": 44,
+              "expanded_url": "https://x.com/winter_0101ovo/status/2067330117186027599/photo/1",
+              "media_key": "3_2067330107258044416",
+              "start": 21,
+              "url": "https://t.co/MqArT88euU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067330117186027599",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 20002,
+          "like_count": 101,
+          "quote_count": 0,
+          "reply_count": 35,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我感觉自己特别可怜 吵架哭一半还要去打狗 https://t.co/MqArT88euU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-02T11:21:20.000Z",
+        "description": "只是想好好睡觉｜我的名字是瓜瓜｜心肝@imcutefate 最爱的闺闺@Lake_Verion",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 18,
+                "username": "imcutefate"
+              },
+              {
+                "end": 47,
+                "start": 35,
+                "username": "Lake_Verion"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E8%8B%A6%E7%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E8%8B%A6%E7%93%9C%E5%A4%A7%E7%8E%8B",
+                "start": 0,
+                "url": "https://t.co/CdcVmYa8EY"
+              }
+            ]
+          }
+        },
+        "id": "2028430373458456576",
+        "location": "加载中……   匿名→",
+        "name": "虎牙钉",
+        "pinned_tweet_id": "2063001104858648649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060344470910926856/fk6R2qB-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2092,
+          "following_count": 597,
+          "like_count": 9046,
+          "listed_count": 1,
+          "media_count": 166,
+          "tweet_count": 2710
+        },
+        "url": "https://t.co/CdcVmYa8EY",
+        "username": "o65518kuguagua",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-31T00:44:34.000Z",
+        "description": "一个网络用户",
+        "id": "1961953184890716160",
+        "name": "T^T",
+        "pinned_tweet_id": "2067647363561255343",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066873774285426688/FpGSCae6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 661,
+          "following_count": 86,
+          "like_count": 857,
+          "listed_count": 0,
+          "media_count": 258,
+          "tweet_count": 1031
+        },
+        "url": "",
+        "username": "winter_0101ovo",
+        "verified": false
+      }
+    ]
+  }
+}

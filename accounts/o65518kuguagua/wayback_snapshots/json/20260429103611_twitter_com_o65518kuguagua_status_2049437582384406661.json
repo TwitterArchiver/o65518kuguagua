@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028430373458456576",
+    "conversation_id": "2049431285941383578",
+    "created_at": "2026-04-29T10:36:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T11:36:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049437582384406661"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "967064259661189120",
+          "start": 0,
+          "username": "Chocola_Kheshig"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049437582384406661",
+    "in_reply_to_user_id": "967064259661189120",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049436401553621395",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Chocola_Kheshig 我又不是你。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028430373458456576",
+        "conversation_id": "2049431285941383578",
+        "created_at": "2026-04-29T10:36:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T11:36:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049437582384406661"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "967064259661189120",
+              "start": 0,
+              "username": "Chocola_Kheshig"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049437582384406661",
+        "in_reply_to_user_id": "967064259661189120",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049436401553621395",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chocola_Kheshig 我又不是你。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "967064259661189120",
+        "conversation_id": "2049431285941383578",
+        "created_at": "2026-04-29T10:31:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T11:31:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049436401553621395"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2028430373458456576",
+              "start": 0,
+              "username": "o65518kuguagua"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049436401553621395",
+        "in_reply_to_user_id": "2028430373458456576",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049434707398676965",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@o65518kuguagua 因为你哭几十秒其实就够了，很多可能的问题除了极少数其实都是没那么可怕，只是情绪渲染让你觉得很难受"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-02T11:21:20.000Z",
+        "description": "哥控｜我需要很多周末o.O 这个是我的大分身@qiu_song60259\n锁推小号@Kuguadawang6677",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 22,
+                "username": "qiu_song60259"
+              },
+              {
+                "end": 57,
+                "start": 41,
+                "username": "Kuguadawang6677"
+              }
+            ]
+          }
+        },
+        "id": "2028430373458456576",
+        "location": "加载中……",
+        "name": "咩咩",
+        "pinned_tweet_id": "2047911866517659665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028450466460241920/ceK3GGSB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 606,
+          "following_count": 397,
+          "like_count": 5724,
+          "listed_count": 0,
+          "media_count": 72,
+          "tweet_count": 1627
+        },
+        "username": "o65518kuguagua",
+        "verified": false
+      },
+      {
+        "created_at": "2018-02-23T15:51:01.000Z",
+        "description": "首先，是犯下首先之罪的首先",
+        "id": "967064259661189120",
+        "name": "巧克力怯薛",
+        "pinned_tweet_id": "1654878118664974338",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1654870694335791105/LCfJ4npL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 319,
+          "like_count": 5727,
+          "listed_count": 4,
+          "media_count": 51,
+          "tweet_count": 2900
+        },
+        "username": "Chocola_Kheshig",
+        "verified": false
+      }
+    ]
+  }
+}

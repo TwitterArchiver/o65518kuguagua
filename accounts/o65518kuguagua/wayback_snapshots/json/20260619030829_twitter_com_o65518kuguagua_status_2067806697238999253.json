@@ -1,0 +1,288 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2067457386491838464"
+      ],
+      "media_source_tweet_id": [
+        "2067457398772809755"
+      ]
+    },
+    "author_id": "2028430373458456576",
+    "conversation_id": "2067806697238999253",
+    "created_at": "2026-06-19T03:08:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T04:08:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067806697238999253"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1421851995355369477",
+          "start": 3,
+          "username": "Aichijiandanxyz"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/zLjxoBqaVV",
+          "end": 48,
+          "expanded_url": "https://x.com/Aichijiandanxyz/status/2067457398772809755/photo/1",
+          "media_key": "3_2067457386491838464",
+          "start": 25,
+          "url": "https://t.co/zLjxoBqaVV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067806697238999253",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 239
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067457398772809755",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @Aichijiandanxyz: 我每天 https://t.co/zLjxoBqaVV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 965,
+        "media_key": "3_2067457386491838464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLEVigYagAATjPU.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067457386491838464"
+          ],
+          "media_source_tweet_id": [
+            "2067457398772809755"
+          ]
+        },
+        "author_id": "2028430373458456576",
+        "conversation_id": "2067806697238999253",
+        "created_at": "2026-06-19T03:08:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T04:08:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067806697238999253"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1421851995355369477",
+              "start": 3,
+              "username": "Aichijiandanxyz"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zLjxoBqaVV",
+              "end": 48,
+              "expanded_url": "https://x.com/Aichijiandanxyz/status/2067457398772809755/photo/1",
+              "media_key": "3_2067457386491838464",
+              "start": 25,
+              "url": "https://t.co/zLjxoBqaVV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067806697238999253",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 239
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067457398772809755",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @Aichijiandanxyz: 我每天 https://t.co/zLjxoBqaVV"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067457386491838464"
+          ]
+        },
+        "author_id": "1421851995355369477",
+        "conversation_id": "2067457398772809755",
+        "created_at": "2026-06-18T04:00:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T05:00:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067457398772809755"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zLjxoBqaVV",
+              "end": 27,
+              "expanded_url": "https://x.com/Aichijiandanxyz/status/2067457398772809755/photo/1",
+              "media_key": "3_2067457386491838464",
+              "start": 4,
+              "url": "https://t.co/zLjxoBqaVV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067457398772809755",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 61,
+          "impression_count": 41419,
+          "like_count": 2752,
+          "quote_count": 23,
+          "reply_count": 0,
+          "retweet_count": 239
+        },
+        "reply_settings": "following",
+        "text": "我每天 https://t.co/zLjxoBqaVV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-02T11:21:20.000Z",
+        "description": "只是想好好睡觉｜我的名字是瓜瓜｜心肝@imcutefate 最爱的闺闺@Lake_Verion",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 18,
+                "username": "imcutefate"
+              },
+              {
+                "end": 47,
+                "start": 35,
+                "username": "Lake_Verion"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E8%8B%A6%E7%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E8%8B%A6%E7%93%9C%E5%A4%A7%E7%8E%8B",
+                "start": 0,
+                "url": "https://t.co/CdcVmYa8EY"
+              }
+            ]
+          }
+        },
+        "id": "2028430373458456576",
+        "location": "加载中……   匿名→",
+        "name": "虎牙钉",
+        "pinned_tweet_id": "2063001104858648649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060344470910926856/fk6R2qB-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2092,
+          "following_count": 597,
+          "like_count": 9049,
+          "listed_count": 1,
+          "media_count": 166,
+          "tweet_count": 2711
+        },
+        "url": "https://t.co/CdcVmYa8EY",
+        "username": "o65518kuguagua",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-01T15:15:33.000Z",
+        "description": "思维补丁，本体是🥚\n\n@eggyyybaby\n#煎蛋不想说话就唱歌吧\n#蛋喘",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 34,
+                "start": 23,
+                "tag": "煎蛋不想说话就唱歌吧"
+              },
+              {
+                "end": 38,
+                "start": 35,
+                "tag": "蛋喘"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 22,
+                "start": 11,
+                "username": "eggyyybaby"
+              }
+            ]
+          }
+        },
+        "id": "1421851995355369477",
+        "location": "🍳",
+        "name": "煎蛋棉被",
+        "pinned_tweet_id": "1844974218825400809",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922277650879676418/p7_qBFWA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20696,
+          "following_count": 332,
+          "like_count": 159860,
+          "listed_count": 60,
+          "media_count": 8491,
+          "tweet_count": 78738
+        },
+        "url": "",
+        "username": "Aichijiandanxyz",
+        "verified": false
+      }
+    ]
+  }
+}

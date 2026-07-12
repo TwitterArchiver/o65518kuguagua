@@ -1,0 +1,310 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028430373458456576",
+    "conversation_id": "2036654671104716855",
+    "created_at": "2026-03-25T04:01:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-25T05:01:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036654671104716855"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2033317543386152960",
+          "start": 3,
+          "username": "rei10_beeeeam"
+        },
+        {
+          "end": 26,
+          "id": "1976383726855839744",
+          "start": 19,
+          "username": "MmeTuT"
+        },
+        {
+          "end": 36,
+          "id": "1918236611684233216",
+          "start": 27,
+          "username": "mshuxing"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036654671104716855",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036639685444092203",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @rei10_beeeeam: @MmeTuT @mshuxing 感觉这男的觉得自己老牛逼了老受人喜欢了感觉自己就是行走的春药一到街上所有女生跟他聊骚"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028430373458456576",
+        "conversation_id": "2036654671104716855",
+        "created_at": "2026-03-25T04:01:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T05:01:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036654671104716855"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2033317543386152960",
+              "start": 3,
+              "username": "rei10_beeeeam"
+            },
+            {
+              "end": 26,
+              "id": "1976383726855839744",
+              "start": 19,
+              "username": "MmeTuT"
+            },
+            {
+              "end": 36,
+              "id": "1918236611684233216",
+              "start": 27,
+              "username": "mshuxing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036654671104716855",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036639685444092203",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @rei10_beeeeam: @MmeTuT @mshuxing 感觉这男的觉得自己老牛逼了老受人喜欢了感觉自己就是行走的春药一到街上所有女生跟他聊骚"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033317543386152960",
+        "conversation_id": "2036517052689818070",
+        "created_at": "2026-03-25T03:01:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T04:01:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036639685444092203"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1976383726855839744",
+              "start": 0,
+              "username": "MmeTuT"
+            },
+            {
+              "end": 17,
+              "id": "1918236611684233216",
+              "start": 8,
+              "username": "mshuxing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036639685444092203",
+        "in_reply_to_user_id": "1976383726855839744",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 37,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036517052689818070",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MmeTuT @mshuxing 感觉这男的觉得自己老牛逼了老受人喜欢了感觉自己就是行走的春药一到街上所有女生跟他聊骚"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-02T11:21:20.000Z",
+        "description": "我需要很多周末o.O 这个是我的大分身@qiu_song60259",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 19,
+                "username": "qiu_song60259"
+              }
+            ]
+          }
+        },
+        "id": "2028430373458456576",
+        "location": "加载中……",
+        "name": "咩咩",
+        "pinned_tweet_id": "2035726523810861085",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028450466460241920/ceK3GGSB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 162,
+          "following_count": 179,
+          "like_count": 1266,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 356
+        },
+        "username": "o65518kuguagua",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-15T23:02:44.000Z",
+        "description": "ゲボ嗚咽",
+        "id": "2033317543386152960",
+        "location": "元トー横民",
+        "name": "れいとうビーム",
+        "pinned_tweet_id": "2033321255382954480",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034309793792638976/5tShiKXY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53,
+          "following_count": 54,
+          "like_count": 1283,
+          "listed_count": 1,
+          "media_count": 17,
+          "tweet_count": 227
+        },
+        "username": "rei10_beeeeam",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-09T20:26:15.000Z",
+        "description": "哥哥控｜不收🚪不闲聊｜只互关我感兴趣的人｜关于我的碎碎念 @ROSSMARYAGUIRR2 只过互关 没有黄色内容",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 29,
+                "username": "ROSSMARYAGUIRR2"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yuki95570",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yuki95570",
+                "start": 0,
+                "url": "https://t.co/wJeivsFncV"
+              }
+            ]
+          }
+        },
+        "id": "1976383726855839744",
+        "name": "风铃",
+        "pinned_tweet_id": "2024284032037720223",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024281684741705728/aIMam9uw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2928,
+          "following_count": 180,
+          "like_count": 8424,
+          "listed_count": 3,
+          "media_count": 114,
+          "tweet_count": 2658
+        },
+        "url": "https://t.co/wJeivsFncV",
+        "username": "MmeTuT",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-02T09:30:44.000Z",
+        "description": "平等的视奸每个人 我是低龄 2011年 高p线下查无此人｜幼幼 | 兄控（性取向不明) | 惨圈 割手 ｜顺女 | 友跨｜INTP-T｜我是脆弱的小女孩屏蔽你受着",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zhan0804",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zhan0804",
+                "start": 0,
+                "url": "https://t.co/m5r02qyK7z"
+              }
+            ]
+          }
+        },
+        "id": "1918236611684233216",
+        "location": "🚪纯绿88 128 288 zfb口令",
+        "name": "呆幼作",
+        "pinned_tweet_id": "2035838853211181393",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035136682287153152/sKH0yVLZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1402,
+          "following_count": 195,
+          "like_count": 12393,
+          "listed_count": 2,
+          "media_count": 15,
+          "tweet_count": 261
+        },
+        "url": "https://t.co/m5r02qyK7z",
+        "username": "mshuxing",
+        "verified": false
+      }
+    ]
+  }
+}

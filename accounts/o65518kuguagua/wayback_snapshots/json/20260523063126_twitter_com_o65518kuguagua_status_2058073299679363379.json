@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028430373458456576",
+    "conversation_id": "2058044617682227626",
+    "created_at": "2026-05-23T06:31:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T07:31:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058073299679363379"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2057646995758792704",
+          "start": 0,
+          "username": "wohaishiyghz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058073299679363379",
+    "in_reply_to_user_id": "2057646995758792704",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058044617682227626",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wohaishiyghz 我请你吃嗯👅"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1055,
+        "media_key": "3_2058044610304430080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI-kq0kaUAASm5C.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028430373458456576",
+        "conversation_id": "2058044617682227626",
+        "created_at": "2026-05-23T06:31:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T07:31:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058073299679363379"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2057646995758792704",
+              "start": 0,
+              "username": "wohaishiyghz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058073299679363379",
+        "in_reply_to_user_id": "2057646995758792704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058044617682227626",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wohaishiyghz 我请你吃嗯👅"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058044610304430080"
+          ]
+        },
+        "author_id": "2057646995758792704",
+        "conversation_id": "2058044617682227626",
+        "created_at": "2026-05-23T04:37:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T05:37:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058044617682227626"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FhFIW4uznA",
+              "end": 37,
+              "expanded_url": "https://x.com/wohaishiyghz/status/2058044617682227626/photo/1",
+              "media_key": "3_2058044610304430080",
+              "start": 14,
+              "url": "https://t.co/FhFIW4uznA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058044617682227626",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 30,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我是饕餮怎么办，我都想吃。 https://t.co/FhFIW4uznA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-02T11:21:20.000Z",
+        "description": "我只是在自说自话｜09苦逼美术生｜双性恋丨我是瓜瓜/小咪咪（我喜欢改头像和名字别忘记我TⅴT）|前世@qiu_song60259已死（互关巡回中）\n只过熟人@Kuguadawang6677 嫌我吵的话你点一下那个屏蔽我就死掉了｜双取随意谢谢你们愿意跟我玩丨心肝@imcutefate 最爱的闺闺@Lake_Verion",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 50,
+                "username": "qiu_song60259"
+              },
+              {
+                "end": 94,
+                "start": 78,
+                "username": "Kuguadawang6677"
+              },
+              {
+                "end": 141,
+                "start": 130,
+                "username": "imcutefate"
+              },
+              {
+                "end": 159,
+                "start": 147,
+                "username": "Lake_Verion"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E8%8B%A6%E7%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E8%8B%A6%E7%93%9C%E5%A4%A7%E7%8E%8B",
+                "start": 0,
+                "url": "https://t.co/CdcVmYa8EY"
+              }
+            ]
+          }
+        },
+        "id": "2028430373458456576",
+        "location": "加载中……   匿名→",
+        "name": "虎牙钉",
+        "pinned_tweet_id": "2057778441110598119",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058038322078064640/9aLQ7rPo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1122,
+          "following_count": 442,
+          "like_count": 6845,
+          "listed_count": 1,
+          "media_count": 92,
+          "tweet_count": 1887
+        },
+        "url": "https://t.co/CdcVmYa8EY",
+        "username": "o65518kuguagua",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-22T02:17:58.000Z",
+        "description": "你们不要和我吵架了，因为我就是一个老傻子，每天在互联网上发布自己的见闻，和我观点相同就给我点赞评论我们一起乐呵呵，观点不同就划走别和我吵因为就算你骂我妈死了我也只会乐呵呵地叫你一声妈妈",
+        "id": "2057646995758792704",
+        "name": "好女孩没有市场我恨我的纯情",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057657761182466048/8CMUdXn3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 14,
+          "like_count": 13,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 16
+        },
+        "username": "wohaishiyghz",
+        "verified": false
+      }
+    ]
+  }
+}

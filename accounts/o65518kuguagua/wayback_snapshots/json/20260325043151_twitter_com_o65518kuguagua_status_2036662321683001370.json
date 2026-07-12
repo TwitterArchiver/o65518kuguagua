@@ -1,0 +1,306 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2036662307196186624"
+      ]
+    },
+    "author_id": "2028430373458456576",
+    "conversation_id": "2036049674088661267",
+    "created_at": "2026-03-25T04:31:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-25T05:31:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036662321683001370"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1902303231105232899",
+          "start": 0,
+          "username": "m9203758812742"
+        },
+        {
+          "end": 31,
+          "id": "2026523805187977216",
+          "start": 16,
+          "username": "WynneTiyusheng"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/F5rZe1GVuf",
+          "end": 66,
+          "expanded_url": "https://x.com/o65518kuguagua/status/2036662321683001370/photo/1",
+          "media_key": "3_2036662307196186624",
+          "start": 43,
+          "url": "https://t.co/F5rZe1GVuf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036662321683001370",
+    "in_reply_to_user_id": "1902303231105232899",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036049674088661267",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@m9203758812742 @WynneTiyusheng 老公我是你第八万fo https://t.co/F5rZe1GVuf"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1792,
+        "media_key": "3_2036662307196186624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEOtk-PbMAAtkjR.jpg",
+        "width": 828
+      },
+      {
+        "duration_ms": 51733,
+        "height": 1240,
+        "media_key": "7_2036049581847543809",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2036049581847543809/pu/img/-fsa-WHtKiTKnXKW.jpg",
+        "public_metrics": {
+          "view_count": 29786
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2036049581847543809/pu/vid/avc1/320x550/E9-eWX5e5gi0SZ77.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2036049581847543809/pu/vid/avc1/480x826/_KgiR_1qxCSBKfAt.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2036049581847543809/pu/vid/avc1/720x1240/1ERcGhh5jLRPbrab.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2036049581847543809/pu/pl/WC06yw12V7U2E_YN.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2036662307196186624"
+          ]
+        },
+        "author_id": "2028430373458456576",
+        "conversation_id": "2036049674088661267",
+        "created_at": "2026-03-25T04:31:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T05:31:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036662321683001370"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1902303231105232899",
+              "start": 0,
+              "username": "m9203758812742"
+            },
+            {
+              "end": 31,
+              "id": "2026523805187977216",
+              "start": 16,
+              "username": "WynneTiyusheng"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/F5rZe1GVuf",
+              "end": 66,
+              "expanded_url": "https://x.com/o65518kuguagua/status/2036662321683001370/photo/1",
+              "media_key": "3_2036662307196186624",
+              "start": 43,
+              "url": "https://t.co/F5rZe1GVuf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036662321683001370",
+        "in_reply_to_user_id": "1902303231105232899",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036049674088661267",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@m9203758812742 @WynneTiyusheng 老公我是你第八万fo https://t.co/F5rZe1GVuf"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2036049581847543809"
+          ]
+        },
+        "author_id": "1902303231105232899",
+        "conversation_id": "2036049674088661267",
+        "created_at": "2026-03-23T11:57:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T12:57:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036049674088661267"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/c8KJwpO1lj",
+              "end": 49,
+              "expanded_url": "https://x.com/m9203758812742/status/2036049674088661267/video/1",
+              "media_key": "7_2036049581847543809",
+              "start": 26,
+              "url": "https://t.co/c8KJwpO1lj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036049674088661267",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 1575,
+          "impression_count": 129063,
+          "like_count": 7093,
+          "quote_count": 2,
+          "reply_count": 14,
+          "retweet_count": 843
+        },
+        "reply_settings": "everyone",
+        "text": "硬起来也是可以干你的 别跟你的废物老公做了 来找我 https://t.co/c8KJwpO1lj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-02T11:21:20.000Z",
+        "description": "我需要很多周末o.O 这个是我的大分身@qiu_song60259",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 19,
+                "username": "qiu_song60259"
+              }
+            ]
+          }
+        },
+        "id": "2028430373458456576",
+        "location": "加载中……",
+        "name": "咩咩",
+        "pinned_tweet_id": "2035726523810861085",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028450466460241920/ceK3GGSB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 165,
+          "following_count": 192,
+          "like_count": 1345,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 372
+        },
+        "username": "o65518kuguagua",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-19T10:16:57.000Z",
+        "description": "",
+        "id": "1902303231105232899",
+        "location": "New York, USA",
+        "name": "oio",
+        "pinned_tweet_id": "2017263766321467774",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955534361459298308/V8KRCSBw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 80068,
+          "following_count": 174,
+          "like_count": 263,
+          "listed_count": 283,
+          "media_count": 58,
+          "tweet_count": 183
+        },
+        "username": "m9203758812742",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-25T05:05:11.000Z",
+        "description": "🔞 老粉眼熟回歸 定制/視頻飛 有事直說 不回hi",
+        "id": "2026523805187977216",
+        "name": "Wynne",
+        "pinned_tweet_id": "2029448412484256104",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026523902265131008/Ma_IeRIT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14897,
+          "following_count": 50,
+          "like_count": 52,
+          "listed_count": 17,
+          "media_count": 6,
+          "tweet_count": 52
+        },
+        "username": "WynneTiyusheng",
+        "verified": false
+      }
+    ]
+  }
+}

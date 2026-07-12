@@ -1,0 +1,181 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2062937734139052032"
+      ]
+    },
+    "author_id": "2028430373458456576",
+    "conversation_id": "2062937790187479185",
+    "created_at": "2026-06-05T16:41:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T17:41:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2062937790187479185"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Xe5PFqPI6L",
+          "end": 23,
+          "expanded_url": "https://x.com/o65518kuguagua/status/2062937790187479185/video/1",
+          "media_key": "13_2062937734139052032",
+          "start": 0,
+          "url": "https://t.co/Xe5PFqPI6L"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062937790187479185",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/Xe5PFqPI6L"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 26400,
+        "height": 360,
+        "media_key": "13_2062937734139052032",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2062937734139052032/img/tR1AeMz055tfxDVQ.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2062937734139052032/vid/avc1/480x270/RpfpKDByeLK4ED-8.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2062937734139052032/vid/avc1/640x360/pRr02hWw97CekPCt.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2062937734139052032/pl/mG6AgWkIVESSpHmi.m3u8"
+          }
+        ],
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2062937734139052032"
+          ]
+        },
+        "author_id": "2028430373458456576",
+        "conversation_id": "2062937790187479185",
+        "created_at": "2026-06-05T16:41:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T17:41:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062937790187479185"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Xe5PFqPI6L",
+              "end": 23,
+              "expanded_url": "https://x.com/o65518kuguagua/status/2062937790187479185/video/1",
+              "media_key": "13_2062937734139052032",
+              "start": 0,
+              "url": "https://t.co/Xe5PFqPI6L"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062937790187479185",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/Xe5PFqPI6L"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-02T11:21:20.000Z",
+        "description": "只是想好好睡觉｜心肝@imcutefate 最爱的闺闺@Lake_Verion",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 10,
+                "username": "imcutefate"
+              },
+              {
+                "end": 39,
+                "start": 27,
+                "username": "Lake_Verion"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E8%8B%A6%E7%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E8%8B%A6%E7%93%9C%E5%A4%A7%E7%8E%8B",
+                "start": 0,
+                "url": "https://t.co/CdcVmYa8EY"
+              }
+            ]
+          }
+        },
+        "id": "2028430373458456576",
+        "location": "加载中……   匿名→",
+        "name": "虎牙钉",
+        "pinned_tweet_id": "2057895439450374538",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060344470910926856/fk6R2qB-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1560,
+          "following_count": 526,
+          "like_count": 7902,
+          "listed_count": 1,
+          "media_count": 117,
+          "tweet_count": 2169
+        },
+        "url": "https://t.co/CdcVmYa8EY",
+        "username": "o65518kuguagua",
+        "verified": false
+      }
+    ]
+  }
+}

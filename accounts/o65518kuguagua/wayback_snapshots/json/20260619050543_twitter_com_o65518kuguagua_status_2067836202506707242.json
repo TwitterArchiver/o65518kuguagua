@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2067522184130478080"
+      ],
+      "media_source_tweet_id": [
+        "2067638474727969159"
+      ]
+    },
+    "author_id": "2028430373458456576",
+    "conversation_id": "2067836202506707242",
+    "created_at": "2026-06-19T05:05:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T06:05:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067836202506707242"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "911294414781337600",
+          "start": 3,
+          "username": "itsD3lay"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/MB94NFgYrz",
+          "end": 83,
+          "expanded_url": "https://x.com/itsD3lay/status/2067638474727969159/photo/1",
+          "media_key": "3_2067522184130478080",
+          "start": 60,
+          "url": "https://t.co/MB94NFgYrz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067836202506707242",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 634
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067638474727969159",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @itsD3lay: yo en la cama cuando no tengo nada que hacer: https://t.co/MB94NFgYrz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 475,
+        "media_key": "3_2067522184130478080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLFQeOZWQAAQ4AB.png",
+        "width": 425
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067522184130478080"
+          ],
+          "media_source_tweet_id": [
+            "2067638474727969159"
+          ]
+        },
+        "author_id": "2028430373458456576",
+        "conversation_id": "2067836202506707242",
+        "created_at": "2026-06-19T05:05:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T06:05:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067836202506707242"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "911294414781337600",
+              "start": 3,
+              "username": "itsD3lay"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/MB94NFgYrz",
+              "end": 83,
+              "expanded_url": "https://x.com/itsD3lay/status/2067638474727969159/photo/1",
+              "media_key": "3_2067522184130478080",
+              "start": 60,
+              "url": "https://t.co/MB94NFgYrz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067836202506707242",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 634
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067638474727969159",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @itsD3lay: yo en la cama cuando no tengo nada que hacer: https://t.co/MB94NFgYrz"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067522184130478080"
+          ]
+        },
+        "author_id": "911294414781337600",
+        "conversation_id": "2067638474727969159",
+        "created_at": "2026-06-18T16:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T17:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067638474727969159"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MB94NFgYrz",
+              "end": 69,
+              "expanded_url": "https://x.com/itsD3lay/status/2067638474727969159/photo/1",
+              "media_key": "3_2067522184130478080",
+              "start": 46,
+              "url": "https://t.co/MB94NFgYrz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067638474727969159",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 40,
+          "impression_count": 25872,
+          "like_count": 3545,
+          "quote_count": 16,
+          "reply_count": 6,
+          "retweet_count": 634
+        },
+        "reply_settings": "everyone",
+        "text": "yo en la cama cuando no tengo nada que hacer: https://t.co/MB94NFgYrz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-02T11:21:20.000Z",
+        "description": "只是想好好睡觉｜我的名字是瓜瓜｜心肝@imcutefate 最爱的闺闺@Lake_Verion",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 18,
+                "username": "imcutefate"
+              },
+              {
+                "end": 47,
+                "start": 35,
+                "username": "Lake_Verion"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E8%8B%A6%E7%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E8%8B%A6%E7%93%9C%E5%A4%A7%E7%8E%8B",
+                "start": 0,
+                "url": "https://t.co/CdcVmYa8EY"
+              }
+            ]
+          }
+        },
+        "id": "2028430373458456576",
+        "location": "加载中……   匿名→",
+        "name": "虎牙钉",
+        "pinned_tweet_id": "2063001104858648649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060344470910926856/fk6R2qB-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2094,
+          "following_count": 598,
+          "like_count": 9071,
+          "listed_count": 1,
+          "media_count": 167,
+          "tweet_count": 2720
+        },
+        "url": "https://t.co/CdcVmYa8EY",
+        "username": "o65518kuguagua",
+        "verified": false
+      },
+      {
+        "created_at": "2017-09-22T18:21:34.000Z",
+        "description": "📥 contacto: itsd3laybusiness@gmail.com📩 \n| BYTS COMP",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/pablosans34/",
+                "end": 23,
+                "expanded_url": "http://instagram.com/pablosans34/",
+                "start": 0,
+                "url": "https://t.co/EjiUPH2UjF"
+              }
+            ]
+          }
+        },
+        "id": "911294414781337600",
+        "location": "bcn",
+        "name": "itsD3lay🐧",
+        "pinned_tweet_id": "2067774385390264355",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1611849135732277249/52jKE673_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 156559,
+          "following_count": 1223,
+          "like_count": 773728,
+          "listed_count": 282,
+          "media_count": 22089,
+          "tweet_count": 76688
+        },
+        "url": "https://t.co/EjiUPH2UjF",
+        "username": "itsD3lay",
+        "verified": true
+      }
+    ]
+  }
+}

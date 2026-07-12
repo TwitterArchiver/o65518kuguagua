@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028430373458456576",
+    "conversation_id": "2060592368680837246",
+    "created_at": "2026-05-30T05:36:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T06:36:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060596223598579753"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1889945137524121603",
+          "start": 0,
+          "username": "YiOvot"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060596223598579753",
+    "in_reply_to_user_id": "1889945137524121603",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060596089859055890",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YiOvot 嘿嘿嘿谢谢宝宝！！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028430373458456576",
+        "conversation_id": "2060592368680837246",
+        "created_at": "2026-05-30T05:36:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T06:36:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060596223598579753"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1889945137524121603",
+              "start": 0,
+              "username": "YiOvot"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060596223598579753",
+        "in_reply_to_user_id": "1889945137524121603",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060596089859055890",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YiOvot 嘿嘿嘿谢谢宝宝！！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1889945137524121603",
+        "conversation_id": "2060592368680837246",
+        "created_at": "2026-05-30T05:36:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T06:36:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060596089859055890"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2028430373458456576",
+              "start": 0,
+              "username": "o65518kuguagua"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060596089859055890",
+        "in_reply_to_user_id": "2028430373458456576",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060595941875532103",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@o65518kuguagua 我趣，宝宝好勇敢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-02T11:21:20.000Z",
+        "description": "只是想好好睡觉｜心肝@imcutefate 最爱的闺闺@Lake_Verion",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 10,
+                "username": "imcutefate"
+              },
+              {
+                "end": 39,
+                "start": 27,
+                "username": "Lake_Verion"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E8%8B%A6%E7%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E8%8B%A6%E7%93%9C%E5%A4%A7%E7%8E%8B",
+                "start": 0,
+                "url": "https://t.co/CdcVmYa8EY"
+              }
+            ]
+          }
+        },
+        "id": "2028430373458456576",
+        "location": "加载中……   匿名→",
+        "name": "虎牙钉",
+        "pinned_tweet_id": "2060345028606644674",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060344470910926856/fk6R2qB-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1555,
+          "following_count": 512,
+          "like_count": 7629,
+          "listed_count": 1,
+          "media_count": 107,
+          "tweet_count": 2092
+        },
+        "url": "https://t.co/CdcVmYa8EY",
+        "username": "o65518kuguagua",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-13T07:50:18.000Z",
+        "description": "大肥猫品鉴家 想发啥发啥｜无🚪纯发  闲聊打钱  不私联 推止于推",
+        "id": "1889945137524121603",
+        "location": "🦭",
+        "name": "装鱿鱼被炒",
+        "pinned_tweet_id": "2052983965645251001",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060530310157324288/HHPnE6cc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1344,
+          "following_count": 31,
+          "like_count": 1601,
+          "listed_count": 0,
+          "media_count": 112,
+          "tweet_count": 1173
+        },
+        "username": "YiOvot",
+        "verified": false
+      }
+    ]
+  }
+}

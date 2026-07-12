@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028430373458456576",
+    "conversation_id": "2039373549161660593",
+    "created_at": "2026-04-01T16:05:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-01T17:05:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2039373549161660593"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/2823713748y/st…",
+          "end": 44,
+          "expanded_url": "https://twitter.com/2823713748y/status/2039372999628046667",
+          "start": 21,
+          "url": "https://t.co/pyJiOqDxi4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039373549161660593",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039372999628046667",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "下面这个号被盗了想给我转钱的来咩咩这个号 https://t.co/pyJiOqDxi4"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028430373458456576",
+        "conversation_id": "2039373549161660593",
+        "created_at": "2026-04-01T16:05:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T17:05:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039373549161660593"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/2823713748y/st…",
+              "end": 44,
+              "expanded_url": "https://twitter.com/2823713748y/status/2039372999628046667",
+              "start": 21,
+              "url": "https://t.co/pyJiOqDxi4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039373549161660593",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039372999628046667",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "下面这个号被盗了想给我转钱的来咩咩这个号 https://t.co/pyJiOqDxi4"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002071696640249856",
+        "conversation_id": "2039001546701111362",
+        "created_at": "2026-04-01T16:03:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T17:03:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039372999628046667"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2028430373458456576",
+              "start": 0,
+              "username": "o65518kuguagua"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039372999628046667",
+        "in_reply_to_user_id": "2028430373458456576",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039001546701111362",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@o65518kuguagua 买号找我"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-02T11:21:20.000Z",
+        "description": "哥控｜我需要很多周末o.O 这个是我的大分身@qiu_song60259\n锁推小号@Kuguadawang6677",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 22,
+                "username": "qiu_song60259"
+              },
+              {
+                "end": 57,
+                "start": 41,
+                "username": "Kuguadawang6677"
+              }
+            ]
+          }
+        },
+        "id": "2028430373458456576",
+        "location": "加载中……",
+        "name": "咩咩",
+        "pinned_tweet_id": "2035726523810861085",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028450466460241920/ceK3GGSB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 360,
+          "following_count": 297,
+          "like_count": 2752,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 865
+        },
+        "username": "o65518kuguagua",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-19T17:41:13.000Z",
+        "description": "已读不回小咪咪\n免费vpn",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "44dh.d5.haihaioh.com/#/register?cod…",
+                "end": 23,
+                "expanded_url": "http://44dh.d5.haihaioh.com/#/register?code=1S0QJsDq",
+                "start": 0,
+                "url": "https://t.co/DNCGdNF1I8"
+              }
+            ]
+          }
+        },
+        "id": "2002071696640249856",
+        "location": "昆明呈贡",
+        "name": "y yy yy （X最大号商）全国各地有底价高质量号",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002072003088461824/3OmbxWW1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 15,
+          "like_count": 336,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 531
+        },
+        "url": "https://t.co/DNCGdNF1I8",
+        "username": "2823713748Y",
+        "verified": false
+      }
+    ]
+  }
+}

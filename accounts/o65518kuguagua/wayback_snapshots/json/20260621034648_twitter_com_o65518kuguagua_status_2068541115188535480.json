@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028430373458456576",
+    "conversation_id": "2068410350165234034",
+    "created_at": "2026-06-21T03:46:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T04:46:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068541115188535480"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1940424272276578304",
+          "start": 0,
+          "username": "greyl20040702"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068541115188535480",
+    "in_reply_to_user_id": "1940424272276578304",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068507352291279169",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@greyl20040702 严肃记住了！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028430373458456576",
+        "conversation_id": "2068410350165234034",
+        "created_at": "2026-06-21T03:46:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T04:46:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068541115188535480"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1940424272276578304",
+              "start": 0,
+              "username": "greyl20040702"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068541115188535480",
+        "in_reply_to_user_id": "1940424272276578304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068507352291279169",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@greyl20040702 严肃记住了！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1940424272276578304",
+        "conversation_id": "2068410350165234034",
+        "created_at": "2026-06-21T01:32:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T02:32:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068507352291279169"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2028430373458456576",
+              "start": 0,
+              "username": "o65518kuguagua"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068507352291279169",
+        "in_reply_to_user_id": "2028430373458456576",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068410350165234034",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@o65518kuguagua 补一下呀小宝宝"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-02T11:21:20.000Z",
+        "description": "只是想好好睡觉｜我的名字是瓜瓜｜心肝@imcutefate 天下第一萌@Lake_Verion",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 18,
+                "username": "imcutefate"
+              },
+              {
+                "end": 47,
+                "start": 35,
+                "username": "Lake_Verion"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E8%8B%A6%E7%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E8%8B%A6%E7%93%9C%E5%A4%A7%E7%8E%8B",
+                "start": 0,
+                "url": "https://t.co/CdcVmYa8EY"
+              }
+            ]
+          }
+        },
+        "id": "2028430373458456576",
+        "location": "加载中……   匿名→",
+        "name": "虎牙钉",
+        "pinned_tweet_id": "2063001104858648649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060344470910926856/fk6R2qB-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2385,
+          "following_count": 584,
+          "like_count": 9353,
+          "listed_count": 2,
+          "media_count": 184,
+          "tweet_count": 2882
+        },
+        "url": "https://t.co/CdcVmYa8EY",
+        "username": "o65518kuguagua",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-02T14:56:21.000Z",
+        "description": "请叫我小灰 不约不线下\n有p图 发照片就是想发 没有什么原因\n绝望的手控 颜控 brat 157 92\n另一个我@tuzi356789 \n提问箱https://t.co/Vk15gX42iJ\n请不要在墙内提及任何有关于我的任何信息 谢谢你给我点赞o(≧v≦)o",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 56,
+                "username": "tuzi356789"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/greyl22349",
+                "end": 95,
+                "expanded_url": "https://ngl.link/greyl22349",
+                "start": 72,
+                "url": "https://t.co/Vk15gX42iJ"
+              }
+            ]
+          }
+        },
+        "id": "1940424272276578304",
+        "location": "🚪520",
+        "name": "Greyl",
+        "pinned_tweet_id": "2045154402068283474",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061393778750160896/-lZhV25Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6122,
+          "following_count": 118,
+          "like_count": 5842,
+          "listed_count": 25,
+          "media_count": 47,
+          "tweet_count": 1510
+        },
+        "url": "",
+        "username": "greyl20040702",
+        "verified": false
+      }
+    ]
+  }
+}

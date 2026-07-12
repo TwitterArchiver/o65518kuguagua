@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028430373458456576",
+    "conversation_id": "2051299345023349041",
+    "created_at": "2026-05-04T15:49:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-04T16:49:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051328293836648640"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1958390370355789825",
+          "start": 0,
+          "username": "imcutefate"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051328293836648640",
+    "in_reply_to_user_id": "1958390370355789825",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051299345023349041",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@imcutefate 媳妇"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1792,
+        "media_key": "3_2051299328615186432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHet3wIbAAAkddv.jpg",
+        "width": 828
+      },
+      {
+        "height": 1792,
+        "media_key": "3_2051299328854204418",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHet3xBaIAIhi3U.jpg",
+        "width": 828
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028430373458456576",
+        "conversation_id": "2051299345023349041",
+        "created_at": "2026-05-04T15:49:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T16:49:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051328293836648640"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1958390370355789825",
+              "start": 0,
+              "username": "imcutefate"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051328293836648640",
+        "in_reply_to_user_id": "1958390370355789825",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051299345023349041",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@imcutefate 媳妇"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051299328615186432",
+            "3_2051299328854204418"
+          ]
+        },
+        "author_id": "1958390370355789825",
+        "conversation_id": "2051299345023349041",
+        "created_at": "2026-05-04T13:54:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T14:54:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051299345023349041"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sVgXvzMyOz",
+              "end": 23,
+              "expanded_url": "https://x.com/imcutefate/status/2051299345023349041/photo/1",
+              "media_key": "3_2051299328615186432",
+              "start": 0,
+              "url": "https://t.co/sVgXvzMyOz"
+            },
+            {
+              "display_url": "pic.x.com/sVgXvzMyOz",
+              "end": 23,
+              "expanded_url": "https://x.com/imcutefate/status/2051299345023349041/photo/1",
+              "media_key": "3_2051299328854204418",
+              "start": 0,
+              "url": "https://t.co/sVgXvzMyOz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051299345023349041",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 170,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/sVgXvzMyOz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-02T11:21:20.000Z",
+        "description": "我只是在自说自话｜哥控｜09美术生o.O ｜以后会用做这个号作为主号！这个是我的大分身@qiu_song60259\n锁推小号@Kuguadawang6677 嫌我吵的话你点一下那个屏蔽我就死掉了｜双取请随意谢谢你们愿意跟我玩心肝@imcutefate 最最爱的闺闺@Lake_Verion",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 43,
+                "username": "qiu_song60259"
+              },
+              {
+                "end": 78,
+                "start": 62,
+                "username": "Kuguadawang6677"
+              },
+              {
+                "end": 125,
+                "start": 114,
+                "username": "imcutefate"
+              },
+              {
+                "end": 144,
+                "start": 132,
+                "username": "Lake_Verion"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E8%8B%A6%E7%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E8%8B%A6%E7%93%9C%E5%A4%A7%E7%8E%8B",
+                "start": 0,
+                "url": "https://t.co/CdcVmYa8EY"
+              }
+            ]
+          }
+        },
+        "id": "2028430373458456576",
+        "location": "加载中……   匿名→",
+        "name": "咩咩",
+        "pinned_tweet_id": "2047911866517659665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028450466460241920/ceK3GGSB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 792,
+          "following_count": 425,
+          "like_count": 6535,
+          "listed_count": 0,
+          "media_count": 83,
+          "tweet_count": 1792
+        },
+        "url": "https://t.co/CdcVmYa8EY",
+        "username": "o65518kuguagua",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-21T04:47:15.000Z",
+        "description": "我是羊羊｜这里只有碎碎念｜一个傻子，别欺负我。@Lif3withoutu 只过互关\n我家满分女@qiu_song60259",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 23,
+                "username": "Lif3withoutu"
+              },
+              {
+                "end": 61,
+                "start": 47,
+                "username": "qiu_song60259"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/imcutefate",
+                "end": 23,
+                "expanded_url": "https://ngl.link/imcutefate",
+                "start": 0,
+                "url": "https://t.co/2kzYAji3rI"
+              }
+            ]
+          }
+        },
+        "id": "1958390370355789825",
+        "name": "坏蛋自述",
+        "pinned_tweet_id": "2042948111920959718",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050109355329208320/WgR-FfCG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 120,
+          "following_count": 60,
+          "like_count": 1497,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 645
+        },
+        "url": "https://t.co/2kzYAji3rI",
+        "username": "imcutefate",
+        "verified": false
+      }
+    ]
+  }
+}

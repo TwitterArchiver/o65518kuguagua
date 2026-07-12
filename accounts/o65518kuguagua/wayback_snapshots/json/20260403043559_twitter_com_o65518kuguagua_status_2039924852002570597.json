@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028430373458456576",
+    "conversation_id": "2039924852002570597",
+    "created_at": "2026-04-03T04:35:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-03T05:35:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039924852002570597"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2007600959850217472",
+          "start": 3,
+          "username": "Echoand522"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039924852002570597",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 35
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039647509849706512",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Echoand522: 你用当小三的心态跟别人聊天就不会有占有欲了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028430373458456576",
+        "conversation_id": "2039924852002570597",
+        "created_at": "2026-04-03T04:35:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T05:35:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039924852002570597"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2007600959850217472",
+              "start": 3,
+              "username": "Echoand522"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039924852002570597",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 35
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039647509849706512",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Echoand522: 你用当小三的心态跟别人聊天就不会有占有欲了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2007600959850217472",
+        "conversation_id": "2039647509849706512",
+        "created_at": "2026-04-02T10:13:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T11:13:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039647509849706512"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2039647509849706512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 37584,
+          "like_count": 471,
+          "quote_count": 14,
+          "reply_count": 48,
+          "retweet_count": 35
+        },
+        "reply_settings": "everyone",
+        "text": "你用当小三的心态跟别人聊天就不会有占有欲了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-02T11:21:20.000Z",
+        "description": "哥控｜我需要很多周末o.O 这个是我的大分身@qiu_song60259\n锁推小号@Kuguadawang6677",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 22,
+                "username": "qiu_song60259"
+              },
+              {
+                "end": 57,
+                "start": 41,
+                "username": "Kuguadawang6677"
+              }
+            ]
+          }
+        },
+        "id": "2028430373458456576",
+        "location": "加载中……",
+        "name": "咩咩",
+        "pinned_tweet_id": "2035726523810861085",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028450466460241920/ceK3GGSB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 384,
+          "following_count": 316,
+          "like_count": 3217,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 1051
+        },
+        "username": "o65518kuguagua",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-03T23:53:09.000Z",
+        "description": "没有🚪 不加微信 纯发牢骚 不yp不卖b \n对你不感兴趣不想认识你",
+        "id": "2007600959850217472",
+        "name": "522",
+        "pinned_tweet_id": "2037853430677697002",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017994216128102401/AORSRTRV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6410,
+          "following_count": 59,
+          "like_count": 1902,
+          "listed_count": 12,
+          "media_count": 74,
+          "tweet_count": 660
+        },
+        "username": "Echoand522",
+        "verified": false
+      }
+    ]
+  }
+}

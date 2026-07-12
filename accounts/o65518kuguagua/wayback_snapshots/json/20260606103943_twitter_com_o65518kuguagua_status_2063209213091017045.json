@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028430373458456576",
+    "conversation_id": "2062937067819348176",
+    "created_at": "2026-06-06T10:39:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T11:39:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063209213091017045"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1981352257355710464",
+          "start": 0,
+          "username": "X1aoYu_QAQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063209213091017045",
+    "in_reply_to_user_id": "1981352257355710464",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062937067819348176",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@X1aoYu_QAQ 好可爱………"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1948,
+        "media_key": "3_2062937051692199937",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKEGUZAa8AEiS9s.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028430373458456576",
+        "conversation_id": "2062937067819348176",
+        "created_at": "2026-06-06T10:39:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T11:39:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063209213091017045"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1981352257355710464",
+              "start": 0,
+              "username": "X1aoYu_QAQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063209213091017045",
+        "in_reply_to_user_id": "1981352257355710464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062937067819348176",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@X1aoYu_QAQ 好可爱………"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062937051692199937"
+          ]
+        },
+        "author_id": "1981352257355710464",
+        "conversation_id": "2062937067819348176",
+        "created_at": "2026-06-05T16:38:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T17:38:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062937067819348176"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/W6uug9toAg",
+              "end": 29,
+              "expanded_url": "https://x.com/X1aoYu_QAQ/status/2062937067819348176/photo/1",
+              "media_key": "3_2062937051692199937",
+              "start": 6,
+              "url": "https://t.co/W6uug9toAg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062937067819348176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 3960,
+          "like_count": 152,
+          "quote_count": 0,
+          "reply_count": 49,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "梨形不解释 https://t.co/W6uug9toAg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-02T11:21:20.000Z",
+        "description": "我叫瓜瓜｜只是想好好睡觉｜心肝@imcutefate 最爱的闺闺@Lake_Verion",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 15,
+                "username": "imcutefate"
+              },
+              {
+                "end": 44,
+                "start": 32,
+                "username": "Lake_Verion"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E8%8B%A6%E7%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E8%8B%A6%E7%93%9C%E5%A4%A7%E7%8E%8B",
+                "start": 0,
+                "url": "https://t.co/CdcVmYa8EY"
+              }
+            ]
+          }
+        },
+        "id": "2028430373458456576",
+        "location": "加载中……   匿名→",
+        "name": "虎牙钉",
+        "pinned_tweet_id": "2057895439450374538",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060344470910926856/fk6R2qB-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1573,
+          "following_count": 537,
+          "like_count": 8036,
+          "listed_count": 1,
+          "media_count": 120,
+          "tweet_count": 2202
+        },
+        "url": "https://t.co/CdcVmYa8EY",
+        "username": "o65518kuguagua",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-23T13:29:33.000Z",
+        "description": "我叫小雨｜天秤｜ISFP｜SWITCH｜偷盗存图替我挡灾｜废话日常｜纯绿🚪52｜打瓦厉害的带带我｜关评帖为推广真假请自辨｜YUuuu8k粉大号飞升版@X1aoYuQAQ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 84,
+                "start": 74,
+                "username": "X1aoYuQAQ"
+              }
+            ]
+          }
+        },
+        "id": "1981352257355710464",
+        "location": "除🚪不闲聊 看心情回复",
+        "name": "YUuuu",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021257681810620418/0nm4Ew01_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1881,
+          "following_count": 274,
+          "like_count": 894,
+          "listed_count": 2,
+          "media_count": 122,
+          "tweet_count": 359
+        },
+        "username": "X1aoYu_QAQ",
+        "verified": false
+      }
+    ]
+  }
+}

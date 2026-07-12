@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028430373458456576",
+    "conversation_id": "2067930611604697328",
+    "created_at": "2026-06-19T11:20:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T12:20:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2067930611604697328"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/wuaichun/statu…",
+          "end": 67,
+          "expanded_url": "https://twitter.com/wuaichun/status/2067610645382762729",
+          "start": 44,
+          "url": "https://t.co/PK0PvOTneU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067930611604697328",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067610645382762729",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "还有你喜欢这个吗我给你买，你想要这个吗我给你买，就算对方拒绝我也会偷偷买下来塞给ta🦭 https://t.co/PK0PvOTneU"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028430373458456576",
+        "conversation_id": "2067930611604697328",
+        "created_at": "2026-06-19T11:20:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T12:20:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067930611604697328"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/wuaichun/statu…",
+              "end": 67,
+              "expanded_url": "https://twitter.com/wuaichun/status/2067610645382762729",
+              "start": 44,
+              "url": "https://t.co/PK0PvOTneU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067930611604697328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067610645382762729",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "还有你喜欢这个吗我给你买，你想要这个吗我给你买，就算对方拒绝我也会偷偷买下来塞给ta🦭 https://t.co/PK0PvOTneU"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906339730511560704",
+        "conversation_id": "2067610645382762729",
+        "created_at": "2026-06-18T14:09:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T15:09:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067610645382762729"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2067610645382762729",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5978,
+          "like_count": 126,
+          "quote_count": 7,
+          "reply_count": 24,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "你吃不吃这个我给你买，对你有好感就是这样子"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-02T11:21:20.000Z",
+        "description": "只是想好好睡觉｜我的名字是瓜瓜｜心肝@imcutefate 最爱的闺闺@Lake_Verion",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 18,
+                "username": "imcutefate"
+              },
+              {
+                "end": 47,
+                "start": 35,
+                "username": "Lake_Verion"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E8%8B%A6%E7%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E8%8B%A6%E7%93%9C%E5%A4%A7%E7%8E%8B",
+                "start": 0,
+                "url": "https://t.co/CdcVmYa8EY"
+              }
+            ]
+          }
+        },
+        "id": "2028430373458456576",
+        "location": "加载中……   匿名→",
+        "name": "虎牙钉",
+        "pinned_tweet_id": "2063001104858648649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060344470910926856/fk6R2qB-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2094,
+          "following_count": 577,
+          "like_count": 9144,
+          "listed_count": 1,
+          "media_count": 170,
+          "tweet_count": 2747
+        },
+        "url": "https://t.co/CdcVmYa8EY",
+        "username": "o65518kuguagua",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-30T13:36:34.000Z",
+        "description": "找个地方说话｜",
+        "id": "1906339730511560704",
+        "name": "大智",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974162252283719680/hCgbgySF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 548,
+          "following_count": 131,
+          "like_count": 5623,
+          "listed_count": 2,
+          "media_count": 148,
+          "tweet_count": 1885
+        },
+        "url": "",
+        "username": "wuaichun",
+        "verified": false
+      }
+    ]
+  }
+}

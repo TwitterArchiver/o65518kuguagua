@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028430373458456576",
+    "conversation_id": "2030656684843049040",
+    "created_at": "2026-03-08T14:47:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-08T15:47:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030656684843049040"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2002241057241907200",
+          "start": 3,
+          "username": "xiaoxiongOvO_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030656684843049040",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 253
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030179404006162778",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xiaoxiongOvO_: 我的理想型是淫乱的性爱和萌萌的纯爱并存"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028430373458456576",
+        "conversation_id": "2030656684843049040",
+        "created_at": "2026-03-08T14:47:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-08T15:47:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030656684843049040"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2002241057241907200",
+              "start": 3,
+              "username": "xiaoxiongOvO_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030656684843049040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 253
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030179404006162778",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xiaoxiongOvO_: 我的理想型是淫乱的性爱和萌萌的纯爱并存"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002241057241907200",
+        "conversation_id": "2030179404006162778",
+        "created_at": "2026-03-07T07:11:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-07T08:11:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030179404006162778"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2030179404006162778",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 55,
+          "impression_count": 76532,
+          "like_count": 2054,
+          "quote_count": 36,
+          "reply_count": 36,
+          "retweet_count": 253
+        },
+        "reply_settings": "everyone",
+        "text": "我的理想型是淫乱的性爱和萌萌的纯爱并存"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-02T11:21:20.000Z",
+        "description": "我需要很多周末o.O 这个是我的大分身@qiu_song60259",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 19,
+                "username": "qiu_song60259"
+              }
+            ]
+          }
+        },
+        "id": "2028430373458456576",
+        "location": "加载中……",
+        "name": "咩咩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028450466460241920/ceK3GGSB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 103,
+          "following_count": 35,
+          "like_count": 259,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 55
+        },
+        "username": "o65518kuguagua",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-20T04:54:10.000Z",
+        "description": "鹅鸭杀梦女 文案复制来的",
+        "id": "2002241057241907200",
+        "location": "纯绿🚪88",
+        "name": "小熊（鹅鸭杀何时统治地球）",
+        "pinned_tweet_id": "2014653827384016985",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015334768427327488/88zT6ZTd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1025,
+          "following_count": 48,
+          "like_count": 5398,
+          "listed_count": 1,
+          "media_count": 104,
+          "tweet_count": 3580
+        },
+        "username": "xiaoxiongOvO_",
+        "verified": false
+      }
+    ]
+  }
+}

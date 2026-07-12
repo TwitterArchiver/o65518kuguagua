@@ -1,0 +1,343 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028430373458456576",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to  marketing and advertiser agencies, publishers of magazines, newspapers, blogs, books",
+          "id": "1557697121477832705",
+          "name": "Publisher & News Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Books and literature",
+          "id": "847519659179954178",
+          "name": "Books"
+        }
+      },
+      {
+        "domain": {
+          "description": "A product taxonomy for labeling categories of products. ",
+          "id": "173",
+          "name": "Product Taxonomy"
+        },
+        "entity": {
+          "description": "Books and literature",
+          "id": "847519659179954178",
+          "name": "Books"
+        }
+      }
+    ],
+    "conversation_id": "2067600795051360310",
+    "created_at": "2026-06-18T13:30:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T14:30:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2067600795051360310"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/45_206mhz/stat…",
+          "end": 163,
+          "expanded_url": "https://twitter.com/45_206mhz/status/2067145223902552250",
+          "start": 140,
+          "url": "https://t.co/4iqRN0AoVH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067600795051360310",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067145223902552250",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "群主，我想确认一下，今年端午的福利还是一个天然呆萝莉，一个无口面瘫萝莉，一个傲娇萝莉，一个妹妹系萝莉，一个宅女萝莉，一个反差雌小鬼萝莉，一个学霸萝莉，一个地雷系萝莉，一个病娇萝莉，一个阴暗社恐萝莉，一个猫娘女仆装萝莉，一个哥特萝莉，一个双肩包短裙白丝短袜萝莉，一个文学眼镜萝莉吗 https://t.co/4iqRN0AoVH"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028430373458456576",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to  marketing and advertiser agencies, publishers of magazines, newspapers, blogs, books",
+              "id": "1557697121477832705",
+              "name": "Publisher & News Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Books and literature",
+              "id": "847519659179954178",
+              "name": "Books"
+            }
+          },
+          {
+            "domain": {
+              "description": "A product taxonomy for labeling categories of products. ",
+              "id": "173",
+              "name": "Product Taxonomy"
+            },
+            "entity": {
+              "description": "Books and literature",
+              "id": "847519659179954178",
+              "name": "Books"
+            }
+          }
+        ],
+        "conversation_id": "2067600795051360310",
+        "created_at": "2026-06-18T13:30:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T14:30:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067600795051360310"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/45_206mhz/stat…",
+              "end": 163,
+              "expanded_url": "https://twitter.com/45_206mhz/status/2067145223902552250",
+              "start": 140,
+              "url": "https://t.co/4iqRN0AoVH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067600795051360310",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067145223902552250",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "群主，我想确认一下，今年端午的福利还是一个天然呆萝莉，一个无口面瘫萝莉，一个傲娇萝莉，一个妹妹系萝莉，一个宅女萝莉，一个反差雌小鬼萝莉，一个学霸萝莉，一个地雷系萝莉，一个病娇萝莉，一个阴暗社恐萝莉，一个猫娘女仆装萝莉，一个哥特萝莉，一个双肩包短裙白丝短袜萝莉，一个文学眼镜萝莉吗 https://t.co/4iqRN0AoVH"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751497892001685504",
+        "conversation_id": "2067145223902552250",
+        "created_at": "2026-06-17T07:20:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T08:20:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067145223902552250"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2067145223902552250",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "群主，我想确认一下，今年端午的福利还是一个天然呆萝莉，一个无口面瘫萝莉，一个青梅萝莉，一个傲娇萝莉，一个妹妹系萝莉，一个妈妈系萝莉，一个宅女萝莉，一个辣妹萝莉，一个年上前辈萝莉，一个反差雌小鬼萝莉，一个财团大小姐萝莉，一个学霸萝莉，一个运动系黑皮萝莉，一对黏人姐妹萝莉，一个偶像萝莉，一个科研白大褂萝莉，一个地雷系萝莉，一个病娇萝莉，一个阴暗社恐萝莉，一个猫娘女仆装萝莉，一个管家萝莉，一个机娘萝莉，一个假小子萝莉，一个哥特萝莉，一个古装萝莉，一个旗袍萝莉，一个双肩包短裙白丝短袜萝莉，一个重力系萝莉，一个病弱萝莉，一个文学眼镜萝莉，一个户外系萝莉吗"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 27,
+          "impression_count": 23905,
+          "like_count": 239,
+          "quote_count": 2,
+          "reply_count": 82,
+          "retweet_count": 16
+        },
+        "reply_settings": "everyone",
+        "text": "群主，我想确认一下，今年端午的福利还是一个天然呆萝莉，一个无口面瘫萝莉，一个青梅萝莉，一个傲娇萝莉，一个妹妹系萝莉，一个妈妈系萝莉，一个宅女萝莉，一个辣妹萝莉，一个年上前辈萝莉，一个反差雌小鬼萝莉，一个财团大小姐萝莉，一个学霸萝莉，一个运动系黑皮萝莉，一对黏人姐妹萝莉，一个偶像萝"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-02T11:21:20.000Z",
+        "description": "只是想好好睡觉｜我的名字是瓜瓜｜心肝@imcutefate 最爱的闺闺@Lake_Verion",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 18,
+                "username": "imcutefate"
+              },
+              {
+                "end": 47,
+                "start": 35,
+                "username": "Lake_Verion"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E8%8B%A6%E7%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E8%8B%A6%E7%93%9C%E5%A4%A7%E7%8E%8B",
+                "start": 0,
+                "url": "https://t.co/CdcVmYa8EY"
+              }
+            ]
+          }
+        },
+        "id": "2028430373458456576",
+        "location": "加载中……   匿名→",
+        "name": "虎牙钉",
+        "pinned_tweet_id": "2063001104858648649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060344470910926856/fk6R2qB-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2093,
+          "following_count": 596,
+          "like_count": 8950,
+          "listed_count": 1,
+          "media_count": 162,
+          "tweet_count": 2672
+        },
+        "url": "https://t.co/CdcVmYa8EY",
+        "username": "o65518kuguagua",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-28T06:50:23.000Z",
+        "description": "zh-CN / en-NZ\nany pronoun\n叫我 45 就好啦\ngender apathetic\n里推: @45_206io | 🐱: @MomoseReina\n提问箱：https://t.co/68frWGl4xj",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 57,
+                "username": "45_206io"
+              },
+              {
+                "end": 84,
+                "start": 72,
+                "username": "MomoseReina"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/45.206mhz",
+                "end": 112,
+                "expanded_url": "https://ngl.link/45.206mhz",
+                "start": 89,
+                "url": "https://t.co/68frWGl4xj"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/x45_206mhz",
+                "end": 23,
+                "expanded_url": "https://t.me/x45_206mhz",
+                "start": 0,
+                "url": "https://t.co/eEc1irn5gW"
+              }
+            ]
+          }
+        },
+        "id": "1751497892001685504",
+        "location": "maimai DX Circle (Int’l)",
+        "name": "45.206 MHᴢ 🇳🇿",
+        "pinned_tweet_id": "2055643018267684993",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039289556911194112/f7iNbdDq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2973,
+          "following_count": 498,
+          "like_count": 36990,
+          "listed_count": 1,
+          "media_count": 803,
+          "tweet_count": 4490
+        },
+        "url": "https://t.co/eEc1irn5gW",
+        "username": "45_206MHz",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028430373458456576",
+    "conversation_id": "2063471298576285823",
+    "created_at": "2026-06-07T04:13:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T05:13:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063474433415946397"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1963870046708772864",
+          "start": 0,
+          "username": "Yuriovo_qaq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063474433415946397",
+    "in_reply_to_user_id": "1963870046708772864",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063471298576285823",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yuriovo_qaq 好可爱的卤蛋"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 9033,
+        "height": 1280,
+        "media_key": "13_2063471235695255552",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2063471235695255552/img/D0LGrHSFzl2g-z14.jpg",
+        "public_metrics": {
+          "view_count": 1
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2063471235695255552/vid/avc1/320x568/2hLr4akuQDpcr_a_.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2063471235695255552/vid/avc1/480x852/iuufAquT7-purlIs.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2063471235695255552/vid/avc1/720x1280/6h4kXSbaH4DUzwt7.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2063471235695255552/pl/-9O7VqA5ToTNenS8.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028430373458456576",
+        "conversation_id": "2063471298576285823",
+        "created_at": "2026-06-07T04:13:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T05:13:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063474433415946397"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1963870046708772864",
+              "start": 0,
+              "username": "Yuriovo_qaq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063474433415946397",
+        "in_reply_to_user_id": "1963870046708772864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063471298576285823",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yuriovo_qaq 好可爱的卤蛋"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2063471235695255552"
+          ]
+        },
+        "author_id": "1963870046708772864",
+        "conversation_id": "2063471298576285823",
+        "created_at": "2026-06-07T04:01:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T05:01:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063471298576285823"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RltTcl21RB",
+              "end": 29,
+              "expanded_url": "https://x.com/Yuriovo_qaq/status/2063471298576285823/video/1",
+              "media_key": "13_2063471235695255552",
+              "start": 6,
+              "url": "https://t.co/RltTcl21RB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063471298576285823",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这期神了。 https://t.co/RltTcl21RB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-02T11:21:20.000Z",
+        "description": "只是想好好睡觉｜我的名字是瓜瓜｜心肝@imcutefate 最爱的闺闺@Lake_Verion",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 18,
+                "username": "imcutefate"
+              },
+              {
+                "end": 47,
+                "start": 35,
+                "username": "Lake_Verion"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E8%8B%A6%E7%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E8%8B%A6%E7%93%9C%E5%A4%A7%E7%8E%8B",
+                "start": 0,
+                "url": "https://t.co/CdcVmYa8EY"
+              }
+            ]
+          }
+        },
+        "id": "2028430373458456576",
+        "location": "加载中……   匿名→",
+        "name": "虎牙钉",
+        "pinned_tweet_id": "2063001104858648649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060344470910926856/fk6R2qB-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1608,
+          "following_count": 544,
+          "like_count": 8172,
+          "listed_count": 1,
+          "media_count": 125,
+          "tweet_count": 2262
+        },
+        "url": "https://t.co/CdcVmYa8EY",
+        "username": "o65518kuguagua",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-05T07:41:29.000Z",
+        "description": "明知不可为而为之是我最大的真心\n置顶本人 双取随意",
+        "id": "1963870046708772864",
+        "location": "玉米地",
+        "name": "七月不是盛夏",
+        "pinned_tweet_id": "2061827130737189356",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059818789039165440/40RR1pVP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 863,
+          "following_count": 116,
+          "like_count": 4501,
+          "listed_count": 0,
+          "media_count": 1087,
+          "tweet_count": 8780
+        },
+        "username": "Yuriovo_qaq",
+        "verified": false
+      }
+    ]
+  }
+}

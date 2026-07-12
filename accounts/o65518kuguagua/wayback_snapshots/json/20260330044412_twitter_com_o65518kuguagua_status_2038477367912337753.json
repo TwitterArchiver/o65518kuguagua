@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028430373458456576",
+    "conversation_id": "2038477367912337753",
+    "created_at": "2026-03-30T04:44:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-30T05:44:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2038477367912337753"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/or23333333/sta…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/or23333333/status/2037867552920289624",
+          "start": 5,
+          "url": "https://t.co/vJtzYrWRET"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038477367912337753",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037867552920289624",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "哎这个！ https://t.co/vJtzYrWRET"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028430373458456576",
+        "conversation_id": "2038477367912337753",
+        "created_at": "2026-03-30T04:44:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T05:44:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038477367912337753"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/or23333333/sta…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/or23333333/status/2037867552920289624",
+              "start": 5,
+              "url": "https://t.co/vJtzYrWRET"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038477367912337753",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037867552920289624",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "哎这个！ https://t.co/vJtzYrWRET"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1379747579630522371",
+        "conversation_id": "2037846999664636206",
+        "created_at": "2026-03-28T12:21:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T13:21:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037867552920289624"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1747291885100744704",
+              "start": 0,
+              "username": "gracexiya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037867552920289624",
+        "in_reply_to_user_id": "1747291885100744704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 20,
+          "impression_count": 121112,
+          "like_count": 925,
+          "quote_count": 3,
+          "reply_count": 14,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037846999664636206",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gracexiya 不完全是吧。好比泡澡用的那种可以浮在水面上的小鸭子，你捏它一下，它也会叫一声。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-02T11:21:20.000Z",
+        "description": "哥控｜我需要很多周末o.O 这个是我的大分身@qiu_song60259\n锁推小号@Kuguadawang6677",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 22,
+                "username": "qiu_song60259"
+              },
+              {
+                "end": 57,
+                "start": 41,
+                "username": "Kuguadawang6677"
+              }
+            ]
+          }
+        },
+        "id": "2028430373458456576",
+        "location": "加载中……",
+        "name": "咩咩",
+        "pinned_tweet_id": "2035726523810861085",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028450466460241920/ceK3GGSB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 293,
+          "following_count": 276,
+          "like_count": 2226,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 662
+        },
+        "username": "o65518kuguagua",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-07T10:47:25.000Z",
+        "description": "casalinga｜在学做饭｜碎碎念｜记性不好｜婆婆妈妈｜谢绝聊骚",
+        "id": "1379747579630522371",
+        "location": "Gemona",
+        "name": "Lorenza",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1856556198167781376/lGWxChsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2672,
+          "following_count": 692,
+          "like_count": 42385,
+          "listed_count": 9,
+          "media_count": 2605,
+          "tweet_count": 12746
+        },
+        "username": "Or23333333",
+        "verified": false
+      }
+    ]
+  }
+}

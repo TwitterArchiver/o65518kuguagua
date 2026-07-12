@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028430373458456576",
+    "conversation_id": "2065789697755152429",
+    "created_at": "2026-06-13T13:46:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T14:46:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065792826458468769"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1819030510053834752",
+          "start": 0,
+          "username": "Tarsal4sA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065792826458468769",
+    "in_reply_to_user_id": "1819030510053834752",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065791986968223958",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Tarsal4sA 同意"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028430373458456576",
+        "conversation_id": "2065789697755152429",
+        "created_at": "2026-06-13T13:46:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T14:46:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065792826458468769"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1819030510053834752",
+              "start": 0,
+              "username": "Tarsal4sA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065792826458468769",
+        "in_reply_to_user_id": "1819030510053834752",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065791986968223958",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Tarsal4sA 同意"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1819030510053834752",
+        "conversation_id": "2065789697755152429",
+        "created_at": "2026-06-13T13:42:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T14:42:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065791986968223958"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2028430373458456576",
+              "start": 0,
+              "username": "o65518kuguagua"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065791986968223958",
+        "in_reply_to_user_id": "2028430373458456576",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065789697755152429",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@o65518kuguagua 舌吻"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-02T11:21:20.000Z",
+        "description": "只是想好好睡觉｜我的名字是瓜瓜｜心肝@imcutefate 最爱的闺闺@Lake_Verion",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 18,
+                "username": "imcutefate"
+              },
+              {
+                "end": 47,
+                "start": 35,
+                "username": "Lake_Verion"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E8%8B%A6%E7%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E8%8B%A6%E7%93%9C%E5%A4%A7%E7%8E%8B",
+                "start": 0,
+                "url": "https://t.co/CdcVmYa8EY"
+              }
+            ]
+          }
+        },
+        "id": "2028430373458456576",
+        "location": "加载中……   匿名→",
+        "name": "虎牙钉（今日发帖已上限只能转帖）",
+        "pinned_tweet_id": "2063001104858648649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060344470910926856/fk6R2qB-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2093,
+          "following_count": 599,
+          "like_count": 8742,
+          "listed_count": 1,
+          "media_count": 150,
+          "tweet_count": 2560
+        },
+        "url": "https://t.co/CdcVmYa8EY",
+        "username": "o65518kuguagua",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-01T15:20:56.000Z",
+        "description": "我的天使折了翼|@VFTS3824只过互关",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 8,
+                "username": "VFTS3824"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/tuqmmu1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/tuqmmu1",
+                "start": 0,
+                "url": "https://t.co/qo7c7eyR2p"
+              }
+            ]
+          }
+        },
+        "id": "1819030510053834752",
+        "location": "坏狗日记",
+        "name": "不要被命运找到",
+        "pinned_tweet_id": "2065403728396501023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065672149910597632/LW64ZvWD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83,
+          "following_count": 37,
+          "like_count": 6179,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 216
+        },
+        "url": "https://t.co/qo7c7eyR2p",
+        "username": "Tarsal4sA",
+        "verified": false
+      }
+    ]
+  }
+}

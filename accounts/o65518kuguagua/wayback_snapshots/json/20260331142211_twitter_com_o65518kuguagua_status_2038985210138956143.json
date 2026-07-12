@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028430373458456576",
+    "conversation_id": "2038920691077247235",
+    "created_at": "2026-03-31T14:22:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-31T15:22:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038985210138956143"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1887016325052293125",
+          "start": 0,
+          "username": "chnynji1566331"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038985210138956143",
+    "in_reply_to_user_id": "1887016325052293125",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038944653421002934",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chnynji1566331 好好看！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3088,
+        "media_key": "3_2038944592062746624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEvJTb6akAArZ40.jpg",
+        "width": 2316
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028430373458456576",
+        "conversation_id": "2038920691077247235",
+        "created_at": "2026-03-31T14:22:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T15:22:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038985210138956143"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1887016325052293125",
+              "start": 0,
+              "username": "chnynji1566331"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038985210138956143",
+        "in_reply_to_user_id": "1887016325052293125",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038944653421002934",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chnynji1566331 好好看！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2038944592062746624"
+          ]
+        },
+        "author_id": "1887016325052293125",
+        "conversation_id": "2038920691077247235",
+        "created_at": "2026-03-31T11:41:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T12:41:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038944653421002934"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2028430373458456576",
+              "start": 0,
+              "username": "o65518kuguagua"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/kg2BXSt0C4",
+              "end": 42,
+              "expanded_url": "https://x.com/chnynji1566331/status/2038944653421002934/photo/1",
+              "media_key": "3_2038944592062746624",
+              "start": 19,
+              "url": "https://t.co/kg2BXSt0C4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038944653421002934",
+        "in_reply_to_user_id": "2028430373458456576",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038920691077247235",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@o65518kuguagua 我的 https://t.co/kg2BXSt0C4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-02T11:21:20.000Z",
+        "description": "哥控｜我需要很多周末o.O 这个是我的大分身@qiu_song60259\n锁推小号@Kuguadawang6677",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 22,
+                "username": "qiu_song60259"
+              },
+              {
+                "end": 57,
+                "start": 41,
+                "username": "Kuguadawang6677"
+              }
+            ]
+          }
+        },
+        "id": "2028430373458456576",
+        "location": "加载中……",
+        "name": "咩咩",
+        "pinned_tweet_id": "2035726523810861085",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028450466460241920/ceK3GGSB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 335,
+          "following_count": 282,
+          "like_count": 2445,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 744
+        },
+        "username": "o65518kuguagua",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-05T05:52:20.000Z",
+        "description": "学粤语可以找我呀",
+        "id": "1887016325052293125",
+        "location": "广东",
+        "name": "kk",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966516102512660480/PoTq3USv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 59,
+          "like_count": 585,
+          "listed_count": 0,
+          "media_count": 137,
+          "tweet_count": 997
+        },
+        "username": "chnynji1566331",
+        "verified": false
+      }
+    ]
+  }
+}

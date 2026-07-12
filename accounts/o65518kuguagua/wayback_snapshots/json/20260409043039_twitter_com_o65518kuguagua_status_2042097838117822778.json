@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028430373458456576",
+    "conversation_id": "2042096043668705660",
+    "created_at": "2026-04-09T04:30:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T05:30:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042097838117822778"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1530040073311293440",
+          "start": 0,
+          "username": "zzzzzdog1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042097838117822778",
+    "in_reply_to_user_id": "1530040073311293440",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042097762876191130",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zzzzzdog1 好美味吧…！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028430373458456576",
+        "conversation_id": "2042096043668705660",
+        "created_at": "2026-04-09T04:30:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T05:30:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042097838117822778"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1530040073311293440",
+              "start": 0,
+              "username": "zzzzzdog1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042097838117822778",
+        "in_reply_to_user_id": "1530040073311293440",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042097762876191130",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zzzzzdog1 好美味吧…！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1530040073311293440",
+        "conversation_id": "2042096043668705660",
+        "created_at": "2026-04-09T04:30:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T05:30:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042097762876191130"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2028430373458456576",
+              "start": 0,
+              "username": "o65518kuguagua"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042097762876191130",
+        "in_reply_to_user_id": "2028430373458456576",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042096043668705660",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@o65518kuguagua 很好吃"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-02T11:21:20.000Z",
+        "description": "哥控｜我需要很多周末o.O 这个是我的大分身@qiu_song60259\n锁推小号@Kuguadawang6677",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 22,
+                "username": "qiu_song60259"
+              },
+              {
+                "end": 57,
+                "start": 41,
+                "username": "Kuguadawang6677"
+              }
+            ]
+          }
+        },
+        "id": "2028430373458456576",
+        "location": "加载中……",
+        "name": "咩咩",
+        "pinned_tweet_id": "2035726523810861085",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028450466460241920/ceK3GGSB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 453,
+          "following_count": 360,
+          "like_count": 4362,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 1278
+        },
+        "username": "o65518kuguagua",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-27T04:16:02.000Z",
+        "description": "东京抑郁之🥕  ♂",
+        "id": "1530040073311293440",
+        "location": "Koto-ku, Tokyo",
+        "name": "萝卜球子",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921626636417642496/mw9xrbSW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 177,
+          "following_count": 1672,
+          "like_count": 4824,
+          "listed_count": 3,
+          "media_count": 34,
+          "tweet_count": 1235
+        },
+        "username": "zzzzzdog1",
+        "verified": false
+      }
+    ]
+  }
+}

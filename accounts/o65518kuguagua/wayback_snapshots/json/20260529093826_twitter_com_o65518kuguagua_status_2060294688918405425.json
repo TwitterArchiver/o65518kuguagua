@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028430373458456576",
+    "conversation_id": "2060294688918405425",
+    "created_at": "2026-05-29T09:38:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T10:38:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2060294688918405425"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/kisbaka_/statu…",
+          "end": 34,
+          "expanded_url": "https://twitter.com/kisbaka_/status/2060028240777953674",
+          "start": 11,
+          "url": "https://t.co/RcQrGJF9MQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060294688918405425",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060028240777953674",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我以后也要养一只小猫 https://t.co/RcQrGJF9MQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2060028221140201476",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJawwKxXcAQGOrk.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028430373458456576",
+        "conversation_id": "2060294688918405425",
+        "created_at": "2026-05-29T09:38:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T10:38:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060294688918405425"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kisbaka_/statu…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/kisbaka_/status/2060028240777953674",
+              "start": 11,
+              "url": "https://t.co/RcQrGJF9MQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060294688918405425",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060028240777953674",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我以后也要养一只小猫 https://t.co/RcQrGJF9MQ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060028221140201476"
+          ]
+        },
+        "author_id": "1500830648038133760",
+        "conversation_id": "2060028240777953674",
+        "created_at": "2026-05-28T15:59:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T16:59:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060028240777953674"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xdamb0rhyS",
+              "end": 171,
+              "expanded_url": "https://x.com/KisBaka_/status/2060028240777953674/photo/1",
+              "media_key": "3_2060028221140201476",
+              "start": 148,
+              "url": "https://t.co/xdamb0rhyS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060028240777953674",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 56,
+          "impression_count": 49988,
+          "like_count": 2011,
+          "quote_count": 9,
+          "reply_count": 174,
+          "retweet_count": 91
+        },
+        "reply_settings": "everyone",
+        "text": "非常玄幻的一晚\n10点多的时候我刷小红书准备睡觉了\n看到一个领养小猫的帖子\n我就问了一下\n然后刚好离我10公里左右\n我家刚好除了猫砂猫砂盆没有剩下的全部都准备好了\n刚好她送猫砂猫盆\n我们就十点半多聊了一下\n她问我什么时候可以拿小猫\n我说随时\n11点她就把猫给我送过来了\n现在小猫跟我一起睡觉了… https://t.co/xdamb0rhyS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-02T11:21:20.000Z",
+        "description": "我只是在自说自话｜09苦逼美术生｜双性恋丨我是瓜瓜/小咪咪（我喜欢改头像和名字别忘记我TⅴT）|前世@qiu_song60259已死（互关巡回中）\n只过熟人@Kuguadawang6677 嫌我吵的话你点一下那个屏蔽我就死掉了｜双取随意谢谢你们愿意跟我玩丨心肝@imcutefate 最爱的闺闺@Lake_Verion",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 50,
+                "username": "qiu_song60259"
+              },
+              {
+                "end": 94,
+                "start": 78,
+                "username": "Kuguadawang6677"
+              },
+              {
+                "end": 141,
+                "start": 130,
+                "username": "imcutefate"
+              },
+              {
+                "end": 159,
+                "start": 147,
+                "username": "Lake_Verion"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E8%8B%A6%E7%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E8%8B%A6%E7%93%9C%E5%A4%A7%E7%8E%8B",
+                "start": 0,
+                "url": "https://t.co/CdcVmYa8EY"
+              }
+            ]
+          }
+        },
+        "id": "2028430373458456576",
+        "location": "加载中……   匿名→",
+        "name": "虎牙钉",
+        "pinned_tweet_id": "2057778441110598119",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058038322078064640/9aLQ7rPo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1519,
+          "following_count": 463,
+          "like_count": 7193,
+          "listed_count": 1,
+          "media_count": 100,
+          "tweet_count": 2012
+        },
+        "url": "https://t.co/CdcVmYa8EY",
+        "username": "o65518kuguagua",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-07T13:48:18.000Z",
+        "description": "可不可以",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wakaka16555",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wakaka16555",
+                "start": 0,
+                "url": "https://t.co/Aupl0FTWnC"
+              }
+            ]
+          }
+        },
+        "id": "1500830648038133760",
+        "location": "Miss u",
+        "name": "wakaka",
+        "pinned_tweet_id": "2028836636763607265",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023408861089091584/3RtY3XHs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 445,
+          "following_count": 3,
+          "like_count": 449,
+          "listed_count": 1,
+          "media_count": 90,
+          "tweet_count": 736
+        },
+        "url": "https://t.co/Aupl0FTWnC",
+        "username": "KisBaka_",
+        "verified": false
+      }
+    ]
+  }
+}

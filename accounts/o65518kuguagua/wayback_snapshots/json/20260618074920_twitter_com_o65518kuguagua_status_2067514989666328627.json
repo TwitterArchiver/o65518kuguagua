@@ -1,0 +1,439 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028430373458456576",
+    "conversation_id": "2066188027811029298",
+    "created_at": "2026-06-18T07:49:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T08:49:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067514989666328627"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1949894636446920704",
+          "start": 0,
+          "username": "sssssad_ovo"
+        },
+        {
+          "end": 29,
+          "id": "1819257263535935490",
+          "start": 13,
+          "username": "Ophelia84394614"
+        },
+        {
+          "end": 39,
+          "id": "1915361320360370176",
+          "start": 30,
+          "username": "hyqazwsx"
+        },
+        {
+          "end": 49,
+          "id": "2032384433840676864",
+          "start": 40,
+          "username": "Tears__7"
+        },
+        {
+          "end": 66,
+          "id": "1959892946926649344",
+          "start": 50,
+          "username": "Kiss_Yu_Forever"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067514989666328627",
+    "in_reply_to_user_id": "1949894636446920704",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066188027811029298",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sssssad_ovo @Ophelia84394614 @hyqazwsx @Tears__7 @Kiss_Yu_Forever 我去老婆"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 811,
+        "media_key": "3_2066188024640106496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKyTD6_W8AAFa16.png",
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028430373458456576",
+        "conversation_id": "2066188027811029298",
+        "created_at": "2026-06-18T07:49:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T08:49:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067514989666328627"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1949894636446920704",
+              "start": 0,
+              "username": "sssssad_ovo"
+            },
+            {
+              "end": 29,
+              "id": "1819257263535935490",
+              "start": 13,
+              "username": "Ophelia84394614"
+            },
+            {
+              "end": 39,
+              "id": "1915361320360370176",
+              "start": 30,
+              "username": "hyqazwsx"
+            },
+            {
+              "end": 49,
+              "id": "2032384433840676864",
+              "start": 40,
+              "username": "Tears__7"
+            },
+            {
+              "end": 66,
+              "id": "1959892946926649344",
+              "start": 50,
+              "username": "Kiss_Yu_Forever"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067514989666328627",
+        "in_reply_to_user_id": "1949894636446920704",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066188027811029298",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sssssad_ovo @Ophelia84394614 @hyqazwsx @Tears__7 @Kiss_Yu_Forever 我去老婆"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066188024640106496"
+          ]
+        },
+        "author_id": "1949894636446920704",
+        "conversation_id": "2066188027811029298",
+        "created_at": "2026-06-14T15:56:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T16:56:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066188027811029298"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 38,
+              "id": "1819257263535935490",
+              "start": 22,
+              "username": "Ophelia84394614"
+            },
+            {
+              "end": 48,
+              "id": "1915361320360370176",
+              "start": 39,
+              "username": "hyqazwsx"
+            },
+            {
+              "end": 70,
+              "id": "2028430373458456576",
+              "start": 55,
+              "username": "o65518kuguagua"
+            },
+            {
+              "end": 86,
+              "id": "2032384433840676864",
+              "start": 77,
+              "username": "Tears__7"
+            },
+            {
+              "end": 103,
+              "id": "1959892946926649344",
+              "start": 87,
+              "username": "Kiss_Yu_Forever"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Meet your Twitter family: parents, spouse, and children! 🌳 This fun feature uses a secret algorithm to predict your closest Twitter connections, representing your parents, spouse, and children 👨‍👩‍👧‍👦",
+              "display_url": "infinitetweet.me/family-tree?la…",
+              "end": 131,
+              "expanded_url": "https://infinitetweet.me/family-tree?lang=zh",
+              "start": 108,
+              "status": 200,
+              "title": "Family Tree • Infinitweet",
+              "unwound_url": "https://infinitetweet.me/family-tree?lang=zh",
+              "url": "https://t.co/T3l89gQyMm"
+            },
+            {
+              "display_url": "pic.x.com/WfTdL58zVh",
+              "end": 155,
+              "expanded_url": "https://x.com/sssssad_ovo/status/2066188027811029298/photo/1",
+              "media_key": "3_2066188024640106496",
+              "start": 132,
+              "url": "https://t.co/WfTdL58zVh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066188027811029298",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1412,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "👨‍👩‍👧‍👦 我的推特家庭:\n👫 父母: @Ophelia84394614 @hyqazwsx\n👰 配偶: @o65518kuguagua\n👶 孩子: @Tears__7 @Kiss_Yu_Forever\n\n➡️ https://t.co/T3l89gQyMm https://t.co/WfTdL58zVh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-02T11:21:20.000Z",
+        "description": "只是想好好睡觉｜我的名字是瓜瓜｜心肝@imcutefate 最爱的闺闺@Lake_Verion",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 18,
+                "username": "imcutefate"
+              },
+              {
+                "end": 47,
+                "start": 35,
+                "username": "Lake_Verion"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E8%8B%A6%E7%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E8%8B%A6%E7%93%9C%E5%A4%A7%E7%8E%8B",
+                "start": 0,
+                "url": "https://t.co/CdcVmYa8EY"
+              }
+            ]
+          }
+        },
+        "id": "2028430373458456576",
+        "location": "加载中……   匿名→",
+        "name": "虎牙钉（今日发帖已上限只能转帖）",
+        "pinned_tweet_id": "2063001104858648649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060344470910926856/fk6R2qB-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2090,
+          "following_count": 590,
+          "like_count": 8885,
+          "listed_count": 1,
+          "media_count": 159,
+          "tweet_count": 2640
+        },
+        "url": "https://t.co/CdcVmYa8EY",
+        "username": "o65518kuguagua",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-28T18:08:29.000Z",
+        "description": "圈地自萌中…🫧💬",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sssssad_ovo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sssssad_ovo",
+                "start": 0,
+                "url": "https://t.co/NNwxAiXG9u"
+              }
+            ]
+          }
+        },
+        "id": "1949894636446920704",
+        "name": "我们可以就这样纠缠一辈子吗",
+        "pinned_tweet_id": "2038962084990661104",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019257938305773574/lkwOnWvu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1272,
+          "following_count": 84,
+          "like_count": 3950,
+          "listed_count": 3,
+          "media_count": 98,
+          "tweet_count": 948
+        },
+        "url": "https://t.co/NNwxAiXG9u",
+        "username": "sssssad_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-02T06:21:57.000Z",
+        "description": "叫我小淇/熠熠 都可以啦😽〡🚪52纯绿  188半绿 | 我要抽中南海 | INFP | 双性恋 |求这个世界对我好一点|很少上推但会和有礼貌的小宝宝互动的！！不定时掉落照片",
+        "id": "1819257263535935490",
+        "location": "距离你0.1km",
+        "name": "连你也要凶我吗",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995886549787893760/dlV0S3n4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 97,
+          "following_count": 17,
+          "like_count": 480,
+          "listed_count": 1,
+          "media_count": 9,
+          "tweet_count": 85
+        },
+        "username": "Ophelia84394614",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-24T11:05:07.000Z",
+        "description": "170/52 纯分享 没有陪聊的义务  匿名 https://t.co/za2zoHO1BM",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/hyqaz2",
+                "end": 46,
+                "expanded_url": "https://ngl.link/hyqaz2",
+                "start": 23,
+                "url": "https://t.co/za2zoHO1BM"
+              }
+            ]
+          }
+        },
+        "id": "1915361320360370176",
+        "name": "大风",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001187022468472838/WtgQlOhW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4825,
+          "following_count": 28,
+          "like_count": 2302,
+          "listed_count": 13,
+          "media_count": 141,
+          "tweet_count": 843
+        },
+        "username": "hyqazwsx",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-13T09:13:13.000Z",
+        "description": "du wan zhe ju hua de ren shi zhu。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/tears89072",
+                "end": 23,
+                "expanded_url": "https://ngl.link/tears89072",
+                "start": 0,
+                "url": "https://t.co/O9MR3QOzuU"
+              }
+            ]
+          }
+        },
+        "id": "2032384433840676864",
+        "location": "直男 🚪128 啥也没有",
+        "name": "一滴眼淚",
+        "pinned_tweet_id": "2048789172643897787",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055304361648246784/0NgjjmJu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 518,
+          "following_count": 12,
+          "like_count": 2415,
+          "listed_count": 0,
+          "media_count": 131,
+          "tweet_count": 1424
+        },
+        "url": "https://t.co/O9MR3QOzuU",
+        "username": "Tears__7",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-25T08:17:58.000Z",
+        "description": "幸福请降临小妤手心",
+        "id": "1959892946926649344",
+        "location": "我的床",
+        "name": "春刻雨🌧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025647411516063744/3qa8UBjk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 196,
+          "following_count": 425,
+          "like_count": 3936,
+          "listed_count": 0,
+          "media_count": 168,
+          "tweet_count": 1598
+        },
+        "username": "Kiss_Yu_Forever",
+        "verified": false
+      }
+    ]
+  }
+}

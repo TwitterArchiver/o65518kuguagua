@@ -1,0 +1,316 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028430373458456576",
+    "conversation_id": "2038589169375842796",
+    "created_at": "2026-03-30T14:41:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-30T15:41:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038627695152504847"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1820594914339799040",
+          "start": 0,
+          "username": "2CROW19"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038627695152504847",
+    "in_reply_to_user_id": "1820594914339799040",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038589169375842796",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@2CROW19 几号线"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 5636,
+        "height": 1280,
+        "media_key": "13_2038589111158915072",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2038589111158915072/img/uGjSEXesTN0oXk_Y.jpg",
+        "public_metrics": {
+          "view_count": 224
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2038589111158915072/vid/avc1/320x568/zYgMxaDDuUAZ31n-.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2038589111158915072/vid/avc1/480x852/wWe69gZeRH8We1aA.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2038589111158915072/vid/avc1/720x1280/SuW3Rm5lIhZPXMMy.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2038589111158915072/pl/4JAfZEPta2EK8vvC.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028430373458456576",
+        "conversation_id": "2038589169375842796",
+        "created_at": "2026-03-30T14:41:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T15:41:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038627695152504847"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1820594914339799040",
+              "start": 0,
+              "username": "2CROW19"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038627695152504847",
+        "in_reply_to_user_id": "1820594914339799040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038589169375842796",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@2CROW19 几号线"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2038589111158915072"
+          ]
+        },
+        "author_id": "1820594914339799040",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Fashion Novelty",
+              "id": "845326060757512192",
+              "name": "Fashion Novelty"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Fashion Blogging",
+              "id": "845327283774640128",
+              "name": "Fashion Tags"
+            }
+          }
+        ],
+        "conversation_id": "2038589169375842796",
+        "created_at": "2026-03-30T12:08:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T13:08:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038589169375842796"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 23,
+              "start": 18,
+              "tag": "ootd"
+            },
+            {
+              "end": 29,
+              "start": 24,
+              "tag": "关爱唐氏"
+            },
+            {
+              "end": 33,
+              "start": 30,
+              "tag": "神人"
+            },
+            {
+              "end": 39,
+              "start": 34,
+              "tag": "无畏契约"
+            },
+            {
+              "end": 46,
+              "start": 40,
+              "tag": "三角洲行动"
+            },
+            {
+              "end": 50,
+              "start": 47,
+              "tag": "嘉豪"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Jfk1O9nJcw",
+              "end": 74,
+              "expanded_url": "https://x.com/2CROW19/status/2038589169375842796/video/1",
+              "media_key": "13_2038589111158915072",
+              "start": 51,
+              "url": "https://t.co/Jfk1O9nJcw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038589169375842796",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 786,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "终于降温了 终于能穿我最爱的卫衣了\n#ootd #关爱唐氏 #神人 #无畏契约 #三角洲行动 #嘉豪 https://t.co/Jfk1O9nJcw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-02T11:21:20.000Z",
+        "description": "哥控｜我需要很多周末o.O 这个是我的大分身@qiu_song60259\n锁推小号@Kuguadawang6677",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 22,
+                "username": "qiu_song60259"
+              },
+              {
+                "end": 57,
+                "start": 41,
+                "username": "Kuguadawang6677"
+              }
+            ]
+          }
+        },
+        "id": "2028430373458456576",
+        "location": "加载中……",
+        "name": "咩咩",
+        "pinned_tweet_id": "2035726523810861085",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028450466460241920/ceK3GGSB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 327,
+          "following_count": 279,
+          "like_count": 2254,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 675
+        },
+        "username": "o65518kuguagua",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-05T22:57:16.000Z",
+        "description": "想谴责想骂我的人可以滚了，我只想和无论我变成什么样都会跟我一起玩的人玩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lon3ly56935",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lon3ly56935",
+                "start": 0,
+                "url": "https://t.co/mYFeDFcvSM"
+              }
+            ]
+          }
+        },
+        "id": "1820594914339799040",
+        "location": "🚪50 仅限每周四 平时免费",
+        "name": "永恆",
+        "pinned_tweet_id": "2038318273973178519",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034274699413438465/-Vx8v5kZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83,
+          "following_count": 135,
+          "like_count": 1526,
+          "listed_count": 0,
+          "media_count": 151,
+          "tweet_count": 1246
+        },
+        "url": "https://t.co/mYFeDFcvSM",
+        "username": "2CROW19",
+        "verified": false
+      }
+    ]
+  }
+}

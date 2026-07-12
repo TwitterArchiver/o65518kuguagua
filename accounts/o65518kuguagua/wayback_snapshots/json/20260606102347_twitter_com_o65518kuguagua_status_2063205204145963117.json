@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028430373458456576",
+    "conversation_id": "2063202847433322694",
+    "created_at": "2026-06-06T10:23:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T11:23:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063205204145963117"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1945847691025715200",
+          "start": 0,
+          "username": "hchn222209"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063205204145963117",
+    "in_reply_to_user_id": "1945847691025715200",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063202847433322694",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hchn222209 宝宝你的眼睛好好看呀，我帮你擦擦眼泪"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 13100,
+        "height": 1280,
+        "media_key": "13_2063202754646941697",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2063202754646941697/img/yH1MzRJ9VJm5yb8G.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2063202754646941697/vid/avc1/320x568/FrdDHtl36UxXU_v0.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2063202754646941697/vid/avc1/480x852/LqiJsIiiiiaq3mDS.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2063202754646941697/vid/avc1/720x1280/dsgODdem6Y7X5yTK.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2063202754646941697/pl/-5iHeDrOBzvBRpli.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028430373458456576",
+        "conversation_id": "2063202847433322694",
+        "created_at": "2026-06-06T10:23:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T11:23:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063205204145963117"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1945847691025715200",
+              "start": 0,
+              "username": "hchn222209"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063205204145963117",
+        "in_reply_to_user_id": "1945847691025715200",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063202847433322694",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hchn222209 宝宝你的眼睛好好看呀，我帮你擦擦眼泪"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2063202754646941697"
+          ]
+        },
+        "author_id": "1945847691025715200",
+        "conversation_id": "2063202847433322694",
+        "created_at": "2026-06-06T10:14:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T11:14:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063202847433322694"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RgHRfqCfI9",
+              "end": 26,
+              "expanded_url": "https://x.com/hchn222209/status/2063202847433322694/video/1",
+              "media_key": "13_2063202754646941697",
+              "start": 3,
+              "url": "https://t.co/RgHRfqCfI9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063202847433322694",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "眼泪 https://t.co/RgHRfqCfI9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-02T11:21:20.000Z",
+        "description": "只是想好好睡觉｜心肝@imcutefate 最爱的闺闺@Lake_Verion",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 10,
+                "username": "imcutefate"
+              },
+              {
+                "end": 39,
+                "start": 27,
+                "username": "Lake_Verion"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E8%8B%A6%E7%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E8%8B%A6%E7%93%9C%E5%A4%A7%E7%8E%8B",
+                "start": 0,
+                "url": "https://t.co/CdcVmYa8EY"
+              }
+            ]
+          }
+        },
+        "id": "2028430373458456576",
+        "location": "加载中……   匿名→",
+        "name": "虎牙钉",
+        "pinned_tweet_id": "2057895439450374538",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060344470910926856/fk6R2qB-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1573,
+          "following_count": 534,
+          "like_count": 8004,
+          "listed_count": 1,
+          "media_count": 120,
+          "tweet_count": 2195
+        },
+        "url": "https://t.co/CdcVmYa8EY",
+        "username": "o65518kuguagua",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-17T14:07:10.000Z",
+        "description": "泥嚎!09/infp 这里是小稚ovo\n重度抑郁混合焦虑 \n休学待机中....\n别惹我我很脆弱ŏ̥̥̥̥םŏ̥̥̥̥",
+        "id": "1945847691025715200",
+        "location": "🚪52纯绿",
+        "name": "命比纸薄",
+        "pinned_tweet_id": "2036767859175755975",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040410524211679232/4A0i3Id7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 126,
+          "following_count": 13,
+          "like_count": 1367,
+          "listed_count": 0,
+          "media_count": 144,
+          "tweet_count": 998
+        },
+        "username": "hchn222209",
+        "verified": false
+      }
+    ]
+  }
+}

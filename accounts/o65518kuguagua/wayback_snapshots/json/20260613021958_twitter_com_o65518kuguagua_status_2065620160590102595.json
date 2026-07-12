@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028430373458456576",
+    "conversation_id": "2065458012899483882",
+    "created_at": "2026-06-13T02:19:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T03:19:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065620160590102595"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2019401624079462406",
+          "start": 0,
+          "username": "gdswweeeee"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065620160590102595",
+    "in_reply_to_user_id": "2019401624079462406",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065458012899483882",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gdswweeeee 你这么萌不要说对不起呀"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2065458006117236736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKn7HQEawAAHWmG.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028430373458456576",
+        "conversation_id": "2065458012899483882",
+        "created_at": "2026-06-13T02:19:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T03:19:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065620160590102595"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2019401624079462406",
+              "start": 0,
+              "username": "gdswweeeee"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065620160590102595",
+        "in_reply_to_user_id": "2019401624079462406",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065458012899483882",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gdswweeeee 你这么萌不要说对不起呀"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065458006117236736"
+          ]
+        },
+        "author_id": "2019401624079462406",
+        "conversation_id": "2065458012899483882",
+        "created_at": "2026-06-12T15:35:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T16:35:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065458012899483882"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oIqBwI3X9H",
+              "end": 27,
+              "expanded_url": "https://x.com/gdswweeeee/status/2065458012899483882/photo/1",
+              "media_key": "3_2065458006117236736",
+              "start": 4,
+              "url": "https://t.co/oIqBwI3X9H"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065458012899483882",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4735,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 36,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "对不起 https://t.co/oIqBwI3X9H"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-02T11:21:20.000Z",
+        "description": "只是想好好睡觉｜我的名字是瓜瓜｜心肝@imcutefate 最爱的闺闺@Lake_Verion",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 18,
+                "username": "imcutefate"
+              },
+              {
+                "end": 47,
+                "start": 35,
+                "username": "Lake_Verion"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E8%8B%A6%E7%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E8%8B%A6%E7%93%9C%E5%A4%A7%E7%8E%8B",
+                "start": 0,
+                "url": "https://t.co/CdcVmYa8EY"
+              }
+            ]
+          }
+        },
+        "id": "2028430373458456576",
+        "location": "加载中……   匿名→",
+        "name": "虎牙钉",
+        "pinned_tweet_id": "2063001104858648649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060344470910926856/fk6R2qB-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2052,
+          "following_count": 579,
+          "like_count": 8528,
+          "listed_count": 1,
+          "media_count": 134,
+          "tweet_count": 2432
+        },
+        "url": "https://t.co/CdcVmYa8EY",
+        "username": "o65518kuguagua",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-05T13:24:19.000Z",
+        "description": "78岁离婚 天王星人 带两娃 皮下男 不是真人\n不约 不加 不看 不露 不线下 不互看\n没门 不要逼我回覆讯息",
+        "id": "2019401624079462406",
+        "name": "en",
+        "pinned_tweet_id": "2041750801987858460",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035912058555002880/cw1rhnY6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5585,
+          "following_count": 60,
+          "like_count": 4328,
+          "listed_count": 16,
+          "media_count": 35,
+          "tweet_count": 618
+        },
+        "username": "gdswweeeee",
+        "verified": false
+      }
+    ]
+  }
+}

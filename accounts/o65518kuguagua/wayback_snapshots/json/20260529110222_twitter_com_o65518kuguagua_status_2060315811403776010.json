@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028430373458456576",
+    "conversation_id": "2060315811403776010",
+    "created_at": "2026-05-29T11:02:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T12:02:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2060315811403776010"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/rigpossible/st…",
+          "end": 26,
+          "expanded_url": "https://twitter.com/rigpossible/status/2059624997807673437",
+          "start": 3,
+          "url": "https://t.co/o19jwrlCvn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060315811403776010",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059624997807673437",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "哎呀 https://t.co/o19jwrlCvn"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028430373458456576",
+        "conversation_id": "2060315811403776010",
+        "created_at": "2026-05-29T11:02:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T12:02:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060315811403776010"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/rigpossible/st…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/rigpossible/status/2059624997807673437",
+              "start": 3,
+              "url": "https://t.co/o19jwrlCvn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060315811403776010",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059624997807673437",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "哎呀 https://t.co/o19jwrlCvn"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1809852699879567360",
+        "conversation_id": "2059624997807673437",
+        "created_at": "2026-05-27T13:17:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T14:17:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059624997807673437"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059624997807673437",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9546,
+          "impression_count": 2328051,
+          "like_count": 271961,
+          "quote_count": 2416,
+          "reply_count": 598,
+          "retweet_count": 25450
+        },
+        "reply_settings": "everyone",
+        "text": "vi uma mulher falando que o namorado dela ficou tão nervoso na hora de pedir ela em casamento que ele esqueceu tudo e acabou só ficando de joelhos falando “por favor”.\neu quero isso."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-02T11:21:20.000Z",
+        "description": "我只是在自说自话｜09苦逼美术生｜双性恋丨我是瓜瓜/小咪咪（我喜欢改头像和名字别忘记我TⅴT）|前世@qiu_song60259已死（互关巡回中）\n只过熟人@Kuguadawang6677 嫌我吵的话你点一下那个屏蔽我就死掉了｜双取随意谢谢你们愿意跟我玩丨心肝@imcutefate 最爱的闺闺@Lake_Verion",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 50,
+                "username": "qiu_song60259"
+              },
+              {
+                "end": 94,
+                "start": 78,
+                "username": "Kuguadawang6677"
+              },
+              {
+                "end": 141,
+                "start": 130,
+                "username": "imcutefate"
+              },
+              {
+                "end": 159,
+                "start": 147,
+                "username": "Lake_Verion"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E8%8B%A6%E7%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E8%8B%A6%E7%93%9C%E5%A4%A7%E7%8E%8B",
+                "start": 0,
+                "url": "https://t.co/CdcVmYa8EY"
+              }
+            ]
+          }
+        },
+        "id": "2028430373458456576",
+        "location": "加载中……   匿名→",
+        "name": "虎牙钉",
+        "pinned_tweet_id": "2057778441110598119",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058038322078064640/9aLQ7rPo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1519,
+          "following_count": 468,
+          "like_count": 7238,
+          "listed_count": 1,
+          "media_count": 100,
+          "tweet_count": 2019
+        },
+        "url": "https://t.co/CdcVmYa8EY",
+        "username": "o65518kuguagua",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-07T07:31:34.000Z",
+        "description": "carimba que é brat xx",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/blesstheraccoo…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/blesstheraccoon/",
+                "start": 0,
+                "url": "https://t.co/rfXrYHNWjN"
+              }
+            ]
+          }
+        },
+        "id": "1809852699879567360",
+        "name": "rigby XD - taróloga",
+        "pinned_tweet_id": "1976773411478376729",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917460919216451584/NwE1NOY3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3397,
+          "following_count": 933,
+          "like_count": 53330,
+          "listed_count": 2,
+          "media_count": 285,
+          "tweet_count": 9751
+        },
+        "url": "https://t.co/rfXrYHNWjN",
+        "username": "rigpossible",
+        "verified": false
+      }
+    ]
+  }
+}

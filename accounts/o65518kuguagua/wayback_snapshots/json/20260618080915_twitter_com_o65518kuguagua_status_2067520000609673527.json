@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028430373458456576",
+    "conversation_id": "2067467224571662698",
+    "created_at": "2026-06-18T08:09:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T09:09:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067520000609673527"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2065273060534689792",
+          "start": 0,
+          "username": "Miette0v0repo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067520000609673527",
+    "in_reply_to_user_id": "2065273060534689792",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067467224571662698",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Miette0v0repo 好想吃……"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2067467200374464512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLEedv8XYAASWkk.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028430373458456576",
+        "conversation_id": "2067467224571662698",
+        "created_at": "2026-06-18T08:09:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T09:09:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067520000609673527"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2065273060534689792",
+              "start": 0,
+              "username": "Miette0v0repo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067520000609673527",
+        "in_reply_to_user_id": "2065273060534689792",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067467224571662698",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Miette0v0repo 好想吃……"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067467200374464512"
+          ]
+        },
+        "author_id": "2065273060534689792",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2067467224571662698",
+        "created_at": "2026-06-18T04:39:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T05:39:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067467224571662698"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VEZN8m6vfI",
+              "end": 66,
+              "expanded_url": "https://x.com/Miette0v0repo/status/2067467224571662698/photo/1",
+              "media_key": "3_2067467200374464512",
+              "start": 43,
+              "url": "https://t.co/VEZN8m6vfI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067467224571662698",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 613,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "真服了，本来计划是今天开始吃鸡胸肉…刚煎完又不想吃了。来月经的时候真的是想一出是一出 https://t.co/VEZN8m6vfI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-02T11:21:20.000Z",
+        "description": "只是想好好睡觉｜我的名字是瓜瓜｜心肝@imcutefate 最爱的闺闺@Lake_Verion",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 18,
+                "username": "imcutefate"
+              },
+              {
+                "end": 47,
+                "start": 35,
+                "username": "Lake_Verion"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E8%8B%A6%E7%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E8%8B%A6%E7%93%9C%E5%A4%A7%E7%8E%8B",
+                "start": 0,
+                "url": "https://t.co/CdcVmYa8EY"
+              }
+            ]
+          }
+        },
+        "id": "2028430373458456576",
+        "location": "加载中……   匿名→",
+        "name": "虎牙钉（今日发帖已上限只能转帖）",
+        "pinned_tweet_id": "2063001104858648649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060344470910926856/fk6R2qB-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2090,
+          "following_count": 592,
+          "like_count": 8898,
+          "listed_count": 1,
+          "media_count": 159,
+          "tweet_count": 2646
+        },
+        "url": "https://t.co/CdcVmYa8EY",
+        "username": "o65518kuguagua",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-12T03:26:16.000Z",
+        "description": "饭性恋（我爱吃饭！）不是黄推💢分享我的日常",
+        "id": "2065273060534689792",
+        "name": "Miette",
+        "pinned_tweet_id": "2066507512116088853",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065275141454778368/iI41HjJI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 173,
+          "following_count": 34,
+          "like_count": 293,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 425
+        },
+        "url": "",
+        "username": "Miette0v0repo",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028430373458456576",
+    "conversation_id": "2067814724620972046",
+    "created_at": "2026-06-20T12:00:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T13:00:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068302912703647876"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2053112758531715072",
+          "start": 0,
+          "username": "Nevado_snow"
+        },
+        {
+          "end": 23,
+          "id": "1542846414421512193",
+          "start": 13,
+          "username": "Tunan7170"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068302912703647876",
+    "in_reply_to_user_id": "2053112758531715072",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068298834569261192",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Nevado_snow @Tunan7170 我不行了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028430373458456576",
+        "conversation_id": "2067814724620972046",
+        "created_at": "2026-06-20T12:00:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T13:00:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068302912703647876"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2053112758531715072",
+              "start": 0,
+              "username": "Nevado_snow"
+            },
+            {
+              "end": 23,
+              "id": "1542846414421512193",
+              "start": 13,
+              "username": "Tunan7170"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068302912703647876",
+        "in_reply_to_user_id": "2053112758531715072",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068298834569261192",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nevado_snow @Tunan7170 我不行了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053112758531715072",
+        "conversation_id": "2067814724620972046",
+        "created_at": "2026-06-20T11:44:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T12:44:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068298834569261192"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2028430373458456576",
+              "start": 0,
+              "username": "o65518kuguagua"
+            },
+            {
+              "end": 26,
+              "id": "1542846414421512193",
+              "start": 16,
+              "username": "Tunan7170"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068298834569261192",
+        "in_reply_to_user_id": "2028430373458456576",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067931715323216137",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@o65518kuguagua @Tunan7170 谁说没有完美犯罪"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-02T11:21:20.000Z",
+        "description": "只是想好好睡觉｜我的名字是瓜瓜｜心肝@imcutefate 最爱的闺闺@Lake_Verion",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 18,
+                "username": "imcutefate"
+              },
+              {
+                "end": 47,
+                "start": 35,
+                "username": "Lake_Verion"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E8%8B%A6%E7%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E8%8B%A6%E7%93%9C%E5%A4%A7%E7%8E%8B",
+                "start": 0,
+                "url": "https://t.co/CdcVmYa8EY"
+              }
+            ]
+          }
+        },
+        "id": "2028430373458456576",
+        "location": "加载中……   匿名→",
+        "name": "虎牙钉",
+        "pinned_tweet_id": "2063001104858648649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060344470910926856/fk6R2qB-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2389,
+          "following_count": 583,
+          "like_count": 9259,
+          "listed_count": 2,
+          "media_count": 177,
+          "tweet_count": 2821
+        },
+        "url": "https://t.co/CdcVmYa8EY",
+        "username": "o65518kuguagua",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-09T14:02:08.000Z",
+        "description": "El amor esta eco",
+        "id": "2053112758531715072",
+        "name": "Nevado",
+        "pinned_tweet_id": "2067221577306099951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065997076903927808/seoscLhi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62,
+          "following_count": 70,
+          "like_count": 4057,
+          "listed_count": 0,
+          "media_count": 161,
+          "tweet_count": 976
+        },
+        "url": "",
+        "username": "Nevado_snow",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-01T12:23:52.000Z",
+        "description": "只是一个弱智，别攻击我好吗",
+        "id": "1542846414421512193",
+        "name": "again",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064959571723161600/d6zehOW1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 374,
+          "following_count": 9,
+          "like_count": 350,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 57
+        },
+        "url": "",
+        "username": "Tunan7170",
+        "verified": false
+      }
+    ]
+  }
+}

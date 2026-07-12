@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028430373458456576",
+    "conversation_id": "2036672227484266988",
+    "created_at": "2026-03-26T10:03:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-26T11:03:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037108125145157724"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1578395243891855362",
+          "start": 0,
+          "username": "hate_0811"
+        },
+        {
+          "end": 19,
+          "id": "1712151514742214658",
+          "start": 11,
+          "username": "todosmt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037108125145157724",
+    "in_reply_to_user_id": "1578395243891855362",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037087794036945144",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hate_0811 @todosmt 我不行了呀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028430373458456576",
+        "conversation_id": "2036672227484266988",
+        "created_at": "2026-03-26T10:03:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T11:03:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037108125145157724"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1578395243891855362",
+              "start": 0,
+              "username": "hate_0811"
+            },
+            {
+              "end": 19,
+              "id": "1712151514742214658",
+              "start": 11,
+              "username": "todosmt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037108125145157724",
+        "in_reply_to_user_id": "1578395243891855362",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037087794036945144",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hate_0811 @todosmt 我不行了呀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1578395243891855362",
+        "conversation_id": "2036672227484266988",
+        "created_at": "2026-03-26T08:42:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T09:42:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037087794036945144"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1712151514742214658",
+              "start": 0,
+              "username": "todosmt"
+            },
+            {
+              "end": 24,
+              "id": "2028430373458456576",
+              "start": 9,
+              "username": "o65518kuguagua"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037087794036945144",
+        "in_reply_to_user_id": "1712151514742214658",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 190,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036672227484266988",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@todosmt @o65518kuguagua 唉！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-02T11:21:20.000Z",
+        "description": "我需要很多周末o.O 这个是我的大分身@qiu_song60259",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 19,
+                "username": "qiu_song60259"
+              }
+            ]
+          }
+        },
+        "id": "2028430373458456576",
+        "location": "加载中……",
+        "name": "咩咩",
+        "pinned_tweet_id": "2035726523810861085",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028450466460241920/ceK3GGSB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 178,
+          "following_count": 217,
+          "like_count": 1604,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 477
+        },
+        "username": "o65518kuguagua",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-07T14:42:16.000Z",
+        "description": "我这个小女孩的设定就是一定要人陪",
+        "id": "1578395243891855362",
+        "location": "🚪128",
+        "name": "讨厌你的好",
+        "pinned_tweet_id": "1990474102017306720",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024441256596951045/7eMRJiSC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2121,
+          "following_count": 228,
+          "like_count": 7408,
+          "listed_count": 8,
+          "media_count": 757,
+          "tweet_count": 6697
+        },
+        "username": "hate_0811",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-11T17:02:03.000Z",
+        "description": "没有东西是永恒的，金元素会衰变，原子的寿命只有10的35次方年，宇宙最终热寂。",
+        "id": "1712151514742214658",
+        "name": "Yoly🍓",
+        "pinned_tweet_id": "1782288411149406268",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1804138754158010368/6NcCHjqS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 305,
+          "following_count": 192,
+          "like_count": 6297,
+          "listed_count": 1,
+          "media_count": 254,
+          "tweet_count": 5093
+        },
+        "username": "todosmt",
+        "verified": false
+      }
+    ]
+  }
+}

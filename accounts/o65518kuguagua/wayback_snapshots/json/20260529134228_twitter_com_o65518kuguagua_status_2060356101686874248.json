@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028430373458456576",
+    "conversation_id": "2060118922674962596",
+    "created_at": "2026-05-29T13:42:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T14:42:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060356101686874248"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1644438682617749509",
+          "start": 0,
+          "username": "VirtudMental"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060356101686874248",
+    "in_reply_to_user_id": "1644438682617749509",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060118922674962596",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@VirtudMental Amén"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028430373458456576",
+        "conversation_id": "2060118922674962596",
+        "created_at": "2026-05-29T13:42:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T14:42:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060356101686874248"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1644438682617749509",
+              "start": 0,
+              "username": "VirtudMental"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060356101686874248",
+        "in_reply_to_user_id": "1644438682617749509",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060118922674962596",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@VirtudMental Amén"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1644438682617749509",
+        "conversation_id": "2060118922674962596",
+        "created_at": "2026-05-28T22:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T23:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060118922674962596"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060118922674962596",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 20,
+          "impression_count": 38429,
+          "like_count": 3576,
+          "quote_count": 2,
+          "reply_count": 25,
+          "retweet_count": 114
+        },
+        "reply_settings": "everyone",
+        "text": "Si tu madre aún está viva, que Dios le conceda una vida larga, saludable y feliz."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-02T11:21:20.000Z",
+        "description": "只是想好好睡觉｜心肝@imcutefate 最爱的闺闺@Lake_Verion",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 10,
+                "username": "imcutefate"
+              },
+              {
+                "end": 39,
+                "start": 27,
+                "username": "Lake_Verion"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E8%8B%A6%E7%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E8%8B%A6%E7%93%9C%E5%A4%A7%E7%8E%8B",
+                "start": 0,
+                "url": "https://t.co/CdcVmYa8EY"
+              }
+            ]
+          }
+        },
+        "id": "2028430373458456576",
+        "location": "加载中……   匿名→",
+        "name": "虎牙钉",
+        "pinned_tweet_id": "2060345028606644674",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060344470910926856/fk6R2qB-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1521,
+          "following_count": 482,
+          "like_count": 7491,
+          "listed_count": 1,
+          "media_count": 100,
+          "tweet_count": 2042
+        },
+        "url": "https://t.co/CdcVmYa8EY",
+        "username": "o65518kuguagua",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-07T20:35:28.000Z",
+        "description": "Mentalidad/ Productividad / Crecimiento Personal/ Bienestar /Psicología.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "beacons.ai/virtudmental2",
+                "end": 23,
+                "expanded_url": "https://beacons.ai/virtudmental2",
+                "start": 0,
+                "url": "https://t.co/jS4J8fLZ4V"
+              }
+            ]
+          }
+        },
+        "id": "1644438682617749509",
+        "location": "Colaboraciones/Publicidad. DM✉",
+        "name": "VirtudMental",
+        "pinned_tweet_id": "2059324417734271230",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855753209454673920/RrmUUerf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 236976,
+          "following_count": 345,
+          "like_count": 34024,
+          "listed_count": 432,
+          "media_count": 10152,
+          "tweet_count": 28360
+        },
+        "url": "https://t.co/jS4J8fLZ4V",
+        "username": "VirtudMental",
+        "verified": true
+      }
+    ]
+  }
+}

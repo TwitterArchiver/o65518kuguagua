@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028430373458456576",
+    "conversation_id": "2069996543609029106",
+    "created_at": "2026-06-25T04:10:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-25T05:10:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069996543609029106"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1637732697790627840",
+          "start": 3,
+          "username": "jujubeandpapaya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069996543609029106",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 32
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069699198963081445",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @jujubeandpapaya: 当主人也少操心狗在外面蹭谁了，发情想起你来就知足吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028430373458456576",
+        "conversation_id": "2069996543609029106",
+        "created_at": "2026-06-25T04:10:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T05:10:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069996543609029106"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1637732697790627840",
+              "start": 3,
+              "username": "jujubeandpapaya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069996543609029106",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 32
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069699198963081445",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @jujubeandpapaya: 当主人也少操心狗在外面蹭谁了，发情想起你来就知足吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1637732697790627840",
+        "conversation_id": "2069699198963081445",
+        "created_at": "2026-06-24T08:28:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T09:28:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069699198963081445"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/movingheart_/s…",
+              "end": 49,
+              "expanded_url": "https://twitter.com/movingheart_/status/2041710883987190176",
+              "start": 26,
+              "url": "https://t.co/mz1M2QjJwt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069699198963081445",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 35515,
+          "like_count": 499,
+          "quote_count": 6,
+          "reply_count": 64,
+          "retweet_count": 32
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041710883987190176",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "当主人也少操心狗在外面蹭谁了，发情想起你来就知足吧 https://t.co/mz1M2QjJwt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-02T11:21:20.000Z",
+        "description": "只是想好好睡觉｜我的名字是瓜瓜｜心肝@imcutefate 天下第一萌@Lake_Verion",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 18,
+                "username": "imcutefate"
+              },
+              {
+                "end": 47,
+                "start": 35,
+                "username": "Lake_Verion"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E8%8B%A6%E7%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E8%8B%A6%E7%93%9C%E5%A4%A7%E7%8E%8B",
+                "start": 0,
+                "url": "https://t.co/CdcVmYa8EY"
+              }
+            ]
+          }
+        },
+        "id": "2028430373458456576",
+        "location": "加载中……   匿名→",
+        "name": "虎牙钉",
+        "pinned_tweet_id": "2063001104858648649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060344470910926856/fk6R2qB-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2372,
+          "following_count": 583,
+          "like_count": 9385,
+          "listed_count": 2,
+          "media_count": 192,
+          "tweet_count": 2933
+        },
+        "url": "https://t.co/CdcVmYa8EY",
+        "username": "o65518kuguagua",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-20T08:28:13.000Z",
+        "description": "Did You Know That There's A Tunnel Under Ocean Blvd\n不开私信 别骚扰/乱七八糟的碎碎念",
+        "id": "1637732697790627840",
+        "location": "Canada",
+        "name": "❄️🌲",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1726787374279970821/fmO1R1Gb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3556,
+          "following_count": 442,
+          "like_count": 23180,
+          "listed_count": 13,
+          "media_count": 38,
+          "tweet_count": 993
+        },
+        "url": "",
+        "username": "jujubeandpapaya",
+        "verified": false
+      }
+    ]
+  }
+}

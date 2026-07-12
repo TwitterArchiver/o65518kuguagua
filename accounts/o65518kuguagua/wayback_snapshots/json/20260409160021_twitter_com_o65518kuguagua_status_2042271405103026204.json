@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028430373458456576",
+    "conversation_id": "2042269650059403305",
+    "created_at": "2026-04-09T16:00:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T17:00:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042271405103026204"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1756026359154176000",
+          "start": 0,
+          "username": "_disorientation"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042271405103026204",
+    "in_reply_to_user_id": "1756026359154176000",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042271265126564181",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_disorientation 呃并没有"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028430373458456576",
+        "conversation_id": "2042269650059403305",
+        "created_at": "2026-04-09T16:00:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T17:00:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042271405103026204"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1756026359154176000",
+              "start": 0,
+              "username": "_disorientation"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042271405103026204",
+        "in_reply_to_user_id": "1756026359154176000",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042271265126564181",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_disorientation 呃并没有"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1756026359154176000",
+        "conversation_id": "2042269650059403305",
+        "created_at": "2026-04-09T15:59:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T16:59:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042271265126564181"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2028430373458456576",
+              "start": 0,
+              "username": "o65518kuguagua"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042271265126564181",
+        "in_reply_to_user_id": "2028430373458456576",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042269650059403305",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@o65518kuguagua 那结局变过吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-02T11:21:20.000Z",
+        "description": "哥控｜我需要很多周末o.O 这个是我的大分身@qiu_song60259\n锁推小号@Kuguadawang6677",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 22,
+                "username": "qiu_song60259"
+              },
+              {
+                "end": 57,
+                "start": 41,
+                "username": "Kuguadawang6677"
+              }
+            ]
+          }
+        },
+        "id": "2028430373458456576",
+        "location": "加载中……",
+        "name": "咩咩",
+        "pinned_tweet_id": "2035726523810861085",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028450466460241920/ceK3GGSB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 464,
+          "following_count": 372,
+          "like_count": 4757,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 1372
+        },
+        "username": "o65518kuguagua",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-09T18:44:53.000Z",
+        "description": "致幻剂成瘾者\n07/intp/双鱼/无门，看情况加V/是一个正常人，嗯，应该",
+        "id": "1756026359154176000",
+        "location": "银河系",
+        "name": "零分优等生",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992878028771524608/Md4GC45L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 152,
+          "like_count": 218,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 228
+        },
+        "username": "_disorientation",
+        "verified": false
+      }
+    ]
+  }
+}

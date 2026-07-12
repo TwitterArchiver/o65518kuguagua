@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028430373458456576",
+    "conversation_id": "2067879021682315712",
+    "created_at": "2026-06-19T07:55:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T08:55:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067879021682315712"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1993654218159484929",
+          "start": 3,
+          "username": "Babydoll_ovo1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067879021682315712",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 11
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061293132826980750",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Babydoll_ovo1: 帮我转转帖嗯哼哼TvT 互关回家"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028430373458456576",
+        "conversation_id": "2067879021682315712",
+        "created_at": "2026-06-19T07:55:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T08:55:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067879021682315712"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1993654218159484929",
+              "start": 3,
+              "username": "Babydoll_ovo1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067879021682315712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 11
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061293132826980750",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Babydoll_ovo1: 帮我转转帖嗯哼哼TvT 互关回家"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1993654218159484929",
+        "conversation_id": "2061293132826980750",
+        "created_at": "2026-06-01T03:45:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T04:45:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061293132826980750"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2061293132826980750",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25680,
+          "like_count": 32,
+          "quote_count": 3,
+          "reply_count": 10,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "帮我转转帖嗯哼哼TvT 互关回家"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-02T11:21:20.000Z",
+        "description": "只是想好好睡觉｜我的名字是瓜瓜｜心肝@imcutefate 最爱的闺闺@Lake_Verion",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 18,
+                "username": "imcutefate"
+              },
+              {
+                "end": 47,
+                "start": 35,
+                "username": "Lake_Verion"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E8%8B%A6%E7%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E8%8B%A6%E7%93%9C%E5%A4%A7%E7%8E%8B",
+                "start": 0,
+                "url": "https://t.co/CdcVmYa8EY"
+              }
+            ]
+          }
+        },
+        "id": "2028430373458456576",
+        "location": "加载中……   匿名→",
+        "name": "虎牙钉",
+        "pinned_tweet_id": "2063001104858648649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060344470910926856/fk6R2qB-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2094,
+          "following_count": 599,
+          "like_count": 9109,
+          "listed_count": 1,
+          "media_count": 168,
+          "tweet_count": 2733
+        },
+        "url": "https://t.co/CdcVmYa8EY",
+        "username": "o65518kuguagua",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-26T12:13:09.000Z",
+        "description": "原账号@baisechenyi被盗号 偶尔上线发日常/掉落自拍 互关回家我想你们！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "baisechenyi"
+              }
+            ]
+          }
+        },
+        "id": "1993654218159484929",
+        "location": "只关注喜欢的",
+        "name": "Nn",
+        "pinned_tweet_id": "2061293132826980750",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064685769256804352/R9pX6Hq0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 313,
+          "following_count": 86,
+          "like_count": 135,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 85
+        },
+        "url": "",
+        "username": "Babydoll_ovo1",
+        "verified": false
+      }
+    ]
+  }
+}

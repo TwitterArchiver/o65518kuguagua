@@ -1,0 +1,172 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2057768784321212416"
+      ]
+    },
+    "author_id": "2028430373458456576",
+    "conversation_id": "2057768800066670747",
+    "created_at": "2026-05-22T10:21:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T11:21:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2057768800066670747"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/eGMZDdhT7y",
+          "end": 28,
+          "expanded_url": "https://x.com/o65518kuguagua/status/2057768800066670747/photo/1",
+          "media_key": "3_2057768784321212416",
+          "start": 5,
+          "url": "https://t.co/eGMZDdhT7y"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057768800066670747",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "呆子一个 https://t.co/eGMZDdhT7y"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2057768784321212416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI6pzotacAA5757.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057768784321212416"
+          ]
+        },
+        "author_id": "2028430373458456576",
+        "conversation_id": "2057768800066670747",
+        "created_at": "2026-05-22T10:21:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T11:21:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057768800066670747"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eGMZDdhT7y",
+              "end": 28,
+              "expanded_url": "https://x.com/o65518kuguagua/status/2057768800066670747/photo/1",
+              "media_key": "3_2057768784321212416",
+              "start": 5,
+              "url": "https://t.co/eGMZDdhT7y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057768800066670747",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "呆子一个 https://t.co/eGMZDdhT7y"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-02T11:21:20.000Z",
+        "description": "我只是在自说自话｜哥控｜09美术生o.O ｜以后会用做这个号作为主号！前世@qiu_song60259\n锁推小号@Kuguadawang6677 嫌我吵的话你点一下那个屏蔽我就死掉了｜双取请随意谢谢你们愿意跟我玩丨心肝@imcutefate 最最爱的闺闺@Lake_Verion",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 37,
+                "username": "qiu_song60259"
+              },
+              {
+                "end": 72,
+                "start": 56,
+                "username": "Kuguadawang6677"
+              },
+              {
+                "end": 120,
+                "start": 109,
+                "username": "imcutefate"
+              },
+              {
+                "end": 139,
+                "start": 127,
+                "username": "Lake_Verion"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E8%8B%A6%E7%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E8%8B%A6%E7%93%9C%E5%A4%A7%E7%8E%8B",
+                "start": 0,
+                "url": "https://t.co/CdcVmYa8EY"
+              }
+            ]
+          }
+        },
+        "id": "2028430373458456576",
+        "location": "加载中……   匿名→",
+        "name": "咩咩",
+        "pinned_tweet_id": "2047911866517659665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028450466460241920/ceK3GGSB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 860,
+          "following_count": 416,
+          "like_count": 6725,
+          "listed_count": 0,
+          "media_count": 88,
+          "tweet_count": 1850
+        },
+        "url": "https://t.co/CdcVmYa8EY",
+        "username": "o65518kuguagua",
+        "verified": false
+      }
+    ]
+  }
+}

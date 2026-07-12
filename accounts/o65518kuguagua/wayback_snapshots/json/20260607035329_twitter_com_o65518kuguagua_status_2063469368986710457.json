@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2062580313075994624"
+      ],
+      "media_source_tweet_id": [
+        "2062580407787512003"
+      ]
+    },
+    "author_id": "2028430373458456576",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2063469368986710457",
+    "created_at": "2026-06-07T03:53:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T04:53:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063469368986710457"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/qRwiJ2hjXM",
+          "end": 38,
+          "expanded_url": "https://x.com/VRichao45616/status/2062580407787512003/video/1",
+          "media_key": "13_2062580313075994624",
+          "start": 15,
+          "url": "https://t.co/qRwiJ2hjXM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063469368986710457",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我笑的好难受啊这他吗啥玩意啊 https://t.co/qRwiJ2hjXM"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 46533,
+        "height": 1280,
+        "media_key": "13_2062580313075994624",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2062580313075994624/img/wwFLWffaz8srnlqh.jpg",
+        "public_metrics": {
+          "view_count": 194663
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2062580313075994624/vid/avc1/320x568/SmPbI-DUhNg2EL6_.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2062580313075994624/vid/avc1/480x852/0LrwNWOZ7yRZuxQ_.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2062580313075994624/vid/avc1/720x1280/bloFy8MuVbFBBKBw.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2062580313075994624/pl/FJp-KiNEWA4CgqD-.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2062580313075994624"
+          ],
+          "media_source_tweet_id": [
+            "2062580407787512003"
+          ]
+        },
+        "author_id": "2028430373458456576",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2063469368986710457",
+        "created_at": "2026-06-07T03:53:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T04:53:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063469368986710457"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qRwiJ2hjXM",
+              "end": 38,
+              "expanded_url": "https://x.com/VRichao45616/status/2062580407787512003/video/1",
+              "media_key": "13_2062580313075994624",
+              "start": 15,
+              "url": "https://t.co/qRwiJ2hjXM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063469368986710457",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我笑的好难受啊这他吗啥玩意啊 https://t.co/qRwiJ2hjXM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-02T11:21:20.000Z",
+        "description": "只是想好好睡觉｜我的名字是瓜瓜｜心肝@imcutefate 最爱的闺闺@Lake_Verion",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 18,
+                "username": "imcutefate"
+              },
+              {
+                "end": 47,
+                "start": 35,
+                "username": "Lake_Verion"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E8%8B%A6%E7%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E8%8B%A6%E7%93%9C%E5%A4%A7%E7%8E%8B",
+                "start": 0,
+                "url": "https://t.co/CdcVmYa8EY"
+              }
+            ]
+          }
+        },
+        "id": "2028430373458456576",
+        "location": "加载中……   匿名→",
+        "name": "虎牙钉",
+        "pinned_tweet_id": "2063001104858648649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060344470910926856/fk6R2qB-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1608,
+          "following_count": 542,
+          "like_count": 8159,
+          "listed_count": 1,
+          "media_count": 124,
+          "tweet_count": 2255
+        },
+        "url": "https://t.co/CdcVmYa8EY",
+        "username": "o65518kuguagua",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,298 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2037213362183168002"
+      ],
+      "media_source_tweet_id": [
+        "2037213461386543250"
+      ]
+    },
+    "author_id": "2028430373458456576",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2037392272141033569",
+    "created_at": "2026-03-27T04:52:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-27T05:52:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037392272141033569"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1278999003212984320",
+          "start": 3,
+          "username": "Spinaaaaa17"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/rzgjnsr0JY",
+          "end": 67,
+          "expanded_url": "https://x.com/Spinaaaaa17/status/2037213461386543250/video/1",
+          "media_key": "7_2037213362183168002",
+          "start": 44,
+          "url": "https://t.co/rzgjnsr0JY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037392272141033569",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 469
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037213461386543250",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Spinaaaaa17: Tung tung is crazy bro 😂😂😂 https://t.co/rzgjnsr0JY"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 65271,
+        "height": 864,
+        "media_key": "7_2037213362183168002",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2037213362183168002/pu/img/wGWv7Nf2fIfhCPsO.jpg",
+        "public_metrics": {
+          "view_count": 2120286
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2037213362183168002/pu/vid/avc1/320x480/UgDEqklZYbsqvGA4.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2037213362183168002/pu/vid/avc1/480x720/On3VHULS2i9KNrBp.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2037213362183168002/pu/vid/avc1/576x864/y3XloRU__DiJi8F7.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2037213362183168002/pu/pl/rx4JAihhfVHgOwXi.m3u8"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2037213362183168002"
+          ],
+          "media_source_tweet_id": [
+            "2037213461386543250"
+          ]
+        },
+        "author_id": "2028430373458456576",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2037392272141033569",
+        "created_at": "2026-03-27T04:52:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T05:52:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037392272141033569"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1278999003212984320",
+              "start": 3,
+              "username": "Spinaaaaa17"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rzgjnsr0JY",
+              "end": 67,
+              "expanded_url": "https://x.com/Spinaaaaa17/status/2037213461386543250/video/1",
+              "media_key": "7_2037213362183168002",
+              "start": 44,
+              "url": "https://t.co/rzgjnsr0JY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037392272141033569",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 469
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037213461386543250",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Spinaaaaa17: Tung tung is crazy bro 😂😂😂 https://t.co/rzgjnsr0JY"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2037213362183168002"
+          ]
+        },
+        "author_id": "1278999003212984320",
+        "conversation_id": "2037213461386543250",
+        "created_at": "2026-03-26T17:01:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T18:01:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037213461386543250"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rzgjnsr0JY",
+              "end": 50,
+              "expanded_url": "https://x.com/Spinaaaaa17/status/2037213461386543250/video/1",
+              "media_key": "7_2037213362183168002",
+              "start": 27,
+              "url": "https://t.co/rzgjnsr0JY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037213461386543250",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2570,
+          "impression_count": 3281432,
+          "like_count": 9040,
+          "quote_count": 124,
+          "reply_count": 114,
+          "retweet_count": 469
+        },
+        "reply_settings": "everyone",
+        "text": "Tung tung is crazy bro 😂😂😂 https://t.co/rzgjnsr0JY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-02T11:21:20.000Z",
+        "description": "我需要很多周末o.O 这个是我的大分身@qiu_song60259",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 19,
+                "username": "qiu_song60259"
+              }
+            ]
+          }
+        },
+        "id": "2028430373458456576",
+        "location": "加载中……",
+        "name": "咩咩",
+        "pinned_tweet_id": "2035726523810861085",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028450466460241920/ceK3GGSB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 188,
+          "following_count": 248,
+          "like_count": 1791,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 546
+        },
+        "username": "o65518kuguagua",
+        "verified": false
+      },
+      {
+        "created_at": "2020-07-03T10:28:55.000Z",
+        "description": "Diehard gunner & Professional shoe seller. For more information call or WhatsApp me on 0782529461",
+        "id": "1278999003212984320",
+        "name": "Spina Kicks🥇",
+        "pinned_tweet_id": "2037243236096381357",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949372533637017602/IVRIkGWx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24554,
+          "following_count": 4795,
+          "like_count": 497340,
+          "listed_count": 15,
+          "media_count": 17263,
+          "tweet_count": 187123
+        },
+        "username": "Spinaaaaa17",
+        "verified": true
+      }
+    ]
+  }
+}

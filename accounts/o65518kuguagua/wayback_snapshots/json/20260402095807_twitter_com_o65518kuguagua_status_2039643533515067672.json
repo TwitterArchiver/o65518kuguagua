@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028430373458456576",
+    "conversation_id": "2032112865575125403",
+    "created_at": "2026-04-02T09:58:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-02T10:58:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039643533515067672"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1926509265792950272",
+          "start": 0,
+          "username": "xjaxja217379"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039643533515067672",
+    "in_reply_to_user_id": "1926509265792950272",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032112865575125403",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xjaxja217379 啊啊笑死我了来个微信"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028430373458456576",
+        "conversation_id": "2032112865575125403",
+        "created_at": "2026-04-02T09:58:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T10:58:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039643533515067672"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1926509265792950272",
+              "start": 0,
+              "username": "xjaxja217379"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039643533515067672",
+        "in_reply_to_user_id": "1926509265792950272",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032112865575125403",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xjaxja217379 啊啊笑死我了来个微信"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1926509265792950272",
+        "conversation_id": "2032112865575125403",
+        "created_at": "2026-03-12T15:13:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T16:13:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032112865575125403"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2032112865575125403",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5138,
+          "like_count": 82,
+          "quote_count": 0,
+          "reply_count": 23,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "嗯对，今天难得在学校里面稍微打扮收拾了一下，回学校路上两个女生过来叫住我帅哥帅哥，我还以为是要我微信呢，给我心脏搞停一拍，结果是要我加入一个英语六级班的...啥意思吧🌚"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-02T11:21:20.000Z",
+        "description": "哥控｜我需要很多周末o.O 这个是我的大分身@qiu_song60259\n锁推小号@Kuguadawang6677",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 22,
+                "username": "qiu_song60259"
+              },
+              {
+                "end": 57,
+                "start": 41,
+                "username": "Kuguadawang6677"
+              }
+            ]
+          }
+        },
+        "id": "2028430373458456576",
+        "location": "加载中……",
+        "name": "咩咩",
+        "pinned_tweet_id": "2035726523810861085",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028450466460241920/ceK3GGSB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 373,
+          "following_count": 304,
+          "like_count": 2946,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 950
+        },
+        "username": "o65518kuguagua",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-25T05:23:06.000Z",
+        "description": "T^T",
+        "id": "1926509265792950272",
+        "name": "许愿变成一只萌萌的狸花猫",
+        "pinned_tweet_id": "2039198686610395251",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996111026945970176/ncyjQHIP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 472,
+          "following_count": 213,
+          "like_count": 155394,
+          "listed_count": 1,
+          "media_count": 97,
+          "tweet_count": 1624
+        },
+        "username": "xjaxja217379",
+        "verified": false
+      }
+    ]
+  }
+}

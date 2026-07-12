@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028430373458456576",
+    "conversation_id": "2040479841313784130",
+    "created_at": "2026-04-05T14:04:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-05T15:04:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040792640061665293"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1936342492078559232",
+          "start": 0,
+          "username": "mumu666544412"
+        },
+        {
+          "end": 28,
+          "id": "1935372590060843008",
+          "start": 15,
+          "username": "luobotoumiao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040792640061665293",
+    "in_reply_to_user_id": "1936342492078559232",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040614713214837150",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mumu666544412 @luobotoumiao 我他吗的笑的好难受"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028430373458456576",
+        "conversation_id": "2040479841313784130",
+        "created_at": "2026-04-05T14:04:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T15:04:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040792640061665293"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1936342492078559232",
+              "start": 0,
+              "username": "mumu666544412"
+            },
+            {
+              "end": 28,
+              "id": "1935372590060843008",
+              "start": 15,
+              "username": "luobotoumiao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040792640061665293",
+        "in_reply_to_user_id": "1936342492078559232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040614713214837150",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mumu666544412 @luobotoumiao 我他吗的笑的好难受"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1936342492078559232",
+        "conversation_id": "2040479841313784130",
+        "created_at": "2026-04-05T02:17:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T03:17:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040614713214837150"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1935372590060843008",
+              "start": 0,
+              "username": "luobotoumiao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040614713214837150",
+        "in_reply_to_user_id": "1935372590060843008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 148,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040479841313784130",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@luobotoumiao 为什么要管自己的鸡巴叫萝卜头。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-02T11:21:20.000Z",
+        "description": "哥控｜我需要很多周末o.O 这个是我的大分身@qiu_song60259\n锁推小号@Kuguadawang6677",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 22,
+                "username": "qiu_song60259"
+              },
+              {
+                "end": 57,
+                "start": 41,
+                "username": "Kuguadawang6677"
+              }
+            ]
+          }
+        },
+        "id": "2028430373458456576",
+        "location": "加载中……",
+        "name": "咩咩",
+        "pinned_tweet_id": "2035726523810861085",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028450466460241920/ceK3GGSB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 418,
+          "following_count": 326,
+          "like_count": 3412,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 1108
+        },
+        "username": "o65518kuguagua",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-21T08:36:53.000Z",
+        "description": "谢谢你的关注。不线下。\n\n转发一 些爽爽的视频，男女都有。\n\n xp包括但不限于sp/耳光/强制/骑操/内设内尿/dirty talk/深喉.",
+        "id": "1936342492078559232",
+        "location": "猫猫教教主🚪188",
+        "name": "牛肉饭",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026341390729490432/tQ7CIpnw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1824,
+          "following_count": 671,
+          "like_count": 2426,
+          "listed_count": 3,
+          "media_count": 4,
+          "tweet_count": 868
+        },
+        "username": "mumu666544412",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-18T16:22:54.000Z",
+        "description": "全球可飞",
+        "id": "1935372590060843008",
+        "location": "0.01km",
+        "name": "沸萝萝",
+        "pinned_tweet_id": "2040312653743329407",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038510085488726016/fF2_PelA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4628,
+          "following_count": 393,
+          "like_count": 5023,
+          "listed_count": 10,
+          "media_count": 196,
+          "tweet_count": 1662
+        },
+        "username": "luobotoumiao",
+        "verified": false
+      }
+    ]
+  }
+}

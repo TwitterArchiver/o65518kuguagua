@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028430373458456576",
+    "conversation_id": "2060313365692506512",
+    "created_at": "2026-05-29T10:52:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T11:52:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2060313365692506512"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ling1021ng/sta…",
+          "end": 64,
+          "expanded_url": "https://twitter.com/ling1021ng/status/2060174208618115410",
+          "start": 41,
+          "url": "https://t.co/l3RKf7aqrc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060313365692506512",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060174208618115410",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "呃我就是那个两极分化特别严重啊有时候不到几分钟就高潮了有时候好久好久都高不了一次 https://t.co/l3RKf7aqrc"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028430373458456576",
+        "conversation_id": "2060313365692506512",
+        "created_at": "2026-05-29T10:52:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T11:52:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060313365692506512"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ling1021ng/sta…",
+              "end": 64,
+              "expanded_url": "https://twitter.com/ling1021ng/status/2060174208618115410",
+              "start": 41,
+              "url": "https://t.co/l3RKf7aqrc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060313365692506512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060174208618115410",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "呃我就是那个两极分化特别严重啊有时候不到几分钟就高潮了有时候好久好久都高不了一次 https://t.co/l3RKf7aqrc"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1923066357345812480",
+        "conversation_id": "2060074772021825821",
+        "created_at": "2026-05-29T01:39:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T02:39:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060174208618115410"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1579442033483075584",
+              "start": 0,
+              "username": "26suversider"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060174208618115410",
+        "in_reply_to_user_id": "1579442033483075584",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 17632,
+          "like_count": 194,
+          "quote_count": 1,
+          "reply_count": 9,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060074772021825821",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@26suversider 每次因为自慰太多次而高潮不了的时候 我就会把玩具停下来思考一下人生"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-02T11:21:20.000Z",
+        "description": "我只是在自说自话｜09苦逼美术生｜双性恋丨我是瓜瓜/小咪咪（我喜欢改头像和名字别忘记我TⅴT）|前世@qiu_song60259已死（互关巡回中）\n只过熟人@Kuguadawang6677 嫌我吵的话你点一下那个屏蔽我就死掉了｜双取随意谢谢你们愿意跟我玩丨心肝@imcutefate 最爱的闺闺@Lake_Verion",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 50,
+                "username": "qiu_song60259"
+              },
+              {
+                "end": 94,
+                "start": 78,
+                "username": "Kuguadawang6677"
+              },
+              {
+                "end": 141,
+                "start": 130,
+                "username": "imcutefate"
+              },
+              {
+                "end": 159,
+                "start": 147,
+                "username": "Lake_Verion"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E8%8B%A6%E7%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E8%8B%A6%E7%93%9C%E5%A4%A7%E7%8E%8B",
+                "start": 0,
+                "url": "https://t.co/CdcVmYa8EY"
+              }
+            ]
+          }
+        },
+        "id": "2028430373458456576",
+        "location": "加载中……   匿名→",
+        "name": "虎牙钉",
+        "pinned_tweet_id": "2057778441110598119",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058038322078064640/9aLQ7rPo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1519,
+          "following_count": 462,
+          "like_count": 7202,
+          "listed_count": 1,
+          "media_count": 100,
+          "tweet_count": 2013
+        },
+        "url": "https://t.co/CdcVmYa8EY",
+        "username": "o65518kuguagua",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-15T17:22:32.000Z",
+        "description": "女喘@ling071130",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 2,
+                "username": "ling071130"
+              }
+            ]
+          }
+        },
+        "id": "1923066357345812480",
+        "name": "火鸡面好吃",
+        "pinned_tweet_id": "2060186528454959340",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060166557544964096/TrFzCJ6C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 9,
+          "like_count": 27,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 153
+        },
+        "username": "ling1021ng",
+        "verified": false
+      }
+    ]
+  }
+}

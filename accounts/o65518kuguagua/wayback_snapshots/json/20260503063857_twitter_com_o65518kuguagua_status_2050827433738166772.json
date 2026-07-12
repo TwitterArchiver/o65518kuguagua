@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028430373458456576",
+    "conversation_id": "2050804105539707193",
+    "created_at": "2026-05-03T06:38:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-03T07:38:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050827433738166772"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2026680668365991936",
+          "start": 0,
+          "username": "Sakee1106"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050827433738166772",
+    "in_reply_to_user_id": "2026680668365991936",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050804105539707193",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sakee1106 足控福利"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2050804087793520640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHXrc8TaEAAM7TT.jpg",
+        "width": 1483
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028430373458456576",
+        "conversation_id": "2050804105539707193",
+        "created_at": "2026-05-03T06:38:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T07:38:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050827433738166772"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2026680668365991936",
+              "start": 0,
+              "username": "Sakee1106"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050827433738166772",
+        "in_reply_to_user_id": "2026680668365991936",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050804105539707193",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sakee1106 足控福利"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050804087793520640"
+          ]
+        },
+        "author_id": "2026680668365991936",
+        "conversation_id": "2050804105539707193",
+        "created_at": "2026-05-03T05:06:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T06:06:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050804105539707193"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6w5JBFAkkf",
+              "end": 34,
+              "expanded_url": "https://x.com/Sakee1106/status/2050804105539707193/photo/1",
+              "media_key": "3_2050804087793520640",
+              "start": 11,
+              "url": "https://t.co/6w5JBFAkkf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050804105539707193",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 293,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我感觉我脚也蛮好看的 https://t.co/6w5JBFAkkf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-02T11:21:20.000Z",
+        "description": "我只是在自说自话｜哥控｜09美术生o.O ｜以后会用做这个号作为主号！这个是我的大分身@qiu_song60259\n锁推小号@Kuguadawang6677 嫌我吵的话你点一下那个屏蔽我就死掉了｜双取请随意谢谢你们愿意跟我玩",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 43,
+                "username": "qiu_song60259"
+              },
+              {
+                "end": 78,
+                "start": 62,
+                "username": "Kuguadawang6677"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E8%8B%A6%E7%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E8%8B%A6%E7%93%9C%E5%A4%A7%E7%8E%8B",
+                "start": 0,
+                "url": "https://t.co/CdcVmYa8EY"
+              }
+            ]
+          }
+        },
+        "id": "2028430373458456576",
+        "location": "加载中……   匿名→",
+        "name": "咩咩",
+        "pinned_tweet_id": "2047911866517659665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028450466460241920/ceK3GGSB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 737,
+          "following_count": 422,
+          "like_count": 6430,
+          "listed_count": 0,
+          "media_count": 83,
+          "tweet_count": 1783
+        },
+        "url": "https://t.co/CdcVmYa8EY",
+        "username": "o65518kuguagua",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-25T15:28:30.000Z",
+        "description": "问天问地问蝴蝶",
+        "id": "2026680668365991936",
+        "name": "王宇昊",
+        "pinned_tweet_id": "2050631920367894741",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042607302763778056/PeTxbluy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1632,
+          "following_count": 68,
+          "like_count": 5012,
+          "listed_count": 3,
+          "media_count": 76,
+          "tweet_count": 797
+        },
+        "username": "Sakee1106",
+        "verified": false
+      }
+    ]
+  }
+}

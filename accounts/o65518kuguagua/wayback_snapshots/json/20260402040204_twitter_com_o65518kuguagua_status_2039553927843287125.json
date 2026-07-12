@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028430373458456576",
+    "conversation_id": "2039377967005212675",
+    "created_at": "2026-04-02T04:02:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-02T05:02:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039553927843287125"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1890848153525706752",
+          "start": 0,
+          "username": "MoxiYolo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039553927843287125",
+    "in_reply_to_user_id": "1890848153525706752",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039377967005212675",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MoxiYolo 操的就是大鸡吧。。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028430373458456576",
+        "conversation_id": "2039377967005212675",
+        "created_at": "2026-04-02T04:02:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T05:02:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039553927843287125"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1890848153525706752",
+              "start": 0,
+              "username": "MoxiYolo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039553927843287125",
+        "in_reply_to_user_id": "1890848153525706752",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039377967005212675",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MoxiYolo 操的就是大鸡吧。。。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1890848153525706752",
+        "conversation_id": "2039377967005212675",
+        "created_at": "2026-04-01T16:22:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T17:22:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039377967005212675"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2039377967005212675",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 20,
+          "impression_count": 56981,
+          "like_count": 266,
+          "quote_count": 4,
+          "reply_count": 38,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "大鸡巴结果是个0你难道不觉得暴殄天物吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-02T11:21:20.000Z",
+        "description": "哥控｜我需要很多周末o.O 这个是我的大分身@qiu_song60259\n锁推小号@Kuguadawang6677",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 22,
+                "username": "qiu_song60259"
+              },
+              {
+                "end": 57,
+                "start": 41,
+                "username": "Kuguadawang6677"
+              }
+            ]
+          }
+        },
+        "id": "2028430373458456576",
+        "location": "加载中……",
+        "name": "咩咩",
+        "pinned_tweet_id": "2035726523810861085",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028450466460241920/ceK3GGSB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 371,
+          "following_count": 301,
+          "like_count": 2853,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 910
+        },
+        "username": "o65518kuguagua",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-15T19:38:35.000Z",
+        "description": "↘️此定位是假的↙️ 丨丨男🌈年龄17，网名“消防”并不是消防行业及消防员丨丨此账号仅发布个人言论和各类转发，其转发内容通常包含且不限于“🔞男同”，并不会发布个人生活及本体相关照片。丨丨❤️顺直不跳脸就是好顺直，跳脸必喷丨丨谢拒推特扩列",
+        "id": "1890848153525706752",
+        "location": "距离您0.13km",
+        "name": "消防🏖️➡️8000fo",
+        "pinned_tweet_id": "2025197729941782948",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024189922018807815/pn7Dxf3Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7916,
+          "following_count": 777,
+          "like_count": 1479,
+          "listed_count": 6,
+          "media_count": 248,
+          "tweet_count": 2430
+        },
+        "username": "MoxiYolo",
+        "verified": false
+      }
+    ]
+  }
+}

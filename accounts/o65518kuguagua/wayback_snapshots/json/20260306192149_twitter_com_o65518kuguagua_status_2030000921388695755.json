@@ -1,0 +1,168 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2030000293186822144"
+      ]
+    },
+    "author_id": "2028430373458456576",
+    "conversation_id": "2030000921388695755",
+    "created_at": "2026-03-06T19:21:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-06T20:21:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2030000921388695755"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/P8RoWoK6fD",
+          "end": 29,
+          "expanded_url": "https://x.com/o65518kuguagua/status/2030000921388695755/video/1",
+          "media_key": "13_2030000293186822144",
+          "start": 6,
+          "url": "https://t.co/P8RoWoK6fD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030000921388695755",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "🌚☝️☝️ https://t.co/P8RoWoK6fD"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 13833,
+        "height": 720,
+        "media_key": "13_2030000293186822144",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2030000293186822144/img/zEFVvH2MmBz9Cafy.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2030000293186822144/vid/avc1/302x270/RkdVTq_08S4tqskT.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2030000293186822144/vid/avc1/404x360/rxcBbU0QcsNGBTSn.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2030000293186822144/vid/avc1/810x720/xX9WpevW_asM6Ym-.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2030000293186822144/pl/0z9cGaBBI3w3rjDP.m3u8"
+          }
+        ],
+        "width": 810
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2030000293186822144"
+          ]
+        },
+        "author_id": "2028430373458456576",
+        "conversation_id": "2030000921388695755",
+        "created_at": "2026-03-06T19:21:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T20:21:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030000921388695755"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/P8RoWoK6fD",
+              "end": 29,
+              "expanded_url": "https://x.com/o65518kuguagua/status/2030000921388695755/video/1",
+              "media_key": "13_2030000293186822144",
+              "start": 6,
+              "url": "https://t.co/P8RoWoK6fD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030000921388695755",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "🌚☝️☝️ https://t.co/P8RoWoK6fD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-02T11:21:20.000Z",
+        "description": "我需要很多周末o.O 这个是我的大分身@qiu_song60259",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 19,
+                "username": "qiu_song60259"
+              }
+            ]
+          }
+        },
+        "id": "2028430373458456576",
+        "location": "加载中……",
+        "name": "咩咩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028450466460241920/ceK3GGSB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 101,
+          "following_count": 28,
+          "like_count": 200,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 42
+        },
+        "username": "o65518kuguagua",
+        "verified": false
+      }
+    ]
+  }
+}

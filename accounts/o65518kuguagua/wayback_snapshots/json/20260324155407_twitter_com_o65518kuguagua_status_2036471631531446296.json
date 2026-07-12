@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028430373458456576",
+    "conversation_id": "2036471631531446296",
+    "created_at": "2026-03-24T15:54:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-24T16:54:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2036471631531446296"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yuanyuan774/st…",
+          "end": 26,
+          "expanded_url": "https://twitter.com/yuanyuan774/status/2036324180216455456",
+          "start": 3,
+          "url": "https://t.co/PHpISbKEXN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036471631531446296",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036324180216455456",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "对。 https://t.co/PHpISbKEXN"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028430373458456576",
+        "conversation_id": "2036471631531446296",
+        "created_at": "2026-03-24T15:54:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T16:54:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036471631531446296"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yuanyuan774/st…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/yuanyuan774/status/2036324180216455456",
+              "start": 3,
+              "url": "https://t.co/PHpISbKEXN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036471631531446296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036324180216455456",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "对。 https://t.co/PHpISbKEXN"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592865779241734144",
+        "conversation_id": "2036324180216455456",
+        "created_at": "2026-03-24T06:08:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T07:08:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036324180216455456"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2036324180216455456",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 23991,
+          "like_count": 362,
+          "quote_count": 1,
+          "reply_count": 6,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "姨妈巾这东西 是我最讨厌的女生向我借了都会帮忙买的程度"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-02T11:21:20.000Z",
+        "description": "我需要很多周末o.O 这个是我的大分身@qiu_song60259",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 19,
+                "username": "qiu_song60259"
+              }
+            ]
+          }
+        },
+        "id": "2028430373458456576",
+        "location": "加载中……",
+        "name": "咩咩",
+        "pinned_tweet_id": "2035726523810861085",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028450466460241920/ceK3GGSB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 161,
+          "following_count": 175,
+          "like_count": 1212,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 332
+        },
+        "username": "o65518kuguagua",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-16T13:03:00.000Z",
+        "description": "小号 转喜欢看的片的。@CaTwTuoo。 不接推广接转推，除口令以外不看私信，52000好友位",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 11,
+                "username": "CaTwTuoo"
+              }
+            ]
+          }
+        },
+        "id": "1592865779241734144",
+        "location": "🥕",
+        "name": "我虾面食了",
+        "pinned_tweet_id": "2009044724024529042",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006600139784228864/G9KATkPW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30820,
+          "following_count": 242,
+          "like_count": 25278,
+          "listed_count": 42,
+          "media_count": 1395,
+          "tweet_count": 26170
+        },
+        "username": "yuanyuan774",
+        "verified": false
+      }
+    ]
+  }
+}

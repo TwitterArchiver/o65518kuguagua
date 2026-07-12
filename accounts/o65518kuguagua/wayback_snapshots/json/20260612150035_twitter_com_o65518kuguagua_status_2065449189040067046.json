@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028430373458456576",
+    "conversation_id": "2065382032252035296",
+    "created_at": "2026-06-12T15:00:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T16:00:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065449189040067046"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1610016083678838786",
+          "start": 0,
+          "username": "X1nKuangShen1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065449189040067046",
+    "in_reply_to_user_id": "1610016083678838786",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065444240352481646",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@X1nKuangShen1 我去不早说！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028430373458456576",
+        "conversation_id": "2065382032252035296",
+        "created_at": "2026-06-12T15:00:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T16:00:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065449189040067046"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1610016083678838786",
+              "start": 0,
+              "username": "X1nKuangShen1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065449189040067046",
+        "in_reply_to_user_id": "1610016083678838786",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065444240352481646",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@X1nKuangShen1 我去不早说！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1610016083678838786",
+        "conversation_id": "2065382032252035296",
+        "created_at": "2026-06-12T14:40:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T15:40:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065444240352481646"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2028430373458456576",
+              "start": 0,
+              "username": "o65518kuguagua"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065444240352481646",
+        "in_reply_to_user_id": "2028430373458456576",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065382032252035296",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@o65518kuguagua 哇 怎么不早说"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-02T11:21:20.000Z",
+        "description": "只是想好好睡觉｜我的名字是瓜瓜｜心肝@imcutefate 最爱的闺闺@Lake_Verion",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 18,
+                "username": "imcutefate"
+              },
+              {
+                "end": 47,
+                "start": 35,
+                "username": "Lake_Verion"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E8%8B%A6%E7%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E8%8B%A6%E7%93%9C%E5%A4%A7%E7%8E%8B",
+                "start": 0,
+                "url": "https://t.co/CdcVmYa8EY"
+              }
+            ]
+          }
+        },
+        "id": "2028430373458456576",
+        "location": "加载中……   匿名→",
+        "name": "虎牙钉",
+        "pinned_tweet_id": "2063001104858648649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060344470910926856/fk6R2qB-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1997,
+          "following_count": 563,
+          "like_count": 8370,
+          "listed_count": 1,
+          "media_count": 127,
+          "tweet_count": 2328
+        },
+        "url": "https://t.co/CdcVmYa8EY",
+        "username": "o65518kuguagua",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-02T20:52:43.000Z",
+        "description": "▪ 肠粉&芋角lover ▪ intp x ♉ ▪ 法国教育局什么时候能放过我 ▪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "nature.com",
+                "end": 23,
+                "expanded_url": "https://www.nature.com/",
+                "start": 0,
+                "url": "https://t.co/48dEbIIiSz"
+              }
+            ]
+          }
+        },
+        "id": "1610016083678838786",
+        "location": "^⎚˕⎚^",
+        "name": "心旷神怡",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061177125160251393/4T-6wDKB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 125,
+          "like_count": 2000,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 122
+        },
+        "url": "https://t.co/48dEbIIiSz",
+        "username": "X1nKuangShen1",
+        "verified": false
+      }
+    ]
+  }
+}

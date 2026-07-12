@@ -1,0 +1,162 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2073047532608065536"
+      ]
+    },
+    "author_id": "2028430373458456576",
+    "conversation_id": "2073047541898498306",
+    "created_at": "2026-07-03T14:13:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T15:13:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2073047541898498306"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/X27BQz7A7u",
+          "end": 27,
+          "expanded_url": "https://x.com/o65518kuguagua/status/2073047541898498306/photo/1",
+          "media_key": "3_2073047532608065536",
+          "start": 4,
+          "url": "https://t.co/X27BQz7A7u"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073047541898498306",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "🔃w🔃 https://t.co/X27BQz7A7u"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1214,
+        "media_key": "3_2073047532608065536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMTxv1eakAAzq2s.jpg",
+        "width": 696
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073047532608065536"
+          ]
+        },
+        "author_id": "2028430373458456576",
+        "conversation_id": "2073047541898498306",
+        "created_at": "2026-07-03T14:13:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T15:13:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073047541898498306"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/X27BQz7A7u",
+              "end": 27,
+              "expanded_url": "https://x.com/o65518kuguagua/status/2073047541898498306/photo/1",
+              "media_key": "3_2073047532608065536",
+              "start": 4,
+              "url": "https://t.co/X27BQz7A7u"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073047541898498306",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "🔃w🔃 https://t.co/X27BQz7A7u"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-02T11:21:20.000Z",
+        "description": "只是想好好睡觉｜我的名字是瓜瓜｜心肝@imcutefate 天下第一萌@Lake_Verion",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 18,
+                "username": "imcutefate"
+              },
+              {
+                "end": 47,
+                "start": 35,
+                "username": "Lake_Verion"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E8%8B%A6%E7%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E8%8B%A6%E7%93%9C%E5%A4%A7%E7%8E%8B",
+                "start": 0,
+                "url": "https://t.co/CdcVmYa8EY"
+              }
+            ]
+          }
+        },
+        "id": "2028430373458456576",
+        "location": "加载中……   匿名→",
+        "name": "虎牙钉",
+        "pinned_tweet_id": "2063001104858648649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060344470910926856/fk6R2qB-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2352,
+          "following_count": 580,
+          "like_count": 9429,
+          "listed_count": 2,
+          "media_count": 201,
+          "tweet_count": 2995
+        },
+        "url": "https://t.co/CdcVmYa8EY",
+        "username": "o65518kuguagua",
+        "verified": false
+      }
+    ]
+  }
+}

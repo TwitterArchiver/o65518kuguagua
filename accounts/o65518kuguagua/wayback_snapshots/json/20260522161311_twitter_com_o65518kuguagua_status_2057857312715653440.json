@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028430373458456576",
+    "conversation_id": "2057768800066670747",
+    "created_at": "2026-05-22T16:13:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T17:13:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057857312715653440"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1829919307645796354",
+          "start": 0,
+          "username": "xioln37555"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057857312715653440",
+    "in_reply_to_user_id": "1829919307645796354",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057855071774499028",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xioln37555 么么哒！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028430373458456576",
+        "conversation_id": "2057768800066670747",
+        "created_at": "2026-05-22T16:13:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T17:13:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057857312715653440"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1829919307645796354",
+              "start": 0,
+              "username": "xioln37555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057857312715653440",
+        "in_reply_to_user_id": "1829919307645796354",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057855071774499028",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xioln37555 么么哒！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1829919307645796354",
+        "conversation_id": "2057768800066670747",
+        "created_at": "2026-05-22T16:04:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T17:04:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057855071774499028"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2028430373458456576",
+              "start": 0,
+              "username": "o65518kuguagua"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057855071774499028",
+        "in_reply_to_user_id": "2028430373458456576",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057768800066670747",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@o65518kuguagua 么么哒"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-02T11:21:20.000Z",
+        "description": "我只是在自说自话｜哥控｜09美术生o.O ｜以后会用做这个号作为主号！前世@qiu_song60259\n锁推小号@Kuguadawang6677 嫌我吵的话你点一下那个屏蔽我就死掉了｜双取请随意谢谢你们愿意跟我玩丨心肝@imcutefate 最最爱的闺闺@Lake_Verion",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 37,
+                "username": "qiu_song60259"
+              },
+              {
+                "end": 72,
+                "start": 56,
+                "username": "Kuguadawang6677"
+              },
+              {
+                "end": 120,
+                "start": 109,
+                "username": "imcutefate"
+              },
+              {
+                "end": 139,
+                "start": 127,
+                "username": "Lake_Verion"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E8%8B%A6%E7%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E8%8B%A6%E7%93%9C%E5%A4%A7%E7%8E%8B",
+                "start": 0,
+                "url": "https://t.co/CdcVmYa8EY"
+              }
+            ]
+          }
+        },
+        "id": "2028430373458456576",
+        "location": "加载中……   匿名→",
+        "name": "咩咩",
+        "pinned_tweet_id": "2047911866517659665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028450466460241920/ceK3GGSB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 877,
+          "following_count": 421,
+          "like_count": 6753,
+          "listed_count": 0,
+          "media_count": 90,
+          "tweet_count": 1858
+        },
+        "url": "https://t.co/CdcVmYa8EY",
+        "username": "o65518kuguagua",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-31T16:29:36.000Z",
+        "description": "大胖丫头 纯爱发 别骂我 别骂我 我只是爱发仍子 我啥也不干 小小老子@lnyngyng17875",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 35,
+                "username": "lnyngyng17875"
+              }
+            ]
+          }
+        },
+        "id": "1829919307645796354",
+        "location": "入🚪私信",
+        "name": "小懒",
+        "pinned_tweet_id": "2048085583747231774",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046959337067917312/GLAOUTgP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9436,
+          "following_count": 197,
+          "like_count": 22388,
+          "listed_count": 37,
+          "media_count": 386,
+          "tweet_count": 9444
+        },
+        "username": "xioln37555",
+        "verified": false
+      }
+    ]
+  }
+}

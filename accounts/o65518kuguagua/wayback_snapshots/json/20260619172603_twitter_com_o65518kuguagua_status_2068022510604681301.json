@@ -1,0 +1,296 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028430373458456576",
+    "conversation_id": "2067987406771638559",
+    "created_at": "2026-06-19T17:26:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T18:26:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068022510604681301"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2062076589819703296",
+          "start": 0,
+          "username": "Dsdrdjwmz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068022510604681301",
+    "in_reply_to_user_id": "2062076589819703296",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067987406771638559",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Dsdrdjwmz 我操这什么东西啊吓死我了"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 213004,
+        "height": 720,
+        "media_key": "7_1731393467320770560",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1731393467320770560/pu/img/XiH2foJL95e7q6pl.jpg",
+        "public_metrics": {
+          "view_count": 9204878
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1731393467320770560/pu/vid/avc1/480x270/oCRk9f4aACyBNUUB.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1731393467320770560/pu/vid/avc1/640x360/RkA6fjQhvR-f5KTE.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1731393467320770560/pu/vid/avc1/1280x720/i2Sy6cTOt939ArtK.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1731393467320770560/pu/pl/9EmpLEvF7Rz4DT7M.m3u8?tag=12"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028430373458456576",
+        "conversation_id": "2067987406771638559",
+        "created_at": "2026-06-19T17:26:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T18:26:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068022510604681301"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2062076589819703296",
+              "start": 0,
+              "username": "Dsdrdjwmz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068022510604681301",
+        "in_reply_to_user_id": "2062076589819703296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067987406771638559",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Dsdrdjwmz 我操这什么东西啊吓死我了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1731393467320770560"
+          ],
+          "media_source_tweet_id": [
+            "1731396287403012111"
+          ]
+        },
+        "author_id": "2062076589819703296",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2067987406771638559",
+        "created_at": "2026-06-19T15:06:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T16:06:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067987406771638559"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bANSTY2x3k",
+              "end": 82,
+              "expanded_url": "https://x.com/GYerathel/status/1731396287403012111/video/1",
+              "media_key": "7_1731393467320770560",
+              "start": 59,
+              "url": "https://t.co/bANSTY2x3k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067987406771638559",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 157,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "所有伪娘跨性别夹嗓子掩盖自己男人音的看好了，只有做了这个手术你们就拥有了真正的逼，就不需要再把你们的屁眼叫做逼了。  https://t.co/bANSTY2x3k"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-02T11:21:20.000Z",
+        "description": "只是想好好睡觉｜我的名字是瓜瓜｜心肝@imcutefate 最爱的闺闺@Lake_Verion",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 18,
+                "username": "imcutefate"
+              },
+              {
+                "end": 47,
+                "start": 35,
+                "username": "Lake_Verion"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E8%8B%A6%E7%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E8%8B%A6%E7%93%9C%E5%A4%A7%E7%8E%8B",
+                "start": 0,
+                "url": "https://t.co/CdcVmYa8EY"
+              }
+            ]
+          }
+        },
+        "id": "2028430373458456576",
+        "location": "加载中……   匿名→",
+        "name": "虎牙钉",
+        "pinned_tweet_id": "2063001104858648649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060344470910926856/fk6R2qB-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2095,
+          "following_count": 577,
+          "like_count": 9175,
+          "listed_count": 1,
+          "media_count": 171,
+          "tweet_count": 2767
+        },
+        "url": "https://t.co/CdcVmYa8EY",
+        "username": "o65518kuguagua",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-03T07:39:31.000Z",
+        "description": "前世@886oooooo\n顺我者昌 逆我者亡 男卑女卑木子为尊 谢谢",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 2,
+                "username": "886oooooo"
+              }
+            ]
+          }
+        },
+        "id": "2062076589819703296",
+        "name": "道上的人都叫我木子",
+        "pinned_tweet_id": "2067713490115317871",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062077162740666368/-lTYnJb9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54,
+          "following_count": 20,
+          "like_count": 34,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 48
+        },
+        "url": "",
+        "username": "Dsdrdjwmz",
+        "verified": false
+      }
+    ]
+  }
+}

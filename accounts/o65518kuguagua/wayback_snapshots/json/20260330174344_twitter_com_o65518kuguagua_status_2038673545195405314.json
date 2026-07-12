@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028430373458456576",
+    "conversation_id": "2038673545195405314",
+    "created_at": "2026-03-30T17:43:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-30T18:43:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2038673545195405314"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/danjack6752419…",
+          "end": 39,
+          "expanded_url": "https://twitter.com/danjack67524194/status/2038395478375841971",
+          "start": 16,
+          "url": "https://t.co/wWcf8XTyX1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038673545195405314",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038395478375841971",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "呃呃呃呃啊啊啊啊啊啊啊笑死我了 https://t.co/wWcf8XTyX1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 998,
+        "media_key": "3_2038395474768797696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEnV4mlboAAGzqz.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028430373458456576",
+        "conversation_id": "2038673545195405314",
+        "created_at": "2026-03-30T17:43:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T18:43:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038673545195405314"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/danjack6752419…",
+              "end": 39,
+              "expanded_url": "https://twitter.com/danjack67524194/status/2038395478375841971",
+              "start": 16,
+              "url": "https://t.co/wWcf8XTyX1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038673545195405314",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038395478375841971",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "呃呃呃呃啊啊啊啊啊啊啊笑死我了 https://t.co/wWcf8XTyX1"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2038395474768797696"
+          ]
+        },
+        "author_id": "1299312684991569920",
+        "conversation_id": "2038395478375841971",
+        "created_at": "2026-03-29T23:18:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T00:18:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038395478375841971"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hYhrGUswEe",
+              "end": 41,
+              "expanded_url": "https://x.com/DanJack67524194/status/2038395478375841971/photo/1",
+              "media_key": "3_2038395474768797696",
+              "start": 18,
+              "url": "https://t.co/hYhrGUswEe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038395478375841971",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 36154,
+          "like_count": 927,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "老兄已經做好被傳遍社群軟體的準備了 https://t.co/hYhrGUswEe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-02T11:21:20.000Z",
+        "description": "哥控｜我需要很多周末o.O 这个是我的大分身@qiu_song60259\n锁推小号@Kuguadawang6677",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 22,
+                "username": "qiu_song60259"
+              },
+              {
+                "end": 57,
+                "start": 41,
+                "username": "Kuguadawang6677"
+              }
+            ]
+          }
+        },
+        "id": "2028430373458456576",
+        "location": "加载中……",
+        "name": "咩咩",
+        "pinned_tweet_id": "2035726523810861085",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028450466460241920/ceK3GGSB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 329,
+          "following_count": 280,
+          "like_count": 2386,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 730
+        },
+        "username": "o65518kuguagua",
+        "verified": false
+      },
+      {
+        "created_at": "2020-08-28T11:48:01.000Z",
+        "description": "（大部分梗圖皆為轉載）（現在也有自己翻譯的梗圖*如有翻譯圖，皆有翻譯浮水印*）\nthreads ：https://t.co/uiN3asDWEM\n\nig（梗圖帳）：https://t.co/4O83ZaXG7x",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "threads.com/@fox_sun_moon",
+                "end": 72,
+                "expanded_url": "https://www.threads.com/@fox_sun_moon",
+                "start": 49,
+                "url": "https://t.co/uiN3asDWEM"
+              },
+              {
+                "display_url": "instagram.com/fox_sun_moon?i…",
+                "end": 105,
+                "expanded_url": "https://www.instagram.com/fox_sun_moon?igsh=ZXh3MXpyb",
+                "start": 82,
+                "url": "https://t.co/4O83ZaXG7x"
+              }
+            ]
+          }
+        },
+        "id": "1299312684991569920",
+        "location": "羅馬帝國—君士坦丁堡",
+        "name": "狐曌🦊",
+        "pinned_tweet_id": "1995435811052060863",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923538905741111296/OuHg0oGe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7884,
+          "following_count": 2047,
+          "like_count": 31731,
+          "listed_count": 23,
+          "media_count": 7439,
+          "tweet_count": 33658
+        },
+        "username": "DanJack67524194",
+        "verified": false
+      }
+    ]
+  }
+}

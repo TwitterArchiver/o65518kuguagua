@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028430373458456576",
+    "conversation_id": "2039200122454642849",
+    "created_at": "2026-04-01T04:36:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-01T05:36:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2039200122454642849"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/xiaomingmumu/s…",
+          "end": 36,
+          "expanded_url": "https://twitter.com/xiaomingmumu/status/2038788649836573035",
+          "start": 13,
+          "url": "https://t.co/xcb2JZ4Yj4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039200122454642849",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038788649836573035",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "呃呃呃我喜欢看他们的日常 https://t.co/xcb2JZ4Yj4"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028430373458456576",
+        "conversation_id": "2039200122454642849",
+        "created_at": "2026-04-01T04:36:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T05:36:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039200122454642849"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xiaomingmumu/s…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/xiaomingmumu/status/2038788649836573035",
+              "start": 13,
+              "url": "https://t.co/xcb2JZ4Yj4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039200122454642849",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038788649836573035",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "呃呃呃我喜欢看他们的日常 https://t.co/xcb2JZ4Yj4"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1919363955929362432",
+        "conversation_id": "2038788649836573035",
+        "created_at": "2026-03-31T01:21:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T02:21:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038788649836573035"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2038788649836573035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 273,
+          "impression_count": 881723,
+          "like_count": 2165,
+          "quote_count": 5,
+          "reply_count": 168,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "有时候刷到困困狗都心疼她，可能因为她太瘦了加上她对象好壮我总觉得好暴力。。。看不出什么感情一样。\n但刚刚刷到她的小号，看她发偶尔一些和对象的日常，看着看着嘴角就上扬了。其实真的是很好的小情侣啊！好幸福吧！想让他们一直幸福下去"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-02T11:21:20.000Z",
+        "description": "哥控｜我需要很多周末o.O 这个是我的大分身@qiu_song60259\n锁推小号@Kuguadawang6677",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 22,
+                "username": "qiu_song60259"
+              },
+              {
+                "end": 57,
+                "start": 41,
+                "username": "Kuguadawang6677"
+              }
+            ]
+          }
+        },
+        "id": "2028430373458456576",
+        "location": "加载中……",
+        "name": "咩咩",
+        "pinned_tweet_id": "2035726523810861085",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028450466460241920/ceK3GGSB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 352,
+          "following_count": 289,
+          "like_count": 2710,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 851
+        },
+        "username": "o65518kuguagua",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-05T12:10:10.000Z",
+        "description": "操死全世界｜置顶推广自辨\n｜匿名https://t.co/NXKVyy5G1i",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/inridscent",
+                "end": 39,
+                "expanded_url": "https://ngl.link/inridscent",
+                "start": 16,
+                "url": "https://t.co/NXKVyy5G1i"
+              }
+            ]
+          }
+        },
+        "id": "1919363955929362432",
+        "name": "一根烂棉签",
+        "pinned_tweet_id": "2038928330540634505",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007490886444429315/VErpiYVW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2290,
+          "following_count": 375,
+          "like_count": 15539,
+          "listed_count": 3,
+          "media_count": 366,
+          "tweet_count": 8149
+        },
+        "username": "xiaomingmumu",
+        "verified": false
+      }
+    ]
+  }
+}

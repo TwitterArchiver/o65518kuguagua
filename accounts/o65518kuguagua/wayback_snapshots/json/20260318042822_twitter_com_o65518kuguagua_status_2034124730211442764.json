@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028430373458456576",
+    "conversation_id": "2034124730211442764",
+    "created_at": "2026-03-18T04:28:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-18T05:28:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034124730211442764"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1772653166850662400",
+          "start": 3,
+          "username": "ame_lwwen"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034124730211442764",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034065250237178052",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ame_lwwen: 什么叫我经常熬夜导致 前额叶损伤  我脑袋里长叶子那不纯捣乱吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028430373458456576",
+        "conversation_id": "2034124730211442764",
+        "created_at": "2026-03-18T04:28:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-18T05:28:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034124730211442764"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1772653166850662400",
+              "start": 3,
+              "username": "ame_lwwen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034124730211442764",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034065250237178052",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ame_lwwen: 什么叫我经常熬夜导致 前额叶损伤  我脑袋里长叶子那不纯捣乱吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1772653166850662400",
+        "conversation_id": "2034065250237178052",
+        "created_at": "2026-03-18T00:32:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-18T01:32:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034065250237178052"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2034065250237178052",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5439,
+          "like_count": 118,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "什么叫我经常熬夜导致 前额叶损伤  我脑袋里长叶子那不纯捣乱吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-02T11:21:20.000Z",
+        "description": "我需要很多周末o.O 这个是我的大分身@qiu_song60259",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 19,
+                "username": "qiu_song60259"
+              }
+            ]
+          }
+        },
+        "id": "2028430373458456576",
+        "location": "加载中……",
+        "name": "咩咩",
+        "pinned_tweet_id": "2033190831339778384",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028450466460241920/ceK3GGSB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 130,
+          "following_count": 121,
+          "like_count": 801,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 197
+        },
+        "username": "o65518kuguagua",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-26T15:53:55.000Z",
+        "description": "喜欢草坪、阳光，阅读和睡眠。 https://t.co/lsVmfne3gq",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/88sensei",
+                "end": 38,
+                "expanded_url": "https://ngl.link/88sensei",
+                "start": 15,
+                "url": "https://t.co/lsVmfne3gq"
+              }
+            ]
+          }
+        },
+        "id": "1772653166850662400",
+        "location": "Somewhere we could stay",
+        "name": "荔文",
+        "pinned_tweet_id": "1818197670655099164",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1772658895015784448/tkQ9SLa4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1534,
+          "following_count": 201,
+          "like_count": 14709,
+          "listed_count": 4,
+          "media_count": 617,
+          "tweet_count": 4807
+        },
+        "username": "ame_lwwen",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2068603939197693952"
+      ],
+      "media_source_tweet_id": [
+        "2068603977638510601"
+      ]
+    },
+    "author_id": "2028430373458456576",
+    "conversation_id": "2068761084929188086",
+    "created_at": "2026-06-21T18:20:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T19:20:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068761084929188086"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1280001743162609664",
+          "start": 3,
+          "username": "Poca2381"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ftmw8Reaji",
+          "end": 40,
+          "expanded_url": "https://x.com/Poca2381/status/2068603977638510601/photo/1",
+          "media_key": "3_2068603939197693952",
+          "start": 17,
+          "url": "https://t.co/ftmw8Reaji"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068761084929188086",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 28
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068603977638510601",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Poca2381: 啊? https://t.co/ftmw8Reaji"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 640,
+        "media_key": "3_2068603939197693952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLUoUqDaMAAHG8F.png",
+        "width": 678
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068603939197693952"
+          ],
+          "media_source_tweet_id": [
+            "2068603977638510601"
+          ]
+        },
+        "author_id": "2028430373458456576",
+        "conversation_id": "2068761084929188086",
+        "created_at": "2026-06-21T18:20:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T19:20:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068761084929188086"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1280001743162609664",
+              "start": 3,
+              "username": "Poca2381"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ftmw8Reaji",
+              "end": 40,
+              "expanded_url": "https://x.com/Poca2381/status/2068603977638510601/photo/1",
+              "media_key": "3_2068603939197693952",
+              "start": 17,
+              "url": "https://t.co/ftmw8Reaji"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068761084929188086",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 28
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068603977638510601",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Poca2381: 啊? https://t.co/ftmw8Reaji"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068603939197693952"
+          ]
+        },
+        "author_id": "1280001743162609664",
+        "conversation_id": "2068603977638510601",
+        "created_at": "2026-06-21T07:56:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T08:56:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068603977638510601"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ftmw8Reaji",
+              "end": 26,
+              "expanded_url": "https://x.com/Poca2381/status/2068603977638510601/photo/1",
+              "media_key": "3_2068603939197693952",
+              "start": 3,
+              "url": "https://t.co/ftmw8Reaji"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068603977638510601",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 51,
+          "impression_count": 80151,
+          "like_count": 1897,
+          "quote_count": 4,
+          "reply_count": 73,
+          "retweet_count": 28
+        },
+        "reply_settings": "everyone",
+        "text": "啊? https://t.co/ftmw8Reaji"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-02T11:21:20.000Z",
+        "description": "只是想好好睡觉｜我的名字是瓜瓜｜心肝@imcutefate 天下第一萌@Lake_Verion",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 18,
+                "username": "imcutefate"
+              },
+              {
+                "end": 47,
+                "start": 35,
+                "username": "Lake_Verion"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E8%8B%A6%E7%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E8%8B%A6%E7%93%9C%E5%A4%A7%E7%8E%8B",
+                "start": 0,
+                "url": "https://t.co/CdcVmYa8EY"
+              }
+            ]
+          }
+        },
+        "id": "2028430373458456576",
+        "location": "加载中……   匿名→",
+        "name": "虎牙钉",
+        "pinned_tweet_id": "2063001104858648649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060344470910926856/fk6R2qB-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2388,
+          "following_count": 583,
+          "like_count": 9390,
+          "listed_count": 2,
+          "media_count": 189,
+          "tweet_count": 2913
+        },
+        "url": "https://t.co/CdcVmYa8EY",
+        "username": "o65518kuguagua",
+        "verified": false
+      },
+      {
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露（制作中）\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 47,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 71,
+                "start": 62,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "location": "香港",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "1563474617657749504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22139,
+          "following_count": 9530,
+          "like_count": 152491,
+          "listed_count": 52,
+          "media_count": 4975,
+          "tweet_count": 52076
+        },
+        "url": "",
+        "username": "Poca2381",
+        "verified": true
+      }
+    ]
+  }
+}

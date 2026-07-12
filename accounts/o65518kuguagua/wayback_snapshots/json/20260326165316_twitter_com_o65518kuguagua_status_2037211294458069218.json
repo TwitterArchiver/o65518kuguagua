@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028430373458456576",
+    "conversation_id": "2037211294458069218",
+    "created_at": "2026-03-26T16:53:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-26T17:53:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2037211294458069218"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yyywww735/stat…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/yyywww735/status/2035308265958203521",
+          "start": 4,
+          "url": "https://t.co/cS8gblvjCf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037211294458069218",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035308265958203521",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "助力！ https://t.co/cS8gblvjCf"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2035308251517173760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HD7eEjwaQAABPKl.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028430373458456576",
+        "conversation_id": "2037211294458069218",
+        "created_at": "2026-03-26T16:53:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T17:53:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037211294458069218"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yyywww735/stat…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/yyywww735/status/2035308265958203521",
+              "start": 4,
+              "url": "https://t.co/cS8gblvjCf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037211294458069218",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035308265958203521",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "助力！ https://t.co/cS8gblvjCf"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2035308251517173760"
+          ]
+        },
+        "author_id": "2035268072253399043",
+        "conversation_id": "2035308265958203521",
+        "created_at": "2026-03-21T10:51:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-21T11:51:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035308265958203521"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1l2eLXXLaX",
+              "end": 47,
+              "expanded_url": "https://x.com/yyywww735/status/2035308265958203521/photo/1",
+              "media_key": "3_2035308251517173760",
+              "start": 24,
+              "url": "https://t.co/1l2eLXXLaX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035308265958203521",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 6122,
+          "like_count": 11,
+          "quote_count": 2,
+          "reply_count": 5,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "上一世突然陨落号暂时登不上\n这一世 互关回家🚬 https://t.co/1l2eLXXLaX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-02T11:21:20.000Z",
+        "description": "我需要很多周末o.O 这个是我的大分身@qiu_song60259",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 19,
+                "username": "qiu_song60259"
+              }
+            ]
+          }
+        },
+        "id": "2028430373458456576",
+        "location": "加载中……",
+        "name": "咩咩",
+        "pinned_tweet_id": "2035726523810861085",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028450466460241920/ceK3GGSB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 189,
+          "following_count": 242,
+          "like_count": 1750,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 535
+        },
+        "username": "o65518kuguagua",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-21T08:11:43.000Z",
+        "description": "第三世 上一世@syxjdgxuns",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 7,
+                "username": "syxjdgxuns"
+              }
+            ]
+          }
+        },
+        "id": "2035268072253399043",
+        "name": "肥嘟嘟三世",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035268442753024000/DKlFaeMo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 24,
+          "like_count": 425,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 55
+        },
+        "username": "yyywww735",
+        "verified": false
+      }
+    ]
+  }
+}

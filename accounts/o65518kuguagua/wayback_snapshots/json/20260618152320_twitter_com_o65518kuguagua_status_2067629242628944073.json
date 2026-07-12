@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028430373458456576",
+    "conversation_id": "2067629242628944073",
+    "created_at": "2026-06-18T15:23:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T16:23:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2067629242628944073"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/fznutri/status…",
+          "end": 37,
+          "expanded_url": "https://twitter.com/fznutri/status/2067524955185533216",
+          "start": 14,
+          "url": "https://t.co/Dr1FD144ke"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067629242628944073",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067524955185533216",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我想把我集训的床弄成这样。 https://t.co/Dr1FD144ke"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 848,
+        "media_key": "3_2067524942170624000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLFS-w5XEAAjj4G.png",
+        "width": 636
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028430373458456576",
+        "conversation_id": "2067629242628944073",
+        "created_at": "2026-06-18T15:23:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T16:23:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067629242628944073"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/fznutri/status…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/fznutri/status/2067524955185533216",
+              "start": 14,
+              "url": "https://t.co/Dr1FD144ke"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067629242628944073",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067524955185533216",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我想把我集训的床弄成这样。 https://t.co/Dr1FD144ke"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067524942170624000"
+          ]
+        },
+        "author_id": "2031529186360438784",
+        "conversation_id": "2067524955185533216",
+        "created_at": "2026-06-18T08:28:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T09:28:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067524955185533216"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KAfvlnPqhp",
+              "end": 53,
+              "expanded_url": "https://x.com/fznutri/status/2067524955185533216/photo/1",
+              "media_key": "3_2067524942170624000",
+              "start": 30,
+              "url": "https://t.co/KAfvlnPqhp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067524955185533216",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1226,
+          "impression_count": 266703,
+          "like_count": 33193,
+          "quote_count": 294,
+          "reply_count": 10,
+          "retweet_count": 3803
+        },
+        "reply_settings": "everyone",
+        "text": "That is the best way to sleep https://t.co/KAfvlnPqhp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-02T11:21:20.000Z",
+        "description": "只是想好好睡觉｜我的名字是瓜瓜｜心肝@imcutefate 最爱的闺闺@Lake_Verion",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 18,
+                "username": "imcutefate"
+              },
+              {
+                "end": 47,
+                "start": 35,
+                "username": "Lake_Verion"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E8%8B%A6%E7%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E8%8B%A6%E7%93%9C%E5%A4%A7%E7%8E%8B",
+                "start": 0,
+                "url": "https://t.co/CdcVmYa8EY"
+              }
+            ]
+          }
+        },
+        "id": "2028430373458456576",
+        "location": "加载中……   匿名→",
+        "name": "虎牙钉",
+        "pinned_tweet_id": "2063001104858648649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060344470910926856/fk6R2qB-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2094,
+          "following_count": 594,
+          "like_count": 8975,
+          "listed_count": 1,
+          "media_count": 164,
+          "tweet_count": 2682
+        },
+        "url": "https://t.co/CdcVmYa8EY",
+        "username": "o65518kuguagua",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-11T00:34:43.000Z",
+        "description": "happy to share things",
+        "id": "2031529186360438784",
+        "name": "FZNUTRI",
+        "pinned_tweet_id": "2066205934494400667",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062945256430047232/_f91yWv3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17654,
+          "following_count": 397,
+          "like_count": 581,
+          "listed_count": 104,
+          "media_count": 940,
+          "tweet_count": 1033
+        },
+        "username": "fznutri",
+        "verified": true
+      }
+    ]
+  }
+}

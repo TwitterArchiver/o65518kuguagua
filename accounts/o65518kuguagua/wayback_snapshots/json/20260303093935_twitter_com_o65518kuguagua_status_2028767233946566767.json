@@ -1,0 +1,144 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2028767214896078848"
+      ]
+    },
+    "author_id": "2028430373458456576",
+    "conversation_id": "2028767233946566767",
+    "created_at": "2026-03-03T09:39:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-03T10:39:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2028767233946566767"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/XDX5ZY4Fp0",
+          "end": 32,
+          "expanded_url": "https://x.com/o65518kuguagua/status/2028767233946566767/photo/1",
+          "media_key": "3_2028767214896078848",
+          "start": 9,
+          "url": "https://t.co/XDX5ZY4Fp0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028767233946566767",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我的备用机好忧郁 https://t.co/XDX5ZY4Fp0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1792,
+        "media_key": "3_2028767214896078848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCehCHfW4AArJaY.jpg",
+        "width": 828
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2028767214896078848"
+          ]
+        },
+        "author_id": "2028430373458456576",
+        "conversation_id": "2028767233946566767",
+        "created_at": "2026-03-03T09:39:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T10:39:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028767233946566767"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XDX5ZY4Fp0",
+              "end": 32,
+              "expanded_url": "https://x.com/o65518kuguagua/status/2028767233946566767/photo/1",
+              "media_key": "3_2028767214896078848",
+              "start": 9,
+              "url": "https://t.co/XDX5ZY4Fp0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028767233946566767",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的备用机好忧郁 https://t.co/XDX5ZY4Fp0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-02T11:21:20.000Z",
+        "description": "我需要很多周末o.O 这个是我的大分身@qiu_song60259",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 19,
+                "username": "qiu_song60259"
+              }
+            ]
+          }
+        },
+        "id": "2028430373458456576",
+        "location": "加载中……",
+        "name": "小瓜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028450466460241920/ceK3GGSB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 86,
+          "following_count": 23,
+          "like_count": 98,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 12
+        },
+        "username": "o65518kuguagua",
+        "verified": false
+      }
+    ]
+  }
+}
