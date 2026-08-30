@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028430373458456576",
+    "conversation_id": "2085554709973315627",
+    "created_at": "2026-08-07T04:37:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T05:37:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085586036483371169"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1919363955929362432",
+          "start": 0,
+          "username": "xiaomingmumu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085586036483371169",
+    "in_reply_to_user_id": "1919363955929362432",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085554709973315627",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaomingmumu 啥书呀宝宝我也想看………"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 627,
+        "media_key": "3_2085554703619014656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPFg9ATbQAAvfLa.jpg",
+        "width": 1843
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028430373458456576",
+        "conversation_id": "2085554709973315627",
+        "created_at": "2026-08-07T04:37:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T05:37:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085586036483371169"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1919363955929362432",
+              "start": 0,
+              "username": "xiaomingmumu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085586036483371169",
+        "in_reply_to_user_id": "1919363955929362432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085554709973315627",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaomingmumu 啥书呀宝宝我也想看………"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085554703619014656"
+          ]
+        },
+        "author_id": "1919363955929362432",
+        "conversation_id": "2085554709973315627",
+        "created_at": "2026-08-07T02:32:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T03:32:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085554709973315627"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3DGWdCrWPj",
+              "end": 29,
+              "expanded_url": "https://x.com/xiaomingmumu/status/2085554709973315627/photo/1",
+              "media_key": "3_2085554703619014656",
+              "start": 6,
+              "url": "https://t.co/3DGWdCrWPj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085554709973315627",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 126,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好萌。。。 https://t.co/3DGWdCrWPj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-02T11:21:20.000Z",
+        "description": "梦想是想好好睡觉｜我的名字是瓜瓜｜我的女孩@imcutefate 天下第一萌@Lake_Verion",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 21,
+                "username": "imcutefate"
+              },
+              {
+                "end": 50,
+                "start": 38,
+                "username": "Lake_Verion"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E8%8B%A6%E7%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E8%8B%A6%E7%93%9C%E5%A4%A7%E7%8E%8B",
+                "start": 0,
+                "url": "https://t.co/CdcVmYa8EY"
+              }
+            ]
+          }
+        },
+        "id": "2028430373458456576",
+        "location": "加载中……   匿名→",
+        "name": "虎牙钉",
+        "pinned_tweet_id": "2063001104858648649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060344470910926856/fk6R2qB-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2392,
+          "following_count": 546,
+          "like_count": 9255,
+          "listed_count": 2,
+          "media_count": 203,
+          "tweet_count": 3079
+        },
+        "url": "https://t.co/CdcVmYa8EY",
+        "username": "o65518kuguagua",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-05T12:10:10.000Z",
+        "description": "操死全世界\n｜匿名https://t.co/NXKVyy5G1i",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/inridscent",
+                "end": 32,
+                "expanded_url": "https://ngl.link/inridscent",
+                "start": 9,
+                "url": "https://t.co/NXKVyy5G1i"
+              }
+            ]
+          }
+        },
+        "id": "1919363955929362432",
+        "name": "一根烂棉签",
+        "pinned_tweet_id": "2007795599199142093",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079545636257771520/pUgc0OIe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3381,
+          "following_count": 474,
+          "like_count": 24017,
+          "listed_count": 5,
+          "media_count": 743,
+          "tweet_count": 13650
+        },
+        "url": "",
+        "username": "xiaomingmumu",
+        "verified": false
+      }
+    ]
+  }
+}

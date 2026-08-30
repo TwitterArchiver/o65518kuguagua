@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028430373458456576",
+    "conversation_id": "2078724073560113328",
+    "created_at": "2026-07-19T08:46:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T09:46:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078763515356279064"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1647980508297719815",
+          "start": 0,
+          "username": "yanyejilennon"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078763515356279064",
+    "in_reply_to_user_id": "1647980508297719815",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078724073560113328",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yanyejilennon 哦哦么么哒嘿嘿喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028430373458456576",
+        "conversation_id": "2078724073560113328",
+        "created_at": "2026-07-19T08:46:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T09:46:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078763515356279064"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1647980508297719815",
+              "start": 0,
+              "username": "yanyejilennon"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078763515356279064",
+        "in_reply_to_user_id": "1647980508297719815",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078724073560113328",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yanyejilennon 哦哦么么哒嘿嘿喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1647980508297719815",
+        "conversation_id": "2078724073560113328",
+        "created_at": "2026-07-19T06:10:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T07:10:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078724073560113328"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/o65518kuguagua…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/o65518kuguagua/status/2078475989768925185",
+              "start": 5,
+              "url": "https://t.co/r43TWEM5dr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078724073560113328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 80,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078475989768925185",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你真可爱 https://t.co/r43TWEM5dr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-02T11:21:20.000Z",
+        "description": "只是想好好睡觉｜我的名字是瓜瓜｜心肝@imcutefate 天下第一萌@Lake_Verion",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 18,
+                "username": "imcutefate"
+              },
+              {
+                "end": 47,
+                "start": 35,
+                "username": "Lake_Verion"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E8%8B%A6%E7%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E8%8B%A6%E7%93%9C%E5%A4%A7%E7%8E%8B",
+                "start": 0,
+                "url": "https://t.co/CdcVmYa8EY"
+              }
+            ]
+          }
+        },
+        "id": "2028430373458456576",
+        "location": "加载中……   匿名→",
+        "name": "虎牙钉",
+        "pinned_tweet_id": "2063001104858648649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060344470910926856/fk6R2qB-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2334,
+          "following_count": 576,
+          "like_count": 9268,
+          "listed_count": 2,
+          "media_count": 202,
+          "tweet_count": 3025
+        },
+        "url": "https://t.co/CdcVmYa8EY",
+        "username": "o65518kuguagua",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-17T15:09:18.000Z",
+        "description": "此号已淡\n宝见幺幺哒@imcutefate",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 10,
+                "username": "imcutefate"
+              }
+            ]
+          }
+        },
+        "id": "1647980508297719815",
+        "location": "Liverpool, England",
+        "name": "🌸礼志🌷🍭美妆🌈❤️面膜推荐",
+        "pinned_tweet_id": "2072337736200233199",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041206438568296448/01syet9V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 298,
+          "following_count": 369,
+          "like_count": 61703,
+          "listed_count": 1,
+          "media_count": 118,
+          "tweet_count": 5540
+        },
+        "url": "",
+        "username": "yanyejilennon",
+        "verified": false
+      }
+    ]
+  }
+}

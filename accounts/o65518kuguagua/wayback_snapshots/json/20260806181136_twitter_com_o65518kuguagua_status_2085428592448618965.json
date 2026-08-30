@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028430373458456576",
+    "conversation_id": "2083774269537046955",
+    "created_at": "2026-08-06T18:11:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-06T19:11:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085428592448618965"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1940068583721357313",
+          "start": 0,
+          "username": "Dandan859367"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085428592448618965",
+    "in_reply_to_user_id": "1940068583721357313",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083955199086153961",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Dandan859367 我哭了！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028430373458456576",
+        "conversation_id": "2083774269537046955",
+        "created_at": "2026-08-06T18:11:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T19:11:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085428592448618965"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1940068583721357313",
+              "start": 0,
+              "username": "Dandan859367"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085428592448618965",
+        "in_reply_to_user_id": "1940068583721357313",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083955199086153961",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Dandan859367 我哭了！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1940068583721357313",
+        "conversation_id": "2083774269537046955",
+        "created_at": "2026-08-02T16:36:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T17:36:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083955199086153961"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2028430373458456576",
+              "start": 0,
+              "username": "o65518kuguagua"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083955199086153961",
+        "in_reply_to_user_id": "2028430373458456576",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 51,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083774269537046955",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@o65518kuguagua 可恶 咋这样😡"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-02T11:21:20.000Z",
+        "description": "梦想是想好好睡觉｜我的名字是瓜瓜｜我的女孩@imcutefate 天下第一萌@Lake_Verion",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 21,
+                "username": "imcutefate"
+              },
+              {
+                "end": 50,
+                "start": 38,
+                "username": "Lake_Verion"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E8%8B%A6%E7%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E8%8B%A6%E7%93%9C%E5%A4%A7%E7%8E%8B",
+                "start": 0,
+                "url": "https://t.co/CdcVmYa8EY"
+              }
+            ]
+          }
+        },
+        "id": "2028430373458456576",
+        "location": "加载中……   匿名→",
+        "name": "虎牙钉",
+        "pinned_tweet_id": "2063001104858648649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060344470910926856/fk6R2qB-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2392,
+          "following_count": 546,
+          "like_count": 9250,
+          "listed_count": 2,
+          "media_count": 203,
+          "tweet_count": 3073
+        },
+        "url": "https://t.co/CdcVmYa8EY",
+        "username": "o65518kuguagua",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-01T15:23:04.000Z",
+        "description": "当日记发碎碎念 友好女宝宝可以找我扩列互fo（可以给我发私信哦宝宝们） https://t.co/isuJrg2L1o喊我蛋蛋就好 我男朋友很可爱\n另一个我@Eggysdiary57348 只过互关",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 78,
+                "username": "Eggysdiary57348"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/mydeareggy",
+                "end": 59,
+                "expanded_url": "https://ngl.link/mydeareggy",
+                "start": 36,
+                "url": "https://t.co/isuJrg2L1o"
+              }
+            ]
+          }
+        },
+        "id": "1940068583721357313",
+        "location": "Singapore",
+        "name": "mydeareggy",
+        "pinned_tweet_id": "2082463638355681430",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039284597918408704/m1oRBrqk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 227,
+          "following_count": 163,
+          "like_count": 2209,
+          "listed_count": 0,
+          "media_count": 82,
+          "tweet_count": 2156
+        },
+        "url": "",
+        "username": "Dandan859367",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028430373458456576",
+    "conversation_id": "2078475989768925185",
+    "created_at": "2026-07-19T08:06:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T09:06:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078753377929044075"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1891853564341059584",
+          "start": 0,
+          "username": "mikehua03581608"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078753377929044075",
+    "in_reply_to_user_id": "1891853564341059584",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078514489457275284",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mikehua03581608 必须的好吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028430373458456576",
+        "conversation_id": "2078475989768925185",
+        "created_at": "2026-07-19T08:06:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T09:06:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078753377929044075"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1891853564341059584",
+              "start": 0,
+              "username": "mikehua03581608"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078753377929044075",
+        "in_reply_to_user_id": "1891853564341059584",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078514489457275284",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mikehua03581608 必须的好吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1891853564341059584",
+        "conversation_id": "2078475989768925185",
+        "created_at": "2026-07-18T16:17:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T17:17:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078514489457275284"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2028430373458456576",
+              "start": 0,
+              "username": "o65518kuguagua"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078514489457275284",
+        "in_reply_to_user_id": "2028430373458456576",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 31,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078475989768925185",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@o65518kuguagua 依旧呆萌🤭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-02T11:21:20.000Z",
+        "description": "只是想好好睡觉｜我的名字是瓜瓜｜心肝@imcutefate 天下第一萌@Lake_Verion",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 18,
+                "username": "imcutefate"
+              },
+              {
+                "end": 47,
+                "start": 35,
+                "username": "Lake_Verion"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E8%8B%A6%E7%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E8%8B%A6%E7%93%9C%E5%A4%A7%E7%8E%8B",
+                "start": 0,
+                "url": "https://t.co/CdcVmYa8EY"
+              }
+            ]
+          }
+        },
+        "id": "2028430373458456576",
+        "location": "加载中……   匿名→",
+        "name": "虎牙钉",
+        "pinned_tweet_id": "2063001104858648649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060344470910926856/fk6R2qB-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2334,
+          "following_count": 575,
+          "like_count": 9262,
+          "listed_count": 2,
+          "media_count": 202,
+          "tweet_count": 3019
+        },
+        "url": "https://t.co/CdcVmYa8EY",
+        "username": "o65518kuguagua",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-18T14:13:49.000Z",
+        "description": "infp 处女座 一只路过世间的小蝴蝶，总是无人在意，但想要被爱｜小号@Renne582385 ｜以后大号就当夸夸喵和日常，小号随缘更新，可能负能量比较多。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 35,
+                "username": "Renne582385"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nyringmi1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nyringmi1",
+                "start": 0,
+                "url": "https://t.co/NNoDzu3ENG"
+              }
+            ]
+          }
+        },
+        "id": "1891853564341059584",
+        "location": "喵喵夸夸机",
+        "name": "墨喵喵",
+        "pinned_tweet_id": "2036022885878567326",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066890064316289024/kEdic9RO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 158,
+          "following_count": 260,
+          "like_count": 42528,
+          "listed_count": 1,
+          "media_count": 821,
+          "tweet_count": 19437
+        },
+        "url": "https://t.co/NNoDzu3ENG",
+        "username": "mikehua03581608",
+        "verified": false
+      }
+    ]
+  }
+}

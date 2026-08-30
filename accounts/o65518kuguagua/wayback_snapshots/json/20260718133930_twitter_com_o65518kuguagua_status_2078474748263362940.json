@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028430373458456576",
+    "conversation_id": "2049666237987491852",
+    "created_at": "2026-07-18T13:39:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T14:39:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078474748263362940"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1954385042391662594",
+          "start": 0,
+          "username": "YeCang67062"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078474748263362940",
+    "in_reply_to_user_id": "1954385042391662594",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077957318113698185",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YeCang67062 必须呀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028430373458456576",
+        "conversation_id": "2049666237987491852",
+        "created_at": "2026-07-18T13:39:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T14:39:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078474748263362940"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1954385042391662594",
+              "start": 0,
+              "username": "YeCang67062"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078474748263362940",
+        "in_reply_to_user_id": "1954385042391662594",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077957318113698185",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YeCang67062 必须呀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1954385042391662594",
+        "conversation_id": "2049666237987491852",
+        "created_at": "2026-07-17T03:23:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T04:23:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077957318113698185"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2028430373458456576",
+              "start": 0,
+              "username": "o65518kuguagua"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077957318113698185",
+        "in_reply_to_user_id": "2028430373458456576",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049666237987491852",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@o65518kuguagua 我去，兄弟，有品的！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-02T11:21:20.000Z",
+        "description": "只是想好好睡觉｜我的名字是瓜瓜｜心肝@imcutefate 天下第一萌@Lake_Verion",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 18,
+                "username": "imcutefate"
+              },
+              {
+                "end": 47,
+                "start": 35,
+                "username": "Lake_Verion"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E8%8B%A6%E7%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E8%8B%A6%E7%93%9C%E5%A4%A7%E7%8E%8B",
+                "start": 0,
+                "url": "https://t.co/CdcVmYa8EY"
+              }
+            ]
+          }
+        },
+        "id": "2028430373458456576",
+        "location": "加载中……   匿名→",
+        "name": "虎牙钉",
+        "pinned_tweet_id": "2063001104858648649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060344470910926856/fk6R2qB-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2327,
+          "following_count": 575,
+          "like_count": 9283,
+          "listed_count": 2,
+          "media_count": 201,
+          "tweet_count": 3012
+        },
+        "url": "https://t.co/CdcVmYa8EY",
+        "username": "o65518kuguagua",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-10T03:31:33.000Z",
+        "description": "",
+        "id": "1954385042391662594",
+        "name": "大庭叶藏",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027289967022739456/fKv2ReFZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 70,
+          "following_count": 657,
+          "like_count": 1371,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 302
+        },
+        "url": "",
+        "username": "YeCang67062",
+        "verified": false
+      }
+    ]
+  }
+}

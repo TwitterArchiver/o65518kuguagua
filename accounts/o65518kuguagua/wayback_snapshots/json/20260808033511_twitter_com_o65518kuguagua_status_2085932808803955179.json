@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2074388063342510081"
+      ],
+      "media_source_tweet_id": [
+        "2074388090173390964"
+      ]
+    },
+    "author_id": "2028430373458456576",
+    "conversation_id": "2085932808803955179",
+    "created_at": "2026-08-08T03:35:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-08T04:35:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2085932808803955179"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/5q9skZQHzF",
+          "end": 41,
+          "expanded_url": "https://x.com/revez1010/status/2074388090173390964/video/1",
+          "media_key": "13_2074388063342510081",
+          "start": 18,
+          "url": "https://t.co/5q9skZQHzF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085932808803955179",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我最近特别爱看这个好好看我靠。。。 https://t.co/5q9skZQHzF"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 29442,
+        "height": 720,
+        "media_key": "13_2074388063342510081",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2074388063342510081/img/elCLpgNjO2zBa5Kq.jpg",
+        "public_metrics": {
+          "view_count": 780390
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2074388063342510081/vid/avc1/480x270/WH56zYHsOVUVgHid.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2074388063342510081/vid/avc1/640x360/KiLRiGhcy_J1k9Dg.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2074388063342510081/vid/avc1/1280x720/Un4vwSP4nJvjyhL7.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2074388063342510081/pl/9GNGlkOVnN-EgeB_.m3u8?tag=14"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2074388063342510081"
+          ]
+        },
+        "author_id": "2036850254344044544",
+        "conversation_id": "2074388090173390964",
+        "created_at": "2026-07-07T07:00:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T08:00:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074388090173390964"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Check out the Forbidden community on Discord - hang out with 58186 other members and enjoy free voice and text chat.",
+              "display_url": "discord.gg/agQJ54SJ5T",
+              "end": 23,
+              "expanded_url": "http://discord.gg/agQJ54SJ5T",
+              "start": 0,
+              "status": 200,
+              "title": "Join the Forbidden Discord Server!",
+              "unwound_url": "https://discord.com/invite/agQJ54SJ5T",
+              "url": "https://t.co/rada3AqnaM"
+            },
+            {
+              "display_url": "pic.x.com/NyMyhrWcGk",
+              "end": 47,
+              "expanded_url": "https://x.com/revez1010/status/2074388090173390964/video/1",
+              "media_key": "13_2074388063342510081",
+              "start": 24,
+              "url": "https://t.co/NyMyhrWcGk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074388090173390964",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 1471,
+          "impression_count": 667968,
+          "like_count": 2078,
+          "quote_count": 6,
+          "reply_count": 3,
+          "retweet_count": 168
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/rada3AqnaM https://t.co/NyMyhrWcGk"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2074388063342510081"
+          ],
+          "media_source_tweet_id": [
+            "2074388090173390964"
+          ]
+        },
+        "author_id": "2028430373458456576",
+        "conversation_id": "2085932808803955179",
+        "created_at": "2026-08-08T03:35:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-08T04:35:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085932808803955179"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5q9skZQHzF",
+              "end": 41,
+              "expanded_url": "https://x.com/revez1010/status/2074388090173390964/video/1",
+              "media_key": "13_2074388063342510081",
+              "start": 18,
+              "url": "https://t.co/5q9skZQHzF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085932808803955179",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我最近特别爱看这个好好看我靠。。。 https://t.co/5q9skZQHzF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-02T11:21:20.000Z",
+        "description": "梦想是想好好睡觉｜我的名字是瓜瓜｜我的女孩@imcutefate 天下第一萌@Lake_Verion",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 21,
+                "username": "imcutefate"
+              },
+              {
+                "end": 50,
+                "start": 38,
+                "username": "Lake_Verion"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E8%8B%A6%E7%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E8%8B%A6%E7%93%9C%E5%A4%A7%E7%8E%8B",
+                "start": 0,
+                "url": "https://t.co/CdcVmYa8EY"
+              }
+            ]
+          }
+        },
+        "id": "2028430373458456576",
+        "location": "加载中……   匿名→",
+        "name": "虎牙钉",
+        "pinned_tweet_id": "2063001104858648649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060344470910926856/fk6R2qB-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2388,
+          "following_count": 545,
+          "like_count": 9262,
+          "listed_count": 2,
+          "media_count": 204,
+          "tweet_count": 3085
+        },
+        "url": "https://t.co/CdcVmYa8EY",
+        "username": "o65518kuguagua",
+        "verified": false
+      }
+    ]
+  }
+}

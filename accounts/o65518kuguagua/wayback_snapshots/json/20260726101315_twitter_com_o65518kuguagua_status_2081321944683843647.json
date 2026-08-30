@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2028430373458456576",
+    "conversation_id": "2081321944683843647",
+    "created_at": "2026-07-26T10:13:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T11:13:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2081321944683843647"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/o65518kuguagua…",
+          "end": 42,
+          "expanded_url": "https://twitter.com/o65518kuguagua/status/2081268666700800279",
+          "start": 19,
+          "url": "https://t.co/2h28xf3aJd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081321944683843647",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081268666700800279",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "哦哦哦我心肝年龄不可猜嗯对嗯对。。。 https://t.co/2h28xf3aJd"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028430373458456576",
+        "conversation_id": "2081321944683843647",
+        "created_at": "2026-07-26T10:13:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T11:13:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081321944683843647"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/o65518kuguagua…",
+              "end": 42,
+              "expanded_url": "https://twitter.com/o65518kuguagua/status/2081268666700800279",
+              "start": 19,
+              "url": "https://t.co/2h28xf3aJd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081321944683843647",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081268666700800279",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "哦哦哦我心肝年龄不可猜嗯对嗯对。。。 https://t.co/2h28xf3aJd"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028430373458456576",
+        "conversation_id": "2081268666700800279",
+        "created_at": "2026-07-26T06:41:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T07:41:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081268666700800279"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2081268666700800279",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 922,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "自从搞欧美以后我的恋老癖越来越严重了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-02T11:21:20.000Z",
+        "description": "梦想是想好好睡觉｜我的名字是瓜瓜｜心肝@imcutefate 天下第一萌@Lake_Verion",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 19,
+                "username": "imcutefate"
+              },
+              {
+                "end": 48,
+                "start": 36,
+                "username": "Lake_Verion"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E8%8B%A6%E7%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E8%8B%A6%E7%93%9C%E5%A4%A7%E7%8E%8B",
+                "start": 0,
+                "url": "https://t.co/CdcVmYa8EY"
+              }
+            ]
+          }
+        },
+        "id": "2028430373458456576",
+        "location": "加载中……   匿名→",
+        "name": "虎牙钉",
+        "pinned_tweet_id": "2063001104858648649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060344470910926856/fk6R2qB-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2381,
+          "following_count": 572,
+          "like_count": 9267,
+          "listed_count": 2,
+          "media_count": 201,
+          "tweet_count": 3046
+        },
+        "url": "https://t.co/CdcVmYa8EY",
+        "username": "o65518kuguagua",
+        "verified": false
+      }
+    ]
+  }
+}
